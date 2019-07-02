@@ -53,6 +53,7 @@ for day_i in range(7):
             tweet['urls'] = status['entities']['urls']
             tweet['mentions'] = status['entities']['user_mentions']
             tweet['filtered_text'] = utils.filter_tweet(tweet)
+            tweet['without_stowords'] = utils.remove_stopwords(tweet)
             tweet['region'] = region['name']
             region['tweets'].append(tweet)
 

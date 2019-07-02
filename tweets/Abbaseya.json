@@ -26,6 +26,18 @@
         ],
         "mentions": [],
         "filtered_text": "Appearance on TV #onsport #\u0627\u0644\u0645\u0635\u0631\u0649_\u0627\u0644\u064a\u0648\u0645 @ Cairo International Stadium",
+        "without_stowords": [
+            "Appearance",
+            "TV",
+            "#",
+            "onsport",
+            "#",
+            "\u0627\u0644\u0645\u0635\u0631\u0649_\u0627\u0644\u064a\u0648\u0645",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -50,6 +62,18 @@
             }
         ],
         "filtered_text": "RT : I'll hold you in my heart until I can hold you in my arms.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "'ll",
+            "hold",
+            "heart",
+            "I",
+            "hold",
+            "arms",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -74,6 +98,16 @@
             }
         ],
         "filtered_text": "RT : If she glows after the breakup , you were the problem .",
+        "without_stowords": [
+            "RT",
+            ":",
+            "If",
+            "glows",
+            "breakup",
+            ",",
+            "problem",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -87,6 +121,16 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "i feel like giving up on everything, i\u2019m so tired of trying",
+        "without_stowords": [
+            "feel",
+            "like",
+            "giving",
+            "everything",
+            ",",
+            "\u2019",
+            "tired",
+            "trying"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -116,6 +160,27 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83d\ude00Learn, design, make and move. We design and manufacture puppets upon request. We provide whatever needed for theat\u2026",
+        "without_stowords": [
+            "\ud83d\ude00Learn",
+            ",",
+            "design",
+            ",",
+            "make",
+            "move",
+            ".",
+            "We",
+            "design",
+            "manufacture",
+            "puppets",
+            "upon",
+            "request",
+            ".",
+            "We",
+            "provide",
+            "whatever",
+            "needed",
+            "theat\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -129,6 +194,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Ready or not .. here i come \ud83e\udd37\u200d\u2642\ufe0f",
+        "without_stowords": [
+            "Ready",
+            "..",
+            "come",
+            "\ud83e\udd37\u200d\u2642\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -152,6 +223,23 @@
         ],
         "mentions": [],
         "filtered_text": "Listen to Before I Fall - Sami Freeman - Latch Key Kid by MZee Zaki on #SoundCloud",
+        "without_stowords": [
+            "Listen",
+            "Before",
+            "I",
+            "Fall",
+            "-",
+            "Sami",
+            "Freeman",
+            "-",
+            "Latch",
+            "Key",
+            "Kid",
+            "MZee",
+            "Zaki",
+            "#",
+            "SoundCloud"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -181,6 +269,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -194,6 +291,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Unexpected calls, messages and gifts are my favourites \u2764",
+        "without_stowords": [
+            "Unexpected",
+            "calls",
+            ",",
+            "messages",
+            "gifts",
+            "favourites",
+            "\u2764"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -223,6 +329,17 @@
         ],
         "mentions": [],
         "filtered_text": "...RICH ROYALTY...\ud83d\udc51\ud83d\udc51\ud83d\udc99\ud83d\udc99 @ Cairo, Egypt",
+        "without_stowords": [
+            "...",
+            "RICH",
+            "ROYALTY",
+            "...",
+            "\ud83d\udc51\ud83d\udc51\ud83d\udc99\ud83d\udc99",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -247,6 +364,9 @@
             }
         ],
         "filtered_text": "Hader\ud83d\ude02\ud83e\udd1d",
+        "without_stowords": [
+            "Hader\ud83d\ude02\ud83e\udd1d"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -270,6 +390,26 @@
         ],
         "mentions": [],
         "filtered_text": "Would you rather go to a club, house party, or a small get together of 4 or 5 friends? \u2014 4 or 5",
+        "without_stowords": [
+            "Would",
+            "rather",
+            "go",
+            "club",
+            ",",
+            "house",
+            "party",
+            ",",
+            "small",
+            "get",
+            "together",
+            "4",
+            "5",
+            "friends",
+            "?",
+            "\u2014",
+            "4",
+            "5"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -299,6 +439,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -333,6 +482,12 @@
             }
         ],
         "filtered_text": "dude everything is gay to you shut up",
+        "without_stowords": [
+            "dude",
+            "everything",
+            "gay",
+            "shut"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -357,6 +512,10 @@
             }
         ],
         "filtered_text": "Congrats sweetie\ud83d\udc95",
+        "without_stowords": [
+            "Congrats",
+            "sweetie\ud83d\udc95"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -380,6 +539,30 @@
         ],
         "mentions": [],
         "filtered_text": "No need Good Restaurant No need Fancy Car No need Good views No need Delicious Food As long as I'm with you, it's\u2026",
+        "without_stowords": [
+            "No",
+            "need",
+            "Good",
+            "Restaurant",
+            "No",
+            "need",
+            "Fancy",
+            "Car",
+            "No",
+            "need",
+            "Good",
+            "views",
+            "No",
+            "need",
+            "Delicious",
+            "Food",
+            "As",
+            "long",
+            "I",
+            "'m",
+            ",",
+            "it's\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -409,6 +592,24 @@
         ],
         "mentions": [],
         "filtered_text": "I\u2019ll always be rooting for egypt\ud83c\uddea\ud83c\uddec Did this look in honor of Egypt hosting the African cup on nations, winning 3/3\u2026",
+        "without_stowords": [
+            "I",
+            "\u2019",
+            "always",
+            "rooting",
+            "egypt\ud83c\uddea\ud83c\uddec",
+            "Did",
+            "look",
+            "honor",
+            "Egypt",
+            "hosting",
+            "African",
+            "cup",
+            "nations",
+            ",",
+            "winning",
+            "3/3\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -438,6 +639,44 @@
         ],
         "mentions": [],
         "filtered_text": "THAT S HOW YOU START THE WEEK!!! GOTTA LET EVERYBODY KNOW, MY LIONS AIN\u2019T FU\u20ac\u00a3\u00a5NG AROUND THIS YEAR!!!! NEXT!!!! I J\u2026",
+        "without_stowords": [
+            "THAT",
+            "S",
+            "HOW",
+            "YOU",
+            "START",
+            "THE",
+            "WEEK",
+            "!",
+            "!",
+            "!",
+            "GOT",
+            "TA",
+            "LET",
+            "EVERYBODY",
+            "KNOW",
+            ",",
+            "MY",
+            "LIONS",
+            "AIN",
+            "\u2019",
+            "T",
+            "FU\u20ac\u00a3\u00a5NG",
+            "AROUND",
+            "THIS",
+            "YEAR",
+            "!",
+            "!",
+            "!",
+            "!",
+            "NEXT",
+            "!",
+            "!",
+            "!",
+            "!",
+            "I",
+            "J\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -467,6 +706,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -496,6 +744,24 @@
         ],
         "mentions": [],
         "filtered_text": "Khan El-Khalil is a historic old market/ Bazar that is worth the visit if you are ever in Cairo #egypt #cairo @ Kha\u2026",
+        "without_stowords": [
+            "Khan",
+            "El-Khalil",
+            "historic",
+            "old",
+            "market/",
+            "Bazar",
+            "worth",
+            "visit",
+            "ever",
+            "Cairo",
+            "#",
+            "egypt",
+            "#",
+            "cairo",
+            "@",
+            "Kha\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -525,6 +791,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -554,6 +829,23 @@
         ],
         "mentions": [],
         "filtered_text": "The Coptic people are the largest ethno-religious minority in Egypt. The largest Coptic Christian group in Egypt is\u2026",
+        "without_stowords": [
+            "The",
+            "Coptic",
+            "people",
+            "largest",
+            "ethno-religious",
+            "minority",
+            "Egypt",
+            ".",
+            "The",
+            "largest",
+            "Coptic",
+            "Christian",
+            "group",
+            "Egypt",
+            "is\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -578,6 +870,9 @@
             }
         ],
         "filtered_text": "Albyy\ud83d\ude02\ud83d\ude02\ud83c\udf55",
+        "without_stowords": [
+            "Albyy\ud83d\ude02\ud83d\ude02\ud83c\udf55"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -607,6 +902,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -620,6 +924,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "One mistake game over.",
+        "without_stowords": [
+            "One",
+            "mistake",
+            "game",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -643,6 +953,24 @@
         ],
         "mentions": [],
         "filtered_text": "If you could slow down time, what would you do with that power? \u2014 I'll slow down time from jan-2018 to feb-2019 !",
+        "without_stowords": [
+            "If",
+            "could",
+            "slow",
+            "time",
+            ",",
+            "would",
+            "power",
+            "?",
+            "\u2014",
+            "I",
+            "'ll",
+            "slow",
+            "time",
+            "jan-2018",
+            "feb-2019",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -667,6 +995,10 @@
             }
         ],
         "filtered_text": "Gorgeous \ud83d\ude0d\ud83d\ude0d",
+        "without_stowords": [
+            "Gorgeous",
+            "\ud83d\ude0d\ud83d\ude0d"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -696,6 +1028,24 @@
         ],
         "mentions": [],
         "filtered_text": "Shooting my project for this semester #master #media #filmmaking #teamwork @ Evangelical Theological Seminary in C\u2026",
+        "without_stowords": [
+            "Shooting",
+            "project",
+            "semester",
+            "#",
+            "master",
+            "#",
+            "media",
+            "#",
+            "filmmaking",
+            "#",
+            "teamwork",
+            "@",
+            "Evangelical",
+            "Theological",
+            "Seminary",
+            "C\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -730,6 +1080,10 @@
             }
         ],
         "filtered_text": "Beauty and idiot",
+        "without_stowords": [
+            "Beauty",
+            "idiot"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -754,6 +1108,14 @@
             }
         ],
         "filtered_text": "i dont have any furry images saved on my phone sadly",
+        "without_stowords": [
+            "dont",
+            "furry",
+            "images",
+            "saved",
+            "phone",
+            "sadly"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -777,6 +1139,15 @@
         ],
         "mentions": [],
         "filtered_text": "Listen to Kol Haga Betaady by Cairokee on #SoundCloud",
+        "without_stowords": [
+            "Listen",
+            "Kol",
+            "Haga",
+            "Betaady",
+            "Cairokee",
+            "#",
+            "SoundCloud"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -817,6 +1188,17 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City Sky Pool - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "Sky",
+            "Pool",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -846,6 +1228,15 @@
         ],
         "mentions": [],
         "filtered_text": "The King\ud83d\udc51 mosalah @ Cairo, Egypt",
+        "without_stowords": [
+            "The",
+            "King\ud83d\udc51",
+            "mosalah",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -875,6 +1266,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -904,6 +1304,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -933,6 +1342,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -962,6 +1380,24 @@
         ],
         "mentions": [],
         "filtered_text": "2-0 Egypt at halftime. #africacup #africacupofnations #egypt #uganda @ Cairo International Stadium",
+        "without_stowords": [
+            "2-0",
+            "Egypt",
+            "halftime",
+            ".",
+            "#",
+            "africacup",
+            "#",
+            "africacupofnations",
+            "#",
+            "egypt",
+            "#",
+            "uganda",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -991,6 +1427,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1020,6 +1465,33 @@
         ],
         "mentions": [],
         "filtered_text": "#cairo #egypt #mosalah #salah #mo #when #i#am#lucky#go#egypt#caf2019 @ Cairo International Stadium",
+        "without_stowords": [
+            "#",
+            "cairo",
+            "#",
+            "egypt",
+            "#",
+            "mosalah",
+            "#",
+            "salah",
+            "#",
+            "mo",
+            "#",
+            "#",
+            "#",
+            "#",
+            "lucky",
+            "#",
+            "go",
+            "#",
+            "egypt",
+            "#",
+            "caf2019",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1044,6 +1516,10 @@
             }
         ],
         "filtered_text": "WACK off horny",
+        "without_stowords": [
+            "WACK",
+            "horny"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1057,6 +1533,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "El shenawy man of the match \u2665\ufe0f",
+        "without_stowords": [
+            "El",
+            "shenawy",
+            "man",
+            "match",
+            "\u2665\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1070,6 +1553,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "GOOOOAAAAAAALLLLL \ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec https://t.co/3pJQgxqICm",
+        "without_stowords": [
+            "GOOOOAAAAAAALLLLL",
+            "\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec",
+            "https",
+            ":",
+            "//t.co/3pJQgxqICm"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1099,6 +1589,21 @@
         ],
         "mentions": [],
         "filtered_text": "Back here, 12 years later #Egypt #AFCON2019 @ Cairo International Stadium",
+        "without_stowords": [
+            "Back",
+            ",",
+            "12",
+            "years",
+            "later",
+            "#",
+            "Egypt",
+            "#",
+            "AFCON2019",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1139,6 +1644,17 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City Sky Pool - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "Sky",
+            "Pool",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1168,6 +1684,19 @@
         ],
         "mentions": [],
         "filtered_text": "Happening now \u26bd\ud83c\uddea\ud83c\uddec #AFCON #\u0634\u062c\u0639_\u0645\u0635\u0631 EGYPT @ Cairo International Stadium",
+        "without_stowords": [
+            "Happening",
+            "\u26bd\ud83c\uddea\ud83c\uddec",
+            "#",
+            "AFCON",
+            "#",
+            "\u0634\u062c\u0639_\u0645\u0635\u0631",
+            "EGYPT",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1197,6 +1726,23 @@
         ],
         "mentions": [],
         "filtered_text": "Things to do in a Sunday in El Cairo: Whatever you decide, just don\u2019t cross the streets walking, it\u2019s a very hazard\u2026",
+        "without_stowords": [
+            "Things",
+            "Sunday",
+            "El",
+            "Cairo",
+            ":",
+            "Whatever",
+            "decide",
+            ",",
+            "\u2019",
+            "cross",
+            "streets",
+            "walking",
+            ",",
+            "\u2019",
+            "hazard\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1226,6 +1772,38 @@
         ],
         "mentions": [],
         "filtered_text": "4 Stadiums in 4 days. New Cairo -&gt; El-Salam -&gt; Ismaeliya -&gt; back to A13 where it all started. #AFCON2019 @ Cairo In\u2026",
+        "without_stowords": [
+            "4",
+            "Stadiums",
+            "4",
+            "days",
+            ".",
+            "New",
+            "Cairo",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "El-Salam",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "Ismaeliya",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "back",
+            "A13",
+            "started",
+            ".",
+            "#",
+            "AFCON2019",
+            "@",
+            "Cairo",
+            "In\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1245,6 +1823,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "AFCONEGYPT2019 Egypt vs Uganda https://t.co/fEJcrIy6nN",
+        "without_stowords": [
+            "AFCONEGYPT2019",
+            "Egypt",
+            "vs",
+            "Uganda",
+            "https",
+            ":",
+            "//t.co/fEJcrIy6nN"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1269,6 +1856,12 @@
             }
         ],
         "filtered_text": "I found the love \ud83d\ude02\ud83d\ude02\ud83d\udda4\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f",
+        "without_stowords": [
+            "I",
+            "found",
+            "love",
+            "\ud83d\ude02\ud83d\ude02\ud83d\udda4\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1282,6 +1875,18 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Your time is coming, appreciate the process. https://t.co/dvqryyn6an",
+        "without_stowords": [
+            "Your",
+            "time",
+            "coming",
+            ",",
+            "appreciate",
+            "process",
+            ".",
+            "https",
+            ":",
+            "//t.co/dvqryyn6an"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1295,6 +1900,18 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "In my mind there\u2019re no limits I AM LIMITLESS https://t.co/Jrc0bam429",
+        "without_stowords": [
+            "In",
+            "mind",
+            "\u2019",
+            "limits",
+            "I",
+            "AM",
+            "LIMITLESS",
+            "https",
+            ":",
+            "//t.co/Jrc0bam429"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1308,6 +1925,20 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "JUST MAKE SURE YOU KEEP FEEDING YOUR MIND EVERYDAY https://t.co/0FOjX42Ybl",
+        "without_stowords": [
+            "JUST",
+            "MAKE",
+            "SURE",
+            "YOU",
+            "KEEP",
+            "FEEDING",
+            "YOUR",
+            "MIND",
+            "EVERYDAY",
+            "https",
+            ":",
+            "//t.co/0FOjX42Ybl"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1337,6 +1968,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1361,6 +2001,13 @@
             }
         ],
         "filtered_text": "I will literally pay you money NOT to do that",
+        "without_stowords": [
+            "I",
+            "literally",
+            "pay",
+            "money",
+            "NOT"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1380,6 +2027,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 34\u00b0C 44% humidity, wind 5kmh, pressure 1006mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "34\u00b0C",
+            "44",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "5kmh",
+            ",",
+            "pressure",
+            "1006mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1420,6 +2086,22 @@
             }
         ],
         "filtered_text": "Our best wishes to the out in Egypt at the #AFCON2019 tournament. Go Cranes, cheering you on, our bo\u2026",
+        "without_stowords": [
+            "Our",
+            "best",
+            "wishes",
+            "Egypt",
+            "#",
+            "AFCON2019",
+            "tournament",
+            ".",
+            "Go",
+            "Cranes",
+            ",",
+            "cheering",
+            ",",
+            "bo\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1444,6 +2126,10 @@
             }
         ],
         "filtered_text": "im ashamed",
+        "without_stowords": [
+            "im",
+            "ashamed"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1463,6 +2149,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Cairo: 8:00pm: sunset",
+        "without_stowords": [
+            "Cairo",
+            ":",
+            "8:00pm",
+            ":",
+            "sunset"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1476,6 +2169,24 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "ok so i have the anime profile picture ready someone send me a google docx of all the uwu's and owo's variations i could use",
+        "without_stowords": [
+            "ok",
+            "anime",
+            "profile",
+            "picture",
+            "ready",
+            "someone",
+            "send",
+            "google",
+            "docx",
+            "uwu",
+            "'s",
+            "owo",
+            "'s",
+            "variations",
+            "could",
+            "use"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1499,6 +2210,24 @@
         ],
         "mentions": [],
         "filtered_text": "It's Social Media Day! Name your favorite social media apps now! \u2014 i hate them all :)",
+        "without_stowords": [
+            "It",
+            "'s",
+            "Social",
+            "Media",
+            "Day",
+            "!",
+            "Name",
+            "favorite",
+            "social",
+            "media",
+            "apps",
+            "!",
+            "\u2014",
+            "hate",
+            ":",
+            ")"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1522,6 +2251,14 @@
         ],
         "mentions": [],
         "filtered_text": "did this fucking hit 150 in less than 24 hours",
+        "without_stowords": [
+            "fucking",
+            "hit",
+            "150",
+            "less",
+            "24",
+            "hours"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1545,6 +2282,12 @@
         ],
         "mentions": [],
         "filtered_text": "CAHILL\u2019s PASS \ud83d\udc89\ud83e\udd23",
+        "without_stowords": [
+            "CAHILL",
+            "\u2019",
+            "PASS",
+            "\ud83d\udc89\ud83e\udd23"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1568,6 +2311,16 @@
         ],
         "mentions": [],
         "filtered_text": "What is the most played song in your music library? \u2014 Se\u00f1orita",
+        "without_stowords": [
+            "What",
+            "played",
+            "song",
+            "music",
+            "library",
+            "?",
+            "\u2014",
+            "Se\u00f1orita"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1597,6 +2350,21 @@
         ],
         "mentions": [],
         "filtered_text": "When in Rome, find an international match and try to fit in! @ Cairo International Stadium",
+        "without_stowords": [
+            "When",
+            "Rome",
+            ",",
+            "find",
+            "international",
+            "match",
+            "try",
+            "fit",
+            "!",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1621,6 +2389,9 @@
             }
         ],
         "filtered_text": "Left",
+        "without_stowords": [
+            "Left"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1644,6 +2415,9 @@
         ],
         "mentions": [],
         "filtered_text": "me irl",
+        "without_stowords": [
+            "irl"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1667,6 +2441,20 @@
         ],
         "mentions": [],
         "filtered_text": "you have to explore new places and activities between while , Check it and Enjoy The Full Video Spirit \u2665\ufe0f\u2026",
+        "without_stowords": [
+            "explore",
+            "new",
+            "places",
+            "activities",
+            ",",
+            "Check",
+            "Enjoy",
+            "The",
+            "Full",
+            "Video",
+            "Spirit",
+            "\u2665\ufe0f\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1691,6 +2479,16 @@
             }
         ],
         "filtered_text": "what the fuck a capslock twitter post that i actually agree with now thats hot",
+        "without_stowords": [
+            "fuck",
+            "capslock",
+            "twitter",
+            "post",
+            "actually",
+            "agree",
+            "thats",
+            "hot"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1715,6 +2513,12 @@
             }
         ],
         "filtered_text": "Thankyou:\u201d)",
+        "without_stowords": [
+            "Thankyou",
+            ":",
+            "\u201d",
+            ")"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1744,6 +2548,22 @@
         ],
         "mentions": [],
         "filtered_text": "Can the Moon \ud83c\udf1a speak, or does it simply have nothing to say, after seeing the horrendous things we do day after day\u2026",
+        "without_stowords": [
+            "Can",
+            "Moon",
+            "\ud83c\udf1a",
+            "speak",
+            ",",
+            "simply",
+            "nothing",
+            "say",
+            ",",
+            "seeing",
+            "horrendous",
+            "things",
+            "day",
+            "day\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1768,6 +2588,12 @@
             }
         ],
         "filtered_text": "Thank youu refaaaay \ud83e\udd70\u2764\ufe0f\u2764\ufe0f",
+        "without_stowords": [
+            "Thank",
+            "youu",
+            "refaaaay",
+            "\ud83e\udd70\u2764\ufe0f\u2764\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1797,6 +2623,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1820,6 +2655,10 @@
         ],
         "mentions": [],
         "filtered_text": "Plz share",
+        "without_stowords": [
+            "Plz",
+            "share"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1843,6 +2682,14 @@
         ],
         "mentions": [],
         "filtered_text": "Here\u2019s a song for you\u2026 Wait by M83",
+        "without_stowords": [
+            "Here",
+            "\u2019",
+            "song",
+            "you\u2026",
+            "Wait",
+            "M83"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1866,6 +2713,14 @@
         ],
         "mentions": [],
         "filtered_text": "How old r u \u2014 28",
+        "without_stowords": [
+            "How",
+            "old",
+            "r",
+            "u",
+            "\u2014",
+            "28"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1889,6 +2744,11 @@
         ],
         "mentions": [],
         "filtered_text": "Hello \u2014 Its me",
+        "without_stowords": [
+            "Hello",
+            "\u2014",
+            "Its"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1918,6 +2778,23 @@
         ],
         "mentions": [],
         "filtered_text": "Num Elhum, she was born on my birthday , so we celebrate our birthdays together. She was also born in our house and\u2026",
+        "without_stowords": [
+            "Num",
+            "Elhum",
+            ",",
+            "born",
+            "birthday",
+            ",",
+            "celebrate",
+            "birthdays",
+            "together",
+            ".",
+            "She",
+            "also",
+            "born",
+            "house",
+            "and\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1937,6 +2814,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 33\u00b0C 41% humidity, wind 3kmh, pressure 1007mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "33\u00b0C",
+            "41",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "3kmh",
+            ",",
+            "pressure",
+            "1007mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -1977,6 +2873,13 @@
             }
         ],
         "filtered_text": "I'm at in Cairo, Egypt",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2006,6 +2909,27 @@
         ],
         "mentions": [],
         "filtered_text": "Joyfully Remembering #Cairo, #Egypt ... Melony Sailing the #nileriver River on a #Felluca! What a Beautiful Blessi\u2026",
+        "without_stowords": [
+            "Joyfully",
+            "Remembering",
+            "#",
+            "Cairo",
+            ",",
+            "#",
+            "Egypt",
+            "...",
+            "Melony",
+            "Sailing",
+            "#",
+            "nileriver",
+            "River",
+            "#",
+            "Felluca",
+            "!",
+            "What",
+            "Beautiful",
+            "Blessi\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2019,6 +2943,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I hate to go with the stream Better to create my own style\ud83e\udd19\ud83c\udffc",
+        "without_stowords": [
+            "I",
+            "hate",
+            "go",
+            "stream",
+            "Better",
+            "create",
+            "style\ud83e\udd19\ud83c\udffc"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2048,6 +2981,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2061,6 +3003,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Always and forever and until forever ends.",
+        "without_stowords": [
+            "Always",
+            "forever",
+            "forever",
+            "ends",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2084,6 +3033,13 @@
         ],
         "mentions": [],
         "filtered_text": "I LOVED IT!\u2665\ufe0f",
+        "without_stowords": [
+            "I",
+            "LOVED",
+            "IT",
+            "!",
+            "\u2665\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2097,6 +3053,17 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "You gave me forever within number of days :\u2019)",
+        "without_stowords": [
+            "You",
+            "gave",
+            "forever",
+            "within",
+            "number",
+            "days",
+            ":",
+            "\u2019",
+            ")"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2137,6 +3104,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2177,6 +3153,16 @@
             }
         ],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            "w/"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2227,6 +3213,16 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo",
+            "w/"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2246,6 +3242,31 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "temperature down 34\u00b0C -&gt; 28\u00b0C humidity up 36% -&gt; 58% wind 5kmh -&gt; 3kmh",
+        "without_stowords": [
+            "temperature",
+            "34\u00b0C",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "28\u00b0C",
+            "humidity",
+            "36",
+            "%",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "58",
+            "%",
+            "wind",
+            "5kmh",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "3kmh"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2296,6 +3317,16 @@
             }
         ],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            "w/"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2330,6 +3361,13 @@
             }
         ],
         "filtered_text": "RT : you just turned asian basically",
+        "without_stowords": [
+            "RT",
+            ":",
+            "turned",
+            "asian",
+            "basically"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2359,6 +3397,14 @@
         ],
         "mentions": [],
         "filtered_text": "Shadow being... @ Cairo, Egypt",
+        "without_stowords": [
+            "Shadow",
+            "...",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2383,6 +3429,28 @@
             }
         ],
         "filtered_text": "howa who gave you the right enek teshtmy omo asasn we teshtmy elnas deh? mesh 3agbek elbalad emshy menha shofty sahla ezay?",
+        "without_stowords": [
+            "howa",
+            "gave",
+            "right",
+            "enek",
+            "teshtmy",
+            "omo",
+            "asasn",
+            "teshtmy",
+            "elnas",
+            "deh",
+            "?",
+            "mesh",
+            "3agbek",
+            "elbalad",
+            "emshy",
+            "menha",
+            "shofty",
+            "sahla",
+            "ezay",
+            "?"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2406,6 +3474,27 @@
         ],
         "mentions": [],
         "filtered_text": "But you throw me into the deep end! Expect me to know how to swim? And I put my faith in someone else .. 'Cause I w\u2026",
+        "without_stowords": [
+            "But",
+            "throw",
+            "deep",
+            "end",
+            "!",
+            "Expect",
+            "know",
+            "swim",
+            "?",
+            "And",
+            "I",
+            "put",
+            "faith",
+            "someone",
+            "else",
+            "..",
+            "'Cause",
+            "I",
+            "w\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2435,6 +3524,17 @@
         ],
         "mentions": [],
         "filtered_text": "\u0631\u0648\u0639\u0647 (@ The Roof in Bulaq, Cairo)",
+        "without_stowords": [
+            "\u0631\u0648\u0639\u0647",
+            "(",
+            "@",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            ")"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2464,6 +3564,12 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83e\uddea\ud83d\udca5\ud83d\udd1a @ Last One",
+        "without_stowords": [
+            "\ud83e\uddea\ud83d\udca5\ud83d\udd1a",
+            "@",
+            "Last",
+            "One"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2488,6 +3594,17 @@
             }
         ],
         "filtered_text": "Wait they send you emails if you're rejected? https://t.co/DinXAvdvdj",
+        "without_stowords": [
+            "Wait",
+            "send",
+            "emails",
+            "'re",
+            "rejected",
+            "?",
+            "https",
+            ":",
+            "//t.co/DinXAvdvdj"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2517,6 +3634,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2546,6 +3672,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2575,6 +3710,18 @@
         ],
         "mentions": [],
         "filtered_text": "Samra Renad (@ The Roof in Bulaq, Cairo)",
+        "without_stowords": [
+            "Samra",
+            "Renad",
+            "(",
+            "@",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            ")"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2604,6 +3751,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2628,6 +3784,16 @@
             }
         ],
         "filtered_text": "global warming will end us all meme isnt funny anymore",
+        "without_stowords": [
+            "global",
+            "warming",
+            "end",
+            "us",
+            "meme",
+            "isnt",
+            "funny",
+            "anymore"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2662,6 +3828,17 @@
             }
         ],
         "filtered_text": "dude i thought they just sit there looking hella fresh just talking normally \ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33",
+        "without_stowords": [
+            "dude",
+            "thought",
+            "sit",
+            "looking",
+            "hella",
+            "fresh",
+            "talking",
+            "normally",
+            "\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2696,6 +3873,20 @@
             }
         ],
         "filtered_text": "imagine paying money to see hot and buff anime guys in 80s costumes talk and do stuff",
+        "without_stowords": [
+            "imagine",
+            "paying",
+            "money",
+            "see",
+            "hot",
+            "buff",
+            "anime",
+            "guys",
+            "80s",
+            "costumes",
+            "talk",
+            "stuff"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2730,6 +3921,11 @@
             }
         ],
         "filtered_text": "why do i need your account thonk",
+        "without_stowords": [
+            "need",
+            "account",
+            "thonk"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2764,6 +3960,9 @@
             }
         ],
         "filtered_text": "whats that",
+        "without_stowords": [
+            "whats"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2798,6 +3997,13 @@
             }
         ],
         "filtered_text": "so which site do i get the full quality episodes",
+        "without_stowords": [
+            "site",
+            "get",
+            "full",
+            "quality",
+            "episodes"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2832,6 +4038,16 @@
             }
         ],
         "filtered_text": "still wont watch jojo arb not even in a million years",
+        "without_stowords": [
+            "still",
+            "wont",
+            "watch",
+            "jojo",
+            "arb",
+            "even",
+            "million",
+            "years"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2866,6 +4082,9 @@
             }
         ],
         "filtered_text": "hypnotize",
+        "without_stowords": [
+            "hypnotize"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2889,6 +4108,22 @@
         ],
         "mentions": [],
         "filtered_text": "Besides food/water, medicine, or money what would be the most helpful thing to air drop to refugees of a war torn\u2026\u2026",
+        "without_stowords": [
+            "Besides",
+            "food/water",
+            ",",
+            "medicine",
+            ",",
+            "money",
+            "would",
+            "helpful",
+            "thing",
+            "air",
+            "drop",
+            "refugees",
+            "war",
+            "torn\u2026\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2929,6 +4164,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -2999,6 +4243,17 @@
             }
         ],
         "filtered_text": ". (@ The Roof in Bulaq, Cairo)",
+        "without_stowords": [
+            ".",
+            "(",
+            "@",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            ")"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3012,6 +4267,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddecin the #TotalAFCON2019 against Uganda \ud83c\uddfa\ud83c\uddec! Go Egypt! #UGAEGY #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Pharaohs",
+            "\ud83c\uddea\ud83c\uddecin",
+            "#",
+            "TotalAFCON2019",
+            "Uganda",
+            "\ud83c\uddfa\ud83c\uddec",
+            "!",
+            "Go",
+            "Egypt",
+            "!",
+            "#",
+            "UGAEGY",
+            "#",
+            "FootballTogether"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3025,6 +4299,9 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "who will save you from yourself",
+        "without_stowords": [
+            "save"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3044,6 +4321,41 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "at 1:02am: scattered clouds -&gt; clear sky temperature down 32\u00b0C -&gt; 28\u00b0C humidity up 49% -&gt; 61% wind 6kmh -&gt; 3kmh",
+        "without_stowords": [
+            "1:02am",
+            ":",
+            "scattered",
+            "clouds",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "clear",
+            "sky",
+            "temperature",
+            "32\u00b0C",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "28\u00b0C",
+            "humidity",
+            "49",
+            "%",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "61",
+            "%",
+            "wind",
+            "6kmh",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "3kmh"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3084,6 +4396,15 @@
             }
         ],
         "filtered_text": "I'm at Bab El Nil - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Bab",
+            "El",
+            "Nil",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3107,6 +4428,11 @@
         ],
         "mentions": [],
         "filtered_text": "My All \u2665\ufe0f",
+        "without_stowords": [
+            "My",
+            "All",
+            "\u2665\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3136,6 +4462,16 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at El Fishawy in El Gamaliya, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "El",
+            "Fishawy",
+            "El",
+            "Gamaliya",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3149,6 +4485,19 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I was planning on taking it slow, but you forced me without any hesitation to fall in your love.",
+        "without_stowords": [
+            "I",
+            "planning",
+            "taking",
+            "slow",
+            ",",
+            "forced",
+            "without",
+            "hesitation",
+            "fall",
+            "love",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3189,6 +4538,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3212,6 +4570,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'll do this my friend. \ud83d\ude02\ud83d\udda4\ud83d\udda4\u2705 Loove uu\ud83d\udda4\ud83d\udda4",
+        "without_stowords": [
+            "I",
+            "'ll",
+            "friend",
+            ".",
+            "\ud83d\ude02\ud83d\udda4\ud83d\udda4\u2705",
+            "Loove",
+            "uu\ud83d\udda4\ud83d\udda4"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3252,6 +4619,27 @@
             }
         ],
         "filtered_text": "\ud83d\ude00 Learn, design, make and move. We design and manufacture puppets upon request. We provide whatever ne\u2026",
+        "without_stowords": [
+            "\ud83d\ude00",
+            "Learn",
+            ",",
+            "design",
+            ",",
+            "make",
+            "move",
+            ".",
+            "We",
+            "design",
+            "manufacture",
+            "puppets",
+            "upon",
+            "request",
+            ".",
+            "We",
+            "provide",
+            "whatever",
+            "ne\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3275,6 +4663,31 @@
         ],
         "mentions": [],
         "filtered_text": "I hope I'll be able to get closer to God. \ud83d\udda4\ud83d\ude4f\ud83c\udffb And I'll kick people fuck'n Ass when they try to destroy me again. \ud83d\ude02\u2026",
+        "without_stowords": [
+            "I",
+            "hope",
+            "I",
+            "'ll",
+            "able",
+            "get",
+            "closer",
+            "God",
+            ".",
+            "\ud83d\udda4\ud83d\ude4f\ud83c\udffb",
+            "And",
+            "I",
+            "'ll",
+            "kick",
+            "people",
+            "fuck",
+            "'",
+            "n",
+            "Ass",
+            "try",
+            "destroy",
+            ".",
+            "\ud83d\ude02\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3299,6 +4712,11 @@
             }
         ],
         "filtered_text": "Egyptians, hun",
+        "without_stowords": [
+            "Egyptians",
+            ",",
+            "hun"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3333,6 +4751,14 @@
             }
         ],
         "filtered_text": "oh doramis girlfriend ordering pizza from the sewers..classic",
+        "without_stowords": [
+            "oh",
+            "doramis",
+            "girlfriend",
+            "ordering",
+            "pizza",
+            "sewers..classic"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3357,6 +4783,17 @@
             }
         ],
         "filtered_text": "oh hey something you post that i actually relate to good job emerald",
+        "without_stowords": [
+            "oh",
+            "hey",
+            "something",
+            "post",
+            "actually",
+            "relate",
+            "good",
+            "job",
+            "emerald"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3386,6 +4823,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3415,6 +4861,13 @@
         ],
         "mentions": [],
         "filtered_text": "made in the 90's.\u2665\ufe0f\ud83d\udcab @ El Maadi",
+        "without_stowords": [
+            "made",
+            "90's.\u2665\ufe0f\ud83d\udcab",
+            "@",
+            "El",
+            "Maadi"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3439,6 +4892,11 @@
             }
         ],
         "filtered_text": "match Tunis ?",
+        "without_stowords": [
+            "match",
+            "Tunis",
+            "?"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3463,6 +4921,10 @@
             }
         ],
         "filtered_text": "i fucking love you",
+        "without_stowords": [
+            "fucking",
+            "love"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3497,6 +4959,20 @@
             }
         ],
         "filtered_text": "I understand, but some things do not take it. All of us has his own story with different way of othe\u2026",
+        "without_stowords": [
+            "I",
+            "understand",
+            ",",
+            "things",
+            "take",
+            ".",
+            "All",
+            "us",
+            "story",
+            "different",
+            "way",
+            "othe\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3510,6 +4986,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "watching Shazam! Movie",
+        "without_stowords": [
+            "watching",
+            "Shazam",
+            "!",
+            "Movie"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3523,6 +5005,14 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Too much thinking is killing you slowly.",
+        "without_stowords": [
+            "Too",
+            "much",
+            "thinking",
+            "killing",
+            "slowly",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3536,6 +5026,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Simple ones are the happiest \ud83d\ude47\ud83c\udffb",
+        "without_stowords": [
+            "Simple",
+            "ones",
+            "happiest",
+            "\ud83d\ude47\ud83c\udffb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3549,6 +5045,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "It's sooo painful \ud83d\udc94",
+        "without_stowords": [
+            "It",
+            "'s",
+            "sooo",
+            "painful",
+            "\ud83d\udc94"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3583,6 +5086,14 @@
             }
         ],
         "filtered_text": "RT : bypass players when they turn it off be like",
+        "without_stowords": [
+            "RT",
+            ":",
+            "bypass",
+            "players",
+            "turn",
+            "like"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3607,6 +5118,12 @@
             }
         ],
         "filtered_text": "bypass players when they turn it off be like",
+        "without_stowords": [
+            "bypass",
+            "players",
+            "turn",
+            "like"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3631,6 +5148,27 @@
             }
         ],
         "filtered_text": "RT : And we know who is real enemy but for unwilling too late. Allah may blessed your soul MR. president. https://t.co/e6F9\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "And",
+            "know",
+            "real",
+            "enemy",
+            "unwilling",
+            "late",
+            ".",
+            "Allah",
+            "may",
+            "blessed",
+            "soul",
+            "MR.",
+            "president",
+            ".",
+            "https",
+            ":",
+            "//t.co/e6F9\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3644,6 +5182,16 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "What if the thing that you afraid of is supposed to happen after all \ud83d\ude47\ud83c\udffb#fate",
+        "without_stowords": [
+            "What",
+            "thing",
+            "afraid",
+            "supposed",
+            "happen",
+            "\ud83d\ude47\ud83c\udffb",
+            "#",
+            "fate"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3668,6 +5216,29 @@
             }
         ],
         "filtered_text": "RT : God Eater one of the biggest demons in GD got easily deleted while my fucking RETOGUITAR I MADE IN 5 SECONDS STAYS UP THERE",
+        "without_stowords": [
+            "RT",
+            ":",
+            "God",
+            "Eater",
+            "one",
+            "biggest",
+            "demons",
+            "GD",
+            "got",
+            "easily",
+            "deleted",
+            "fucking",
+            "RETOGUITAR",
+            "I",
+            "MADE",
+            "IN",
+            "5",
+            "SECONDS",
+            "STAYS",
+            "UP",
+            "THERE"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3708,6 +5279,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3731,6 +5311,10 @@
         ],
         "mentions": [],
         "filtered_text": "Happiness Decision..",
+        "without_stowords": [
+            "Happiness",
+            "Decision.."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3760,6 +5344,23 @@
         ],
         "mentions": [],
         "filtered_text": "Round 2 #AFCON2019 #Egypt \ud83c\uddea\ud83c\uddec vs #DRCongo \ud83c\udde8\ud83c\udde9 @ Cairo International Stadium",
+        "without_stowords": [
+            "Round",
+            "2",
+            "#",
+            "AFCON2019",
+            "#",
+            "Egypt",
+            "\ud83c\uddea\ud83c\uddec",
+            "vs",
+            "#",
+            "DRCongo",
+            "\ud83c\udde8\ud83c\udde9",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3779,6 +5380,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: scattered clouds, 32\u00b0C 49% humidity, wind 6kmh, pressure 1006mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "scattered",
+            "clouds",
+            ",",
+            "32\u00b0C",
+            "49",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "6kmh",
+            ",",
+            "pressure",
+            "1006mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3802,6 +5422,22 @@
         ],
         "mentions": [],
         "filtered_text": "And we know who is real enemy but for unwilling too late. Allah may blessed your soul MR. president.",
+        "without_stowords": [
+            "And",
+            "know",
+            "real",
+            "enemy",
+            "unwilling",
+            "late",
+            ".",
+            "Allah",
+            "may",
+            "blessed",
+            "soul",
+            "MR.",
+            "president",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3821,6 +5457,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Cairo: 8:00pm: sunset",
+        "without_stowords": [
+            "Cairo",
+            ":",
+            "8:00pm",
+            ":",
+            "sunset"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3855,6 +5498,18 @@
             }
         ],
         "filtered_text": "RT : Or may just start for new creative generation of apple products",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Or",
+            "may",
+            "start",
+            "new",
+            "creative",
+            "generation",
+            "apple",
+            "products"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3878,6 +5533,16 @@
         ],
         "mentions": [],
         "filtered_text": "Or may just start for new creative generation of apple products",
+        "without_stowords": [
+            "Or",
+            "may",
+            "start",
+            "new",
+            "creative",
+            "generation",
+            "apple",
+            "products"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3891,6 +5556,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Negative energy everywhere",
+        "without_stowords": [
+            "Negative",
+            "energy",
+            "everywhere"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3920,6 +5590,26 @@
         ],
         "mentions": [],
         "filtered_text": "My polaroids, The old ones and the new. #polaroid #artistsofinstagram #art #photooftheday #photography\u2026",
+        "without_stowords": [
+            "My",
+            "polaroids",
+            ",",
+            "The",
+            "old",
+            "ones",
+            "new",
+            ".",
+            "#",
+            "polaroid",
+            "#",
+            "artistsofinstagram",
+            "#",
+            "art",
+            "#",
+            "photooftheday",
+            "#",
+            "photography\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3933,6 +5623,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I cheer for the #Cranes \ud83c\uddfa\ud83c\uddecin the #TotalAFCON2019 against Egypt \ud83c\uddea\ud83c\uddec! Go Uganda! #UGAEGY #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Cranes",
+            "\ud83c\uddfa\ud83c\uddecin",
+            "#",
+            "TotalAFCON2019",
+            "Egypt",
+            "\ud83c\uddea\ud83c\uddec",
+            "!",
+            "Go",
+            "Uganda",
+            "!",
+            "#",
+            "UGAEGY",
+            "#",
+            "FootballTogether"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3957,6 +5666,28 @@
             }
         ],
         "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Update",
+            "1.4",
+            "30\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -3997,6 +5728,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4021,6 +5761,10 @@
             }
         ],
         "filtered_text": "shut the fuck up",
+        "without_stowords": [
+            "shut",
+            "fuck"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4061,6 +5805,15 @@
             }
         ],
         "filtered_text": "I'm at Koshary Abou Tarek - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Koshary",
+            "Abou",
+            "Tarek",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4090,6 +5843,11 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at Egypt",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4124,6 +5882,11 @@
             }
         ],
         "filtered_text": "where is my GAY GIF.",
+        "without_stowords": [
+            "GAY",
+            "GIF",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4137,6 +5900,27 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "God Eater one of the biggest demons in GD got easily deleted while my fucking RETOGUITAR I MADE IN 5 SECONDS STAYS UP THERE",
+        "without_stowords": [
+            "God",
+            "Eater",
+            "one",
+            "biggest",
+            "demons",
+            "GD",
+            "got",
+            "easily",
+            "deleted",
+            "fucking",
+            "RETOGUITAR",
+            "I",
+            "MADE",
+            "IN",
+            "5",
+            "SECONDS",
+            "STAYS",
+            "UP",
+            "THERE"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4161,6 +5945,14 @@
             }
         ],
         "filtered_text": "the level may have fallen off the list but its still in our hearts",
+        "without_stowords": [
+            "level",
+            "may",
+            "fallen",
+            "list",
+            "still",
+            "hearts"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4190,6 +5982,17 @@
         ],
         "mentions": [],
         "filtered_text": "White and black #SHERIFAlTAYEH \u2764\u2764\u2764\u2764 @ Cairo, Egypt",
+        "without_stowords": [
+            "White",
+            "black",
+            "#",
+            "SHERIFAlTAYEH",
+            "\u2764\u2764\u2764\u2764",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4219,6 +6022,19 @@
         ],
         "mentions": [],
         "filtered_text": "With love from Cairo... #classic \u260e\ufe0f @ Cairo, Egypt",
+        "without_stowords": [
+            "With",
+            "love",
+            "Cairo",
+            "...",
+            "#",
+            "classic",
+            "\u260e\ufe0f",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4242,6 +6058,19 @@
         ],
         "mentions": [],
         "filtered_text": "Listen to Tristam &amp; Braken - Flight by Monstercat on #SoundCloud",
+        "without_stowords": [
+            "Listen",
+            "Tristam",
+            "&",
+            "amp",
+            ";",
+            "Braken",
+            "-",
+            "Flight",
+            "Monstercat",
+            "#",
+            "SoundCloud"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4274,6 +6103,18 @@
         ],
         "mentions": [],
         "filtered_text": "\u266b #NowPlaying \u201cICY GRL\u201d by Saweetie on #Anghami",
+        "without_stowords": [
+            "\u266b",
+            "#",
+            "NowPlaying",
+            "\u201c",
+            "ICY",
+            "GRL",
+            "\u201d",
+            "Saweetie",
+            "#",
+            "Anghami"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4317,6 +6158,17 @@
             }
         ],
         "filtered_text": "\u266b #NowPlaying \u201cMuddy Waters\u201d by on #Anghami",
+        "without_stowords": [
+            "\u266b",
+            "#",
+            "NowPlaying",
+            "\u201c",
+            "Muddy",
+            "Waters",
+            "\u201d",
+            "#",
+            "Anghami"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4341,6 +6193,32 @@
             }
         ],
         "filtered_text": "RT : Dude, first, I upset from me because I'm Far away from the God since a long time ago. I'm trying this time to be neer to the\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Dude",
+            ",",
+            "first",
+            ",",
+            "I",
+            "upset",
+            "I",
+            "'m",
+            "Far",
+            "away",
+            "God",
+            "since",
+            "long",
+            "time",
+            "ago",
+            ".",
+            "I",
+            "'m",
+            "trying",
+            "time",
+            "neer",
+            "the\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4364,6 +6242,29 @@
         ],
         "mentions": [],
         "filtered_text": "Dude, first, I upset from me because I'm Far away from the God since a long time ago. I'm trying this time to be ne\u2026",
+        "without_stowords": [
+            "Dude",
+            ",",
+            "first",
+            ",",
+            "I",
+            "upset",
+            "I",
+            "'m",
+            "Far",
+            "away",
+            "God",
+            "since",
+            "long",
+            "time",
+            "ago",
+            ".",
+            "I",
+            "'m",
+            "trying",
+            "time",
+            "ne\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4377,6 +6278,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddecin the #TotalAFCON2019 against Uganda \ud83c\uddfa\ud83c\uddec! Go Egypt! #UGAEGY #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Pharaohs",
+            "\ud83c\uddea\ud83c\uddecin",
+            "#",
+            "TotalAFCON2019",
+            "Uganda",
+            "\ud83c\uddfa\ud83c\uddec",
+            "!",
+            "Go",
+            "Egypt",
+            "!",
+            "#",
+            "UGAEGY",
+            "#",
+            "FootballTogether"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4411,6 +6331,9 @@
             }
         ],
         "filtered_text": "not funny",
+        "without_stowords": [
+            "funny"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4445,6 +6368,19 @@
             }
         ],
         "filtered_text": "i like anime and if you hate anime i will make fun of you for not liking anime also i like to photosho\u2026",
+        "without_stowords": [
+            "like",
+            "anime",
+            "hate",
+            "anime",
+            "make",
+            "fun",
+            "liking",
+            "anime",
+            "also",
+            "like",
+            "photosho\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4469,6 +6405,10 @@
             }
         ],
         "filtered_text": "actually amazing",
+        "without_stowords": [
+            "actually",
+            "amazing"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4498,6 +6438,18 @@
         ],
         "mentions": [],
         "filtered_text": "Some of my favorite pieces from the Museum of Egyptian Antiquities #RomeoJBallayan #emotionalintelligence\u2026",
+        "without_stowords": [
+            "Some",
+            "favorite",
+            "pieces",
+            "Museum",
+            "Egyptian",
+            "Antiquities",
+            "#",
+            "RomeoJBallayan",
+            "#",
+            "emotionalintelligence\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4522,6 +6474,11 @@
             }
         ],
         "filtered_text": "i mean atleast its christmas",
+        "without_stowords": [
+            "mean",
+            "atleast",
+            "christmas"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4541,6 +6498,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 33\u00b0C 41% humidity, wind 4kmh, pressure 1006mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "33\u00b0C",
+            "41",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "4kmh",
+            ",",
+            "pressure",
+            "1006mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4565,6 +6541,14 @@
             }
         ],
         "filtered_text": "ok lowkey...........epic",
+        "without_stowords": [
+            "ok",
+            "lowkey",
+            "...",
+            "...",
+            "...",
+            "..epic"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4589,6 +6573,13 @@
             }
         ],
         "filtered_text": "hello friend are you mentally unwell?",
+        "without_stowords": [
+            "hello",
+            "friend",
+            "mentally",
+            "unwell",
+            "?"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4613,6 +6604,12 @@
             }
         ],
         "filtered_text": "3/10 make your bed loser",
+        "without_stowords": [
+            "3/10",
+            "make",
+            "bed",
+            "loser"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4642,6 +6639,25 @@
         ],
         "mentions": [],
         "filtered_text": "Dream BIG, Love GOD, Word incredibly HARD... #GodsTiming \u2764\ufe0f @ Cairo, Egypt",
+        "without_stowords": [
+            "Dream",
+            "BIG",
+            ",",
+            "Love",
+            "GOD",
+            ",",
+            "Word",
+            "incredibly",
+            "HARD",
+            "...",
+            "#",
+            "GodsTiming",
+            "\u2764\ufe0f",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4682,6 +6698,22 @@
             }
         ],
         "filtered_text": "The build up to the winning goal and that assist... Sublime! harambee_stars victorwanyama @ Cairo, Egy\u2026",
+        "without_stowords": [
+            "The",
+            "build",
+            "winning",
+            "goal",
+            "assist",
+            "...",
+            "Sublime",
+            "!",
+            "harambee_stars",
+            "victorwanyama",
+            "@",
+            "Cairo",
+            ",",
+            "Egy\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4711,6 +6743,29 @@
         ],
         "mentions": [],
         "filtered_text": "Dear Instagram, I've been filming the #africacupofnations between #cairo, #ismailia and #suez. It's being tough, m\u2026",
+        "without_stowords": [
+            "Dear",
+            "Instagram",
+            ",",
+            "I",
+            "'ve",
+            "filming",
+            "#",
+            "africacupofnations",
+            "#",
+            "cairo",
+            ",",
+            "#",
+            "ismailia",
+            "#",
+            "suez",
+            ".",
+            "It",
+            "'s",
+            "tough",
+            ",",
+            "m\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4724,6 +6779,14 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I'm really in the worst mood .",
+        "without_stowords": [
+            "I",
+            "'m",
+            "really",
+            "worst",
+            "mood",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4758,6 +6821,14 @@
             }
         ],
         "filtered_text": "RT : why are you charging up your swear words?",
+        "without_stowords": [
+            "RT",
+            ":",
+            "charging",
+            "swear",
+            "words",
+            "?"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4782,6 +6853,20 @@
             }
         ],
         "filtered_text": "RT : omg omg guys he is currently eating mute your mics https://t.co/cwZNkkPM4i",
+        "without_stowords": [
+            "RT",
+            ":",
+            "omg",
+            "omg",
+            "guys",
+            "currently",
+            "eating",
+            "mute",
+            "mics",
+            "https",
+            ":",
+            "//t.co/cwZNkkPM4i"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4795,6 +6880,14 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "True Fact ! https://t.co/DYQeV8W5Yx",
+        "without_stowords": [
+            "True",
+            "Fact",
+            "!",
+            "https",
+            ":",
+            "//t.co/DYQeV8W5Yx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4819,6 +6912,12 @@
             }
         ],
         "filtered_text": "Never give up, bro",
+        "without_stowords": [
+            "Never",
+            "give",
+            ",",
+            "bro"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4843,6 +6942,11 @@
             }
         ],
         "filtered_text": "Happy birthday \ud83c\udf89\ud83c\udf89",
+        "without_stowords": [
+            "Happy",
+            "birthday",
+            "\ud83c\udf89\ud83c\udf89"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4862,6 +6966,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 26\u00b0C 78% humidity, wind 4kmh, pressure 1007mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "26\u00b0C",
+            "78",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "4kmh",
+            ",",
+            "pressure",
+            "1007mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4881,6 +7004,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Cairo: 5:56am: sunrise sunset will be at 8:00pm",
+        "without_stowords": [
+            "Cairo",
+            ":",
+            "5:56am",
+            ":",
+            "sunrise",
+            "sunset",
+            "8:00pm"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4900,6 +7032,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "5:56am: sunrise sunset will be at 8:00pm",
+        "without_stowords": [
+            "5:56am",
+            ":",
+            "sunrise",
+            "sunset",
+            "8:00pm"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4913,6 +7052,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddecin the #TotalAFCON2019 against Uganda \ud83c\uddfa\ud83c\uddec! Go Egypt! #UGAEGY #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Pharaohs",
+            "\ud83c\uddea\ud83c\uddecin",
+            "#",
+            "TotalAFCON2019",
+            "Uganda",
+            "\ud83c\uddfa\ud83c\uddec",
+            "!",
+            "Go",
+            "Egypt",
+            "!",
+            "#",
+            "UGAEGY",
+            "#",
+            "FootballTogether"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4953,6 +7111,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -4977,6 +7144,19 @@
             }
         ],
         "filtered_text": "You seem like \"You know nothing nahla snow\" \ud83e\udd14",
+        "without_stowords": [
+            "You",
+            "seem",
+            "like",
+            "``",
+            "You",
+            "know",
+            "nothing",
+            "nahla",
+            "snow",
+            "''",
+            "\ud83e\udd14"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5006,6 +7186,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5035,6 +7224,23 @@
         ],
         "mentions": [],
         "filtered_text": "I should learn to love the red because I was considering it a sign of bloodshed, and it's true, someone get to lear\u2026",
+        "without_stowords": [
+            "I",
+            "learn",
+            "love",
+            "red",
+            "I",
+            "considering",
+            "sign",
+            "bloodshed",
+            ",",
+            "'s",
+            "true",
+            ",",
+            "someone",
+            "get",
+            "lear\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5059,6 +7265,28 @@
             }
         ],
         "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Update",
+            "1.4",
+            "30\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5082,6 +7310,14 @@
         ],
         "mentions": [],
         "filtered_text": "Ask me a question | https://t.co/IoHEhOZeQ2",
+        "without_stowords": [
+            "Ask",
+            "question",
+            "|",
+            "https",
+            ":",
+            "//t.co/IoHEhOZeQ2"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5122,6 +7358,16 @@
             }
         ],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            "w/"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5145,6 +7391,25 @@
         ],
         "mentions": [],
         "filtered_text": "Listen to Best Music For Studying- Study Music, Concentrate Music, Relaxing Music by user408816983 #np on\u2026",
+        "without_stowords": [
+            "Listen",
+            "Best",
+            "Music",
+            "For",
+            "Studying-",
+            "Study",
+            "Music",
+            ",",
+            "Concentrate",
+            "Music",
+            ",",
+            "Relaxing",
+            "Music",
+            "user408816983",
+            "#",
+            "np",
+            "on\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5158,6 +7423,20 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I think arthur ,that\u2019s what i do I think , so you don\u2019t have to https://t.co/j3j03X7gRg",
+        "without_stowords": [
+            "I",
+            "think",
+            "arthur",
+            ",",
+            "\u2019",
+            "I",
+            "think",
+            ",",
+            "\u2019",
+            "https",
+            ":",
+            "//t.co/j3j03X7gRg"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5202,6 +7481,9 @@
             }
         ],
         "filtered_text": "N this",
+        "without_stowords": [
+            "N"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5236,6 +7518,9 @@
             }
         ],
         "filtered_text": "This",
+        "without_stowords": [
+            "This"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5276,6 +7561,17 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City Sky Pool - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "Sky",
+            "Pool",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5305,6 +7601,24 @@
         ],
         "mentions": [],
         "filtered_text": "Favorite color ideas for your little one's room \ud83e\udd29 Here's some of my favorite wall paint colors /grades for kidsroo\u2026",
+        "without_stowords": [
+            "Favorite",
+            "color",
+            "ideas",
+            "little",
+            "one",
+            "'s",
+            "room",
+            "\ud83e\udd29",
+            "Here",
+            "'s",
+            "favorite",
+            "wall",
+            "paint",
+            "colors",
+            "/grades",
+            "kidsroo\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5334,6 +7648,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5347,6 +7670,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Come back to me \ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f",
+        "without_stowords": [
+            "Come",
+            "back",
+            "\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5370,6 +7698,10 @@
         ],
         "mentions": [],
         "filtered_text": "Hadba \ud83d\udc4c\ud83c\udffb\u2665\ufe0f",
+        "without_stowords": [
+            "Hadba",
+            "\ud83d\udc4c\ud83c\udffb\u2665\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5399,6 +7731,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5412,6 +7753,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "My loss is unbearable!",
+        "without_stowords": [
+            "My",
+            "loss",
+            "unbearable",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5452,6 +7799,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5481,6 +7837,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5510,6 +7875,37 @@
         ],
         "mentions": [],
         "filtered_text": "Fly me to the moon #fly #me #to #the #moon #sky #unipen #blue #gray #stars # love #drawing #man #franksinatra @ Ca\u2026",
+        "without_stowords": [
+            "Fly",
+            "moon",
+            "#",
+            "fly",
+            "#",
+            "#",
+            "#",
+            "#",
+            "moon",
+            "#",
+            "sky",
+            "#",
+            "unipen",
+            "#",
+            "blue",
+            "#",
+            "gray",
+            "#",
+            "stars",
+            "#",
+            "love",
+            "#",
+            "drawing",
+            "#",
+            "man",
+            "#",
+            "franksinatra",
+            "@",
+            "Ca\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5534,6 +7930,19 @@
             }
         ],
         "filtered_text": "RT : MOVE ONCE BURN WORLD AT ONCE https://t.co/j9A3rPG3yj",
+        "without_stowords": [
+            "RT",
+            ":",
+            "MOVE",
+            "ONCE",
+            "BURN",
+            "WORLD",
+            "AT",
+            "ONCE",
+            "https",
+            ":",
+            "//t.co/j9A3rPG3yj"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5558,6 +7967,16 @@
             }
         ],
         "filtered_text": "RT : CHAIR EGYPT ONCE https://t.co/8ZdMrRkFWD",
+        "without_stowords": [
+            "RT",
+            ":",
+            "CHAIR",
+            "EGYPT",
+            "ONCE",
+            "https",
+            ":",
+            "//t.co/8ZdMrRkFWD"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5602,6 +8021,20 @@
             }
         ],
         "filtered_text": "RT : SUN WEAR REVOLUTION FUN List of satellites via https://t.co/BtteSWbhK0",
+        "without_stowords": [
+            "RT",
+            ":",
+            "SUN",
+            "WEAR",
+            "REVOLUTION",
+            "FUN",
+            "List",
+            "satellites",
+            "via",
+            "https",
+            ":",
+            "//t.co/BtteSWbhK0"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5631,6 +8064,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5660,6 +8102,18 @@
         ],
         "mentions": [],
         "filtered_text": "Feeling dissapointed with 19753others\ud83d\ude02\ud83d\ude02\ud83d\ude02like if you're represented in that Kenyan Team\ud83d\udd90\ud83d\udd90\ud83d\udd90Hao wengine mnaeza comment\u2026",
+        "without_stowords": [
+            "Feeling",
+            "dissapointed",
+            "19753others\ud83d\ude02\ud83d\ude02\ud83d\ude02like",
+            "'re",
+            "represented",
+            "Kenyan",
+            "Team\ud83d\udd90\ud83d\udd90\ud83d\udd90Hao",
+            "wengine",
+            "mnaeza",
+            "comment\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5689,6 +8143,15 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83c\udf1f @ Faculty of Medicine Ain Shams University",
+        "without_stowords": [
+            "\ud83c\udf1f",
+            "@",
+            "Faculty",
+            "Medicine",
+            "Ain",
+            "Shams",
+            "University"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5723,6 +8186,13 @@
             }
         ],
         "filtered_text": "RT : Follow Him \ud83d\udc4c\u2764",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Follow",
+            "Him",
+            "\ud83d\udc4c\u2764"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5746,6 +8216,11 @@
         ],
         "mentions": [],
         "filtered_text": "Follow Him \ud83d\udc4c\u2764",
+        "without_stowords": [
+            "Follow",
+            "Him",
+            "\ud83d\udc4c\u2764"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5770,6 +8245,10 @@
             }
         ],
         "filtered_text": "chicken virus",
+        "without_stowords": [
+            "chicken",
+            "virus"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5794,6 +8273,16 @@
             }
         ],
         "filtered_text": "i dont think i need an instrument calculator for 32 x 25",
+        "without_stowords": [
+            "dont",
+            "think",
+            "need",
+            "instrument",
+            "calculator",
+            "32",
+            "x",
+            "25"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5818,6 +8307,13 @@
             }
         ],
         "filtered_text": "ok remember when you told me you werent a weeb now here we are",
+        "without_stowords": [
+            "ok",
+            "remember",
+            "told",
+            "werent",
+            "weeb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5858,6 +8354,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5882,6 +8387,10 @@
             }
         ],
         "filtered_text": "well shit",
+        "without_stowords": [
+            "well",
+            "shit"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5922,6 +8431,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5946,6 +8464,11 @@
             }
         ],
         "filtered_text": "bruh moment achieved",
+        "without_stowords": [
+            "bruh",
+            "moment",
+            "achieved"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5969,6 +8492,10 @@
         ],
         "mentions": [],
         "filtered_text": "i wonder what hmmmmmmmmmmmmmm",
+        "without_stowords": [
+            "wonder",
+            "hmmmmmmmmmmmmmm"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -5993,6 +8520,13 @@
             }
         ],
         "filtered_text": "good luck finding CF bitch",
+        "without_stowords": [
+            "good",
+            "luck",
+            "finding",
+            "CF",
+            "bitch"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6027,6 +8561,19 @@
             }
         ],
         "filtered_text": "RT : yep definitely a funny one, post that https://t.co/UjigU02kSQ",
+        "without_stowords": [
+            "RT",
+            ":",
+            "yep",
+            "definitely",
+            "funny",
+            "one",
+            ",",
+            "post",
+            "https",
+            ":",
+            "//t.co/UjigU02kSQ"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6067,6 +8614,12 @@
             }
         ],
         "filtered_text": "I'm at Egypt -",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Egypt",
+            "-"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6091,6 +8644,11 @@
             }
         ],
         "filtered_text": "dont enter the kitchen",
+        "without_stowords": [
+            "dont",
+            "enter",
+            "kitchen"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6115,6 +8673,28 @@
             }
         ],
         "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Update",
+            "1.4",
+            "30\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6134,6 +8714,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 35\u00b0C 39% humidity, wind 6kmh, pressure 1007mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "35\u00b0C",
+            "39",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "6kmh",
+            ",",
+            "pressure",
+            "1007mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6153,6 +8752,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Cairo: 8:00pm: sunset",
+        "without_stowords": [
+            "Cairo",
+            ":",
+            "8:00pm",
+            ":",
+            "sunset"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6187,6 +8793,19 @@
             }
         ],
         "filtered_text": "RT : yep definitely a funny one, post that https://t.co/UjigU02kSQ",
+        "without_stowords": [
+            "RT",
+            ":",
+            "yep",
+            "definitely",
+            "funny",
+            "one",
+            ",",
+            "post",
+            "https",
+            ":",
+            "//t.co/UjigU02kSQ"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6211,6 +8830,17 @@
             }
         ],
         "filtered_text": "yep definitely a funny one, post that https://t.co/UjigU02kSQ",
+        "without_stowords": [
+            "yep",
+            "definitely",
+            "funny",
+            "one",
+            ",",
+            "post",
+            "https",
+            ":",
+            "//t.co/UjigU02kSQ"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6235,6 +8865,9 @@
             }
         ],
         "filtered_text": "thank you",
+        "without_stowords": [
+            "thank"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6259,6 +8892,10 @@
             }
         ],
         "filtered_text": "we're all pinecones",
+        "without_stowords": [
+            "'re",
+            "pinecones"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6283,6 +8920,12 @@
             }
         ],
         "filtered_text": "oh its the best artist in the galaxy",
+        "without_stowords": [
+            "oh",
+            "best",
+            "artist",
+            "galaxy"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6307,6 +8950,10 @@
             }
         ],
         "filtered_text": "we're all pinecones",
+        "without_stowords": [
+            "'re",
+            "pinecones"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6331,6 +8978,9 @@
             }
         ],
         "filtered_text": "thank you",
+        "without_stowords": [
+            "thank"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6360,6 +9010,26 @@
         ],
         "mentions": [],
         "filtered_text": "My plant book and pine cones. #home #fatma_the_farmer #artistsofinstagram #bohemianstyle #arte #artist\u2026",
+        "without_stowords": [
+            "My",
+            "plant",
+            "book",
+            "pine",
+            "cones",
+            ".",
+            "#",
+            "home",
+            "#",
+            "fatma_the_farmer",
+            "#",
+            "artistsofinstagram",
+            "#",
+            "bohemianstyle",
+            "#",
+            "arte",
+            "#",
+            "artist\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6384,6 +9054,12 @@
             }
         ],
         "filtered_text": "EAT. ANT.",
+        "without_stowords": [
+            "EAT",
+            ".",
+            "ANT",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6408,6 +9084,12 @@
             }
         ],
         "filtered_text": "dont doxx my house bitch",
+        "without_stowords": [
+            "dont",
+            "doxx",
+            "house",
+            "bitch"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6432,6 +9114,13 @@
             }
         ],
         "filtered_text": "hello there an actually funny EvProdStuff post",
+        "without_stowords": [
+            "hello",
+            "actually",
+            "funny",
+            "EvProdStuff",
+            "post"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6461,6 +9150,15 @@
         ],
         "mentions": [],
         "filtered_text": "Egypt vs Congo @ Cairo International Stadium",
+        "without_stowords": [
+            "Egypt",
+            "vs",
+            "Congo",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6490,6 +9188,13 @@
         ],
         "mentions": [],
         "filtered_text": "Life is Good @ Zack's",
+        "without_stowords": [
+            "Life",
+            "Good",
+            "@",
+            "Zack",
+            "'s"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6513,6 +9218,16 @@
         ],
         "mentions": [],
         "filtered_text": "FINALLY TWISTED TRANQUILT IS ON THE LIST AGAIN",
+        "without_stowords": [
+            "FINALLY",
+            "TWISTED",
+            "TRANQUILT",
+            "IS",
+            "ON",
+            "THE",
+            "LIST",
+            "AGAIN"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6587,6 +9302,9 @@
             }
         ],
         "filtered_text": "thanks",
+        "without_stowords": [
+            "thanks"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6611,6 +9329,9 @@
             }
         ],
         "filtered_text": "Inbox",
+        "without_stowords": [
+            "Inbox"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6635,6 +9356,21 @@
             }
         ],
         "filtered_text": "RT : I H A T E S U M M E R",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "H",
+            "A",
+            "T",
+            "E",
+            "S",
+            "U",
+            "M",
+            "M",
+            "E",
+            "R"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6659,6 +9395,23 @@
             }
         ],
         "filtered_text": "RT : No one: absolutely no one:.. Me:.. https://t.co/K4qpX48NxN",
+        "without_stowords": [
+            "RT",
+            ":",
+            "No",
+            "one",
+            ":",
+            "absolutely",
+            "one",
+            ":",
+            "..",
+            "Me",
+            ":",
+            "..",
+            "https",
+            ":",
+            "//t.co/K4qpX48NxN"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6683,6 +9436,28 @@
             }
         ],
         "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Update",
+            "1.4",
+            "30\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6712,6 +9487,29 @@
         ],
         "mentions": [],
         "filtered_text": "Blue. #cyanotype #cyanotypeart #blue #50shadesofblue #cyan #art #artist #artistsofinstagram @ Downtown Cairo",
+        "without_stowords": [
+            "Blue",
+            ".",
+            "#",
+            "cyanotype",
+            "#",
+            "cyanotypeart",
+            "#",
+            "blue",
+            "#",
+            "50shadesofblue",
+            "#",
+            "cyan",
+            "#",
+            "art",
+            "#",
+            "artist",
+            "#",
+            "artistsofinstagram",
+            "@",
+            "Downtown",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6746,6 +9544,21 @@
             }
         ],
         "filtered_text": "A magnitude 6.8 earthquake struck off the northwest coast of Japan, triggering a tsunami advisory via",
+        "without_stowords": [
+            "A",
+            "magnitude",
+            "6.8",
+            "earthquake",
+            "struck",
+            "northwest",
+            "coast",
+            "Japan",
+            ",",
+            "triggering",
+            "tsunami",
+            "advisory",
+            "via"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6786,6 +9599,19 @@
             }
         ],
         "filtered_text": "A dit #eventsrdc #toujoursderrierelesleopards #EzakakaFin #Tosangana243 tout_puissant_mazembe\u2026",
+        "without_stowords": [
+            "A",
+            "dit",
+            "#",
+            "eventsrdc",
+            "#",
+            "toujoursderrierelesleopards",
+            "#",
+            "EzakakaFin",
+            "#",
+            "Tosangana243",
+            "tout_puissant_mazembe\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6826,6 +9652,19 @@
             }
         ],
         "filtered_text": "A dit #eventsrdc #toujoursderrierelesleopards #EzakakaFin #Tosangana243 tout_puissant_mazembe\u2026",
+        "without_stowords": [
+            "A",
+            "dit",
+            "#",
+            "eventsrdc",
+            "#",
+            "toujoursderrierelesleopards",
+            "#",
+            "EzakakaFin",
+            "#",
+            "Tosangana243",
+            "tout_puissant_mazembe\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6850,6 +9689,28 @@
             }
         ],
         "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Update",
+            "1.4",
+            "30\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6879,6 +9740,20 @@
         ],
         "mentions": [],
         "filtered_text": "Egypt \ud83c\uddea\ud83c\uddec vs DR Congo \ud83c\udde8\ud83c\udde9 #afcon2019 @ Cairo International Stadium",
+        "without_stowords": [
+            "Egypt",
+            "\ud83c\uddea\ud83c\uddec",
+            "vs",
+            "DR",
+            "Congo",
+            "\ud83c\udde8\ud83c\udde9",
+            "#",
+            "afcon2019",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6908,6 +9783,34 @@
         ],
         "mentions": [],
         "filtered_text": "65 \ud83d\udc55 40 \u26bd\ufe0f 22 \ud83c\udd70\ufe0f Will mosalah lead Egypt to afcon2019 glory ? . . .#tannatalkssoccer #ttsszn #tts #salah #mosalah\u2026",
+        "without_stowords": [
+            "65",
+            "\ud83d\udc55",
+            "40",
+            "\u26bd\ufe0f",
+            "22",
+            "\ud83c\udd70\ufe0f",
+            "Will",
+            "mosalah",
+            "lead",
+            "Egypt",
+            "afcon2019",
+            "glory",
+            "?",
+            ".",
+            ".",
+            ".",
+            "#",
+            "tannatalkssoccer",
+            "#",
+            "ttsszn",
+            "#",
+            "tts",
+            "#",
+            "salah",
+            "#",
+            "mosalah\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6921,6 +9824,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "You need to grow up",
+        "without_stowords": [
+            "You",
+            "need",
+            "grow"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6950,6 +9858,15 @@
         ],
         "mentions": [],
         "filtered_text": "Been having such a good timr @ Cairo, Egypt",
+        "without_stowords": [
+            "Been",
+            "good",
+            "timr",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6973,6 +9890,11 @@
         ],
         "mentions": [],
         "filtered_text": "Good morning \u2728",
+        "without_stowords": [
+            "Good",
+            "morning",
+            "\u2728"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -6992,6 +9914,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 37\u00b0C 21% humidity, wind 3kmh, pressure 1009mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "37\u00b0C",
+            "21",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "3kmh",
+            ",",
+            "pressure",
+            "1009mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7016,6 +9957,16 @@
             }
         ],
         "filtered_text": "Again And again thank you radwa &lt;3",
+        "without_stowords": [
+            "Again",
+            "And",
+            "thank",
+            "radwa",
+            "&",
+            "lt",
+            ";",
+            "3"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7040,6 +9991,10 @@
             }
         ],
         "filtered_text": "Thank you \ud83d\ude0d",
+        "without_stowords": [
+            "Thank",
+            "\ud83d\ude0d"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7064,6 +10019,19 @@
             }
         ],
         "filtered_text": "Thank you ya nada.. Hya de al wish elly bn7ab nsm3ha \ud83d\ude0d\ud83d\ude02",
+        "without_stowords": [
+            "Thank",
+            "ya",
+            "nada..",
+            "Hya",
+            "de",
+            "al",
+            "wish",
+            "elly",
+            "bn7ab",
+            "nsm3ha",
+            "\ud83d\ude0d\ud83d\ude02"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7093,6 +10061,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7127,6 +10104,9 @@
             }
         ],
         "filtered_text": "Poor",
+        "without_stowords": [
+            "Poor"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7156,6 +10136,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7185,6 +10174,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a video @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "video",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7214,6 +10212,12 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83d\udd7a\ud83c\udffc @ The WaterWay",
+        "without_stowords": [
+            "\ud83d\udd7a\ud83c\udffc",
+            "@",
+            "The",
+            "WaterWay"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7227,6 +10231,19 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I wish I can forget it all one day, to have the capability of letting it all go.",
+        "without_stowords": [
+            "I",
+            "wish",
+            "I",
+            "forget",
+            "one",
+            "day",
+            ",",
+            "capability",
+            "letting",
+            "go",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7256,6 +10273,21 @@
         ],
         "mentions": [],
         "filtered_text": "#TbT were time was fun &amp; also the sun @ Cairo, Egypt",
+        "without_stowords": [
+            "#",
+            "TbT",
+            "time",
+            "fun",
+            "&",
+            "amp",
+            ";",
+            "also",
+            "sun",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7306,6 +10338,29 @@
             }
         ],
         "filtered_text": "#BlackRaine is COMING VERY SOON! Produced by: \ud83c\udfb9: lexx_darkstar The King &amp; I... \u25b6\ud83d\udd0a #NDVID\u2026",
+        "without_stowords": [
+            "#",
+            "BlackRaine",
+            "COMING",
+            "VERY",
+            "SOON",
+            "!",
+            "Produced",
+            ":",
+            "\ud83c\udfb9",
+            ":",
+            "lexx_darkstar",
+            "The",
+            "King",
+            "&",
+            "amp",
+            ";",
+            "I",
+            "...",
+            "\u25b6\ud83d\udd0a",
+            "#",
+            "NDVID\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7330,6 +10385,16 @@
             }
         ],
         "filtered_text": "RT : me when i N U T https://t.co/dYHxI7vT3l",
+        "without_stowords": [
+            "RT",
+            ":",
+            "N",
+            "U",
+            "T",
+            "https",
+            ":",
+            "//t.co/dYHxI7vT3l"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7364,6 +10429,10 @@
             }
         ],
         "filtered_text": "hope you like it",
+        "without_stowords": [
+            "hope",
+            "like"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7393,6 +10462,21 @@
         ],
         "mentions": [],
         "filtered_text": "Question: What would you do if this Banana Chocolate Chip Caramel Cake was in your kitchen at 1am and nobody was ar\u2026",
+        "without_stowords": [
+            "Question",
+            ":",
+            "What",
+            "would",
+            "Banana",
+            "Chocolate",
+            "Chip",
+            "Caramel",
+            "Cake",
+            "kitchen",
+            "1am",
+            "nobody",
+            "ar\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7406,6 +10490,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "follow back #\u0645\u0635\u0631_\u0627\u0644\u0643\u0648\u0646\u063a\u0648",
+        "without_stowords": [
+            "follow",
+            "back",
+            "#",
+            "\u0645\u0635\u0631_\u0627\u0644\u0643\u0648\u0646\u063a\u0648"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7444,6 +10534,24 @@
         ],
         "mentions": [],
         "filtered_text": "German club, ,Sudan Pure freestyle party The last rapper stand on stage Omdur hustlers did\u2026",
+        "without_stowords": [
+            "German",
+            "club",
+            ",",
+            ",",
+            "Sudan",
+            "Pure",
+            "freestyle",
+            "party",
+            "The",
+            "last",
+            "rapper",
+            "stand",
+            "stage",
+            "Omdur",
+            "hustlers",
+            "did\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7473,6 +10581,14 @@
         ],
         "mentions": [],
         "filtered_text": "Fast lane @ Cairo, Egypt",
+        "without_stowords": [
+            "Fast",
+            "lane",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7486,6 +10602,19 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I H A T E S U M M E R",
+        "without_stowords": [
+            "I",
+            "H",
+            "A",
+            "T",
+            "E",
+            "S",
+            "U",
+            "M",
+            "M",
+            "E",
+            "R"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7510,6 +10639,13 @@
             }
         ],
         "filtered_text": "Yk bro it really be like that sometimes",
+        "without_stowords": [
+            "Yk",
+            "bro",
+            "really",
+            "like",
+            "sometimes"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7523,6 +10659,24 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "The Godfather: Part III (1990) dir. Francis Ford Coppola https://t.co/OXMBspX4RK",
+        "without_stowords": [
+            "The",
+            "Godfather",
+            ":",
+            "Part",
+            "III",
+            "(",
+            "1990",
+            ")",
+            "dir",
+            ".",
+            "Francis",
+            "Ford",
+            "Coppola",
+            "https",
+            ":",
+            "//t.co/OXMBspX4RK"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7536,6 +10690,17 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "You are the better part of every bit of beating heart that I have.",
+        "without_stowords": [
+            "You",
+            "better",
+            "part",
+            "every",
+            "bit",
+            "beating",
+            "heart",
+            "I",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7549,6 +10714,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I saw the part of you that only when you're older you will see too.",
+        "without_stowords": [
+            "I",
+            "saw",
+            "part",
+            "'re",
+            "older",
+            "see",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7578,6 +10752,17 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83c\udfc6Congratulations to #Egypt \ud83c\uddea\ud83c\uddec# @ Cairo International Stadium",
+        "without_stowords": [
+            "\ud83c\udfc6Congratulations",
+            "#",
+            "Egypt",
+            "\ud83c\uddea\ud83c\uddec",
+            "#",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7612,6 +10797,13 @@
             }
         ],
         "filtered_text": "dont ruin the epic moment soulax",
+        "without_stowords": [
+            "dont",
+            "ruin",
+            "epic",
+            "moment",
+            "soulax"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7636,6 +10828,12 @@
             }
         ],
         "filtered_text": "why are you charging up your swear words?",
+        "without_stowords": [
+            "charging",
+            "swear",
+            "words",
+            "?"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7670,6 +10868,15 @@
             }
         ],
         "filtered_text": "this looks like something alkali would make ngl",
+        "without_stowords": [
+            "looks",
+            "like",
+            "something",
+            "alkali",
+            "would",
+            "make",
+            "ngl"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7704,6 +10911,10 @@
             }
         ],
         "filtered_text": "thanks obama",
+        "without_stowords": [
+            "thanks",
+            "obama"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7728,6 +10939,14 @@
             }
         ],
         "filtered_text": "RT : one real person is enough",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            "real",
+            "person",
+            "enough"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7752,6 +10971,14 @@
             }
         ],
         "filtered_text": "RT : one real person is enough",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            "real",
+            "person",
+            "enough"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7776,6 +11003,14 @@
             }
         ],
         "filtered_text": "RT : one real person is enough",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            "real",
+            "person",
+            "enough"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7800,6 +11035,28 @@
             }
         ],
         "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Update",
+            "1.4",
+            "30\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7823,6 +11080,24 @@
         ],
         "mentions": [],
         "filtered_text": "13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Up\u2026",
+        "without_stowords": [
+            "13.8.2013",
+            "Geometry",
+            "Dash",
+            "released",
+            "!",
+            "10.9.2013",
+            "Update",
+            "1.1",
+            "17.10.2013",
+            "Update",
+            "1.2",
+            "20.11.2013",
+            "Update",
+            "1.3",
+            "26.12.2013",
+            "Up\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7847,6 +11122,9 @@
             }
         ],
         "filtered_text": "same tbh",
+        "without_stowords": [
+            "tbh"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7876,6 +11154,15 @@
         ],
         "mentions": [],
         "filtered_text": "To be continued \ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec @ Cairo International Stadium",
+        "without_stowords": [
+            "To",
+            "continued",
+            "\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7889,6 +11176,26 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddec in the #TotalAFCON2019 against DR Congo \ud83c\udde8\ud83c\udde9! Go Egypt! #EGYDRC #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Pharaohs",
+            "\ud83c\uddea\ud83c\uddec",
+            "#",
+            "TotalAFCON2019",
+            "DR",
+            "Congo",
+            "\ud83c\udde8\ud83c\udde9",
+            "!",
+            "Go",
+            "Egypt",
+            "!",
+            "#",
+            "EGYDRC",
+            "#",
+            "FootballTogether"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7933,6 +11240,10 @@
             }
         ],
         "filtered_text": "everybody sucks",
+        "without_stowords": [
+            "everybody",
+            "sucks"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -7977,6 +11288,15 @@
             }
         ],
         "filtered_text": "this reminds me of the getting robbed? just say no. meme",
+        "without_stowords": [
+            "reminds",
+            "getting",
+            "robbed",
+            "?",
+            "say",
+            ".",
+            "meme"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8011,6 +11331,14 @@
             }
         ],
         "filtered_text": "RT : funny. did laugh.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "funny",
+            ".",
+            "laugh",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8035,6 +11363,12 @@
             }
         ],
         "filtered_text": "funny. did laugh.",
+        "without_stowords": [
+            "funny",
+            ".",
+            "laugh",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8048,6 +11382,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "You don't own me ..",
+        "without_stowords": [
+            "You",
+            "n't",
+            ".."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8061,6 +11400,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Now ... I\u2019m officially a graduate \ud83c\udf93\u2764\ufe0f\ud83d\udc83\ud83d\ude09",
+        "without_stowords": [
+            "Now",
+            "...",
+            "I",
+            "\u2019",
+            "officially",
+            "graduate",
+            "\ud83c\udf93\u2764\ufe0f\ud83d\udc83\ud83d\ude09"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8090,6 +11438,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8113,6 +11470,10 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83d\ude02 warda\ud83d\ude02",
+        "without_stowords": [
+            "\ud83d\ude02",
+            "warda\ud83d\ude02"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8126,6 +11487,9 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Aspany99",
+        "without_stowords": [
+            "Aspany99"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8149,6 +11513,11 @@
         ],
         "mentions": [],
         "filtered_text": "Ask me anything!",
+        "without_stowords": [
+            "Ask",
+            "anything",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8178,6 +11547,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8212,6 +11590,15 @@
             }
         ],
         "filtered_text": "RT : Every time i see my crush \u261d\ud83c\udffb\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Every",
+            "time",
+            "see",
+            "crush",
+            "\u261d\ud83c\udffb\ud83d\ude02"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8241,6 +11628,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a video @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "video",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8270,6 +11666,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo International Stadium",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            "International",
+            "Stadium"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8299,6 +11704,26 @@
         ],
         "mentions": [],
         "filtered_text": "\ud835\ude20\ud835\ude22 \ud835\ude14\ud835\ude22\ud835\ude2b\ud835\ude26\ud835\ude26\ud835\ude25, \ud835\ude12\ud835\ude26\ud835\ude26\ud835\ude31 \ud835\ude2e\ud835\ude26 \ud835\ude36\ud835\ude2f\ud835\ude25\ud835\ude26\ud835\ude33 \ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33 \ud835\ude14\ud835\ude26\ud835\ude33\ud835\ude24\ud835\ude3a\u2019\ud835\ude34 \ud835\ude1a\ud835\ude29\ud835\ude22\ud835\ude25\ud835\ude26 Ameen\ud83e\udde1\ud83e\udd32\ud83c\udffb\u2063 \u2063 This beautiful dua is in the fuego nasheed\u2026",
+        "without_stowords": [
+            "\ud835\ude20\ud835\ude22",
+            "\ud835\ude14\ud835\ude22\ud835\ude2b\ud835\ude26\ud835\ude26\ud835\ude25",
+            ",",
+            "\ud835\ude12\ud835\ude26\ud835\ude26\ud835\ude31",
+            "\ud835\ude2e\ud835\ude26",
+            "\ud835\ude36\ud835\ude2f\ud835\ude25\ud835\ude26\ud835\ude33",
+            "\ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33",
+            "\ud835\ude14\ud835\ude26\ud835\ude33\ud835\ude24\ud835\ude3a",
+            "\u2019",
+            "\ud835\ude34",
+            "\ud835\ude1a\ud835\ude29\ud835\ude22\ud835\ude25\ud835\ude26",
+            "Ameen\ud83e\udde1\ud83e\udd32\ud83c\udffb\u2063",
+            "\u2063",
+            "This",
+            "beautiful",
+            "dua",
+            "fuego",
+            "nasheed\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8312,6 +11737,17 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "TIME RIDE TORNADO HIDE USA LAND BY ONCE \ud83c\udff4\ud83d\udd3a\u261b\u267c",
+        "without_stowords": [
+            "TIME",
+            "RIDE",
+            "TORNADO",
+            "HIDE",
+            "USA",
+            "LAND",
+            "BY",
+            "ONCE",
+            "\ud83c\udff4\ud83d\udd3a\u261b\u267c"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8336,6 +11772,27 @@
             }
         ],
         "filtered_text": "RT : Anyone noticing massive battery drain after chimera ios 12 ? It shows that mobile.lockdown is causing that. There\u2019s worka\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Anyone",
+            "noticing",
+            "massive",
+            "battery",
+            "drain",
+            "chimera",
+            "ios",
+            "12",
+            "?",
+            "It",
+            "shows",
+            "mobile.lockdown",
+            "causing",
+            ".",
+            "There",
+            "\u2019",
+            "worka\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8370,6 +11827,11 @@
             }
         ],
         "filtered_text": "as old as my hatred for anime*",
+        "without_stowords": [
+            "old",
+            "hatred",
+            "anime*"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8404,6 +11866,11 @@
             }
         ],
         "filtered_text": "no this is as old as his love for anime",
+        "without_stowords": [
+            "old",
+            "love",
+            "anime"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8433,6 +11900,25 @@
         ],
         "mentions": [],
         "filtered_text": "All the very best to our National Team \u2014 The Uganda Cranes at the #AFCON2019. Raise our flag high, cheering you on\u2026",
+        "without_stowords": [
+            "All",
+            "best",
+            "National",
+            "Team",
+            "\u2014",
+            "The",
+            "Uganda",
+            "Cranes",
+            "#",
+            "AFCON2019",
+            ".",
+            "Raise",
+            "flag",
+            "high",
+            ",",
+            "cheering",
+            "on\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8462,6 +11948,22 @@
         ],
         "mentions": [],
         "filtered_text": "21.06.2019 #Show #operations and #technical standing by, minutes before the big bang that was the #OpeningCeremony\u2026",
+        "without_stowords": [
+            "21.06.2019",
+            "#",
+            "Show",
+            "#",
+            "operations",
+            "#",
+            "technical",
+            "standing",
+            ",",
+            "minutes",
+            "big",
+            "bang",
+            "#",
+            "OpeningCeremony\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8486,6 +11988,9 @@
             }
         ],
         "filtered_text": "is he nutting",
+        "without_stowords": [
+            "nutting"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8520,6 +12025,12 @@
             }
         ],
         "filtered_text": "no, but my tweet would be accurate by then",
+        "without_stowords": [
+            ",",
+            "tweet",
+            "would",
+            "accurate"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8544,6 +12055,14 @@
             }
         ],
         "filtered_text": "RT : one real person is enough",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            "real",
+            "person",
+            "enough"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8567,6 +12086,12 @@
         ],
         "mentions": [],
         "filtered_text": "The Beatles Greatest Hits",
+        "without_stowords": [
+            "The",
+            "Beatles",
+            "Greatest",
+            "Hits"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8590,6 +12115,20 @@
         ],
         "mentions": [],
         "filtered_text": "And gonna to stay best series ever released with awesome variety of characters \u2764\ufe0f\u2764\ufe0f",
+        "without_stowords": [
+            "And",
+            "gon",
+            "na",
+            "stay",
+            "best",
+            "series",
+            "ever",
+            "released",
+            "awesome",
+            "variety",
+            "characters",
+            "\u2764\ufe0f\u2764\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8630,6 +12169,22 @@
             }
         ],
         "filtered_text": "Our best wishes to the out in Egypt at the #AFCON2019 tournament. Go Cranes, cheering you on, our bo\u2026",
+        "without_stowords": [
+            "Our",
+            "best",
+            "wishes",
+            "Egypt",
+            "#",
+            "AFCON2019",
+            "tournament",
+            ".",
+            "Go",
+            "Cranes",
+            ",",
+            "cheering",
+            ",",
+            "bo\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8659,6 +12214,17 @@
         ],
         "mentions": [],
         "filtered_text": "#Lets go boys \ud83c\uddff\ud83c\uddfc\ud83c\uddfa\ud83c\uddec @ Cairo, Egypt",
+        "without_stowords": [
+            "#",
+            "Lets",
+            "go",
+            "boys",
+            "\ud83c\uddff\ud83c\uddfc\ud83c\uddfa\ud83c\uddec",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8688,6 +12254,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8712,6 +12287,10 @@
             }
         ],
         "filtered_text": "time to piss you off then",
+        "without_stowords": [
+            "time",
+            "piss"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8741,6 +12320,27 @@
         ],
         "mentions": [],
         "filtered_text": "Sometimes it's hard to face reality. . #shotoniphone #shootoniphone #vsco #vscocam #vscocam_my #potrait\u2026",
+        "without_stowords": [
+            "Sometimes",
+            "'s",
+            "hard",
+            "face",
+            "reality",
+            ".",
+            ".",
+            "#",
+            "shotoniphone",
+            "#",
+            "shootoniphone",
+            "#",
+            "vsco",
+            "#",
+            "vscocam",
+            "#",
+            "vscocam_my",
+            "#",
+            "potrait\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8764,6 +12364,17 @@
         ],
         "mentions": [],
         "filtered_text": "Hotel california Inta omri THE AB BROTHERS Mashup remix",
+        "without_stowords": [
+            "Hotel",
+            "california",
+            "Inta",
+            "omri",
+            "THE",
+            "AB",
+            "BROTHERS",
+            "Mashup",
+            "remix"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8798,6 +12409,12 @@
             }
         ],
         "filtered_text": "The best ever in the world",
+        "without_stowords": [
+            "The",
+            "best",
+            "ever",
+            "world"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8822,6 +12439,14 @@
             }
         ],
         "filtered_text": "RT : why is pennutoh sending me gay porn",
+        "without_stowords": [
+            "RT",
+            ":",
+            "pennutoh",
+            "sending",
+            "gay",
+            "porn"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8835,6 +12460,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "why is pennutoh sending me gay porn",
+        "without_stowords": [
+            "pennutoh",
+            "sending",
+            "gay",
+            "porn"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8859,6 +12490,14 @@
             }
         ],
         "filtered_text": "RT : kpop stans reproduce asexually",
+        "without_stowords": [
+            "RT",
+            ":",
+            "kpop",
+            "stans",
+            "reproduce",
+            "asexually"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8888,6 +12527,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8917,6 +12565,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8936,6 +12593,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 37\u00b0C 20% humidity, wind 3kmh, pressure 1010mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "37\u00b0C",
+            "20",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "3kmh",
+            ",",
+            "pressure",
+            "1010mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8959,6 +12635,20 @@
         ],
         "mentions": [],
         "filtered_text": "Tap the link and return to the battlefield! Invitation Code: 98MQ7V https://t.co/UUXBxLUeqQ",
+        "without_stowords": [
+            "Tap",
+            "link",
+            "return",
+            "battlefield",
+            "!",
+            "Invitation",
+            "Code",
+            ":",
+            "98MQ7V",
+            "https",
+            ":",
+            "//t.co/UUXBxLUeqQ"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -8982,6 +12672,20 @@
         ],
         "mentions": [],
         "filtered_text": "Tap the link and return to the battlefield! Invitation Code: 98MQ7V https://t.co/j93X4iDci9",
+        "without_stowords": [
+            "Tap",
+            "link",
+            "return",
+            "battlefield",
+            "!",
+            "Invitation",
+            "Code",
+            ":",
+            "98MQ7V",
+            "https",
+            ":",
+            "//t.co/j93X4iDci9"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9011,6 +12715,20 @@
         ],
         "mentions": [],
         "filtered_text": "A gorgeous 38\u00b0c here just outside Cairo today! #noneedforraincoatshere @ Cairo Governorate",
+        "without_stowords": [
+            "A",
+            "gorgeous",
+            "38\u00b0c",
+            "outside",
+            "Cairo",
+            "today",
+            "!",
+            "#",
+            "noneedforraincoatshere",
+            "@",
+            "Cairo",
+            "Governorate"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9055,6 +12773,10 @@
             }
         ],
         "filtered_text": "shut the fuck up",
+        "without_stowords": [
+            "shut",
+            "fuck"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9079,6 +12801,10 @@
             }
         ],
         "filtered_text": "Come Greece\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "without_stowords": [
+            "Come",
+            "Greece\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9103,6 +12829,14 @@
             }
         ],
         "filtered_text": "RT : kpop stans reproduce asexually",
+        "without_stowords": [
+            "RT",
+            ":",
+            "kpop",
+            "stans",
+            "reproduce",
+            "asexually"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9126,6 +12860,11 @@
         ],
         "mentions": [],
         "filtered_text": "Ask me anything!",
+        "without_stowords": [
+            "Ask",
+            "anything",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9150,6 +12889,13 @@
             }
         ],
         "filtered_text": "RT : Celestial Force 2",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Celestial",
+            "Force",
+            "2"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9190,6 +12936,17 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City Sky Pool - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "Sky",
+            "Pool",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9219,6 +12976,15 @@
         ],
         "mentions": [],
         "filtered_text": "Out and about #afcon2019 @ Cairo, Egypt",
+        "without_stowords": [
+            "Out",
+            "#",
+            "afcon2019",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9253,6 +13019,20 @@
             }
         ],
         "filtered_text": "So tell me are u doing what you love or u are just wasting your God damn time in shit place with so ma\u2026",
+        "without_stowords": [
+            "So",
+            "tell",
+            "u",
+            "love",
+            "u",
+            "wasting",
+            "God",
+            "damn",
+            "time",
+            "shit",
+            "place",
+            "ma\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9282,6 +13062,23 @@
         ],
         "mentions": [],
         "filtered_text": "Privileged to spend some time at #afcon2019 and see some #football; and a necessary visit to a pile of stones.....\ud83d\ude09\u2026",
+        "without_stowords": [
+            "Privileged",
+            "spend",
+            "time",
+            "#",
+            "afcon2019",
+            "see",
+            "#",
+            "football",
+            ";",
+            "necessary",
+            "visit",
+            "pile",
+            "stones",
+            "...",
+            "..\ud83d\ude09\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9322,6 +13119,22 @@
             }
         ],
         "filtered_text": "Our best wishes to the out in Egypt at the #AFCON2019 tournament. Go Cranes, cheering you on, our bo\u2026",
+        "without_stowords": [
+            "Our",
+            "best",
+            "wishes",
+            "Egypt",
+            "#",
+            "AFCON2019",
+            "tournament",
+            ".",
+            "Go",
+            "Cranes",
+            ",",
+            "cheering",
+            ",",
+            "bo\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9346,6 +13159,23 @@
             }
         ],
         "filtered_text": "RT : Think i'll miss you forever like the stars miss the sun in the morning sky _lana del rey",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Think",
+            "'ll",
+            "miss",
+            "forever",
+            "like",
+            "stars",
+            "miss",
+            "sun",
+            "morning",
+            "sky",
+            "_lana",
+            "del",
+            "rey"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9370,6 +13200,21 @@
             }
         ],
         "filtered_text": "RT : i didn't love and i won't love someone like you! and no one loves you more than me!",
+        "without_stowords": [
+            "RT",
+            ":",
+            "n't",
+            "love",
+            "wo",
+            "n't",
+            "love",
+            "someone",
+            "like",
+            "!",
+            "one",
+            "loves",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9394,6 +13239,15 @@
             }
         ],
         "filtered_text": "RT : loving you is hard being here is harder #LanaDelRey",
+        "without_stowords": [
+            "RT",
+            ":",
+            "loving",
+            "hard",
+            "harder",
+            "#",
+            "LanaDelRey"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9413,6 +13267,25 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "current weather in Cairo: clear sky, 27\u00b0C 65% humidity, wind 3kmh, pressure 1010mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "27\u00b0C",
+            "65",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "3kmh",
+            ",",
+            "pressure",
+            "1010mb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9432,6 +13305,15 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Cairo: 5:55am: sunrise sunset will be at 7:59pm",
+        "without_stowords": [
+            "Cairo",
+            ":",
+            "5:55am",
+            ":",
+            "sunrise",
+            "sunset",
+            "7:59pm"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9445,6 +13327,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "back #\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645",
+        "without_stowords": [
+            "back",
+            "#",
+            "\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9458,6 +13345,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "follow back #\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645",
+        "without_stowords": [
+            "follow",
+            "back",
+            "#",
+            "\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9482,6 +13375,16 @@
             }
         ],
         "filtered_text": "RT : History of footwear . https://t.co/K3vh3C5mEO",
+        "without_stowords": [
+            "RT",
+            ":",
+            "History",
+            "footwear",
+            ".",
+            "https",
+            ":",
+            "//t.co/K3vh3C5mEO"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9495,6 +13398,19 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Baby tell me one more beautiful lia, one tach and I Ignite.",
+        "without_stowords": [
+            "Baby",
+            "tell",
+            "one",
+            "beautiful",
+            "lia",
+            ",",
+            "one",
+            "tach",
+            "I",
+            "Ignite",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9508,6 +13424,14 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Let the darkness lead us into the light.",
+        "without_stowords": [
+            "Let",
+            "darkness",
+            "lead",
+            "us",
+            "light",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9521,6 +13445,26 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Soon I will be sixty years old, dady got sixty one remember life and thin your life becomes a big one.",
+        "without_stowords": [
+            "Soon",
+            "I",
+            "sixty",
+            "years",
+            "old",
+            ",",
+            "dady",
+            "got",
+            "sixty",
+            "one",
+            "remember",
+            "life",
+            "thin",
+            "life",
+            "becomes",
+            "big",
+            "one",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9534,6 +13478,22 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Once I was 11 years old, dady told me go, get yourself a wife or you be lonely.",
+        "without_stowords": [
+            "Once",
+            "I",
+            "11",
+            "years",
+            "old",
+            ",",
+            "dady",
+            "told",
+            "go",
+            ",",
+            "get",
+            "wife",
+            "lonely",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9547,6 +13507,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "bacck #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
+        "without_stowords": [
+            "bacck",
+            "#",
+            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9576,6 +13541,21 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at Towers Mall - Fairmont Nile City in Bulaq, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Towers",
+            "Mall",
+            "-",
+            "Fairmont",
+            "Nile",
+            "City",
+            "Bulaq",
+            ",",
+            "Mu\u1e29\u0101faz\u0327at",
+            "al",
+            "Q\u0101hirah"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9600,6 +13580,15 @@
             }
         ],
         "filtered_text": "im sry for ur lost God with u \ud83d\ude14",
+        "without_stowords": [
+            "im",
+            "sry",
+            "ur",
+            "lost",
+            "God",
+            "u",
+            "\ud83d\ude14"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9623,6 +13612,18 @@
         ],
         "mentions": [],
         "filtered_text": "Egypt: Chilling wave of arbitrary arrests as authorities intensify crackdown on critics",
+        "without_stowords": [
+            "Egypt",
+            ":",
+            "Chilling",
+            "wave",
+            "arbitrary",
+            "arrests",
+            "authorities",
+            "intensify",
+            "crackdown",
+            "critics"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9652,6 +13653,18 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo w/ @anooselsalem",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            "w/",
+            "@",
+            "anooselsalem"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9681,6 +13694,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9694,6 +13716,10 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "depressed at my bed",
+        "without_stowords": [
+            "depressed",
+            "bed"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9723,6 +13749,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9747,6 +13782,17 @@
             }
         ],
         "filtered_text": "RT : what exen really does while his bot is playing https://t.co/IGzs5TvQuA",
+        "without_stowords": [
+            "RT",
+            ":",
+            "exen",
+            "really",
+            "bot",
+            "playing",
+            "https",
+            ":",
+            "//t.co/IGzs5TvQuA"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9771,6 +13817,23 @@
             }
         ],
         "filtered_text": "RT : And i realise this fact every night when i feel like i just need someone to hug me till i fall asleep",
+        "without_stowords": [
+            "RT",
+            ":",
+            "And",
+            "realise",
+            "fact",
+            "every",
+            "night",
+            "feel",
+            "like",
+            "need",
+            "someone",
+            "hug",
+            "till",
+            "fall",
+            "asleep"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9784,6 +13847,21 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "And i realise this fact every night when i feel like i just need someone to hug me till i fall asleep",
+        "without_stowords": [
+            "And",
+            "realise",
+            "fact",
+            "every",
+            "night",
+            "feel",
+            "like",
+            "need",
+            "someone",
+            "hug",
+            "till",
+            "fall",
+            "asleep"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9797,6 +13875,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "When the hell did i become so fragile!",
+        "without_stowords": [
+            "When",
+            "hell",
+            "become",
+            "fragile",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9837,6 +13922,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9861,6 +13955,28 @@
             }
         ],
         "filtered_text": "RT : what if your thirst for blood continued? Very well, let the blood spill. Let the demons feed off your unfortunate soul... but\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "thirst",
+            "blood",
+            "continued",
+            "?",
+            "Very",
+            "well",
+            ",",
+            "let",
+            "blood",
+            "spill",
+            ".",
+            "Let",
+            "demons",
+            "feed",
+            "unfortunate",
+            "soul",
+            "...",
+            "but\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9874,6 +13990,14 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "My inner light keeps fading.",
+        "without_stowords": [
+            "My",
+            "inner",
+            "light",
+            "keeps",
+            "fading",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9898,6 +14022,15 @@
             }
         ],
         "filtered_text": "RT : when you see food https://t.co/0cP0E3a7I0",
+        "without_stowords": [
+            "RT",
+            ":",
+            "see",
+            "food",
+            "https",
+            ":",
+            "//t.co/0cP0E3a7I0"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9932,6 +14065,10 @@
             }
         ],
         "filtered_text": "how lol dm me",
+        "without_stowords": [
+            "lol",
+            "dm"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9945,6 +14082,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "kpop stans reproduce asexually",
+        "without_stowords": [
+            "kpop",
+            "stans",
+            "reproduce",
+            "asexually"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9979,6 +14122,9 @@
             }
         ],
         "filtered_text": "what happened",
+        "without_stowords": [
+            "happened"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -9992,6 +14138,14 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "My 25th birthday https://t.co/X0NlVjnTKJ",
+        "without_stowords": [
+            "My",
+            "25th",
+            "birthday",
+            "https",
+            ":",
+            "//t.co/X0NlVjnTKJ"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10005,6 +14159,11 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Some changes ..",
+        "without_stowords": [
+            "Some",
+            "changes",
+            ".."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10034,6 +14193,24 @@
         ],
         "mentions": [],
         "filtered_text": "Ancient walls and incredible light just before sunset at Bab Al Futuh (The Gate of Conquest) in center of Old Cairo\u2026",
+        "without_stowords": [
+            "Ancient",
+            "walls",
+            "incredible",
+            "light",
+            "sunset",
+            "Bab",
+            "Al",
+            "Futuh",
+            "(",
+            "The",
+            "Gate",
+            "Conquest",
+            ")",
+            "center",
+            "Old",
+            "Cairo\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10074,6 +14251,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10087,6 +14273,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "1000.oo GOOD B Y E",
+        "without_stowords": [
+            "1000.oo",
+            "GOOD",
+            "B",
+            "Y",
+            "E"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10100,6 +14293,16 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I think that, the eyes show what the heart hides.",
+        "without_stowords": [
+            "I",
+            "think",
+            ",",
+            "eyes",
+            "show",
+            "heart",
+            "hides",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10140,6 +14343,27 @@
             }
         ],
         "filtered_text": "Happy Birthday to my Golden Goddess! She gracefully creates, and keeps me tame. I love you. \ud83d\udc9b . . E\u2026",
+        "without_stowords": [
+            "Happy",
+            "Birthday",
+            "Golden",
+            "Goddess",
+            "!",
+            "She",
+            "gracefully",
+            "creates",
+            ",",
+            "keeps",
+            "tame",
+            ".",
+            "I",
+            "love",
+            ".",
+            "\ud83d\udc9b",
+            ".",
+            ".",
+            "E\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10163,6 +14387,11 @@
         ],
         "mentions": [],
         "filtered_text": "My all time insecurity",
+        "without_stowords": [
+            "My",
+            "time",
+            "insecurity"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10186,6 +14415,12 @@
         ],
         "mentions": [],
         "filtered_text": "Red right hand \ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f",
+        "without_stowords": [
+            "Red",
+            "right",
+            "hand",
+            "\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10220,6 +14455,10 @@
             }
         ],
         "filtered_text": "Me too\ud83d\ude13\ud83d\ude22",
+        "without_stowords": [
+            "Me",
+            "too\ud83d\ude13\ud83d\ude22"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10233,6 +14472,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "What i have survived might kill you",
+        "without_stowords": [
+            "What",
+            "survived",
+            "might",
+            "kill"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10256,6 +14501,13 @@
         ],
         "mentions": [],
         "filtered_text": "Menna Nagui i know it will be u \u2764\ufe0f",
+        "without_stowords": [
+            "Menna",
+            "Nagui",
+            "know",
+            "u",
+            "\u2764\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10296,6 +14548,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10325,6 +14586,28 @@
         ],
         "mentions": [],
         "filtered_text": "Embracing change. \u0633\u0644\u0627\u0645 \u0645\u0639\u0643\u0645 \ud83d\ude4f\ud83c\udffd\u2063\u2063\u2063 \u2063\u2063\u2063 Such a beautiful mosque!\u2063\u2063\u2063 \u2063\u2063\u2063 \u2063\u2063\u2063 Since its founding in 907 AD, it is an\u2026",
+        "without_stowords": [
+            "Embracing",
+            "change",
+            ".",
+            "\u0633\u0644\u0627\u0645",
+            "\u0645\u0639\u0643\u0645",
+            "\ud83d\ude4f\ud83c\udffd\u2063\u2063\u2063",
+            "\u2063\u2063\u2063",
+            "Such",
+            "beautiful",
+            "mosque",
+            "!",
+            "\u2063\u2063\u2063",
+            "\u2063\u2063\u2063",
+            "\u2063\u2063\u2063",
+            "Since",
+            "founding",
+            "907",
+            "AD",
+            ",",
+            "an\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10338,6 +14621,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Tamer Ashour mood is ON\ud83d\udde1\u2665\ufe0f",
+        "without_stowords": [
+            "Tamer",
+            "Ashour",
+            "mood",
+            "ON\ud83d\udde1\u2665\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10351,6 +14640,12 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "But the heart wants what it wants",
+        "without_stowords": [
+            "But",
+            "heart",
+            "wants",
+            "wants"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10380,6 +14675,15 @@
         ],
         "mentions": [],
         "filtered_text": "Just posted a photo @ Startup Haus Cairo",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Startup",
+            "Haus",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10409,6 +14713,27 @@
         ],
         "mentions": [],
         "filtered_text": "My lovey students today! Thank you, Girls! Raqs of Course Festival! #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "My",
+            "lovey",
+            "students",
+            "today",
+            "!",
+            "Thank",
+            ",",
+            "Girls",
+            "!",
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10449,6 +14774,25 @@
             }
         ],
         "filtered_text": "My sister, my colleague, my idol, the great and unique (inspiring me for almoy30 years!) Raqs of Cou\u2026",
+        "without_stowords": [
+            "My",
+            "sister",
+            ",",
+            "colleague",
+            ",",
+            "idol",
+            ",",
+            "great",
+            "unique",
+            "(",
+            "inspiring",
+            "almoy30",
+            "years",
+            "!",
+            ")",
+            "Raqs",
+            "Cou\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10478,6 +14822,14 @@
         ],
         "mentions": [],
         "filtered_text": "Apple fanboys will love it @ Downtown Cairo",
+        "without_stowords": [
+            "Apple",
+            "fanboys",
+            "love",
+            "@",
+            "Downtown",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10507,6 +14859,26 @@
         ],
         "mentions": [],
         "filtered_text": "The wonderful azizacairo at Raqs of Course Festival! (OMG! \ud83d\ude0d) #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "The",
+            "wonderful",
+            "azizacairo",
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "(",
+            "OMG",
+            "!",
+            "\ud83d\ude0d",
+            ")",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10536,6 +14908,24 @@
         ],
         "mentions": [],
         "filtered_text": "Raqs of Course Festival! The great randakamelofficial \u2764\ufe0f #jadeeljabel #dancaarabe #dancadoventre #bellydancebrasil\u2026",
+        "without_stowords": [
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "The",
+            "great",
+            "randakamelofficial",
+            "\u2764\ufe0f",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre",
+            "#",
+            "bellydancebrasil\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10549,6 +14939,10 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "silent mood",
+        "without_stowords": [
+            "silent",
+            "mood"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10578,6 +14972,23 @@
         ],
         "mentions": [],
         "filtered_text": "\ud83d\udd25 Can love melt an icy heart \u2744? Tell me what you think \ud83d\udce3 @ Cairo, Egypt",
+        "without_stowords": [
+            "\ud83d\udd25",
+            "Can",
+            "love",
+            "melt",
+            "icy",
+            "heart",
+            "\u2744",
+            "?",
+            "Tell",
+            "think",
+            "\ud83d\udce3",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10591,6 +15002,10 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Hi gedo",
+        "without_stowords": [
+            "Hi",
+            "gedo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10615,6 +15030,21 @@
             }
         ],
         "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10655,6 +15085,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10679,6 +15118,21 @@
             }
         ],
         "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10708,6 +15162,29 @@
         ],
         "mentions": [],
         "filtered_text": "Meeting room with views over the #Nile #Cairo #hotel #design #architecture #egypt #africa @ Cairo, Egypt",
+        "without_stowords": [
+            "Meeting",
+            "room",
+            "views",
+            "#",
+            "Nile",
+            "#",
+            "Cairo",
+            "#",
+            "hotel",
+            "#",
+            "design",
+            "#",
+            "architecture",
+            "#",
+            "egypt",
+            "#",
+            "africa",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10737,6 +15214,12 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at Friends Center",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Friends",
+            "Center"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10766,6 +15249,21 @@
         ],
         "mentions": [],
         "filtered_text": "I very small visit to the capital does not mean skipping a smaller visit to The-Bro. @ Talaat Harb",
+        "without_stowords": [
+            "I",
+            "small",
+            "visit",
+            "capital",
+            "mean",
+            "skipping",
+            "smaller",
+            "visit",
+            "The-Bro",
+            ".",
+            "@",
+            "Talaat",
+            "Harb"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10790,6 +15288,10 @@
             }
         ],
         "filtered_text": "get getted",
+        "without_stowords": [
+            "get",
+            "getted"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10819,6 +15321,25 @@
         ],
         "mentions": [],
         "filtered_text": "With the \u201cLegend\u201d Mr. mogeddawi No Festival Raqs of Course 2019 #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "With",
+            "\u201c",
+            "Legend",
+            "\u201d",
+            "Mr.",
+            "mogeddawi",
+            "No",
+            "Festival",
+            "Raqs",
+            "Course",
+            "2019",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10843,6 +15364,15 @@
             }
         ],
         "filtered_text": "RT : it's peanut butter jelly time",
+        "without_stowords": [
+            "RT",
+            ":",
+            "'s",
+            "peanut",
+            "butter",
+            "jelly",
+            "time"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10872,6 +15402,26 @@
         ],
         "mentions": [],
         "filtered_text": "In Cairo about a week after the revolution ousted Mubarak. + + + + + #leica #streetphotography #filmphotography\u2026",
+        "without_stowords": [
+            "In",
+            "Cairo",
+            "week",
+            "revolution",
+            "ousted",
+            "Mubarak",
+            ".",
+            "+",
+            "+",
+            "+",
+            "+",
+            "+",
+            "#",
+            "leica",
+            "#",
+            "streetphotography",
+            "#",
+            "filmphotography\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10896,6 +15446,30 @@
             }
         ],
         "filtered_text": "RT : Channel: \"Rescue TB\" -He's a guy who fakes animal rescue videos in order to torture the animals. -if you watch them you can se\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Channel",
+            ":",
+            "``",
+            "Rescue",
+            "TB",
+            "''",
+            "-He",
+            "'s",
+            "guy",
+            "fakes",
+            "animal",
+            "rescue",
+            "videos",
+            "order",
+            "torture",
+            "animals",
+            ".",
+            "-if",
+            "watch",
+            "se\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10925,6 +15499,14 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at Department Of Neurosurgery in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Department",
+            "Of",
+            "Neurosurgery",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10948,6 +15530,26 @@
         ],
         "mentions": [],
         "filtered_text": "* * . * . * . * . * . * . . * * . *\u2026",
+        "without_stowords": [
+            "*",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            ".",
+            "*",
+            "*",
+            ".",
+            "*\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10972,6 +15574,15 @@
             }
         ],
         "filtered_text": "RT : it's peanut butter jelly time",
+        "without_stowords": [
+            "RT",
+            ":",
+            "'s",
+            "peanut",
+            "butter",
+            "jelly",
+            "time"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10985,6 +15596,26 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddec in the #TotalAFCON2019 against DR Congo \ud83c\udde8\ud83c\udde9! Go Egypt! #EGYDRC #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Pharaohs",
+            "\ud83c\uddea\ud83c\uddec",
+            "#",
+            "TotalAFCON2019",
+            "DR",
+            "Congo",
+            "\ud83c\udde8\ud83c\udde9",
+            "!",
+            "Go",
+            "Egypt",
+            "!",
+            "#",
+            "EGYDRC",
+            "#",
+            "FootballTogether"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -10998,6 +15629,13 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "it's peanut butter jelly time",
+        "without_stowords": [
+            "'s",
+            "peanut",
+            "butter",
+            "jelly",
+            "time"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11022,6 +15660,15 @@
             }
         ],
         "filtered_text": "Gronk 1v1 me im cracked add xero55 on epic",
+        "without_stowords": [
+            "Gronk",
+            "1v1",
+            "im",
+            "cracked",
+            "add",
+            "xero55",
+            "epic"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11046,6 +15693,21 @@
             }
         ],
         "filtered_text": "RT : He's been doing that for over a month now and it would be nice to report this bitch and stop his sick fetishes from being post\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "He",
+            "'s",
+            "month",
+            "would",
+            "nice",
+            "report",
+            "bitch",
+            "stop",
+            "sick",
+            "fetishes",
+            "post\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11070,6 +15732,30 @@
             }
         ],
         "filtered_text": "RT : Channel: \"Rescue TB\" -He's a guy who fakes animal rescue videos in order to torture the animals. -if you watch them you can se\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Channel",
+            ":",
+            "``",
+            "Rescue",
+            "TB",
+            "''",
+            "-He",
+            "'s",
+            "guy",
+            "fakes",
+            "animal",
+            "rescue",
+            "videos",
+            "order",
+            "torture",
+            "animals",
+            ".",
+            "-if",
+            "watch",
+            "se\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11094,6 +15780,16 @@
             }
         ],
         "filtered_text": "RT : me when i N U T https://t.co/dYHxI7vT3l",
+        "without_stowords": [
+            "RT",
+            ":",
+            "N",
+            "U",
+            "T",
+            "https",
+            ":",
+            "//t.co/dYHxI7vT3l"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11134,6 +15830,15 @@
             }
         ],
         "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11158,6 +15863,12 @@
             }
         ],
         "filtered_text": "do me a favour and drop your album on 1/7",
+        "without_stowords": [
+            "favour",
+            "drop",
+            "album",
+            "1/7"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11181,6 +15892,15 @@
         ],
         "mentions": [],
         "filtered_text": "For a thousands Summer, I will wait for you\ud83c\udf3b",
+        "without_stowords": [
+            "For",
+            "thousands",
+            "Summer",
+            ",",
+            "I",
+            "wait",
+            "you\ud83c\udf3b"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11205,6 +15925,20 @@
             }
         ],
         "filtered_text": "I am coming the match with Congo Dr because I love you and I want you to play a good game",
+        "without_stowords": [
+            "I",
+            "coming",
+            "match",
+            "Congo",
+            "Dr",
+            "I",
+            "love",
+            "I",
+            "want",
+            "play",
+            "good",
+            "game"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11228,6 +15962,13 @@
         ],
         "mentions": [],
         "filtered_text": "Really you \u2018re a source of Pride \ud83d\udc4c",
+        "without_stowords": [
+            "Really",
+            "\u2018",
+            "source",
+            "Pride",
+            "\ud83d\udc4c"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11262,6 +16003,16 @@
             }
         ],
         "filtered_text": "RT : Relationship Situation: in love with Sansa \u2764\ufe0f",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Relationship",
+            "Situation",
+            ":",
+            "love",
+            "Sansa",
+            "\u2764\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11285,6 +16036,9 @@
         ],
         "mentions": [],
         "filtered_text": "Yaret",
+        "without_stowords": [
+            "Yaret"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11309,6 +16063,21 @@
             }
         ],
         "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11338,6 +16107,25 @@
         ],
         "mentions": [],
         "filtered_text": "This will be my class tomorrow at Raqs of Course Festival, 1:30 pm! Yallah! \ud83d\udcaa\ud83c\udffc #jadeeljabel #dancaarabe\u2026",
+        "without_stowords": [
+            "This",
+            "class",
+            "tomorrow",
+            "Raqs",
+            "Course",
+            "Festival",
+            ",",
+            "1:30",
+            "pm",
+            "!",
+            "Yallah",
+            "!",
+            "\ud83d\udcaa\ud83c\udffc",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11361,6 +16149,16 @@
         ],
         "mentions": [],
         "filtered_text": "Crisis in all of that .. it\u2019s public and AL-Saud still operates with them !",
+        "without_stowords": [
+            "Crisis",
+            "..",
+            "\u2019",
+            "public",
+            "AL-Saud",
+            "still",
+            "operates",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11374,6 +16172,27 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "Damn bro, I wish you were still around to see how things changed quickly, share it with you. BTW, I miss you.",
+        "without_stowords": [
+            "Damn",
+            "bro",
+            ",",
+            "I",
+            "wish",
+            "still",
+            "around",
+            "see",
+            "things",
+            "changed",
+            "quickly",
+            ",",
+            "share",
+            ".",
+            "BTW",
+            ",",
+            "I",
+            "miss",
+            "."
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11397,6 +16216,14 @@
         ],
         "mentions": [],
         "filtered_text": "Relationship Situation: in love with Sansa \u2764\ufe0f",
+        "without_stowords": [
+            "Relationship",
+            "Situation",
+            ":",
+            "love",
+            "Sansa",
+            "\u2764\ufe0f"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11421,6 +16248,10 @@
             }
         ],
         "filtered_text": "cool and all but what the fuck",
+        "without_stowords": [
+            "cool",
+            "fuck"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11445,6 +16276,12 @@
             }
         ],
         "filtered_text": "haha silly school is over!",
+        "without_stowords": [
+            "haha",
+            "silly",
+            "school",
+            "!"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11479,6 +16316,13 @@
             }
         ],
         "filtered_text": "chair needs to go back to the carpenter",
+        "without_stowords": [
+            "chair",
+            "needs",
+            "go",
+            "back",
+            "carpenter"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11513,6 +16357,19 @@
             }
         ],
         "filtered_text": "The most underrated ltm that i think that im the only one who loves it is the steady storm and i know most\u2026",
+        "without_stowords": [
+            "The",
+            "underrated",
+            "ltm",
+            "think",
+            "im",
+            "one",
+            "loves",
+            "steady",
+            "storm",
+            "know",
+            "most\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11537,6 +16394,21 @@
             }
         ],
         "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11561,6 +16433,10 @@
             }
         ],
         "filtered_text": "yeah?",
+        "without_stowords": [
+            "yeah",
+            "?"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11585,6 +16461,21 @@
             }
         ],
         "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11614,6 +16505,15 @@
         ],
         "mentions": [],
         "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11638,6 +16538,21 @@
             }
         ],
         "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11662,6 +16577,30 @@
             }
         ],
         "filtered_text": "RT : Channel: \"Rescue TB\" -He's a guy who fakes animal rescue videos in order to torture the animals. -if you watch them you can se\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Channel",
+            ":",
+            "``",
+            "Rescue",
+            "TB",
+            "''",
+            "-He",
+            "'s",
+            "guy",
+            "fakes",
+            "animal",
+            "rescue",
+            "videos",
+            "order",
+            "torture",
+            "animals",
+            ".",
+            "-if",
+            "watch",
+            "se\u2026"
+        ],
         "region": "Abbaseya"
     },
     {
@@ -11675,6 +16614,19 @@
         "urls": [],
         "mentions": [],
         "filtered_text": "no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
         "region": "Abbaseya"
     }
 ]
