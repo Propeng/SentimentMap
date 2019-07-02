@@ -4,6 +4,8 @@ import json
 import pandas as pd
 from datetime import date, timedelta
 
+import utils
+
 regions = [
     {'name': 'New Cairo', 'geocode': '30.028652,31.465498,10km', 'tweets': []},
     {'name': 'Dokki', 'geocode': '30.039874,31.206894,3km', 'tweets': []},
@@ -50,6 +52,7 @@ for day_i in range(7):
             tweet['lang'] = status['lang']
             tweet['urls'] = status['entities']['urls']
             tweet['mentions'] = status['entities']['user_mentions']
+            tweet['filtered_text'] = utils.filter_tweet(tweet)
             tweet['region'] = region['name']
             region['tweets'].append(tweet)
 
