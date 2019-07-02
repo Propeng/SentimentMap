@@ -1,0 +1,3758 @@
+[
+    {
+        "id": 1145843450258120704,
+        "user": "Underground_sto",
+        "user_location": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629, \u0645\u0635\u0631",
+        "date": "Mon Jul 01 23:55:41 +0000 2019",
+        "text": "RT @mernamohamad_: Made for uni days \ud83d\ude46\u200d\u2640\ufe0f https://t.co/CTSEhsWymc",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CTSEhsWymc",
+                "expanded_url": "https://twitter.com/Underground_sto/status/1145802114817581056",
+                "display_url": "twitter.com/Underground_st\u2026",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "mernamohamad_",
+                "name": "\u0645\u0650\u064a\u0640\u0631\u0646\u064e\u0640\u0640\u0627",
+                "id": 2375258736,
+                "id_str": "2375258736",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "filtered_text": "RT : Made for uni days \ud83d\ude46\u200d\u2640\ufe0f",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Made",
+            "uni",
+            "days",
+            "\ud83d\ude46\u200d\u2640\ufe0f"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145841094133002240,
+        "user": "mernamohamad_",
+        "user_location": "New Cairo",
+        "date": "Mon Jul 01 23:46:20 +0000 2019",
+        "text": "Made for uni days \ud83d\ude46\u200d\u2640\ufe0f https://t.co/CTSEhsWymc",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CTSEhsWymc",
+                "expanded_url": "https://twitter.com/Underground_sto/status/1145802114817581056",
+                "display_url": "twitter.com/Underground_st\u2026",
+                "indices": [
+                    23,
+                    46
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Made for uni days \ud83d\ude46\u200d\u2640\ufe0f",
+        "without_stowords": [
+            "Made",
+            "uni",
+            "days",
+            "\ud83d\ude46\u200d\u2640\ufe0f"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145839635995725824,
+        "user": "Kacesc_",
+        "user_location": "Atlanta, GA",
+        "date": "Mon Jul 01 23:40:32 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145837770956562433,
+        "user": "stac3y_rav",
+        "user_location": "jhb/pta",
+        "date": "Mon Jul 01 23:33:07 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145837756473663488,
+        "user": "4ktSlime",
+        "user_location": "",
+        "date": "Mon Jul 01 23:33:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145835583530512384,
+        "user": "kaelaazaireee",
+        "user_location": "B E R M U D A",
+        "date": "Mon Jul 01 23:24:26 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145833851572371456,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 23:17:33 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/IKQ6jP7grP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/IKQ6jP7grP",
+                "expanded_url": "https://www.swarmapp.com/c/1FQi4vertPg",
+                "display_url": "swarmapp.com/c/1FQi4vertPg",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Home \u2665",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Home",
+            "\u2665"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145833720806612993,
+        "user": "SierraLemasters",
+        "user_location": "wv",
+        "date": "Mon Jul 01 23:17:02 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145833168936869891,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 23:14:50 +0000 2019",
+        "text": "@alienshka agree\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "alienshka",
+                "name": "Ali",
+                "id": 929936828,
+                "id_str": "929936828",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "filtered_text": "agree\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "without_stowords": [
+            "agree\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145831153506684928,
+        "user": "_MohameddFathy",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 23:06:50 +0000 2019",
+        "text": "RT @sha3rwy: Pain was there for me when everybody else wasn't.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "sha3rwy",
+                "name": "KHALED SHARAWY,",
+                "id": 2679693630,
+                "id_str": "2679693630",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : Pain was there for me when everybody else wasn't.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Pain",
+            "everybody",
+            "else",
+            "n't",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145830762689769473,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 23:05:16 +0000 2019",
+        "text": "@alienshka joey funny w loyal bs msh weird awy kedaa, ana 3ayza joey",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "alienshka",
+                "name": "Ali",
+                "id": 929936828,
+                "id_str": "929936828",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "filtered_text": "joey funny w loyal bs msh weird awy kedaa, ana 3ayza joey",
+        "without_stowords": [
+            "joey",
+            "funny",
+            "w",
+            "loyal",
+            "bs",
+            "msh",
+            "weird",
+            "awy",
+            "kedaa",
+            ",",
+            "ana",
+            "3ayza",
+            "joey"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145828228290007040,
+        "user": "_RMK9",
+        "user_location": "",
+        "date": "Mon Jul 01 22:55:12 +0000 2019",
+        "text": "I'm at City Square in New Cairo, Cairo https://t.co/9BmM6dgibO",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05469475,
+                31.49228316
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9BmM6dgibO",
+                "expanded_url": "https://www.swarmapp.com/c/6UDal9wggBh",
+                "display_url": "swarmapp.com/c/6UDal9wggBh",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at City Square in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "City",
+            "Square",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145827165159743490,
+        "user": "shayniya2",
+        "user_location": "",
+        "date": "Mon Jul 01 22:50:59 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145826522982420480,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 22:48:26 +0000 2019",
+        "text": "@alienshka it will be weird",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "alienshka",
+                "name": "Ali",
+                "id": 929936828,
+                "id_str": "929936828",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "filtered_text": "it will be weird",
+        "without_stowords": [
+            "weird"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145825481935265792,
+        "user": "hey_itssamm",
+        "user_location": "Kenosha, WI",
+        "date": "Mon Jul 01 22:44:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145822552398237697,
+        "user": "liyahcapalot",
+        "user_location": "",
+        "date": "Mon Jul 01 22:32:39 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145821276461813762,
+        "user": "AssiellMustafa",
+        "user_location": "New cairo",
+        "date": "Mon Jul 01 22:27:35 +0000 2019",
+        "text": "@sra0h @mahmoud_kor True.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "sra0h",
+                "name": "\u0633",
+                "id": 1137816826996543488,
+                "id_str": "1137816826996543488",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "mahmoud_kor",
+                "name": "Mahmoud Korayem",
+                "id": 2267566958,
+                "id_str": "2267566958",
+                "indices": [
+                    7,
+                    19
+                ]
+            }
+        ],
+        "filtered_text": "True.",
+        "without_stowords": [
+            "True",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145820034507448320,
+        "user": "QuotePagesss",
+        "user_location": "",
+        "date": "Mon Jul 01 22:22:39 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145819924201234432,
+        "user": "lxxslyy",
+        "user_location": "Los Angeles, CA",
+        "date": "Mon Jul 01 22:22:12 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145818447479132160,
+        "user": "kapualx",
+        "user_location": "Honolulu, Hawaii",
+        "date": "Mon Jul 01 22:16:20 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145817147022536704,
+        "user": "CastroCompton",
+        "user_location": "",
+        "date": "Mon Jul 01 22:11:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145815388535578625,
+        "user": "dammmmmn_paam",
+        "user_location": "",
+        "date": "Mon Jul 01 22:04:11 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145809583140720644,
+        "user": "Ghaidaa_Alaaa",
+        "user_location": "New Cairo",
+        "date": "Mon Jul 01 21:41:07 +0000 2019",
+        "text": "\u201cDon't leave me locked in your heart\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "\u201cDon't leave me locked in your heart\u201d",
+        "without_stowords": [
+            "\u201c",
+            "Do",
+            "n't",
+            "leave",
+            "locked",
+            "heart",
+            "\u201d"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145809170995851264,
+        "user": "Mukhtarridwan89",
+        "user_location": "Egypt Cairo ",
+        "date": "Mon Jul 01 21:39:29 +0000 2019",
+        "text": "My bro beating Kenyan drum @ 30 June Stadium https://t.co/PQyL5SGQob",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01977539,
+                31.3729068
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/PQyL5SGQob",
+                "expanded_url": "https://www.instagram.com/p/BzY6F46gGJv5dZN1kZ-kFcuJNN2Y9JtoFPtBo00/?igshid=p3qzdbzvdo2j",
+                "display_url": "instagram.com/p/BzY6F46gGJv5\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My bro beating Kenyan drum @ 30 June Stadium",
+        "without_stowords": [
+            "My",
+            "bro",
+            "beating",
+            "Kenyan",
+            "drum",
+            "@",
+            "30",
+            "June",
+            "Stadium"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145808498661498881,
+        "user": "Mukhtarridwan89",
+        "user_location": "Egypt Cairo ",
+        "date": "Mon Jul 01 21:36:48 +0000 2019",
+        "text": "Beautiful African dance from Ivory Coast fans @ 30 June Stadium https://t.co/rlSEw0Pe2y",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01977539,
+                31.3729068
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rlSEw0Pe2y",
+                "expanded_url": "https://www.instagram.com/p/BzY5q81gr1wtAjlzY1kiN2p1QKAjqOo5Zbj_7w0/?igshid=z3d8dycpxt0l",
+                "display_url": "instagram.com/p/BzY5q81gr1wt\u2026",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Beautiful African dance from Ivory Coast fans @ 30 June Stadium",
+        "without_stowords": [
+            "Beautiful",
+            "African",
+            "dance",
+            "Ivory",
+            "Coast",
+            "fans",
+            "@",
+            "30",
+            "June",
+            "Stadium"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145808367039983616,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 21:36:17 +0000 2019",
+        "text": "I'm still few steps behind",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I'm still few steps behind",
+        "without_stowords": [
+            "I",
+            "'m",
+            "still",
+            "steps",
+            "behind"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145808267362353153,
+        "user": "RaoufMahmoud",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 21:35:53 +0000 2019",
+        "text": "I'm at The Spot Mall in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah https://t.co/Uks7QRHiHN",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01499973,
+                31.49975691
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Uks7QRHiHN",
+                "expanded_url": "https://www.swarmapp.com/c/0ZVHXPCwQPz",
+                "display_url": "swarmapp.com/c/0ZVHXPCwQPz",
+                "indices": [
+                    57,
+                    80
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Spot Mall in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Spot",
+            "Mall",
+            "New",
+            "Cairo",
+            ",",
+            "Mu\u1e29\u0101faz\u0327at",
+            "al",
+            "Q\u0101hirah"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145807451398295554,
+        "user": "Mukhtarridwan89",
+        "user_location": "Egypt Cairo ",
+        "date": "Mon Jul 01 21:32:39 +0000 2019",
+        "text": "What a lovely fans @ 30 June Stadium https://t.co/FpzTVdNgKo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01977539,
+                31.3729068
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FpzTVdNgKo",
+                "expanded_url": "https://www.instagram.com/p/BzY6w3Ags74wLgcSpV7CbCP5efmq8s_vXTc2o00/?igshid=19vjrbea4h172",
+                "display_url": "instagram.com/p/BzY6w3Ags74w\u2026",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "What a lovely fans @ 30 June Stadium",
+        "without_stowords": [
+            "What",
+            "lovely",
+            "fans",
+            "@",
+            "30",
+            "June",
+            "Stadium"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145807046664761347,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 21:31:02 +0000 2019",
+        "text": "i miss the old me",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "i miss the old me",
+        "without_stowords": [
+            "miss",
+            "old"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145803903172337664,
+        "user": "ashleylashaycn",
+        "user_location": "Illinois, USA",
+        "date": "Mon Jul 01 21:18:33 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145802741484154880,
+        "user": "chill_itsapril",
+        "user_location": "",
+        "date": "Mon Jul 01 21:13:56 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145800713303257088,
+        "user": "thereallexababy",
+        "user_location": "Sacramento, CA",
+        "date": "Mon Jul 01 21:05:52 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145799168004427777,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Mon Jul 01 20:59:44 +0000 2019",
+        "text": "RT @_mahmoudd: like for a song\u2764\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_mahmoudd",
+                "name": "mahmoud",
+                "id": 1657479542,
+                "id_str": "1657479542",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "filtered_text": "RT : like for a song\u2764\ufe0f",
+        "without_stowords": [
+            "RT",
+            ":",
+            "like",
+            "song\u2764\ufe0f"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145798245471404038,
+        "user": "AyshaGalvan",
+        "user_location": "",
+        "date": "Mon Jul 01 20:56:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145798181726408705,
+        "user": "Tyler__Medina",
+        "user_location": "Germany",
+        "date": "Mon Jul 01 20:55:49 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145798007587319811,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Mon Jul 01 20:55:07 +0000 2019",
+        "text": "If you're leaving baby let me down slowly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "If you're leaving baby let me down slowly",
+        "without_stowords": [
+            "If",
+            "'re",
+            "leaving",
+            "baby",
+            "let",
+            "slowly"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145797266571177990,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Mon Jul 01 20:52:10 +0000 2019",
+        "text": "like for a song\u2764\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "like for a song\u2764\ufe0f",
+        "without_stowords": [
+            "like",
+            "song\u2764\ufe0f"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145796447843082241,
+        "user": "ogshelly",
+        "user_location": "Texas, USA",
+        "date": "Mon Jul 01 20:48:55 +0000 2019",
+        "text": "After a good dinner, a good dessert! The funny thing is that I paid the same in both \ud83d\ude02 good evening everyone @ \u0633\u062a\u064a\u2026 https://t.co/xRR1iqQaju",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05655866,
+                31.33807394
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/xRR1iqQaju",
+                "expanded_url": "https://twitter.com/i/web/status/1145796447843082241",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "After a good dinner, a good dessert! The funny thing is that I paid the same in both \ud83d\ude02 good evening everyone @ \u0633\u062a\u064a\u2026",
+        "without_stowords": [
+            "After",
+            "good",
+            "dinner",
+            ",",
+            "good",
+            "dessert",
+            "!",
+            "The",
+            "funny",
+            "thing",
+            "I",
+            "paid",
+            "\ud83d\ude02",
+            "good",
+            "evening",
+            "everyone",
+            "@",
+            "\u0633\u062a\u064a\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145796250089844736,
+        "user": "DeeLexus",
+        "user_location": "Wichita, KS",
+        "date": "Mon Jul 01 20:48:08 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145793845877235712,
+        "user": "im_js_Kar",
+        "user_location": "Honduras & Belize",
+        "date": "Mon Jul 01 20:38:35 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145792436058361856,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 20:32:59 +0000 2019",
+        "text": "I'm at Eastern Commercial Market in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah https://t.co/X6sOBxEx4F",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07015772,
+                31.51728149
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/X6sOBxEx4F",
+                "expanded_url": "https://www.swarmapp.com/c/2XMp1L20Zt9",
+                "display_url": "swarmapp.com/c/2XMp1L20Zt9",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Eastern Commercial Market in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Eastern",
+            "Commercial",
+            "Market",
+            "New",
+            "Cairo",
+            ",",
+            "Mu\u1e29\u0101faz\u0327at",
+            "al",
+            "Q\u0101hirah"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145791061840793601,
+        "user": "janaasu",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Mon Jul 01 20:27:31 +0000 2019",
+        "text": "I'm at Gaby's in Heliopolis, Cairo https://t.co/liaroYnsJF",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07309125,
+                31.34448267
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/liaroYnsJF",
+                "expanded_url": "https://www.swarmapp.com/c/4scxj6viEwq",
+                "display_url": "swarmapp.com/c/4scxj6viEwq",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Gaby's in Heliopolis, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Gaby",
+            "'s",
+            "Heliopolis",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145789319333982208,
+        "user": "Xiomara__ox",
+        "user_location": "",
+        "date": "Mon Jul 01 20:20:36 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145788731401617409,
+        "user": "Tai_dee",
+        "user_location": "Wya?",
+        "date": "Mon Jul 01 20:18:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145787475438243841,
+        "user": "Kenzie18872739",
+        "user_location": "",
+        "date": "Mon Jul 01 20:13:16 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145785904889507840,
+        "user": "hoda_abuagam",
+        "user_location": "New Cairo, Egypt.",
+        "date": "Mon Jul 01 20:07:02 +0000 2019",
+        "text": "Comfort zones don\u2019t feel like that anymore.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Comfort zones don\u2019t feel like that anymore.",
+        "without_stowords": [
+            "Comfort",
+            "zones",
+            "\u2019",
+            "feel",
+            "like",
+            "anymore",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145785562768510984,
+        "user": "Cashbabyy1",
+        "user_location": "",
+        "date": "Mon Jul 01 20:05:40 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145784964740313088,
+        "user": "AlejandroJ530",
+        "user_location": "",
+        "date": "Mon Jul 01 20:03:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145784087355039744,
+        "user": "Mahssoul",
+        "user_location": "",
+        "date": "Mon Jul 01 19:59:48 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Not every \"sorry\" deserves an \"it's okay\" in return.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Not every \"sorry\" deserves an \"it's okay\" in return.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Not",
+            "every",
+            "``",
+            "sorry",
+            "''",
+            "deserves",
+            "``",
+            "'s",
+            "okay",
+            "''",
+            "return",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145782350518935552,
+        "user": "miraaalanddd",
+        "user_location": "Maryland, USA",
+        "date": "Mon Jul 01 19:52:54 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145781247022469120,
+        "user": "dianaaa_6",
+        "user_location": "Farmersville, CA",
+        "date": "Mon Jul 01 19:48:31 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145779501454036992,
+        "user": "Candy_Rain9",
+        "user_location": "",
+        "date": "Mon Jul 01 19:41:35 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145778833653665793,
+        "user": "bittiem13",
+        "user_location": "",
+        "date": "Mon Jul 01 19:38:56 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145776679375294464,
+        "user": "queeeenali",
+        "user_location": "Brooklyn, NY",
+        "date": "Mon Jul 01 19:30:22 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145776498542088193,
+        "user": "Redd_DotMedia",
+        "user_location": "In the Studio",
+        "date": "Mon Jul 01 19:29:39 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145772823144779782,
+        "user": "yessie121310",
+        "user_location": "Pinewood, FL",
+        "date": "Mon Jul 01 19:15:03 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145772028818911232,
+        "user": "Tinktheplugg",
+        "user_location": "North Las Vegas, NV",
+        "date": "Mon Jul 01 19:11:53 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145771264704991233,
+        "user": "ohgheesy",
+        "user_location": "",
+        "date": "Mon Jul 01 19:08:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145770249146556417,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Mon Jul 01 19:04:49 +0000 2019",
+        "text": "@TokaMadridista Got ramsy bolton \nno country for old man anton chigurh \ud83d\udda4",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "TokaMadridista",
+                "name": "\u062a\u064f\u0648\u0643\u0627",
+                "id": 569172109,
+                "id_str": "569172109",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "Got ramsy bolton no country for old man anton chigurh \ud83d\udda4",
+        "without_stowords": [
+            "Got",
+            "ramsy",
+            "bolton",
+            "country",
+            "old",
+            "man",
+            "anton",
+            "chigurh",
+            "\ud83d\udda4"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145770239046619136,
+        "user": "liannacarina",
+        "user_location": "North Port, FL",
+        "date": "Mon Jul 01 19:04:47 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145768601296801792,
+        "user": "LilkeefQuotes",
+        "user_location": "IN MY BAGG \ud83d\udcb0\ud83d\udcb5\ud83d\udcb8",
+        "date": "Mon Jul 01 18:58:16 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145767544113909760,
+        "user": "jazmineee_12",
+        "user_location": "California, USA",
+        "date": "Mon Jul 01 18:54:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "fee\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145767078516781056,
+        "user": "pinchekarinaa",
+        "user_location": "",
+        "date": "Mon Jul 01 18:52:13 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145766869615489024,
+        "user": "brianna61092508",
+        "user_location": "",
+        "date": "Mon Jul 01 18:51:23 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145766404290940929,
+        "user": "KayElleLive",
+        "user_location": "Eastcoast",
+        "date": "Mon Jul 01 18:49:32 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145766081333792769,
+        "user": "yessie121310",
+        "user_location": "Pinewood, FL",
+        "date": "Mon Jul 01 18:48:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145765308852056065,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Mon Jul 01 18:45:11 +0000 2019",
+        "text": "Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya feet\ud83d\udcaf",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya feet\ud83d\udcaf",
+        "without_stowords": [
+            "Your",
+            "funeral",
+            "gone",
+            "packed",
+            "birthday",
+            "party",
+            "people",
+            "would",
+            "rather",
+            "see",
+            "ya",
+            "back",
+            "ya",
+            "feet\ud83d\udcaf"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145764357739089922,
+        "user": "mahdx5",
+        "user_location": "\ud83c\uddf0\ud83c\uddfcKuw|Cairo\ud83c\uddea\ud83c\uddec",
+        "date": "Mon Jul 01 18:41:24 +0000 2019",
+        "text": "I'm at @Starbucks in New Cairo https://t.co/MHe6kJHjPd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02078242,
+                31.49513028
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/MHe6kJHjPd",
+                "expanded_url": "https://www.swarmapp.com/c/8tgzJOn09qJ",
+                "display_url": "swarmapp.com/c/8tgzJOn09qJ",
+                "indices": [
+                    31,
+                    54
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Starbucks",
+                "name": "Starbucks Coffee",
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in New Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "New",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145764082529775616,
+        "user": "timaaxoxo_",
+        "user_location": ", Philadelphia",
+        "date": "Mon Jul 01 18:40:19 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145763804963397632,
+        "user": "ZandreahZ",
+        "user_location": "Vidalia, GA",
+        "date": "Mon Jul 01 18:39:13 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145763790547496963,
+        "user": "JamisonCumming4",
+        "user_location": "Raeford, NC",
+        "date": "Mon Jul 01 18:39:09 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145763639783297027,
+        "user": "ShukryHaji",
+        "user_location": "Nairobi, Mogadishu, Ndola.",
+        "date": "Mon Jul 01 18:38:33 +0000 2019",
+        "text": "Warmup #KENSEN https://t.co/MVDeQ3vxoH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01957219,
+                31.37272393
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Warmup #KENSEN https://t.co/MVDeQ3vxoH",
+        "without_stowords": [
+            "Warmup",
+            "#",
+            "KENSEN",
+            "https",
+            ":",
+            "//t.co/MVDeQ3vxoH"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145763450100039680,
+        "user": "LilkeefQuotes",
+        "user_location": "IN MY BAGG \ud83d\udcb0\ud83d\udcb5\ud83d\udcb8",
+        "date": "Mon Jul 01 18:37:48 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "RT",
+            ":",
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145763150626578432,
+        "user": "kh0020101407375",
+        "user_location": "egypt",
+        "date": "Mon Jul 01 18:36:37 +0000 2019",
+        "text": "#apartment #modern  #style #2BR  #new  #Cairo #compound #near #6malls # @ New Cairo https://t.co/HOGGjpQkxr",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03,
+                31.47
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/HOGGjpQkxr",
+                "expanded_url": "https://www.instagram.com/p/BzYmnV6lHdc/?igshid=1lq586tdqonym",
+                "display_url": "instagram.com/p/BzYmnV6lHdc/\u2026",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "#apartment #modern #style #2BR #new #Cairo #compound #near #6malls # @ New Cairo",
+        "without_stowords": [
+            "#",
+            "apartment",
+            "#",
+            "modern",
+            "#",
+            "style",
+            "#",
+            "2BR",
+            "#",
+            "new",
+            "#",
+            "Cairo",
+            "#",
+            "compound",
+            "#",
+            "near",
+            "#",
+            "6malls",
+            "#",
+            "@",
+            "New",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145762740147015680,
+        "user": "11Zainab1",
+        "user_location": "Sihat, Eastern",
+        "date": "Mon Jul 01 18:34:59 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/Nz9kZ2LppT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Nz9kZ2LppT",
+                "expanded_url": "https://www.swarmapp.com/c/39WXHu2tBwY",
+                "display_url": "swarmapp.com/c/39WXHu2tBwY",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Cairo Festival City Mall - in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Cairo",
+            "Festival",
+            "City",
+            "Mall",
+            "-",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145762503986753536,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Mon Jul 01 18:34:02 +0000 2019",
+        "text": "You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "without_stowords": [
+            "You",
+            "ever",
+            "mad",
+            "texting",
+            "someone",
+            "misspell",
+            "every",
+            "damn",
+            "word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145760314719232000,
+        "user": "miaaapr3ttyy",
+        "user_location": "my heart\ud83d\udc97",
+        "date": "Mon Jul 01 18:25:20 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145760003254620160,
+        "user": "yessie121310",
+        "user_location": "Pinewood, FL",
+        "date": "Mon Jul 01 18:24:06 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't understand why people think being mean is cool cause that shit is nasty af\u203c\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I don't understand why people think being mean is cool cause that shit is nasty af\u203c\u203c",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "n't",
+            "understand",
+            "people",
+            "think",
+            "mean",
+            "cool",
+            "cause",
+            "shit",
+            "nasty",
+            "af\u203c\u203c"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145759162661347328,
+        "user": "jazmineee_12",
+        "user_location": "California, USA",
+        "date": "Mon Jul 01 18:20:46 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145758763149856770,
+        "user": "GeoPaPei",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 18:19:10 +0000 2019",
+        "text": "One of the last times here... \ud83d\ude22 (@ Asmak in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah) https://t.co/M8xjuohvXR",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02508695,
+                31.48477945
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/M8xjuohvXR",
+                "expanded_url": "https://www.swarmapp.com/c/lvzGYvQmo67",
+                "display_url": "swarmapp.com/c/lvzGYvQmo67",
+                "indices": [
+                    78,
+                    101
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "One of the last times here... \ud83d\ude22 (@ Asmak in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah)",
+        "without_stowords": [
+            "One",
+            "last",
+            "times",
+            "...",
+            "\ud83d\ude22",
+            "(",
+            "@",
+            "Asmak",
+            "New",
+            "Cairo",
+            ",",
+            "Mu\u1e29\u0101faz\u0327at",
+            "al",
+            "Q\u0101hirah",
+            ")"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145755460185808896,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 18:06:03 +0000 2019",
+        "text": "yeah, just some 9 year old fillipino kids who worked their fingers bloody for 12 cents an hour",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "yeah, just some 9 year old fillipino kids who worked their fingers bloody for 12 cents an hour",
+        "without_stowords": [
+            "yeah",
+            ",",
+            "9",
+            "year",
+            "old",
+            "fillipino",
+            "kids",
+            "worked",
+            "fingers",
+            "bloody",
+            "12",
+            "cents",
+            "hour"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145753162051215360,
+        "user": "ThatGurllKayy_",
+        "user_location": "InMyBagBihh\ud83e\udd2a\ud83d\udcb0",
+        "date": "Mon Jul 01 17:56:55 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't understand why people think being mean is cool cause that shit is nasty af\u203c\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I don't understand why people think being mean is cool cause that shit is nasty af\u203c\u203c",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "n't",
+            "understand",
+            "people",
+            "think",
+            "mean",
+            "cool",
+            "cause",
+            "shit",
+            "nasty",
+            "af\u203c\u203c"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145747111625052160,
+        "user": "MarciaJurado5",
+        "user_location": "Louisiana, USA",
+        "date": "Mon Jul 01 17:32:53 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145746770221293570,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 17:31:31 +0000 2019",
+        "text": "I'm at Al-Rehab City in Cairo https://t.co/RoM5AOgaGv",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0698739,
+                31.48342609
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/RoM5AOgaGv",
+                "expanded_url": "https://www.swarmapp.com/c/2UyYfZXrq6R",
+                "display_url": "swarmapp.com/c/2UyYfZXrq6R",
+                "indices": [
+                    30,
+                    53
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Al-Rehab City in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Al-Rehab",
+            "City",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145746008426590208,
+        "user": "GxldenR0se",
+        "user_location": "",
+        "date": "Mon Jul 01 17:28:29 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145734664516186112,
+        "user": "NonaLove93",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 16:43:25 +0000 2019",
+        "text": "#mysweetbabyboy\ud83d\udc76\ud83d\ude0d\ud83d\ude18 yahya\u2764\ufe0f\u2764\ufe0f @ Giggles academy https://t.co/6Cp4aFhZDd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.062243,
+                31.327278
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6Cp4aFhZDd",
+                "expanded_url": "https://www.instagram.com/p/BzYZqgclOGjRJx7RjSVfBbhss0e594q-E8GDIM0/?igshid=1jtejdf89yhzf",
+                "display_url": "instagram.com/p/BzYZqgclOGjR\u2026",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "#mysweetbabyboy\ud83d\udc76\ud83d\ude0d\ud83d\ude18 yahya\u2764\ufe0f\u2764\ufe0f @ Giggles academy",
+        "without_stowords": [
+            "#",
+            "mysweetbabyboy\ud83d\udc76\ud83d\ude0d\ud83d\ude18",
+            "yahya\u2764\ufe0f\u2764\ufe0f",
+            "@",
+            "Giggles",
+            "academy"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145734486006620167,
+        "user": "Ayreane1",
+        "user_location": "",
+        "date": "Mon Jul 01 16:42:42 +0000 2019",
+        "text": "RT @_Mysterygirl_P: i got an attitude, but atleast i know how to respect and treat people right.\ud83d\udcaf",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : i got an attitude, but atleast i know how to respect and treat people right.\ud83d\udcaf",
+        "without_stowords": [
+            "RT",
+            ":",
+            "got",
+            "attitude",
+            ",",
+            "atleast",
+            "know",
+            "respect",
+            "treat",
+            "people",
+            "right.\ud83d\udcaf"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145734429102485512,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Mon Jul 01 16:42:29 +0000 2019",
+        "text": "@Amiraa3laa \u201c has2at\u201d fake ass hoe",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Amiraa3laa",
+                "name": "Amiraaaa",
+                "id": 253186591,
+                "id_str": "253186591",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "\u201c has2at\u201d fake ass hoe",
+        "without_stowords": [
+            "\u201c",
+            "has2at",
+            "\u201d",
+            "fake",
+            "ass",
+            "hoe"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145734380494757888,
+        "user": "FaDyPhilip2",
+        "user_location": "New Cairo, Egypt",
+        "date": "Mon Jul 01 16:42:17 +0000 2019",
+        "text": "Listen to Promentory (Last of the Mohicans Theme) on Violin - Taylor Davis by Maha Swilam on #SoundCloud\nhttps://t.co/O1KDEtWNUD",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/O1KDEtWNUD",
+                "expanded_url": "https://soundcloud.com/candle-swilam/promentory-last-of-the",
+                "display_url": "soundcloud.com/candle-swilam/\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Listen to Promentory (Last of the Mohicans Theme) on Violin - Taylor Davis by Maha Swilam on #SoundCloud",
+        "without_stowords": [
+            "Listen",
+            "Promentory",
+            "(",
+            "Last",
+            "Mohicans",
+            "Theme",
+            ")",
+            "Violin",
+            "-",
+            "Taylor",
+            "Davis",
+            "Maha",
+            "Swilam",
+            "#",
+            "SoundCloud"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145733283667464193,
+        "user": "Lzm25_",
+        "user_location": "Kingdom of Saudi Arabia",
+        "date": "Mon Jul 01 16:37:56 +0000 2019",
+        "text": "I'm at @CityStarsMall in Heliopolis, Heliopolis, Cairo - Egypt w/ @jawadal_ https://t.co/3808ypifiE",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0736388,
+                31.34620824
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/3808ypifiE",
+                "expanded_url": "https://www.swarmapp.com/c/2LKGLdAqgC0",
+                "display_url": "swarmapp.com/c/2LKGLdAqgC0",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CitystarsMall",
+                "name": "Citystars",
+                "id": 2960087559,
+                "id_str": "2960087559",
+                "indices": [
+                    7,
+                    21
+                ]
+            },
+            {
+                "screen_name": "JawadAl_",
+                "name": "\u2111",
+                "id": 735610186438737920,
+                "id_str": "735610186438737920",
+                "indices": [
+                    66,
+                    75
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in Heliopolis, Heliopolis, Cairo - Egypt w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Heliopolis",
+            ",",
+            "Heliopolis",
+            ",",
+            "Cairo",
+            "-",
+            "Egypt",
+            "w/"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145732909875236864,
+        "user": "mary11869021",
+        "user_location": "",
+        "date": "Mon Jul 01 16:36:27 +0000 2019",
+        "text": "RT @_Mysterygirl_P: i got an attitude, but atleast i know how to respect and treat people right.\ud83d\udcaf",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : i got an attitude, but atleast i know how to respect and treat people right.\ud83d\udcaf",
+        "without_stowords": [
+            "RT",
+            ":",
+            "got",
+            "attitude",
+            ",",
+            "atleast",
+            "know",
+            "respect",
+            "treat",
+            "people",
+            "right.\ud83d\udcaf"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145727909845446657,
+        "user": "X0ra_",
+        "user_location": "SaudiArabia - Dmm. ",
+        "date": "Mon Jul 01 16:16:34 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/pfX02Y0hbw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pfX02Y0hbw",
+                "expanded_url": "https://www.swarmapp.com/c/c28q8fbOl3N",
+                "display_url": "swarmapp.com/c/c28q8fbOl3N",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Cairo Festival City Mall - in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Cairo",
+            "Festival",
+            "City",
+            "Mall",
+            "-",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145726455873265664,
+        "user": "FaDyPhilip2",
+        "user_location": "New Cairo, Egypt",
+        "date": "Mon Jul 01 16:10:48 +0000 2019",
+        "text": "@GameelaIsmail So sorry for your loss \ud83d\udc94",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "GameelaIsmail",
+                "name": "Gameela Ismail",
+                "id": 104557267,
+                "id_str": "104557267",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "filtered_text": "So sorry for your loss \ud83d\udc94",
+        "without_stowords": [
+            "So",
+            "sorry",
+            "loss",
+            "\ud83d\udc94"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145725769055973376,
+        "user": "ElTab3y11",
+        "user_location": "Domiat",
+        "date": "Mon Jul 01 16:08:04 +0000 2019",
+        "text": "RT @AssiellMustafa: Need !\ud83d\udc96 https://t.co/bpHjE7qAkw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bpHjE7qAkw",
+                "expanded_url": "https://twitter.com/ElTab3y11/status/1145490169107288064",
+                "display_url": "twitter.com/ElTab3y11/stat\u2026",
+                "indices": [
+                    28,
+                    51
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AssiellMustafa",
+                "name": "\u0623\u0633\u064a\u0644\u0648\u0648 .",
+                "id": 1014152909393727488,
+                "id_str": "1014152909393727488",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Need !\ud83d\udc96",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Need",
+            "!",
+            "\ud83d\udc96"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145725354402832390,
+        "user": "JawadAl_",
+        "user_location": "",
+        "date": "Mon Jul 01 16:06:25 +0000 2019",
+        "text": "I'm at @CityStarsMall in Heliopolis, Heliopolis, Cairo - Egypt w/ @__alawadi https://t.co/CFG1fFfCz9",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0736388,
+                31.34620824
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CFG1fFfCz9",
+                "expanded_url": "https://www.swarmapp.com/c/54Z42PLjahG",
+                "display_url": "swarmapp.com/c/54Z42PLjahG",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CitystarsMall",
+                "name": "Citystars",
+                "id": 2960087559,
+                "id_str": "2960087559",
+                "indices": [
+                    7,
+                    21
+                ]
+            },
+            {
+                "screen_name": "__alawadi",
+                "name": "Abdulrhman \ud83e\udd81",
+                "id": 1482517177,
+                "id_str": "1482517177",
+                "indices": [
+                    66,
+                    76
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in Heliopolis, Heliopolis, Cairo - Egypt w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Heliopolis",
+            ",",
+            "Heliopolis",
+            ",",
+            "Cairo",
+            "-",
+            "Egypt",
+            "w/"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145724844400697346,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Mon Jul 01 16:04:24 +0000 2019",
+        "text": "It\u2019s so dark in here no lights\nUm tired Of dullness",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "It\u2019s so dark in here no lights Um tired Of dullness",
+        "without_stowords": [
+            "It",
+            "\u2019",
+            "dark",
+            "lights",
+            "Um",
+            "tired",
+            "Of",
+            "dullness"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145723882453839879,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Mon Jul 01 16:00:34 +0000 2019",
+        "text": "@zeinab3ady homa meday2en 3al kalam 3amtn msh el kelma bs ahh still over y3ny",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "zeinab3ady",
+                "name": "ROSE.",
+                "id": 2639315689,
+                "id_str": "2639315689",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "homa meday2en 3al kalam 3amtn msh el kelma bs ahh still over y3ny",
+        "without_stowords": [
+            "homa",
+            "meday2en",
+            "3al",
+            "kalam",
+            "3amtn",
+            "msh",
+            "el",
+            "kelma",
+            "bs",
+            "ahh",
+            "still",
+            "y3ny"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145722957743837184,
+        "user": "whosniya",
+        "user_location": "DMV",
+        "date": "Mon Jul 01 15:56:54 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't understand why people think being mean is cool cause that shit is nasty af\u203c\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I don't understand why people think being mean is cool cause that shit is nasty af\u203c\u203c",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "n't",
+            "understand",
+            "people",
+            "think",
+            "mean",
+            "cool",
+            "cause",
+            "shit",
+            "nasty",
+            "af\u203c\u203c"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145722896951762945,
+        "user": "ashleyxlove",
+        "user_location": "",
+        "date": "Mon Jul 01 15:56:39 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain't wasting time with people who make me feel unwanted.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "ai",
+            "n't",
+            "wasting",
+            "time",
+            "people",
+            "make",
+            "feel",
+            "unwanted",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145722262550720512,
+        "user": "AssiellMustafa",
+        "user_location": "New cairo",
+        "date": "Mon Jul 01 15:54:08 +0000 2019",
+        "text": "Need !\ud83d\udc96 https://t.co/bpHjE7qAkw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bpHjE7qAkw",
+                "expanded_url": "https://twitter.com/ElTab3y11/status/1145490169107288064",
+                "display_url": "twitter.com/ElTab3y11/stat\u2026",
+                "indices": [
+                    8,
+                    31
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Need !\ud83d\udc96",
+        "without_stowords": [
+            "Need",
+            "!",
+            "\ud83d\udc96"
+        ],
+        "region": "New Cairo"
+    }
+]

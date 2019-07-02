@@ -1,0 +1,1975 @@
+[
+    {
+        "id": 1143665716895342604,
+        "user": "Fahadalsayer_",
+        "user_location": "",
+        "date": "Tue Jun 25 23:42:09 +0000 2019",
+        "text": "I'm at Location in Mohandesin, Giza https://t.co/gypCASgyBL",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/gypCASgyBL",
+                "expanded_url": "https://www.swarmapp.com/c/3DNx67wg8Aq",
+                "display_url": "swarmapp.com/c/3DNx67wg8Aq",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Location in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Location",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143656823595118598,
+        "user": "A2M6L",
+        "user_location": "Kuwait",
+        "date": "Tue Jun 25 23:06:49 +0000 2019",
+        "text": "I'm at @Starbucks in Mohandesin, Giza https://t.co/yMrue6bsmb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.053982,
+                31.201898
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/yMrue6bsmb",
+                "expanded_url": "https://www.swarmapp.com/c/2l2fv889FXF",
+                "display_url": "swarmapp.com/c/2l2fv889FXF",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Starbucks",
+                "name": "Starbucks Coffee",
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143644154351800320,
+        "user": "Qussai_Danyal1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Tue Jun 25 22:16:28 +0000 2019",
+        "text": "I'm at Location in Mohandesin, Giza https://t.co/n0Yg4lIE1b",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/n0Yg4lIE1b",
+                "expanded_url": "https://www.swarmapp.com/c/jtuVunJNuAR",
+                "display_url": "swarmapp.com/c/jtuVunJNuAR",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Location in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Location",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143643124876681216,
+        "user": "11_p1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Tue Jun 25 22:12:23 +0000 2019",
+        "text": "I'm at Outdoors in Zamalek https://t.co/RyNdGUVjq7",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05666015,
+                31.2263383
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/RyNdGUVjq7",
+                "expanded_url": "https://www.swarmapp.com/c/4eFhM3Lnj0j",
+                "display_url": "swarmapp.com/c/4eFhM3Lnj0j",
+                "indices": [
+                    27,
+                    50
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Outdoors in Zamalek",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Outdoors",
+            "Zamalek"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143640569039806469,
+        "user": "LinahFaa",
+        "user_location": "KSA",
+        "date": "Tue Jun 25 22:02:14 +0000 2019",
+        "text": "Just posted a photo @ Mohandessin https://t.co/G2KDEncDRl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0531,
+                31.2017
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/G2KDEncDRl",
+                "expanded_url": "https://www.instagram.com/p/BzJhYVUhXFO/?igshid=1j6rv0469lg0d",
+                "display_url": "instagram.com/p/BzJhYVUhXFO/\u2026",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Mohandessin",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Mohandessin"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143636883240624130,
+        "user": "saadalsaadii",
+        "user_location": "\u0643\u0648\u064a\u062a \u0627\u0644\u0645\u062c\u062f ",
+        "date": "Tue Jun 25 21:47:35 +0000 2019",
+        "text": "I'm at The Nile River in Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah, Cairo https://t.co/mjgYCvvIDs",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04599027,
+                31.22996807
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mjgYCvvIDs",
+                "expanded_url": "https://www.swarmapp.com/c/3ZRgdZqkEO6",
+                "display_url": "swarmapp.com/c/3ZRgdZqkEO6",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Nile River in Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Nile",
+            "River",
+            "Cairo",
+            ",",
+            "Mu\u1e29\u0101faz\u0327at",
+            "al",
+            "Q\u0101hirah",
+            ",",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143632957493694464,
+        "user": "Elefont",
+        "user_location": "Panorama City, Los Angeles",
+        "date": "Tue Jun 25 21:31:59 +0000 2019",
+        "text": "Happy Birthday to my Golden Goddess! She gracefully creates, and keeps me tame.\n@MichelleMakela I love you. \ud83d\udc9b\n.\n.\nE\u2026 https://t.co/A10y8xZFuu",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/A10y8xZFuu",
+                "expanded_url": "https://twitter.com/i/web/status/1143632957493694464",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "MichelleMakela",
+                "name": "MichelleMimiMakela",
+                "id": 167968936,
+                "id_str": "167968936",
+                "indices": [
+                    80,
+                    95
+                ]
+            }
+        ],
+        "filtered_text": "Happy Birthday to my Golden Goddess! She gracefully creates, and keeps me tame. I love you. \ud83d\udc9b . . E\u2026",
+        "without_stowords": [
+            "Happy",
+            "Birthday",
+            "Golden",
+            "Goddess",
+            "!",
+            "She",
+            "gracefully",
+            "creates",
+            ",",
+            "keeps",
+            "tame",
+            ".",
+            "I",
+            "love",
+            ".",
+            "\ud83d\udc9b",
+            ".",
+            ".",
+            "E\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143628494422908929,
+        "user": "ab0o0di23",
+        "user_location": "Jeddah",
+        "date": "Tue Jun 25 21:14:15 +0000 2019",
+        "text": "I'm at Kasr El Nile Bridge in Downtown, Cairo https://t.co/YWrbA2EXxh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04356521,
+                31.22968492
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/YWrbA2EXxh",
+                "expanded_url": "https://www.swarmapp.com/c/laS2dr5vKHB",
+                "display_url": "swarmapp.com/c/laS2dr5vKHB",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Kasr El Nile Bridge in Downtown, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Kasr",
+            "El",
+            "Nile",
+            "Bridge",
+            "Downtown",
+            ",",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143626272880439296,
+        "user": "Barjas",
+        "user_location": "On the Earth \ud83c\udf0d :|\u2022",
+        "date": "Tue Jun 25 21:05:25 +0000 2019",
+        "text": "I'm at The Nile @RitzCarlton, Cairo in Cairo https://t.co/sMlhfaP1ew",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0459653,
+                31.23213576
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sMlhfaP1ew",
+                "expanded_url": "https://www.swarmapp.com/c/bhsNRG6tseE",
+                "display_url": "swarmapp.com/c/bhsNRG6tseE",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "RitzCarlton",
+                "name": "The Ritz-Carlton",
+                "id": 31176167,
+                "id_str": "31176167",
+                "indices": [
+                    16,
+                    28
+                ]
+            }
+        ],
+        "filtered_text": "I'm at The Nile , Cairo in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Nile",
+            ",",
+            "Cairo",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143624534395883521,
+        "user": "rikkiedmond",
+        "user_location": "Planet Life",
+        "date": "Tue Jun 25 20:58:31 +0000 2019",
+        "text": "1st year is officially in the books #NileRiver #cairolivin #TINITIME #Egypt @ Stash Bar https://t.co/mYLNAi80fu",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03946816,
+                31.23325378
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mYLNAi80fu",
+                "expanded_url": "https://www.instagram.com/p/BzJaFcQBwAP742EKWk1RGTzQbeZKvHIOeN_U2g0/?igshid=wdvyc2gqkeha",
+                "display_url": "instagram.com/p/BzJaFcQBwAP7\u2026",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "1st year is officially in the books #NileRiver #cairolivin #TINITIME #Egypt @ Stash Bar",
+        "without_stowords": [
+            "1st",
+            "year",
+            "officially",
+            "books",
+            "#",
+            "NileRiver",
+            "#",
+            "cairolivin",
+            "#",
+            "TINITIME",
+            "#",
+            "Egypt",
+            "@",
+            "Stash",
+            "Bar"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143621216374329344,
+        "user": "mohadamagdi",
+        "user_location": "El Sharkia, Egypt",
+        "date": "Tue Jun 25 20:45:20 +0000 2019",
+        "text": "RT @emaanaymann: This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143582730820698112,
+        "user": "tarekelkady",
+        "user_location": "Egypt",
+        "date": "Tue Jun 25 18:12:24 +0000 2019",
+        "text": "Thank you @AUC_Vlab for the amazing award. Very humbled and honored to receive this award\n@AUC @ The American Unive\u2026 https://t.co/DQUTiuaAji",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04311176,
+                31.23798616
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DQUTiuaAji",
+                "expanded_url": "https://twitter.com/i/web/status/1143582730820698112",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AUC",
+                "name": "AUC",
+                "id": 40629323,
+                "id_str": "40629323",
+                "indices": [
+                    90,
+                    94
+                ]
+            }
+        ],
+        "filtered_text": "Thank you @AUC_Vlab for the amazing award. Very humbled and honored to receive this award @ The American Unive\u2026",
+        "without_stowords": [
+            "Thank",
+            "@",
+            "AUC_Vlab",
+            "amazing",
+            "award",
+            ".",
+            "Very",
+            "humbled",
+            "honored",
+            "receive",
+            "award",
+            "@",
+            "The",
+            "American",
+            "Unive\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143580856776368128,
+        "user": "omar_hamed1",
+        "user_location": "cairo , egypt",
+        "date": "Tue Jun 25 18:04:57 +0000 2019",
+        "text": "Just posted a photo @ Startup Haus Cairo https://t.co/zgBECzur2R",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05186,
+                31.24162
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zgBECzur2R",
+                "expanded_url": "https://www.instagram.com/p/BzJGOebpP3x/?igshid=m6nuyjzuch6l",
+                "display_url": "instagram.com/p/BzJGOebpP3x/\u2026",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Startup Haus Cairo",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Startup",
+            "Haus",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143579995610263552,
+        "user": "omar_hamed1",
+        "user_location": "cairo , egypt",
+        "date": "Tue Jun 25 18:01:32 +0000 2019",
+        "text": "Just posted a photo @ Garden City, Cairo https://t.co/llhK3RJafQ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0353,
+                31.2311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/llhK3RJafQ",
+                "expanded_url": "https://www.instagram.com/p/BzJF1YdJXvo/?igshid=rtvwlv89ebpm",
+                "display_url": "instagram.com/p/BzJF1YdJXvo/\u2026",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Garden City, Cairo",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Garden",
+            "City",
+            ",",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143579537004990465,
+        "user": "rayanmohamed908",
+        "user_location": "ZAMALEK",
+        "date": "Tue Jun 25 17:59:42 +0000 2019",
+        "text": "@AKharoub @Farou2Uwk Ma2daaarsh \ud83d\ude02\ud83d\ude02\ud83d\ude0d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AKharoub",
+                "name": "Ahmed Kharoub",
+                "id": 1093501712,
+                "id_str": "1093501712",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "Farou2Uwk",
+                "name": "Mahmoud Farouk",
+                "id": 4092804005,
+                "id_str": "4092804005",
+                "indices": [
+                    10,
+                    20
+                ]
+            }
+        ],
+        "filtered_text": "Ma2daaarsh \ud83d\ude02\ud83d\ude02\ud83d\ude0d",
+        "without_stowords": [
+            "Ma2daaarsh",
+            "\ud83d\ude02\ud83d\ude02\ud83d\ude0d"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143578946744791042,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:57:22 +0000 2019",
+        "text": "My lovey students today! Thank you, Girls! \nRaqs of Course Festival!  \n#jadeeljabel #dancaarabe #dancadoventre\u2026 https://t.co/9LMNzZBcTF",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9LMNzZBcTF",
+                "expanded_url": "https://twitter.com/i/web/status/1143578946744791042",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My lovey students today! Thank you, Girls! Raqs of Course Festival! #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "My",
+            "lovey",
+            "students",
+            "today",
+            "!",
+            "Thank",
+            ",",
+            "Girls",
+            "!",
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143578422985338882,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:55:17 +0000 2019",
+        "text": "My sister, my colleague,  my idol, the great and unique @soraiazaied1 (inspiring me for almoy30 years!) Raqs of Cou\u2026 https://t.co/0TEOzFzz1m",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0TEOzFzz1m",
+                "expanded_url": "https://twitter.com/i/web/status/1143578422985338882",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "soraiazaied1",
+                "name": "soraia zaied",
+                "id": 1128577021,
+                "id_str": "1128577021",
+                "indices": [
+                    56,
+                    69
+                ]
+            }
+        ],
+        "filtered_text": "My sister, my colleague, my idol, the great and unique (inspiring me for almoy30 years!) Raqs of Cou\u2026",
+        "without_stowords": [
+            "My",
+            "sister",
+            ",",
+            "colleague",
+            ",",
+            "idol",
+            ",",
+            "great",
+            "unique",
+            "(",
+            "inspiring",
+            "almoy30",
+            "years",
+            "!",
+            ")",
+            "Raqs",
+            "Cou\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143578052057882626,
+        "user": "omar_hamed1",
+        "user_location": "cairo , egypt",
+        "date": "Tue Jun 25 17:53:48 +0000 2019",
+        "text": "Apple fanboys will love it @ Downtown Cairo https://t.co/D7GFGVzClw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04706757,
+                31.23934507
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/D7GFGVzClw",
+                "expanded_url": "https://www.instagram.com/p/BzJE8rVlLLO/?igshid=18cb66gwivafu",
+                "display_url": "instagram.com/p/BzJE8rVlLLO/\u2026",
+                "indices": [
+                    44,
+                    67
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Apple fanboys will love it @ Downtown Cairo",
+        "without_stowords": [
+            "Apple",
+            "fanboys",
+            "love",
+            "@",
+            "Downtown",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143577690169065473,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:52:22 +0000 2019",
+        "text": "The wonderful azizacairo at Raqs of Course Festival! (OMG! \ud83d\ude0d)\n#jadeeljabel #dancaarabe #dancadoventre\u2026 https://t.co/DYMU0Oor7G",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DYMU0Oor7G",
+                "expanded_url": "https://twitter.com/i/web/status/1143577690169065473",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    103,
+                    126
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "The wonderful azizacairo at Raqs of Course Festival! (OMG! \ud83d\ude0d) #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "The",
+            "wonderful",
+            "azizacairo",
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "(",
+            "OMG",
+            "!",
+            "\ud83d\ude0d",
+            ")",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143577135879270400,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:50:10 +0000 2019",
+        "text": "Raqs of Course Festival! The great randakamelofficial \u2764\ufe0f \n#jadeeljabel #dancaarabe #dancadoventre #bellydancebrasil\u2026 https://t.co/sL8X16qidE",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sL8X16qidE",
+                "expanded_url": "https://twitter.com/i/web/status/1143577135879270400",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Raqs of Course Festival! The great randakamelofficial \u2764\ufe0f #jadeeljabel #dancaarabe #dancadoventre #bellydancebrasil\u2026",
+        "without_stowords": [
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "The",
+            "great",
+            "randakamelofficial",
+            "\u2764\ufe0f",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre",
+            "#",
+            "bellydancebrasil\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143576434465759232,
+        "user": "saadalsaadii",
+        "user_location": "\u0643\u0648\u064a\u062a \u0627\u0644\u0645\u062c\u062f ",
+        "date": "Tue Jun 25 17:47:23 +0000 2019",
+        "text": "I'm at Giza in Giza https://t.co/4sOBAS9RbT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01701017,
+                31.21353149
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4sOBAS9RbT",
+                "expanded_url": "https://www.swarmapp.com/c/jysiM0qask0",
+                "display_url": "swarmapp.com/c/jysiM0qask0",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Giza in Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Giza",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143567010066042881,
+        "user": "IsmailKharbotly",
+        "user_location": "",
+        "date": "Tue Jun 25 17:09:56 +0000 2019",
+        "text": "\ud83d\udd25 Can love melt an icy heart \u2744? Tell me what you think \ud83d\udce3 @ Cairo, Egypt https://t.co/aRNOq8SHqt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aRNOq8SHqt",
+                "expanded_url": "https://www.instagram.com/p/BzI_7fBBtjo/?igshid=3sxk7y07m8uv",
+                "display_url": "instagram.com/p/BzI_7fBBtjo/\u2026",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83d\udd25 Can love melt an icy heart \u2744? Tell me what you think \ud83d\udce3 @ Cairo, Egypt",
+        "without_stowords": [
+            "\ud83d\udd25",
+            "Can",
+            "love",
+            "melt",
+            "icy",
+            "heart",
+            "\u2744",
+            "?",
+            "Tell",
+            "think",
+            "\ud83d\udce3",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143556927802286080,
+        "user": "Waffa93AM",
+        "user_location": "... Riyadh ",
+        "date": "Tue Jun 25 16:29:52 +0000 2019",
+        "text": "I'm at Bait Ward in Mohandesin, Giza https://t.co/5QCcgB7q66",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.048519,
+                31.203651
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5QCcgB7q66",
+                "expanded_url": "https://www.swarmapp.com/c/gqgPsPbaWLL",
+                "display_url": "swarmapp.com/c/gqgPsPbaWLL",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Bait Ward in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Bait",
+            "Ward",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143550386852130821,
+        "user": "EPIC101STUDIOS",
+        "user_location": "CAIRO",
+        "date": "Tue Jun 25 16:03:53 +0000 2019",
+        "text": "Getting ready for a wedding! resolume #visuals #adobe #wedding @ EPIC 101 Studios https://t.co/3Bq6k28dpS",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04147662,
+                31.2077111
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/3Bq6k28dpS",
+                "expanded_url": "https://www.instagram.com/p/BzI4K6wHFYv/?igshid=hd77myohm8q7",
+                "display_url": "instagram.com/p/BzI4K6wHFYv/\u2026",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Getting ready for a wedding! resolume #visuals #adobe #wedding @ EPIC 101 Studios",
+        "without_stowords": [
+            "Getting",
+            "ready",
+            "wedding",
+            "!",
+            "resolume",
+            "#",
+            "visuals",
+            "#",
+            "adobe",
+            "#",
+            "wedding",
+            "@",
+            "EPIC",
+            "101",
+            "Studios"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143537370555305984,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Tue Jun 25 15:12:09 +0000 2019",
+        "text": "If you're looking for work in #Cairo, Cairo Governorate, check out this #Finance job via the link in our bio: Lead\u2026 https://t.co/AOp5psBBVp",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AOp5psBBVp",
+                "expanded_url": "https://twitter.com/i/web/status/1143537370555305984",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "If you're looking for work in #Cairo, Cairo Governorate, check out this #Finance job via the link in our bio: Lead\u2026",
+        "without_stowords": [
+            "If",
+            "'re",
+            "looking",
+            "work",
+            "#",
+            "Cairo",
+            ",",
+            "Cairo",
+            "Governorate",
+            ",",
+            "check",
+            "#",
+            "Finance",
+            "job",
+            "via",
+            "link",
+            "bio",
+            ":",
+            "Lead\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143520509738586113,
+        "user": "almartinbcn",
+        "user_location": "London",
+        "date": "Tue Jun 25 14:05:09 +0000 2019",
+        "text": "Meeting room with views over the #Nile #Cairo #hotel #design #architecture #egypt #africa @ Cairo, Egypt https://t.co/4cI6i9xR93",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4cI6i9xR93",
+                "expanded_url": "https://www.instagram.com/p/BzIqxe7FYbe/?igshid=cer2tkac9hgm",
+                "display_url": "instagram.com/p/BzIqxe7FYbe/\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Meeting room with views over the #Nile #Cairo #hotel #design #architecture #egypt #africa @ Cairo, Egypt",
+        "without_stowords": [
+            "Meeting",
+            "room",
+            "views",
+            "#",
+            "Nile",
+            "#",
+            "Cairo",
+            "#",
+            "hotel",
+            "#",
+            "design",
+            "#",
+            "architecture",
+            "#",
+            "egypt",
+            "#",
+            "africa",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143514541474680833,
+        "user": "EmanDemerdash",
+        "user_location": "Cairo,Egypt",
+        "date": "Tue Jun 25 13:41:26 +0000 2019",
+        "text": "One more day .. one more signature .. one more step .. 3 days in a row (@ Faculty of Economics &amp; Political Science\u2026 https://t.co/twcHfHQMbS",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02831777,
+                31.20682805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/twcHfHQMbS",
+                "expanded_url": "https://twitter.com/i/web/status/1143514541474680833",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "One more day .. one more signature .. one more step .. 3 days in a row (@ Faculty of Economics &amp; Political Science\u2026",
+        "without_stowords": [
+            "One",
+            "day",
+            "..",
+            "one",
+            "signature",
+            "..",
+            "one",
+            "step",
+            "..",
+            "3",
+            "days",
+            "row",
+            "(",
+            "@",
+            "Faculty",
+            "Economics",
+            "&",
+            "amp",
+            ";",
+            "Political",
+            "Science\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143493027878625280,
+        "user": "Jacir_Hilmi",
+        "user_location": "Alexandria, Egypt",
+        "date": "Tue Jun 25 12:15:57 +0000 2019",
+        "text": "I very small visit to the capital does not mean skipping a smaller visit to The-Bro. @ Talaat Harb https://t.co/14QEmL2Kdd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04762592,
+                31.23863519
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/14QEmL2Kdd",
+                "expanded_url": "https://www.instagram.com/p/BzIeSPFhIho/?igshid=11gtha5eq99k4",
+                "display_url": "instagram.com/p/BzIeSPFhIho/\u2026",
+                "indices": [
+                    99,
+                    122
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I very small visit to the capital does not mean skipping a smaller visit to The-Bro. @ Talaat Harb",
+        "without_stowords": [
+            "I",
+            "small",
+            "visit",
+            "capital",
+            "mean",
+            "skipping",
+            "smaller",
+            "visit",
+            "The-Bro",
+            ".",
+            "@",
+            "Talaat",
+            "Harb"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143489675996344320,
+        "user": "sal_shouq",
+        "user_location": "",
+        "date": "Tue Jun 25 12:02:38 +0000 2019",
+        "text": "I'm at @Starbucks in Mohandesin, Giza https://t.co/PmpWHt4F7f",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.053982,
+                31.201898
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/PmpWHt4F7f",
+                "expanded_url": "https://www.swarmapp.com/c/a3ytDEwQHKU",
+                "display_url": "swarmapp.com/c/a3ytDEwQHKU",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Starbucks",
+                "name": "Starbucks Coffee",
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143475133232885760,
+        "user": "3zooz_marwann",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Tue Jun 25 11:04:51 +0000 2019",
+        "text": "I'm at Starbucks in Mohandesin, Giza https://t.co/6QE9npU95F",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.053982,
+                31.201898
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6QE9npU95F",
+                "expanded_url": "https://www.swarmapp.com/c/eHJv5SSLbpt",
+                "display_url": "swarmapp.com/c/eHJv5SSLbpt",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Starbucks in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Starbucks",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143468288317558786,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 10:37:39 +0000 2019",
+        "text": "With the \u201cLegend\u201d Mr. mogeddawi \nNo Festival Raqs of Course 2019\n\n#jadeeljabel #dancaarabe #dancadoventre\u2026 https://t.co/4IOg576bTT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4IOg576bTT",
+                "expanded_url": "https://twitter.com/i/web/status/1143468288317558786",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "With the \u201cLegend\u201d Mr. mogeddawi No Festival Raqs of Course 2019 #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "With",
+            "\u201c",
+            "Legend",
+            "\u201d",
+            "Mr.",
+            "mogeddawi",
+            "No",
+            "Festival",
+            "Raqs",
+            "Course",
+            "2019",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143459837617025029,
+        "user": "leicacracker",
+        "user_location": "Brooklyn, NY",
+        "date": "Tue Jun 25 10:04:04 +0000 2019",
+        "text": "In Cairo about a week after the revolution ousted Mubarak. \n+\n+\n+\n+\n+\n#leica #streetphotography #filmphotography\u2026 https://t.co/VxABozgAND",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/VxABozgAND",
+                "expanded_url": "https://twitter.com/i/web/status/1143459837617025029",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "In Cairo about a week after the revolution ousted Mubarak. + + + + + #leica #streetphotography #filmphotography\u2026",
+        "without_stowords": [
+            "In",
+            "Cairo",
+            "week",
+            "revolution",
+            "ousted",
+            "Mubarak",
+            ".",
+            "+",
+            "+",
+            "+",
+            "+",
+            "+",
+            "#",
+            "leica",
+            "#",
+            "streetphotography",
+            "#",
+            "filmphotography\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143447299948986369,
+        "user": "0174335380",
+        "user_location": "",
+        "date": "Tue Jun 25 09:14:15 +0000 2019",
+        "text": "When u wake up and go to ur job and u find out that there's a sudden action happened and u should handle it with li\u2026 https://t.co/Ri23bHcySl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03812375,
+                31.21415377
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Ri23bHcySl",
+                "expanded_url": "https://twitter.com/i/web/status/1143447299948986369",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "When u wake up and go to ur job and u find out that there's a sudden action happened and u should handle it with li\u2026",
+        "without_stowords": [
+            "When",
+            "u",
+            "wake",
+            "go",
+            "ur",
+            "job",
+            "u",
+            "find",
+            "'s",
+            "sudden",
+            "action",
+            "happened",
+            "u",
+            "handle",
+            "li\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143436085575467008,
+        "user": "Saraaah177",
+        "user_location": "+966",
+        "date": "Tue Jun 25 08:29:41 +0000 2019",
+        "text": "I'm at Dip N Dip in Giza https://t.co/akKQ9rsMxJ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05564193,
+                31.19886117
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/akKQ9rsMxJ",
+                "expanded_url": "https://www.swarmapp.com/c/heJMtZhHlbA",
+                "display_url": "swarmapp.com/c/heJMtZhHlbA",
+                "indices": [
+                    25,
+                    48
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Dip N Dip in Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Dip",
+            "N",
+            "Dip",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143432656933273600,
+        "user": "Saraaah177",
+        "user_location": "+966",
+        "date": "Tue Jun 25 08:16:04 +0000 2019",
+        "text": "I'm at @Starbucks in Mohandesin, Giza https://t.co/kCN8lMYE0C",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.053982,
+                31.201898
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/kCN8lMYE0C",
+                "expanded_url": "https://www.swarmapp.com/c/bpTKZXsH0No",
+                "display_url": "swarmapp.com/c/bpTKZXsH0No",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Starbucks",
+                "name": "Starbucks Coffee",
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143432226459148288,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Tue Jun 25 08:14:21 +0000 2019",
+        "text": "Join the GE team! See our latest job opening here: https://t.co/5keLiCaNYg #Finance #Cairo, Governorate Cairo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5keLiCaNYg",
+                "expanded_url": "http://bit.ly/2IGDWrK",
+                "display_url": "bit.ly/2IGDWrK",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Join the GE team! See our latest job opening here: #Finance #Cairo, Governorate Cairo",
+        "without_stowords": [
+            "Join",
+            "GE",
+            "team",
+            "!",
+            "See",
+            "latest",
+            "job",
+            "opening",
+            ":",
+            "#",
+            "Finance",
+            "#",
+            "Cairo",
+            ",",
+            "Governorate",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143346114185302017,
+        "user": "DahmiShaban",
+        "user_location": "",
+        "date": "Tue Jun 25 02:32:10 +0000 2019",
+        "text": "I'm at Opal in Giza https://t.co/EFIpYreRka",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02299759,
+                31.21866814
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/EFIpYreRka",
+                "expanded_url": "https://www.swarmapp.com/c/f8A0n45XVkL",
+                "display_url": "swarmapp.com/c/f8A0n45XVkL",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Opal in Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Opal",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143338278231433216,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 02:01:02 +0000 2019",
+        "text": "This will be my class tomorrow at Raqs of Course Festival, 1:30 pm! Yallah! \ud83d\udcaa\ud83c\udffc\n#jadeeljabel #dancaarabe\u2026 https://t.co/QyzHxlwPlW",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/QyzHxlwPlW",
+                "expanded_url": "https://twitter.com/i/web/status/1143338278231433216",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "This will be my class tomorrow at Raqs of Course Festival, 1:30 pm! Yallah! \ud83d\udcaa\ud83c\udffc #jadeeljabel #dancaarabe\u2026",
+        "without_stowords": [
+            "This",
+            "class",
+            "tomorrow",
+            "Raqs",
+            "Course",
+            "Festival",
+            ",",
+            "1:30",
+            "pm",
+            "!",
+            "Yallah",
+            "!",
+            "\ud83d\udcaa\ud83c\udffc",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143325841738387457,
+        "user": "3zooz_marwann",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Tue Jun 25 01:11:37 +0000 2019",
+        "text": "I'm at Location in Mohandesin, Giza https://t.co/JzFMxPxM5g",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JzFMxPxM5g",
+                "expanded_url": "https://www.swarmapp.com/c/j9tP9qBwAF1",
+                "display_url": "swarmapp.com/c/j9tP9qBwAF1",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Location in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Location",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143325213897166850,
+        "user": "OmnyaLsafoury",
+        "user_location": "Domiat, Egypt",
+        "date": "Tue Jun 25 01:09:07 +0000 2019",
+        "text": "RT @emaanaymann: This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143325146800906241,
+        "user": "Batataa25",
+        "user_location": "Desouk",
+        "date": "Tue Jun 25 01:08:51 +0000 2019",
+        "text": "RT @emaanaymann: This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143323944516280320,
+        "user": "Qussai_Danyal1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Tue Jun 25 01:04:04 +0000 2019",
+        "text": "I'm at Location in Mohandesin, Giza https://t.co/6pJOU9Yp2Z",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6pJOU9Yp2Z",
+                "expanded_url": "https://www.swarmapp.com/c/bNjhlJTsJPZ",
+                "display_url": "swarmapp.com/c/bNjhlJTsJPZ",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Location in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Location",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143318001715961856,
+        "user": "RM22__7",
+        "user_location": "",
+        "date": "Tue Jun 25 00:40:28 +0000 2019",
+        "text": "RT @emaanaymann: This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143317031934189569,
+        "user": "hossamawad6",
+        "user_location": "Mansoura & moqattam",
+        "date": "Tue Jun 25 00:36:36 +0000 2019",
+        "text": "RT @emaanaymann: This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143315220707848194,
+        "user": "saraelsorady",
+        "user_location": "",
+        "date": "Tue Jun 25 00:29:25 +0000 2019",
+        "text": "RT @emaanaymann: This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143314581781131266,
+        "user": "emaanaymann",
+        "user_location": "zamalek",
+        "date": "Tue Jun 25 00:26:52 +0000 2019",
+        "text": "This message https://t.co/ZHX82F0xpY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "This message https://t.co/ZHX82F0xpY",
+        "without_stowords": [
+            "This",
+            "message",
+            "https",
+            ":",
+            "//t.co/ZHX82F0xpY"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143307904113631232,
+        "user": "Dinaa0188",
+        "user_location": "\u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629, \u0645\u0635\u0631",
+        "date": "Tue Jun 25 00:00:20 +0000 2019",
+        "text": "RT @emaanaymann: Mood https://t.co/k4qVxCuu60",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "filtered_text": "RT : Mood https://t.co/k4qVxCuu60",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Mood",
+            "https",
+            ":",
+            "//t.co/k4qVxCuu60"
+        ],
+        "region": "Dokki"
+    }
+]

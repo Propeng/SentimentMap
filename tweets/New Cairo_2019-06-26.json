@@ -1,0 +1,3655 @@
+[
+    {
+        "id": 1144023587835273216,
+        "user": "YomnaashrafEid1",
+        "user_location": "New cairo",
+        "date": "Wed Jun 26 23:24:12 +0000 2019",
+        "text": "@SangreDeLeyenda @ManarIsma hamooooooooot\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "SangreDeLeyenda",
+                "name": "Giovanna Val",
+                "id": 2755474018,
+                "id_str": "2755474018",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ManarIsma",
+                "name": "\u0633\u0645\u0627\u0631\u0627 \ud83c\udf7a",
+                "id": 825390041316864005,
+                "id_str": "825390041316864005",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "filtered_text": "hamooooooooot\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "without_stowords": [
+            "hamooooooooot\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144023532428496896,
+        "user": "IMoronda",
+        "user_location": "South Carolina, USA",
+        "date": "Wed Jun 26 23:23:59 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144022435961933825,
+        "user": "engykhaled96",
+        "user_location": "Mukattam",
+        "date": "Wed Jun 26 23:19:38 +0000 2019",
+        "text": "Its dark inside",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Its dark inside",
+        "without_stowords": [
+            "Its",
+            "dark",
+            "inside"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144021785744158720,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 23:17:03 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/freIvB6dfv",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/freIvB6dfv",
+                "expanded_url": "https://www.swarmapp.com/c/irTmBTZ3BLe",
+                "display_url": "swarmapp.com/c/irTmBTZ3BLe",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Home \u2665",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Home",
+            "\u2665"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144021133680959489,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 23:14:27 +0000 2019",
+        "text": "Fuck the judge/ her parents for approving of this shit",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Fuck the judge/ her parents for approving of this shit",
+        "without_stowords": [
+            "Fuck",
+            "judge/",
+            "parents",
+            "approving",
+            "shit"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144020908153233409,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 23:13:34 +0000 2019",
+        "text": "what the actual fuck is this ????I\u2019m officially done with this country https://t.co/1TMLiRij43",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/1TMLiRij43",
+                "expanded_url": "https://twitter.com/womentoaware/status/1143884895539945473",
+                "display_url": "twitter.com/womentoaware/s\u2026",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "what the actual fuck is this ????I\u2019m officially done with this country",
+        "without_stowords": [
+            "actual",
+            "fuck",
+            "?",
+            "?",
+            "?",
+            "?",
+            "I",
+            "\u2019",
+            "officially",
+            "done",
+            "country"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144019908851843078,
+        "user": "abdulazizhashad",
+        "user_location": "Mukattam",
+        "date": "Wed Jun 26 23:09:35 +0000 2019",
+        "text": "The way to solve the solution is always more important than the result.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "The way to solve the solution is always more important than the result.",
+        "without_stowords": [
+            "The",
+            "way",
+            "solve",
+            "solution",
+            "always",
+            "important",
+            "result",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144017167379247109,
+        "user": "NouraJoesph",
+        "user_location": "London, England",
+        "date": "Wed Jun 26 22:58:42 +0000 2019",
+        "text": "Your memory feels like home to me.\nSo whenever my mind wanders, it always finds it\u2019s way back to you. @ Dusit Thani\u2026 https://t.co/ipkg2cV69R",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02581796,
+                31.4551128
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ipkg2cV69R",
+                "expanded_url": "https://twitter.com/i/web/status/1144017167379247109",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Your memory feels like home to me. So whenever my mind wanders, it always finds it\u2019s way back to you. @ Dusit Thani\u2026",
+        "without_stowords": [
+            "Your",
+            "memory",
+            "feels",
+            "like",
+            "home",
+            ".",
+            "So",
+            "whenever",
+            "mind",
+            "wanders",
+            ",",
+            "always",
+            "finds",
+            "\u2019",
+            "way",
+            "back",
+            ".",
+            "@",
+            "Dusit",
+            "Thani\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144012534858571781,
+        "user": "Getcha_lyfe91",
+        "user_location": "Dover, DE",
+        "date": "Wed Jun 26 22:40:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144006701382873090,
+        "user": "xossamus",
+        "user_location": "",
+        "date": "Wed Jun 26 22:17:06 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Such",
+            "disappointment",
+            "defend",
+            "someone",
+            "long",
+            "thinking",
+            "different",
+            "turn",
+            "like\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1144003304730632192,
+        "user": "nasz0x",
+        "user_location": "Egypt",
+        "date": "Wed Jun 26 22:03:37 +0000 2019",
+        "text": "NO. 029 : After 1 whole year without sushi, finally i get some and it \ud83d\udc4f\ud83c\udffbwas\ud83d\udc4f\ud83c\udffbworth\ud83d\udc4f\ud83c\udffbit\ud83d\udc4f\ud83c\udffb\n\u2022\n#domonasz #Egypt #Cairo\u2026 https://t.co/RTNkHLcVr0",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02745141,
+                31.40712261
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/RTNkHLcVr0",
+                "expanded_url": "https://twitter.com/i/web/status/1144003304730632192",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "NO. 029 : After 1 whole year without sushi, finally i get some and it \ud83d\udc4f\ud83c\udffbwas\ud83d\udc4f\ud83c\udffbworth\ud83d\udc4f\ud83c\udffbit\ud83d\udc4f\ud83c\udffb \u2022 #domonasz #Egypt #Cairo\u2026",
+        "without_stowords": [
+            "NO",
+            ".",
+            "029",
+            ":",
+            "After",
+            "1",
+            "whole",
+            "year",
+            "without",
+            "sushi",
+            ",",
+            "finally",
+            "get",
+            "\ud83d\udc4f\ud83c\udffbwas\ud83d\udc4f\ud83c\udffbworth\ud83d\udc4f\ud83c\udffbit\ud83d\udc4f\ud83c\udffb",
+            "\u2022",
+            "#",
+            "domonasz",
+            "#",
+            "Egypt",
+            "#",
+            "Cairo\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143998662143631360,
+        "user": "mimiyavonne",
+        "user_location": "",
+        "date": "Wed Jun 26 21:45:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143996569261367297,
+        "user": "iloveraaa",
+        "user_location": "S I N G L E , CA!",
+        "date": "Wed Jun 26 21:36:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143995998664122368,
+        "user": "aaalicia_q",
+        "user_location": "",
+        "date": "Wed Jun 26 21:34:35 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143994468233895941,
+        "user": "sugarbear369",
+        "user_location": "",
+        "date": "Wed Jun 26 21:28:30 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143993417090777088,
+        "user": "noelia9213",
+        "user_location": "idaho",
+        "date": "Wed Jun 26 21:24:19 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143991325538299905,
+        "user": "FaDyPhilip2",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 21:16:00 +0000 2019",
+        "text": "Here\u2019s a song for you\u2026 Until the Last Moment - Live by Yanni\nhttps://t.co/LvcNejI2YD",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/LvcNejI2YD",
+                "expanded_url": "https://open.spotify.com/track/7dRzKbKCOJWh2muFhoenmk?si=fPQWB0yQT6etQ0yox9b3iw",
+                "display_url": "open.spotify.com/track/7dRzKbKC\u2026",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Here\u2019s a song for you\u2026 Until the Last Moment - Live by Yanni",
+        "without_stowords": [
+            "Here",
+            "\u2019",
+            "song",
+            "you\u2026",
+            "Until",
+            "Last",
+            "Moment",
+            "-",
+            "Live",
+            "Yanni"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143987954320334855,
+        "user": "amgadrady1",
+        "user_location": "New Cairo - Egypt",
+        "date": "Wed Jun 26 21:02:37 +0000 2019",
+        "text": "@AKinho14 Me too \ud83d\ude0e",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AKinho14",
+                "name": "AK",
+                "id": 351628581,
+                "id_str": "351628581",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "filtered_text": "Me too \ud83d\ude0e",
+        "without_stowords": [
+            "Me",
+            "\ud83d\ude0e"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143987950520340481,
+        "user": "isaisgr8",
+        "user_location": "mind your business\u270c\ud83c\udffd",
+        "date": "Wed Jun 26 21:02:36 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143979875302141952,
+        "user": "_RMK9",
+        "user_location": "",
+        "date": "Wed Jun 26 20:30:31 +0000 2019",
+        "text": "\ud83c\uddea\ud83c\uddec (@ City Square in New Cairo, Cairo) https://t.co/ceHwhmFRBY",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05469475,
+                31.49228316
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ceHwhmFRBY",
+                "expanded_url": "https://www.swarmapp.com/c/9bFrLHvKMDK",
+                "display_url": "swarmapp.com/c/9bFrLHvKMDK",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83c\uddea\ud83c\uddec (@ City Square in New Cairo, Cairo)",
+        "without_stowords": [
+            "\ud83c\uddea\ud83c\uddec",
+            "(",
+            "@",
+            "City",
+            "Square",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo",
+            ")"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143976265432436736,
+        "user": "ashtheesaint",
+        "user_location": "Los Angeles, CA",
+        "date": "Wed Jun 26 20:16:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143974808423714816,
+        "user": "11_p1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Wed Jun 26 20:10:23 +0000 2019",
+        "text": "I'm at Tivoli Plaza in Heliopolis, Cairo https://t.co/wNkIb5uD1d",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07848821,
+                31.34741136
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/wNkIb5uD1d",
+                "expanded_url": "https://www.swarmapp.com/c/3nS84RRXuYJ",
+                "display_url": "swarmapp.com/c/3nS84RRXuYJ",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Tivoli Plaza in Heliopolis, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Tivoli",
+            "Plaza",
+            "Heliopolis",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143974695177523205,
+        "user": "ahmednaguib",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 20:09:56 +0000 2019",
+        "text": "I owe a lot to my Alma mater, @AUC.  Had a lot of amazing teachers turned friends and friends turned lifetime frien\u2026 https://t.co/nUGZDtBvBZ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01979718,
+                31.49994852
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nUGZDtBvBZ",
+                "expanded_url": "https://twitter.com/i/web/status/1143974695177523205",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AUC",
+                "name": "AUC",
+                "id": 40629323,
+                "id_str": "40629323",
+                "indices": [
+                    30,
+                    34
+                ]
+            }
+        ],
+        "filtered_text": "I owe a lot to my Alma mater, . Had a lot of amazing teachers turned friends and friends turned lifetime frien\u2026",
+        "without_stowords": [
+            "I",
+            "owe",
+            "lot",
+            "Alma",
+            "mater",
+            ",",
+            ".",
+            "Had",
+            "lot",
+            "amazing",
+            "teachers",
+            "turned",
+            "friends",
+            "friends",
+            "turned",
+            "lifetime",
+            "frien\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143974147623665665,
+        "user": "Imjust_Lia",
+        "user_location": "",
+        "date": "Wed Jun 26 20:07:45 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143974046499004417,
+        "user": "NonaLove93",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 20:07:21 +0000 2019",
+        "text": "Mazooony \ud83d\ude0d mama menna \ud83d\ude02\ud83d\ude02 @ Giggles academy https://t.co/5Bm3utCLXp",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.062243,
+                31.327278
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5Bm3utCLXp",
+                "expanded_url": "https://www.instagram.com/p/BzL5B3bn-wCWvWY6xMml5WVwShxF0XJKDta28I0/?igshid=1kj5dfv3z68yk",
+                "display_url": "instagram.com/p/BzL5B3bn-wCW\u2026",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Mazooony \ud83d\ude0d mama menna \ud83d\ude02\ud83d\ude02 @ Giggles academy",
+        "without_stowords": [
+            "Mazooony",
+            "\ud83d\ude0d",
+            "mama",
+            "menna",
+            "\ud83d\ude02\ud83d\ude02",
+            "@",
+            "Giggles",
+            "academy"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143973959593005058,
+        "user": "BotheredByBrieB",
+        "user_location": "Lakeland, FL",
+        "date": "Wed Jun 26 20:07:00 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143973109000810497,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 20:03:37 +0000 2019",
+        "text": "I'm at @CostaCoffee in Heliopolis, Cairo https://t.co/CnpFsbhxiV",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07323045,
+                31.34631188
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CnpFsbhxiV",
+                "expanded_url": "https://www.swarmapp.com/c/8vg9QhkKy5n",
+                "display_url": "swarmapp.com/c/8vg9QhkKy5n",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CostaCoffee",
+                "name": "Costa Coffee",
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    7,
+                    19
+                ]
+            }
+        ],
+        "filtered_text": "I'm at in Heliopolis, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Heliopolis",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143972938850492417,
+        "user": "Ahziiii",
+        "user_location": "Jersey",
+        "date": "Wed Jun 26 20:02:57 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143968768328163330,
+        "user": "ItsShantricee",
+        "user_location": "Georgia, USA",
+        "date": "Wed Jun 26 19:46:22 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143968720416583682,
+        "user": "nhandss_",
+        "user_location": "5522 old national Hwy Ste E ",
+        "date": "Wed Jun 26 19:46:11 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143968188243283969,
+        "user": "Ahmd_salh_jr",
+        "user_location": "new cairo egypt",
+        "date": "Wed Jun 26 19:44:04 +0000 2019",
+        "text": "@NileFM u playing Rock songs only ?!\ni just opened few moments ago",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "NileFM",
+                "name": "104.2 Nile FM",
+                "id": 33512799,
+                "id_str": "33512799",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "filtered_text": "u playing Rock songs only ?! i just opened few moments ago",
+        "without_stowords": [
+            "u",
+            "playing",
+            "Rock",
+            "songs",
+            "?",
+            "!",
+            "opened",
+            "moments",
+            "ago"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143966319244709888,
+        "user": "shylerharisonnn",
+        "user_location": "Ottawa, Ontario",
+        "date": "Wed Jun 26 19:36:39 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Ignoring the red flags because you wanna see the good in people will cost you later.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Ignoring the red flags because you wanna see the good in people will cost you later.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Ignoring",
+            "red",
+            "flags",
+            "wan",
+            "na",
+            "see",
+            "good",
+            "people",
+            "cost",
+            "later",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143963454019178500,
+        "user": "KBrat__",
+        "user_location": "",
+        "date": "Wed Jun 26 19:25:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143963227539353600,
+        "user": "OmniiaIhab",
+        "user_location": "New Cairo, Egypt.\n",
+        "date": "Wed Jun 26 19:24:21 +0000 2019",
+        "text": "Sometimes I just feel like I'm living the life of someone else.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Sometimes I just feel like I'm living the life of someone else.",
+        "without_stowords": [
+            "Sometimes",
+            "I",
+            "feel",
+            "like",
+            "I",
+            "'m",
+            "living",
+            "life",
+            "someone",
+            "else",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143963020814704640,
+        "user": "shylerharisonnn",
+        "user_location": "Ottawa, Ontario",
+        "date": "Wed Jun 26 19:23:32 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143962779696734208,
+        "user": "thatgirlhayley2",
+        "user_location": "London, England",
+        "date": "Wed Jun 26 19:22:35 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143961807327059969,
+        "user": "OmniiaIhab",
+        "user_location": "New Cairo, Egypt.\n",
+        "date": "Wed Jun 26 19:18:43 +0000 2019",
+        "text": "Never in my life have I been with and against two opposite sides of the same debate. Interesting.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Never in my life have I been with and against two opposite sides of the same debate. Interesting.",
+        "without_stowords": [
+            "Never",
+            "life",
+            "I",
+            "two",
+            "opposite",
+            "sides",
+            "debate",
+            ".",
+            "Interesting",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143960971708370950,
+        "user": "OmniiaIhab",
+        "user_location": "New Cairo, Egypt.\n",
+        "date": "Wed Jun 26 19:15:24 +0000 2019",
+        "text": "Lesson learned: Never make yourself too available.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Lesson learned: Never make yourself too available.",
+        "without_stowords": [
+            "Lesson",
+            "learned",
+            ":",
+            "Never",
+            "make",
+            "available",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143959925980389377,
+        "user": "F_AlGhurair",
+        "user_location": "",
+        "date": "Wed Jun 26 19:11:14 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/YLVqDmT8bU",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/YLVqDmT8bU",
+                "expanded_url": "https://www.swarmapp.com/c/eXa0j2vOdRv",
+                "display_url": "swarmapp.com/c/eXa0j2vOdRv",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Cairo Festival City Mall - in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Cairo",
+            "Festival",
+            "City",
+            "Mall",
+            "-",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143958296291946496,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Wed Jun 26 19:04:46 +0000 2019",
+        "text": "@empathicstand hagarb\ud83e\udd37",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "empathicstand",
+                "name": "empathic nerdy Boi",
+                "id": 2444944239,
+                "id_str": "2444944239",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "filtered_text": "hagarb\ud83e\udd37",
+        "without_stowords": [
+            "hagarb\ud83e\udd37"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143956702699483137,
+        "user": "alexreyyy11",
+        "user_location": "",
+        "date": "Wed Jun 26 18:58:26 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143955981216489473,
+        "user": "theyylovvejadaa",
+        "user_location": "Texas, USA",
+        "date": "Wed Jun 26 18:55:34 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143954681691066368,
+        "user": "juicylips2003",
+        "user_location": "South miami heights fl",
+        "date": "Wed Jun 26 18:50:24 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143953308148781057,
+        "user": "aveenuee",
+        "user_location": "Milwaukee, WI",
+        "date": "Wed Jun 26 18:44:56 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143951815957987328,
+        "user": "breyaaaa9",
+        "user_location": "",
+        "date": "Wed Jun 26 18:39:01 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143950827712851969,
+        "user": "AshylaFaith",
+        "user_location": "Florida, USA",
+        "date": "Wed Jun 26 18:35:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I suck at saving money. I have that \"ima get back\" mindset.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I suck at saving money. I have that \"ima get back\" mindset.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "suck",
+            "saving",
+            "money",
+            ".",
+            "I",
+            "``",
+            "ima",
+            "get",
+            "back",
+            "''",
+            "mindset",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143947865372471296,
+        "user": "Caravan_AUC",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 18:23:19 +0000 2019",
+        "text": "The Caravan offers its condolences for the death of Samah Al Minawi. \n\nSamah was a very loved staff member at AUC\u2019s\u2026 https://t.co/BzyUJpWqST",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BzyUJpWqST",
+                "expanded_url": "https://twitter.com/i/web/status/1143947865372471296",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "The Caravan offers its condolences for the death of Samah Al Minawi. Samah was a very loved staff member at AUC\u2019s\u2026",
+        "without_stowords": [
+            "The",
+            "Caravan",
+            "offers",
+            "condolences",
+            "death",
+            "Samah",
+            "Al",
+            "Minawi",
+            ".",
+            "Samah",
+            "loved",
+            "staff",
+            "member",
+            "AUC",
+            "\u2019",
+            "s\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143943871161884673,
+        "user": "melshakoushy",
+        "user_location": "Egypt, Cairo, Maadi",
+        "date": "Wed Jun 26 18:07:26 +0000 2019",
+        "text": "To life partners \ud83c\udf7b\ud83d\udda4 @ Cairo Festival City Mall https://t.co/KlHelNsZLF",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01752348,
+                31.40699331
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/KlHelNsZLF",
+                "expanded_url": "https://www.instagram.com/p/BzLrThbgl5nQmbD91W7kR4jD8LMt9VTWg3Kh600/?igshid=i01k03ztgrqk",
+                "display_url": "instagram.com/p/BzLrThbgl5nQ\u2026",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "To life partners \ud83c\udf7b\ud83d\udda4 @ Cairo Festival City Mall",
+        "without_stowords": [
+            "To",
+            "life",
+            "partners",
+            "\ud83c\udf7b\ud83d\udda4",
+            "@",
+            "Cairo",
+            "Festival",
+            "City",
+            "Mall"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143943472916942848,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Wed Jun 26 18:05:52 +0000 2019",
+        "text": "Oh Mommy, Oh Daddy, I am a big old Baddy",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Oh Mommy, Oh Daddy, I am a big old Baddy",
+        "without_stowords": [
+            "Oh",
+            "Mommy",
+            ",",
+            "Oh",
+            "Daddy",
+            ",",
+            "I",
+            "big",
+            "old",
+            "Baddy"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143943255404531718,
+        "user": "EnasMaarouf",
+        "user_location": "new cairo ",
+        "date": "Wed Jun 26 18:05:00 +0000 2019",
+        "text": "My week on Twitter \ud83c\udf89: 17 Mentions, 25 Likes, 2 Retweets, 5.76K Retweet Reach, 5 New Followers. See yours with\u2026 https://t.co/bJsxLWPdCI",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bJsxLWPdCI",
+                "expanded_url": "https://twitter.com/i/web/status/1143943255404531718",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My week on Twitter \ud83c\udf89: 17 Mentions, 25 Likes, 2 Retweets, 5.76K Retweet Reach, 5 New Followers. See yours with\u2026",
+        "without_stowords": [
+            "My",
+            "week",
+            "Twitter",
+            "\ud83c\udf89",
+            ":",
+            "17",
+            "Mentions",
+            ",",
+            "25",
+            "Likes",
+            ",",
+            "2",
+            "Retweets",
+            ",",
+            "5.76K",
+            "Retweet",
+            "Reach",
+            ",",
+            "5",
+            "New",
+            "Followers",
+            ".",
+            "See",
+            "with\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143940471150010373,
+        "user": "brennafaith13",
+        "user_location": "Ada, OK",
+        "date": "Wed Jun 26 17:53:56 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143938937242693633,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 17:47:50 +0000 2019",
+        "text": "@YCBPesso_ @_123Keaaaaa Same but I'm still checking\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_123Keaaaaa",
+                "name": "Kea\u2728\ud83e\udd40",
+                "id": 989299859894296576,
+                "id_str": "989299859894296576",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "filtered_text": "@YCBPesso_ Same but I'm still checking\ud83d\ude02\ud83d\ude02",
+        "without_stowords": [
+            "@",
+            "YCBPesso_",
+            "Same",
+            "I",
+            "'m",
+            "still",
+            "checking\ud83d\ude02\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143938518902878208,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 17:46:10 +0000 2019",
+        "text": "@YCBPesso_ @_123Keaaaaa I do the same\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "YCBPesso_",
+                "name": "Ghetto Angel\ud83d\udc7c\ud83c\udffe\ud83e\udd40",
+                "id": 292672045,
+                "id_str": "292672045",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "_123Keaaaaa",
+                "name": "Kea\u2728\ud83e\udd40",
+                "id": 989299859894296576,
+                "id_str": "989299859894296576",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "filtered_text": "I do the same\ud83d\ude02",
+        "without_stowords": [
+            "I",
+            "same\ud83d\ude02"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143935958288601093,
+        "user": "nev_spa",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 17:36:00 +0000 2019",
+        "text": "Come celebrate with us \nTaking appointments now on 0201092000503 https://t.co/m8FCmxx8i8",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Come celebrate with us Taking appointments now on 0201092000503 https://t.co/m8FCmxx8i8",
+        "without_stowords": [
+            "Come",
+            "celebrate",
+            "us",
+            "Taking",
+            "appointments",
+            "0201092000503",
+            "https",
+            ":",
+            "//t.co/m8FCmxx8i8"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143935446474342401,
+        "user": "thebellaconnors",
+        "user_location": "",
+        "date": "Wed Jun 26 17:33:58 +0000 2019",
+        "text": "RT @_Mysterygirl_P: If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "If",
+            "good",
+            "person",
+            ",",
+            "disappointments",
+            ",",
+            "heartbreaks",
+            "betrayals",
+            "would",
+            "always",
+            "come",
+            "way",
+            ",",
+            "'s",
+            "way",
+            "i\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143933653216616448,
+        "user": "des_haruno",
+        "user_location": "Kame House ",
+        "date": "Wed Jun 26 17:26:50 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143932475036655616,
+        "user": "braatzdollbre",
+        "user_location": "Oklahoma City, OK",
+        "date": "Wed Jun 26 17:22:09 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143929081907634176,
+        "user": "BdellrahmanA",
+        "user_location": "Al-mukattam city ",
+        "date": "Wed Jun 26 17:08:40 +0000 2019",
+        "text": "just do the best you can \ud83d\udc7b https://t.co/Jwzt2hIr9e",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "just do the best you can \ud83d\udc7b https://t.co/Jwzt2hIr9e",
+        "without_stowords": [
+            "best",
+            "\ud83d\udc7b",
+            "https",
+            ":",
+            "//t.co/Jwzt2hIr9e"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143928273073790976,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 17:05:28 +0000 2019",
+        "text": "@_123Keaaaaa @iamcardib And your mirror\u2764",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_123Keaaaaa",
+                "name": "Kea\u2728\ud83e\udd40",
+                "id": 989299859894296576,
+                "id_str": "989299859894296576",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "iamcardib",
+                "name": "iamcardib",
+                "id": 866953267,
+                "id_str": "866953267",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "filtered_text": "And your mirror\u2764",
+        "without_stowords": [
+            "And",
+            "mirror\u2764"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143927726186872833,
+        "user": "braatiedoll",
+        "user_location": "",
+        "date": "Wed Jun 26 17:03:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143924024113803265,
+        "user": "priiiincesst",
+        "user_location": "United States",
+        "date": "Wed Jun 26 16:48:35 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143922695362371584,
+        "user": "Shardanay2",
+        "user_location": "In your heart ",
+        "date": "Wed Jun 26 16:43:18 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143922520220983299,
+        "user": "bittiem13",
+        "user_location": "",
+        "date": "Wed Jun 26 16:42:36 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143922380311580677,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 16:42:03 +0000 2019",
+        "text": "@_123Keaaaaa @iamcardib You look so cute\ud83d\ude0d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_123Keaaaaa",
+                "name": "Kea\u2728\ud83e\udd40",
+                "id": 989299859894296576,
+                "id_str": "989299859894296576",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "iamcardib",
+                "name": "iamcardib",
+                "id": 866953267,
+                "id_str": "866953267",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "filtered_text": "You look so cute\ud83d\ude0d",
+        "without_stowords": [
+            "You",
+            "look",
+            "cute\ud83d\ude0d"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143920163210899457,
+        "user": "n_nxyx",
+        "user_location": "",
+        "date": "Wed Jun 26 16:33:14 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143918776536014848,
+        "user": "xo_TheBombshell",
+        "user_location": "Texas, USA",
+        "date": "Wed Jun 26 16:27:43 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143917474938851330,
+        "user": "kayshae454",
+        "user_location": "Kentucky, USA",
+        "date": "Wed Jun 26 16:22:33 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143907835815682051,
+        "user": "cvxcarolina",
+        "user_location": "Los Angeles, CA",
+        "date": "Wed Jun 26 15:44:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Do",
+            "ever",
+            "feel",
+            "like",
+            "every",
+            "single",
+            "person",
+            "care",
+            "cares",
+            "someone",
+            "else",
+            "?",
+            "\ud83d\ude36"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143906976142954497,
+        "user": "Qwick_",
+        "user_location": "#LessIsMore its plenty of us",
+        "date": "Wed Jun 26 15:40:50 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143905897422438407,
+        "user": "oliviaahenry2",
+        "user_location": "somewhere great",
+        "date": "Wed Jun 26 15:36:33 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143905541053399041,
+        "user": "sammimahone",
+        "user_location": "",
+        "date": "Wed Jun 26 15:35:08 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143902208620138496,
+        "user": "jadaddi",
+        "user_location": "New York, USA",
+        "date": "Wed Jun 26 15:21:53 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143900621919199232,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 15:15:35 +0000 2019",
+        "text": "I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I ain\u2019t letting shit slide anymore. Act right or get left.",
+        "without_stowords": [
+            "I",
+            "\u2019",
+            "letting",
+            "shit",
+            "slide",
+            "anymore",
+            ".",
+            "Act",
+            "right",
+            "get",
+            "left",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143895178161340419,
+        "user": "mayar_ezzeldiin",
+        "user_location": "Cairo, Riyadh",
+        "date": "Wed Jun 26 14:53:57 +0000 2019",
+        "text": "RT @fullofwritings: get yourself someone you can be comfortably goofy with them",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "fullofwritings",
+                "name": "String name = \u201cAhmed Abdelrahman\u201d;",
+                "id": 98472706,
+                "id_str": "98472706",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : get yourself someone you can be comfortably goofy with them",
+        "without_stowords": [
+            "RT",
+            ":",
+            "get",
+            "someone",
+            "comfortably",
+            "goofy"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143894265803804672,
+        "user": "adhaamwael",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 14:50:20 +0000 2019",
+        "text": "RT @fullofwritings: get yourself someone you can be comfortably goofy with them",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "fullofwritings",
+                "name": "String name = \u201cAhmed Abdelrahman\u201d;",
+                "id": 98472706,
+                "id_str": "98472706",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : get yourself someone you can be comfortably goofy with them",
+        "without_stowords": [
+            "RT",
+            ":",
+            "get",
+            "someone",
+            "comfortably",
+            "goofy"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143893200832204801,
+        "user": "fullofwritings",
+        "user_location": "new cairo",
+        "date": "Wed Jun 26 14:46:06 +0000 2019",
+        "text": "get yourself someone you can be comfortably goofy with them",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "get yourself someone you can be comfortably goofy with them",
+        "without_stowords": [
+            "get",
+            "someone",
+            "comfortably",
+            "goofy"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143893076705972224,
+        "user": "Ba37x",
+        "user_location": "\u264f.",
+        "date": "Wed Jun 26 14:45:36 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/oPyct0DqU7",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/oPyct0DqU7",
+                "expanded_url": "https://www.swarmapp.com/c/gJIP95t1H1O",
+                "display_url": "swarmapp.com/c/gJIP95t1H1O",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Cairo Festival City Mall - in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Cairo",
+            "Festival",
+            "City",
+            "Mall",
+            "-",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143884523618414597,
+        "user": "AmirMizo8",
+        "user_location": "New Cairo",
+        "date": "Wed Jun 26 14:11:37 +0000 2019",
+        "text": "My motor bike https://t.co/CxEE0OMwH3",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "My motor bike https://t.co/CxEE0OMwH3",
+        "without_stowords": [
+            "My",
+            "motor",
+            "bike",
+            "https",
+            ":",
+            "//t.co/CxEE0OMwH3"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143880206798733319,
+        "user": "WeirdoLyly1",
+        "user_location": "New York, USA",
+        "date": "Wed Jun 26 13:54:28 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143872258005450752,
+        "user": "ChantsOfRain",
+        "user_location": "Atlanta, GA",
+        "date": "Wed Jun 26 13:22:53 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Such",
+            "disappointment",
+            "defend",
+            "someone",
+            "long",
+            "thinking",
+            "different",
+            "turn",
+            "like\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143871284876578816,
+        "user": "ai97x",
+        "user_location": "KWT\ud83c\uddf0\ud83c\uddfc/CAIRO\ud83c\uddea\ud83c\uddec",
+        "date": "Wed Jun 26 13:19:01 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/nX0SLdyeTP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nX0SLdyeTP",
+                "expanded_url": "https://www.swarmapp.com/c/dZjE726gI6f",
+                "display_url": "swarmapp.com/c/dZjE726gI6f",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Cairo Festival City Mall - in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Cairo",
+            "Festival",
+            "City",
+            "Mall",
+            "-",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143871254694432768,
+        "user": "iamejaaz",
+        "user_location": "Rochester, NY",
+        "date": "Wed Jun 26 13:18:53 +0000 2019",
+        "text": "RT @_Mysterygirl_P: If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "If",
+            "good",
+            "person",
+            ",",
+            "disappointments",
+            ",",
+            "heartbreaks",
+            "betrayals",
+            "would",
+            "always",
+            "come",
+            "way",
+            ",",
+            "'s",
+            "way",
+            "i\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143870489481416704,
+        "user": "CanparaCollin",
+        "user_location": "Entebbe, Uganda",
+        "date": "Wed Jun 26 13:15:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "If",
+            "good",
+            "person",
+            ",",
+            "disappointments",
+            ",",
+            "heartbreaks",
+            "betrayals",
+            "would",
+            "always",
+            "come",
+            "way",
+            ",",
+            "'s",
+            "way",
+            "i\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143864816718757889,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Wed Jun 26 12:53:18 +0000 2019",
+        "text": "Margherita Wood Fired Pizza\n@RandaEissaMusic \n\n #kisspizza #kisspizzamaadi #milkshake #maadians #maadirestaurants\u2026 https://t.co/WR0umsu8fs",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                29.97999954,
+                31.34111023
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WR0umsu8fs",
+                "expanded_url": "https://twitter.com/i/web/status/1143864816718757889",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "RandaEissaMusic",
+                "name": "Randa Eissa",
+                "id": 451833269,
+                "id_str": "451833269",
+                "indices": [
+                    28,
+                    44
+                ]
+            }
+        ],
+        "filtered_text": "Margherita Wood Fired Pizza #kisspizza #kisspizzamaadi #milkshake #maadians #maadirestaurants\u2026",
+        "without_stowords": [
+            "Margherita",
+            "Wood",
+            "Fired",
+            "Pizza",
+            "#",
+            "kisspizza",
+            "#",
+            "kisspizzamaadi",
+            "#",
+            "milkshake",
+            "#",
+            "maadians",
+            "#",
+            "maadirestaurants\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143861359987310593,
+        "user": "3zizrowaihy",
+        "user_location": "",
+        "date": "Wed Jun 26 12:39:34 +0000 2019",
+        "text": "I'm at Dusit Thani - @dusitcairo in New Cairo https://t.co/JHKxnPMf1v",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0257063,
+                31.455274
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JHKxnPMf1v",
+                "expanded_url": "https://www.swarmapp.com/c/kypvyz94amA",
+                "display_url": "swarmapp.com/c/kypvyz94amA",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "DusitCairo",
+                "name": "Dusit Thani LakeView",
+                "id": 437590894,
+                "id_str": "437590894",
+                "indices": [
+                    21,
+                    32
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Dusit Thani - in New Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Dusit",
+            "Thani",
+            "-",
+            "New",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143858386674573312,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Wed Jun 26 12:27:45 +0000 2019",
+        "text": "Thank U qnbalahli for the sweet gift.. I \u2764 Flowers.. \n\u2764 U All.. \n\n #kisspizza #kisspizzamaadi #milkshake #maadians\u2026 https://t.co/ffqzc3TIFD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                29.97999954,
+                31.34111023
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ffqzc3TIFD",
+                "expanded_url": "https://twitter.com/i/web/status/1143858386674573312",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Thank U qnbalahli for the sweet gift.. I \u2764 Flowers.. \u2764 U All.. #kisspizza #kisspizzamaadi #milkshake #maadians\u2026",
+        "without_stowords": [
+            "Thank",
+            "U",
+            "qnbalahli",
+            "sweet",
+            "gift..",
+            "I",
+            "\u2764",
+            "Flowers..",
+            "\u2764",
+            "U",
+            "All..",
+            "#",
+            "kisspizza",
+            "#",
+            "kisspizzamaadi",
+            "#",
+            "milkshake",
+            "#",
+            "maadians\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143854584647036930,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Wed Jun 26 12:12:39 +0000 2019",
+        "text": "Shooting @RandaEissaMusic\nMenu Items with  amr_abdel_aziz_photographer\n\n #kisspizza #kisspizzamaadi #milkshake\u2026 https://t.co/WLN8Mp6oan",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                29.97999954,
+                31.34111023
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WLN8Mp6oan",
+                "expanded_url": "https://twitter.com/i/web/status/1143854584647036930",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "RandaEissaMusic",
+                "name": "Randa Eissa",
+                "id": 451833269,
+                "id_str": "451833269",
+                "indices": [
+                    9,
+                    25
+                ]
+            }
+        ],
+        "filtered_text": "Shooting Menu Items with amr_abdel_aziz_photographer #kisspizza #kisspizzamaadi #milkshake\u2026",
+        "without_stowords": [
+            "Shooting",
+            "Menu",
+            "Items",
+            "amr_abdel_aziz_photographer",
+            "#",
+            "kisspizza",
+            "#",
+            "kisspizzamaadi",
+            "#",
+            "milkshake\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143853267757207552,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Wed Jun 26 12:07:25 +0000 2019",
+        "text": "Boozy Salted Caramel Shake\nFor Only 42L.E. \n\n#kisspizza #kisspizzamaadi #milkshake #maadians #maadirestaurants\u2026 https://t.co/i0u6BcwJnD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                29.97999954,
+                31.34111023
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/i0u6BcwJnD",
+                "expanded_url": "https://twitter.com/i/web/status/1143853267757207552",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Boozy Salted Caramel Shake For Only 42L.E. #kisspizza #kisspizzamaadi #milkshake #maadians #maadirestaurants\u2026",
+        "without_stowords": [
+            "Boozy",
+            "Salted",
+            "Caramel",
+            "Shake",
+            "For",
+            "Only",
+            "42L.E",
+            ".",
+            "#",
+            "kisspizza",
+            "#",
+            "kisspizzamaadi",
+            "#",
+            "milkshake",
+            "#",
+            "maadians",
+            "#",
+            "maadirestaurants\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143840054097403907,
+        "user": "zeiny10",
+        "user_location": "New Cairo",
+        "date": "Wed Jun 26 11:14:55 +0000 2019",
+        "text": "This\u2019s wired and shity people! https://t.co/LMMmctI7Bq",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/LMMmctI7Bq",
+                "expanded_url": "https://twitter.com/angiealrassi/status/1142955408287571969",
+                "display_url": "twitter.com/angiealrassi/s\u2026",
+                "indices": [
+                    31,
+                    54
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "This\u2019s wired and shity people!",
+        "without_stowords": [
+            "This",
+            "\u2019",
+            "wired",
+            "shity",
+            "people",
+            "!"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143832274552729600,
+        "user": "roka_barakat",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 10:44:00 +0000 2019",
+        "text": "Happiness is not something ready made. It comes from your own actions....\u2764\ufe0f @ TPG Egypt https://t.co/mzZ7fNBeuZ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02254676,
+                31.42463207
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mzZ7fNBeuZ",
+                "expanded_url": "https://www.instagram.com/p/BzK4jk3hUZVNCV9-fvxflsrKxQXTqjCEw19_Ag0/?igshid=14ibgqe3aedga",
+                "display_url": "instagram.com/p/BzK4jk3hUZVN\u2026",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Happiness is not something ready made. It comes from your own actions....\u2764\ufe0f @ TPG Egypt",
+        "without_stowords": [
+            "Happiness",
+            "something",
+            "ready",
+            "made",
+            ".",
+            "It",
+            "comes",
+            "actions",
+            "...",
+            ".\u2764\ufe0f",
+            "@",
+            "TPG",
+            "Egypt"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143824005494763520,
+        "user": "goodghoull",
+        "user_location": "",
+        "date": "Wed Jun 26 10:11:08 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Such",
+            "disappointment",
+            "defend",
+            "someone",
+            "long",
+            "thinking",
+            "different",
+            "turn",
+            "like\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143823681992347648,
+        "user": "Marvoich",
+        "user_location": "New Cairo",
+        "date": "Wed Jun 26 10:09:51 +0000 2019",
+        "text": "You might hesitate to speak up for yourself regarding a conten... More for Aquarius https://t.co/vqgUNOc4mM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vqgUNOc4mM",
+                "expanded_url": "http://bit.ly/whBNNw",
+                "display_url": "bit.ly/whBNNw",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "You might hesitate to speak up for yourself regarding a conten... More for Aquarius",
+        "without_stowords": [
+            "You",
+            "might",
+            "hesitate",
+            "speak",
+            "regarding",
+            "conten",
+            "...",
+            "More",
+            "Aquarius"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143818892202127360,
+        "user": "kjameslively",
+        "user_location": "minne, usa",
+        "date": "Wed Jun 26 09:50:49 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Such a disappointment when you defend someone for so long thinking they are different and they turn out to be just like\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Such",
+            "disappointment",
+            "defend",
+            "someone",
+            "long",
+            "thinking",
+            "different",
+            "turn",
+            "like\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143795581653008384,
+        "user": "SheyamAshraf",
+        "user_location": "New cairo, Egypt",
+        "date": "Wed Jun 26 08:18:12 +0000 2019",
+        "text": "@___MariamHassan 30 January",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "___MariamHassan",
+                "name": "MariamHassan",
+                "id": 1061329013505957894,
+                "id_str": "1061329013505957894",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "filtered_text": "30 January",
+        "without_stowords": [
+            "30",
+            "January"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143793073970929664,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Wed Jun 26 08:08:14 +0000 2019",
+        "text": "@m4riam7 https://t.co/CEdscefhWM this one too",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CEdscefhWM",
+                "expanded_url": "https://www.asiaone.com/asia/burning-sun-nightclub-linked-underage-trafficking-violent-abuse-vip-clients",
+                "display_url": "asiaone.com/asia/burning-s\u2026",
+                "indices": [
+                    9,
+                    32
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "m4riam7",
+                "name": "mariam",
+                "id": 1144999183,
+                "id_str": "1144999183",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "filtered_text": "this one too",
+        "without_stowords": [
+            "one"
+        ],
+        "region": "New Cairo"
+    }
+]

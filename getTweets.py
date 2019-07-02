@@ -7,10 +7,10 @@ from datetime import date, timedelta
 import utils
 
 regions = [
-    {'name': 'New Cairo', 'geocode': '30.028652,31.465498,10km', 'tweets': []},
-    {'name': 'Dokki', 'geocode': '30.039874,31.206894,3km', 'tweets': []},
-    {'name': 'Heliopolis', 'geocode': '30.100987,31.342999,5km', 'tweets': []},
-    {'name': 'Abbaseya', 'geocode': '30.065151,31.275649,3km', 'tweets': []},
+    {'name': 'New Cairo', 'geocode': '30.028652,31.465498,10km', 'tweets': {}},
+    {'name': 'Dokki', 'geocode': '30.039874,31.206894,3km', 'tweets': {}},
+    {'name': 'Heliopolis', 'geocode': '30.100987,31.342999,5km', 'tweets': {}},
+    {'name': 'Abbaseya', 'geocode': '30.065151,31.275649,3km', 'tweets': {}},
 ]
 
 # Load credentials from json file
@@ -55,13 +55,19 @@ for day_i in range(7):
             tweet['filtered_text'] = utils.filter_tweet(tweet)
             tweet['without_stowords'] = utils.remove_stopwords(tweet)
             tweet['region'] = region['name']
-            region['tweets'].append(tweet)
+            try:
+                region['tweets'][query['since']].append(tweet)
+            except KeyError:
+                region['tweets'][query['since']] = []
+                region['tweets'][query['since']].append(tweet)
 
 # Write tweets to JSON files
 for region in regions:
-    print(region['name'], len(region['tweets']))
-    with open('tweets/'+region['name']+'.json', 'w') as tweets_file:
-        json.dump(region['tweets'], tweets_file, indent=4)
+    for day in region['tweets'].keys():
+        filename = region['name'] + '_' + day
+        print(filename, len(region['tweets'][day]))
+        with open('tweets/'+filename+'.json', 'w') as tweets_file:
+            json.dump(region['tweets'][day], tweets_file, indent=4)
 
 # Structure data in a pandas DataFrame for easier manipulation
 #df = pd.DataFrame(dict_)

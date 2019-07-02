@@ -1,0 +1,375 @@
+[
+    {
+        "id": 1145116074561736706,
+        "user": "MelonyMcGant",
+        "user_location": "New York City and The World",
+        "date": "Sat Jun 29 23:45:22 +0000 2019",
+        "text": "Joyfully Remembering #Cairo, #Egypt ...\nMelony Sailing the #nileriver River on a #Felluca!  What a Beautiful Blessi\u2026 https://t.co/eEmmzV8ojf",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/eEmmzV8ojf",
+                "expanded_url": "https://twitter.com/i/web/status/1145116074561736706",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Joyfully Remembering #Cairo, #Egypt ... Melony Sailing the #nileriver River on a #Felluca! What a Beautiful Blessi\u2026",
+        "without_stowords": [
+            "Joyfully",
+            "Remembering",
+            "#",
+            "Cairo",
+            ",",
+            "#",
+            "Egypt",
+            "...",
+            "Melony",
+            "Sailing",
+            "#",
+            "nileriver",
+            "River",
+            "#",
+            "Felluca",
+            "!",
+            "What",
+            "Beautiful",
+            "Blessi\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145114078689615883,
+        "user": "3zooz_marwann",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Sat Jun 29 23:37:26 +0000 2019",
+        "text": "I'm at Starbucks in Mohandesin, Giza https://t.co/pqB9Kzltrw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.053982,
+                31.201898
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pqB9Kzltrw",
+                "expanded_url": "https://www.swarmapp.com/c/cpa8uyKB7BK",
+                "display_url": "swarmapp.com/c/cpa8uyKB7BK",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Starbucks in Mohandesin, Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Starbucks",
+            "Mohandesin",
+            ",",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145110795346481152,
+        "user": "Qussai_Danyal1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Sat Jun 29 23:24:23 +0000 2019",
+        "text": "\ud83d\ude47\ud83c\udffc\u200d\u2642\ufe0f (@ Location in Mohandesin, Giza) https://t.co/nlp7f5V8VY",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nlp7f5V8VY",
+                "expanded_url": "https://www.swarmapp.com/c/1IN8R3pwrzD",
+                "display_url": "swarmapp.com/c/1IN8R3pwrzD",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83d\ude47\ud83c\udffc\u200d\u2642\ufe0f (@ Location in Mohandesin, Giza)",
+        "without_stowords": [
+            "\ud83d\ude47\ud83c\udffc\u200d\u2642\ufe0f",
+            "(",
+            "@",
+            "Location",
+            "Mohandesin",
+            ",",
+            "Giza",
+            ")"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145109120648994816,
+        "user": "AhmedRa05266460",
+        "user_location": "\u0627\u0644\u0632\u0645\u0627\u0644\u0643",
+        "date": "Sat Jun 29 23:17:44 +0000 2019",
+        "text": "I,m Tired\ud83d\udc94 https://t.co/sZsq953WO5",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I,m Tired\ud83d\udc94 https://t.co/sZsq953WO5",
+        "without_stowords": [
+            "I",
+            ",",
+            "Tired\ud83d\udc94",
+            "https",
+            ":",
+            "//t.co/sZsq953WO5"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145091274111717377,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Sat Jun 29 22:06:49 +0000 2019",
+        "text": "temperature down 34\u00b0C -&gt; 28\u00b0C\nhumidity up 36% -&gt; 58%\nwind 5kmh -&gt; 3kmh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "temperature down 34\u00b0C -&gt; 28\u00b0C humidity up 36% -&gt; 58% wind 5kmh -&gt; 3kmh",
+        "without_stowords": [
+            "temperature",
+            "34\u00b0C",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "28\u00b0C",
+            "humidity",
+            "36",
+            "%",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "58",
+            "%",
+            "wind",
+            "5kmh",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "3kmh"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145082539587133441,
+        "user": "3mo_ramooo",
+        "user_location": "Deep Shit",
+        "date": "Sat Jun 29 21:32:06 +0000 2019",
+        "text": "Shadow being... @ Cairo, Egypt https://t.co/OKy8yDY8JR",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/OKy8yDY8JR",
+                "expanded_url": "https://www.instagram.com/p/BzTxHKWht0x/?igshid=2e3v0a4jyi9x",
+                "display_url": "instagram.com/p/BzTxHKWht0x/\u2026",
+                "indices": [
+                    31,
+                    54
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Shadow being... @ Cairo, Egypt",
+        "without_stowords": [
+            "Shadow",
+            "...",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145076174202318849,
+        "user": "Berna_Basket",
+        "user_location": "Mar\u00eda de Huerva",
+        "date": "Sat Jun 29 21:06:49 +0000 2019",
+        "text": "\ud83e\uddea\ud83d\udca5\ud83d\udd1a @ Last One https://t.co/k2rEau3tHk",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/k2rEau3tHk",
+                "expanded_url": "https://www.instagram.com/p/BzTuNhiID65/?igshid=bxlxbflf5j4b",
+                "display_url": "instagram.com/p/BzTuNhiID65/\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83e\uddea\ud83d\udca5\ud83d\udd1a @ Last One",
+        "without_stowords": [
+            "\ud83e\uddea\ud83d\udca5\ud83d\udd1a",
+            "@",
+            "Last",
+            "One"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145066817708277760,
+        "user": "LinahFaa",
+        "user_location": "KSA",
+        "date": "Sat Jun 29 20:29:38 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/zSvHKOQNIt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zSvHKOQNIt",
+                "expanded_url": "https://www.instagram.com/p/BzTp9pwhfCN/?igshid=8jpjo46hxp09",
+                "display_url": "instagram.com/p/BzTp9pwhfCN/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145061493043605505,
+        "user": "Ibrahim27039832",
+        "user_location": "Mansoura",
+        "date": "Sat Jun 29 20:08:28 +0000 2019",
+        "text": "LIKE..? https://t.co/oiXiVst1Aw",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "LIKE..? https://t.co/oiXiVst1Aw",
+        "without_stowords": [
+            "LIKE..",
+            "?",
+            "https",
+            ":",
+            "//t.co/oiXiVst1Aw"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145060194428358658,
+        "user": "HANIYASSIN",
+        "user_location": "Cairo, Egypt",
+        "date": "Sat Jun 29 20:03:19 +0000 2019",
+        "text": "ARTIST NATHAN DOSS (1971) \nN-RECEPTIVE-019 \nLove &amp; Thorns \n135x40x30 CM \nBRONZE\n2018\ndoss.nathan \n\u201cNathan Doss know\u2026 https://t.co/Wusrjg0Ifo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06133514,
+                31.22278951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Wusrjg0Ifo",
+                "expanded_url": "https://twitter.com/i/web/status/1145060194428358658",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "ARTIST NATHAN DOSS (1971) N-RECEPTIVE-019 Love &amp; Thorns 135x40x30 CM BRONZE 2018 doss.nathan \u201cNathan Doss know\u2026",
+        "without_stowords": [
+            "ARTIST",
+            "NATHAN",
+            "DOSS",
+            "(",
+            "1971",
+            ")",
+            "N-RECEPTIVE-019",
+            "Love",
+            "&",
+            "amp",
+            ";",
+            "Thorns",
+            "135x40x30",
+            "CM",
+            "BRONZE",
+            "2018",
+            "doss.nathan",
+            "\u201c",
+            "Nathan",
+            "Doss",
+            "know\u2026"
+        ],
+        "region": "Dokki"
+    }
+]

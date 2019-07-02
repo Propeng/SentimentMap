@@ -1,0 +1,3629 @@
+[
+    {
+        "id": 1143669177066164226,
+        "user": "roooqia",
+        "user_location": "new Cairo ",
+        "date": "Tue Jun 25 23:55:54 +0000 2019",
+        "text": "Pain\nYou made me a you made me a believer believe",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Pain You made me a you made me a believer believe",
+        "without_stowords": [
+            "Pain",
+            "You",
+            "made",
+            "made",
+            "believer",
+            "believe"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143664951111888902,
+        "user": "iam_nanat",
+        "user_location": "Louisiana, USA",
+        "date": "Tue Jun 25 23:39:07 +0000 2019",
+        "text": "RT @_Mysterygirl_P: If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "If",
+            "good",
+            "person",
+            ",",
+            "disappointments",
+            ",",
+            "heartbreaks",
+            "betrayals",
+            "would",
+            "always",
+            "come",
+            "way",
+            ",",
+            "'s",
+            "way",
+            "i\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143664378711040002,
+        "user": "itsMaddieWxo",
+        "user_location": "",
+        "date": "Tue Jun 25 23:36:50 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143663540177375234,
+        "user": "p_chatting",
+        "user_location": "",
+        "date": "Tue Jun 25 23:33:30 +0000 2019",
+        "text": "RT @_Mysterygirl_P: How I handle difficult situations in life: \n\"Let me eat something first, then I will think about it.\".",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : How I handle difficult situations in life: \"Let me eat something first, then I will think about it.\".",
+        "without_stowords": [
+            "RT",
+            ":",
+            "How",
+            "I",
+            "handle",
+            "difficult",
+            "situations",
+            "life",
+            ":",
+            "``",
+            "Let",
+            "eat",
+            "something",
+            "first",
+            ",",
+            "I",
+            "think",
+            ".",
+            "``",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143663236287479808,
+        "user": "njashae",
+        "user_location": "Louisiana, USA",
+        "date": "Tue Jun 25 23:32:18 +0000 2019",
+        "text": "RT @_Mysterygirl_P: If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : If you are a good person, disappointments, heartbreaks and betrayals would always come your way, it's just the way it i\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "If",
+            "good",
+            "person",
+            ",",
+            "disappointments",
+            ",",
+            "heartbreaks",
+            "betrayals",
+            "would",
+            "always",
+            "come",
+            "way",
+            ",",
+            "'s",
+            "way",
+            "i\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143660960667881472,
+        "user": "_liMooh",
+        "user_location": "Baton Rouge, LA",
+        "date": "Tue Jun 25 23:23:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143658726538317825,
+        "user": "Ajahnaa",
+        "user_location": "",
+        "date": "Tue Jun 25 23:14:23 +0000 2019",
+        "text": "RT @_Mysterygirl_P: How I handle difficult situations in life: \n\"Let me eat something first, then I will think about it.\".",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : How I handle difficult situations in life: \"Let me eat something first, then I will think about it.\".",
+        "without_stowords": [
+            "RT",
+            ":",
+            "How",
+            "I",
+            "handle",
+            "difficult",
+            "situations",
+            "life",
+            ":",
+            "``",
+            "Let",
+            "eat",
+            "something",
+            "first",
+            ",",
+            "I",
+            "think",
+            ".",
+            "``",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143656955032027136,
+        "user": "Blertashh",
+        "user_location": "Shkup",
+        "date": "Tue Jun 25 23:07:20 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143655162369708038,
+        "user": "Redd_DotMedia",
+        "user_location": "In the Studio",
+        "date": "Tue Jun 25 23:00:13 +0000 2019",
+        "text": "RT @_Mysterygirl_P: How I handle difficult situations in life: \n\"Let me eat something first, then I will think about it.\".",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : How I handle difficult situations in life: \"Let me eat something first, then I will think about it.\".",
+        "without_stowords": [
+            "RT",
+            ":",
+            "How",
+            "I",
+            "handle",
+            "difficult",
+            "situations",
+            "life",
+            ":",
+            "``",
+            "Let",
+            "eat",
+            "something",
+            "first",
+            ",",
+            "I",
+            "think",
+            ".",
+            "``",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143653997951234058,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 22:55:35 +0000 2019",
+        "text": "send me songs\ud83d\udc99",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "send me songs\ud83d\udc99",
+        "without_stowords": [
+            "send",
+            "songs\ud83d\udc99"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143650094882988033,
+        "user": "_erickamariee",
+        "user_location": "",
+        "date": "Tue Jun 25 22:40:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143649679466487809,
+        "user": "itsjoannlegada",
+        "user_location": "Dubai, United Arab Emirates",
+        "date": "Tue Jun 25 22:38:26 +0000 2019",
+        "text": "RT @_Mysterygirl_P: How I handle difficult situations in life: \n\"Let me eat something first, then I will think about it.\".",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : How I handle difficult situations in life: \"Let me eat something first, then I will think about it.\".",
+        "without_stowords": [
+            "RT",
+            ":",
+            "How",
+            "I",
+            "handle",
+            "difficult",
+            "situations",
+            "life",
+            ":",
+            "``",
+            "Let",
+            "eat",
+            "something",
+            "first",
+            ",",
+            "I",
+            "think",
+            ".",
+            "``",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143648467564277761,
+        "user": "bittiem13",
+        "user_location": "",
+        "date": "Tue Jun 25 22:33:37 +0000 2019",
+        "text": "RT @_Mysterygirl_P: How I handle difficult situations in life: \n\"Let me eat something first, then I will think about it.\".",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : How I handle difficult situations in life: \"Let me eat something first, then I will think about it.\".",
+        "without_stowords": [
+            "RT",
+            ":",
+            "How",
+            "I",
+            "handle",
+            "difficult",
+            "situations",
+            "life",
+            ":",
+            "``",
+            "Let",
+            "eat",
+            "something",
+            "first",
+            ",",
+            "I",
+            "think",
+            ".",
+            "``",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143648318934802432,
+        "user": "_yhni",
+        "user_location": "Los Angeles, CA",
+        "date": "Tue Jun 25 22:33:01 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143644402474258434,
+        "user": "NomiRanae",
+        "user_location": "Highland Hills, OH",
+        "date": "Tue Jun 25 22:17:28 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143643251804712960,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jun 25 22:12:53 +0000 2019",
+        "text": "Yo this looks so good I\u2019m here for the dramaaaa https://t.co/NYkSivLpqg",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NYkSivLpqg",
+                "expanded_url": "https://twitter.com/AREUTHE1/status/1142507546265210882",
+                "display_url": "twitter.com/AREUTHE1/statu\u2026",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Yo this looks so good I\u2019m here for the dramaaaa",
+        "without_stowords": [
+            "Yo",
+            "looks",
+            "good",
+            "I",
+            "\u2019",
+            "dramaaaa"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143643215964323842,
+        "user": "_whitneyherndon",
+        "user_location": "",
+        "date": "Tue Jun 25 22:12:45 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Falsely accusing me of having an attitude creates the attitude you thought I had. \ud83d\ude05",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Falsely accusing me of having an attitude creates the attitude you thought I had. \ud83d\ude05",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Falsely",
+            "accusing",
+            "attitude",
+            "creates",
+            "attitude",
+            "thought",
+            "I",
+            ".",
+            "\ud83d\ude05"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143642664639877125,
+        "user": "bammeelah",
+        "user_location": "\ud83e\udd74",
+        "date": "Tue Jun 25 22:10:33 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143641883152920576,
+        "user": "roooqia",
+        "user_location": "new Cairo ",
+        "date": "Tue Jun 25 22:07:27 +0000 2019",
+        "text": "Stop that's enough !!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Stop that's enough !!",
+        "without_stowords": [
+            "Stop",
+            "'s",
+            "enough",
+            "!",
+            "!"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143640604695572480,
+        "user": "OmniiaIhab",
+        "user_location": "New Cairo, Egypt.\n",
+        "date": "Tue Jun 25 22:02:22 +0000 2019",
+        "text": "I'm in serious need for some life changing activities.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I'm in serious need for some life changing activities.",
+        "without_stowords": [
+            "I",
+            "'m",
+            "serious",
+            "need",
+            "life",
+            "changing",
+            "activities",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143638164810211328,
+        "user": "theindiasimone",
+        "user_location": "Atlanta, GA",
+        "date": "Tue Jun 25 21:52:40 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143637820508004353,
+        "user": "inchlhynn",
+        "user_location": "",
+        "date": "Tue Jun 25 21:51:18 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143635601230635009,
+        "user": "jennarosenberg_",
+        "user_location": "",
+        "date": "Tue Jun 25 21:42:29 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143629788843839488,
+        "user": "Jordan78999",
+        "user_location": "",
+        "date": "Tue Jun 25 21:19:23 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143627330843267072,
+        "user": "gogo1yubari",
+        "user_location": "Memphis, TN",
+        "date": "Tue Jun 25 21:09:37 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143627169823956993,
+        "user": "Poohhbabyy1",
+        "user_location": "",
+        "date": "Tue Jun 25 21:08:59 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143627076391456768,
+        "user": "paradisekayyyy",
+        "user_location": "sc \ud83d\udccd",
+        "date": "Tue Jun 25 21:08:37 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143626746249375745,
+        "user": "jyyyuno",
+        "user_location": "Ruston, LA",
+        "date": "Tue Jun 25 21:07:18 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143626651256971265,
+        "user": "bittiem13",
+        "user_location": "",
+        "date": "Tue Jun 25 21:06:55 +0000 2019",
+        "text": "RT @_Mysterygirl_P: All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143626648736149507,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Tue Jun 25 21:06:55 +0000 2019",
+        "text": "@alienshka @empathicstand la ana noice ely 3agabtny f shofto\ud83d\ude0c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "alienshka",
+                "name": "Ali",
+                "id": 929936828,
+                "id_str": "929936828",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "empathicstand",
+                "name": "empathic nerdy Boi",
+                "id": 2444944239,
+                "id_str": "2444944239",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "filtered_text": "la ana noice ely 3agabtny f shofto\ud83d\ude0c",
+        "without_stowords": [
+            "la",
+            "ana",
+            "noice",
+            "ely",
+            "3agabtny",
+            "f",
+            "shofto\ud83d\ude0c"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143626058014580737,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Tue Jun 25 21:04:34 +0000 2019",
+        "text": "@alienshka @empathicstand that's the man who killed my brother\noh i forgot about that",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "alienshka",
+                "name": "Ali",
+                "id": 929936828,
+                "id_str": "929936828",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "empathicstand",
+                "name": "empathic nerdy Boi",
+                "id": 2444944239,
+                "id_str": "2444944239",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "filtered_text": "that's the man who killed my brother oh i forgot about that",
+        "without_stowords": [
+            "'s",
+            "man",
+            "killed",
+            "brother",
+            "oh",
+            "forgot"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143625990528258055,
+        "user": "DeeS_0213",
+        "user_location": "Sylacauga, AL",
+        "date": "Tue Jun 25 21:04:18 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143625857161998338,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jun 25 21:03:46 +0000 2019",
+        "text": "How I handle difficult situations in life: \n\"Let me eat something first, then I will think about it.\".",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "How I handle difficult situations in life: \"Let me eat something first, then I will think about it.\".",
+        "without_stowords": [
+            "How",
+            "I",
+            "handle",
+            "difficult",
+            "situations",
+            "life",
+            ":",
+            "``",
+            "Let",
+            "eat",
+            "something",
+            "first",
+            ",",
+            "I",
+            "think",
+            ".",
+            "``",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143623874023755788,
+        "user": "mimiyavonne",
+        "user_location": "",
+        "date": "Tue Jun 25 20:55:53 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143622751766401025,
+        "user": "ess_raaAAA",
+        "user_location": "\u062d\u064a\u062b\u0645\u0627 \u062a\u0648\u062c\u062f \u0645\u062e\u064a\u0644\u062a\u064a \ud83c\udf38",
+        "date": "Tue Jun 25 20:51:26 +0000 2019",
+        "text": "RT @_mahmoudd: This is gonna hurt but I blame myself first,\nCause I ignored the truth",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_mahmoudd",
+                "name": "mahmoud",
+                "id": 1657479542,
+                "id_str": "1657479542",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "filtered_text": "RT : This is gonna hurt but I blame myself first, Cause I ignored the truth",
+        "without_stowords": [
+            "RT",
+            ":",
+            "This",
+            "gon",
+            "na",
+            "hurt",
+            "I",
+            "blame",
+            "first",
+            ",",
+            "Cause",
+            "I",
+            "ignored",
+            "truth"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143622521478156290,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jun 25 20:50:31 +0000 2019",
+        "text": "All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "All relationships have one law. Never make the one you love feel alone, especially when you're there.",
+        "without_stowords": [
+            "All",
+            "relationships",
+            "one",
+            "law",
+            ".",
+            "Never",
+            "make",
+            "one",
+            "love",
+            "feel",
+            "alone",
+            ",",
+            "especially",
+            "'re",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143621232560148482,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 20:45:23 +0000 2019",
+        "text": "Gave you all of me, and now honestly, I got nothing left",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Gave you all of me, and now honestly, I got nothing left",
+        "without_stowords": [
+            "Gave",
+            ",",
+            "honestly",
+            ",",
+            "I",
+            "got",
+            "nothing",
+            "left"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143620808662757376,
+        "user": "Makeme_Moneg",
+        "user_location": "Columbus, MS",
+        "date": "Tue Jun 25 20:43:42 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143620446224601096,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 20:42:16 +0000 2019",
+        "text": "Drunk off that love, my head up There's no forgetting you",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Drunk off that love, my head up There's no forgetting you",
+        "without_stowords": [
+            "Drunk",
+            "love",
+            ",",
+            "head",
+            "There",
+            "'s",
+            "forgetting"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143620404101230592,
+        "user": "assataxamirah",
+        "user_location": "my room \ud83d\udda4",
+        "date": "Tue Jun 25 20:42:06 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143619872129245185,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 20:39:59 +0000 2019",
+        "text": "This is gonna hurt but I blame myself first,\nCause I ignored the truth",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "This is gonna hurt but I blame myself first, Cause I ignored the truth",
+        "without_stowords": [
+            "This",
+            "gon",
+            "na",
+            "hurt",
+            "I",
+            "blame",
+            "first",
+            ",",
+            "Cause",
+            "I",
+            "ignored",
+            "truth"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143619796036136962,
+        "user": "yessi_2436",
+        "user_location": "",
+        "date": "Tue Jun 25 20:39:41 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143618494833074181,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 20:34:31 +0000 2019",
+        "text": "Could you find a way to let me down slowly,\nA little sympathy I hope you can show me..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Could you find a way to let me down slowly, A little sympathy I hope you can show me..",
+        "without_stowords": [
+            "Could",
+            "find",
+            "way",
+            "let",
+            "slowly",
+            ",",
+            "A",
+            "little",
+            "sympathy",
+            "I",
+            "hope",
+            "show",
+            "me.."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143615888748425217,
+        "user": "laurenxlambert2",
+        "user_location": "Derby, England",
+        "date": "Tue Jun 25 20:24:09 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Do",
+            "ever",
+            "feel",
+            "like",
+            "every",
+            "single",
+            "person",
+            "care",
+            "cares",
+            "someone",
+            "else",
+            "?",
+            "\ud83d\ude36"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143615716379299840,
+        "user": "_RMK9",
+        "user_location": "",
+        "date": "Tue Jun 25 20:23:28 +0000 2019",
+        "text": "I'm at Coffeeshop Company - @coffeeshopegypt in Heliopolis, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah https://t.co/gUVm86UEWO",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.077388,
+                31.347921
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/gUVm86UEWO",
+                "expanded_url": "https://www.swarmapp.com/c/9llNJAYIfev",
+                "display_url": "swarmapp.com/c/9llNJAYIfev",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CoffeeshopEgypt",
+                "name": "Coffeeshop Company",
+                "id": 2540351378,
+                "id_str": "2540351378",
+                "indices": [
+                    28,
+                    44
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Coffeeshop Company - in Heliopolis, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Coffeeshop",
+            "Company",
+            "-",
+            "Heliopolis",
+            ",",
+            "Mu\u1e29\u0101faz\u0327at",
+            "al",
+            "Q\u0101hirah"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143614666373046272,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jun 25 20:19:18 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/founRDyo24",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/founRDyo24",
+                "expanded_url": "https://www.swarmapp.com/c/ijXtwSAZNR2",
+                "display_url": "swarmapp.com/c/ijXtwSAZNR2",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Home \u2665",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Home",
+            "\u2665"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143611081610448897,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 20:05:03 +0000 2019",
+        "text": "like for a song\u2764\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "like for a song\u2764\ufe0f",
+        "without_stowords": [
+            "like",
+            "song\u2764\ufe0f"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143610549068009472,
+        "user": "AnayahFord1",
+        "user_location": "Memphis, TN",
+        "date": "Tue Jun 25 20:02:56 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143609537901072385,
+        "user": "rehamaboelhamed",
+        "user_location": "Egypt",
+        "date": "Tue Jun 25 19:58:55 +0000 2019",
+        "text": "RT @_mahmoudd: Indian food too\ud83d\ude0b https://t.co/hYH6Sj2Sg3",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hYH6Sj2Sg3",
+                "expanded_url": "https://twitter.com/_mahmoudd/status/1143583665458417670",
+                "display_url": "twitter.com/_mahmoudd/stat\u2026",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "_mahmoudd",
+                "name": "mahmoud",
+                "id": 1657479542,
+                "id_str": "1657479542",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "filtered_text": "RT : Indian food too\ud83d\ude0b",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Indian",
+            "food",
+            "too\ud83d\ude0b"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143607554678939650,
+        "user": "TrillTae317",
+        "user_location": "Indianapolis, IN",
+        "date": "Tue Jun 25 19:51:02 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Ignoring the red flags because you wanna see the good in people will cost you later.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Ignoring the red flags because you wanna see the good in people will cost you later.",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Ignoring",
+            "red",
+            "flags",
+            "wan",
+            "na",
+            "see",
+            "good",
+            "people",
+            "cost",
+            "later",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143605123194789888,
+        "user": "engykhaled96",
+        "user_location": "Mukattam",
+        "date": "Tue Jun 25 19:41:23 +0000 2019",
+        "text": "Total breakdown",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Total breakdown",
+        "without_stowords": [
+            "Total",
+            "breakdown"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143604201412603904,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 19:37:43 +0000 2019",
+        "text": "only know you love her when you let her go,\nand you let her go...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "only know you love her when you let her go, and you let her go...",
+        "without_stowords": [
+            "know",
+            "love",
+            "let",
+            "go",
+            ",",
+            "let",
+            "go",
+            "..."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143601553053507586,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 19:27:11 +0000 2019",
+        "text": "Indian food too\ud83d\ude0b https://t.co/hYH6Sj2Sg3",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hYH6Sj2Sg3",
+                "expanded_url": "https://twitter.com/_mahmoudd/status/1143583665458417670",
+                "display_url": "twitter.com/_mahmoudd/stat\u2026",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Indian food too\ud83d\ude0b",
+        "without_stowords": [
+            "Indian",
+            "food",
+            "too\ud83d\ude0b"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143601383955783680,
+        "user": "ykdebbie",
+        "user_location": "",
+        "date": "Tue Jun 25 19:26:31 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143601364163076096,
+        "user": "60phie",
+        "user_location": "Boston, MA",
+        "date": "Tue Jun 25 19:26:26 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Do",
+            "ever",
+            "feel",
+            "like",
+            "every",
+            "single",
+            "person",
+            "care",
+            "cares",
+            "someone",
+            "else",
+            "?",
+            "\ud83d\ude36"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143600640263954433,
+        "user": "60phie",
+        "user_location": "Boston, MA",
+        "date": "Tue Jun 25 19:23:34 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143600116122693632,
+        "user": "xmxndx15",
+        "user_location": "",
+        "date": "Tue Jun 25 19:21:29 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143598891901816833,
+        "user": "Tht_girl_Jazmyn",
+        "user_location": "United States",
+        "date": "Tue Jun 25 19:16:37 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143598562338574337,
+        "user": "Ahmd_salh_jr",
+        "user_location": "new cairo egypt",
+        "date": "Tue Jun 25 19:15:18 +0000 2019",
+        "text": "@NileFM Good evening Mou plz play para que la viva for Enrique \nHim and i Halsey \nthx \ud83d\ude03",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "NileFM",
+                "name": "104.2 Nile FM",
+                "id": 33512799,
+                "id_str": "33512799",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "filtered_text": "Good evening Mou plz play para que la viva for Enrique Him and i Halsey thx \ud83d\ude03",
+        "without_stowords": [
+            "Good",
+            "evening",
+            "Mou",
+            "plz",
+            "play",
+            "para",
+            "que",
+            "la",
+            "viva",
+            "Enrique",
+            "Him",
+            "Halsey",
+            "thx",
+            "\ud83d\ude03"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143595505366306817,
+        "user": "kathalvineda",
+        "user_location": "Houston, TX",
+        "date": "Tue Jun 25 19:03:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143595144727465985,
+        "user": "queenemmyyy",
+        "user_location": "",
+        "date": "Tue Jun 25 19:01:44 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143594962086445056,
+        "user": "salsuwaidiii",
+        "user_location": "Parking",
+        "date": "Tue Jun 25 19:01:00 +0000 2019",
+        "text": "RT @salsuwaidiii: I have u why do I need someone else",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "salsuwaidiii",
+                "name": "Sultan Al Suwaidi",
+                "id": 777061377445916672,
+                "id_str": "777061377445916672",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "filtered_text": "RT : I have u why do I need someone else",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "u",
+            "I",
+            "need",
+            "someone",
+            "else"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143592495823151104,
+        "user": "Doc_R_afat",
+        "user_location": "New Cairo",
+        "date": "Tue Jun 25 18:51:12 +0000 2019",
+        "text": "My sister \ud83d\udc93 Asmaa Nashat Elwakiel https://t.co/LRihLz8PsB",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/LRihLz8PsB",
+                "expanded_url": "https://www.facebook.com/694200104/posts/10162146132900105/",
+                "display_url": "facebook.com/694200104/post\u2026",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My sister \ud83d\udc93 Asmaa Nashat Elwakiel",
+        "without_stowords": [
+            "My",
+            "sister",
+            "\ud83d\udc93",
+            "Asmaa",
+            "Nashat",
+            "Elwakiel"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143591059970252801,
+        "user": "m6lg_al3nziii",
+        "user_location": "Kuwait-Cairo",
+        "date": "Tue Jun 25 18:45:30 +0000 2019",
+        "text": "I'm at Downtown Mall in New Cairo, Cairo https://t.co/av16oWur8U",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01719596,
+                31.4124012
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/av16oWur8U",
+                "expanded_url": "https://www.swarmapp.com/c/1KkdIWXqRnz",
+                "display_url": "swarmapp.com/c/1KkdIWXqRnz",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Downtown Mall in New Cairo, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Downtown",
+            "Mall",
+            "New",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143586346277244929,
+        "user": "xJANEILx",
+        "user_location": "Brooklyn, NY",
+        "date": "Tue Jun 25 18:26:46 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143583143796060160,
+        "user": "tavothegoat",
+        "user_location": "hogwarts",
+        "date": "Tue Jun 25 18:14:02 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143582389416972288,
+        "user": "hoda_abuagam",
+        "user_location": "New Cairo, Egypt.",
+        "date": "Tue Jun 25 18:11:03 +0000 2019",
+        "text": "@tuqaa_e Me to me getting ready at 6 AM so I don\u2019t have a mental breakdown on my way to work\ud83d\ude05",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "tuqaa_e",
+                "name": "Princess Carolyn",
+                "id": 744304173060136960,
+                "id_str": "744304173060136960",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "filtered_text": "Me to me getting ready at 6 AM so I don\u2019t have a mental breakdown on my way to work\ud83d\ude05",
+        "without_stowords": [
+            "Me",
+            "getting",
+            "ready",
+            "6",
+            "AM",
+            "I",
+            "\u2019",
+            "mental",
+            "breakdown",
+            "way",
+            "work\ud83d\ude05"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143581120577122305,
+        "user": "AsiaToney",
+        "user_location": "Huntsville Tx",
+        "date": "Tue Jun 25 18:06:00 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143579753007501312,
+        "user": "zeiny10",
+        "user_location": "New Cairo",
+        "date": "Tue Jun 25 18:00:34 +0000 2019",
+        "text": "My week on Twitter \ud83c\udf89: 1 Mention, 7 Likes, 6 Retweets, 13.2K Retweet Reach, 3 New Followers, 1 Reply. See yours with\u2026 https://t.co/zU6KavLAcF",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zU6KavLAcF",
+                "expanded_url": "https://twitter.com/i/web/status/1143579753007501312",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My week on Twitter \ud83c\udf89: 1 Mention, 7 Likes, 6 Retweets, 13.2K Retweet Reach, 3 New Followers, 1 Reply. See yours with\u2026",
+        "without_stowords": [
+            "My",
+            "week",
+            "Twitter",
+            "\ud83c\udf89",
+            ":",
+            "1",
+            "Mention",
+            ",",
+            "7",
+            "Likes",
+            ",",
+            "6",
+            "Retweets",
+            ",",
+            "13.2K",
+            "Retweet",
+            "Reach",
+            ",",
+            "3",
+            "New",
+            "Followers",
+            ",",
+            "1",
+            "Reply",
+            ".",
+            "See",
+            "with\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143579430293389312,
+        "user": "kat3_ns",
+        "user_location": "",
+        "date": "Tue Jun 25 17:59:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Do",
+            "ever",
+            "feel",
+            "like",
+            "every",
+            "single",
+            "person",
+            "care",
+            "cares",
+            "someone",
+            "else",
+            "?",
+            "\ud83d\ude36"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143578284246097923,
+        "user": "callmemadiison",
+        "user_location": "",
+        "date": "Tue Jun 25 17:54:44 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Do",
+            "ever",
+            "feel",
+            "like",
+            "every",
+            "single",
+            "person",
+            "care",
+            "cares",
+            "someone",
+            "else",
+            "?",
+            "\ud83d\ude36"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143576218685644800,
+        "user": "sharanzheng03",
+        "user_location": "collinsville al",
+        "date": "Tue Jun 25 17:46:31 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143576056366075906,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jun 25 17:45:53 +0000 2019",
+        "text": "Life is really simple, but we insist on making it complicated.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Life is really simple, but we insist on making it complicated.",
+        "without_stowords": [
+            "Life",
+            "really",
+            "simple",
+            ",",
+            "insist",
+            "making",
+            "complicated",
+            "."
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143573865236484096,
+        "user": "NourhanNabiil",
+        "user_location": "Mukattam",
+        "date": "Tue Jun 25 17:37:10 +0000 2019",
+        "text": "@aynourehab Amrwarda\u2665\ufe0fseriously?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "aynourehab",
+                "name": "Aynour.",
+                "id": 787052976,
+                "id_str": "787052976",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "Amrwarda\u2665\ufe0fseriously?",
+        "without_stowords": [
+            "Amrwarda\u2665\ufe0fseriously",
+            "?"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143572973980438528,
+        "user": "iamkayjay_xo",
+        "user_location": "",
+        "date": "Tue Jun 25 17:33:38 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143572823698489349,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jun 25 17:33:02 +0000 2019",
+        "text": "@DetroitBORG One month later: the AI system on these robots is too advanced that it throws the packages to customers' doors",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "DetroitBORG",
+                "name": "Michael Kukielka",
+                "id": 18657572,
+                "id_str": "18657572",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "filtered_text": "One month later: the AI system on these robots is too advanced that it throws the packages to customers' doors",
+        "without_stowords": [
+            "One",
+            "month",
+            "later",
+            ":",
+            "AI",
+            "system",
+            "robots",
+            "advanced",
+            "throws",
+            "packages",
+            "customers",
+            "'",
+            "doors"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143572046649204741,
+        "user": "mostafa_ali_94",
+        "user_location": "Cairo,Egypt",
+        "date": "Tue Jun 25 17:29:57 +0000 2019",
+        "text": "The Paradoxical Commandments \ud83d\udc40\n#shifting #tbt #happiness #dry #freeway #Home #vacation \ud83c\udf8a @ Naser City - Cairo https://t.co/DK7WErht3t",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06725471,
+                31.35437118
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DK7WErht3t",
+                "expanded_url": "https://www.instagram.com/p/BzJCOD8n_uB/?igshid=gewx61234iev",
+                "display_url": "instagram.com/p/BzJCOD8n_uB/\u2026",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "The Paradoxical Commandments \ud83d\udc40 #shifting #tbt #happiness #dry #freeway #Home #vacation \ud83c\udf8a @ Naser City - Cairo",
+        "without_stowords": [
+            "The",
+            "Paradoxical",
+            "Commandments",
+            "\ud83d\udc40",
+            "#",
+            "shifting",
+            "#",
+            "tbt",
+            "#",
+            "happiness",
+            "#",
+            "dry",
+            "#",
+            "freeway",
+            "#",
+            "Home",
+            "#",
+            "vacation",
+            "\ud83c\udf8a",
+            "@",
+            "Naser",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143571824619528192,
+        "user": "francast1x",
+        "user_location": "",
+        "date": "Tue Jun 25 17:29:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Do you ever feel like every single person you care about cares about someone else more? \ud83d\ude36",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Do",
+            "ever",
+            "feel",
+            "like",
+            "every",
+            "single",
+            "person",
+            "care",
+            "cares",
+            "someone",
+            "else",
+            "?",
+            "\ud83d\ude36"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143570585294913542,
+        "user": "_Mulanlilsis",
+        "user_location": "",
+        "date": "Tue Jun 25 17:24:08 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143570567045341184,
+        "user": "Jocelynflorezzz",
+        "user_location": "",
+        "date": "Tue Jun 25 17:24:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143569552329990144,
+        "user": "alana_phillips1",
+        "user_location": "",
+        "date": "Tue Jun 25 17:20:02 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143569173458685955,
+        "user": "highlyexaltd_",
+        "user_location": "Cstat to Huntsville",
+        "date": "Tue Jun 25 17:18:32 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143568260832669696,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jun 25 17:14:54 +0000 2019",
+        "text": "I'm at Elbank center https://t.co/g90fBU31xI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06789903,
+                31.33641002
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/g90fBU31xI",
+                "expanded_url": "https://www.swarmapp.com/c/6mwpEXPRl0u",
+                "display_url": "swarmapp.com/c/6mwpEXPRl0u",
+                "indices": [
+                    21,
+                    44
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Elbank center",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Elbank",
+            "center"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143568010004897794,
+        "user": "Ajahnaa",
+        "user_location": "",
+        "date": "Tue Jun 25 17:13:54 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143567901812645888,
+        "user": "alyssamende",
+        "user_location": "",
+        "date": "Tue Jun 25 17:13:28 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143566512323813377,
+        "user": "XPrincessninaa",
+        "user_location": "",
+        "date": "Tue Jun 25 17:07:57 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143565880800030721,
+        "user": "Redd_DotMedia",
+        "user_location": "In the Studio",
+        "date": "Tue Jun 25 17:05:27 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143564443369914368,
+        "user": "Dreea581",
+        "user_location": "",
+        "date": "Tue Jun 25 16:59:44 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143564124716228608,
+        "user": "LynnMorganna",
+        "user_location": "",
+        "date": "Tue Jun 25 16:58:28 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143563707450048512,
+        "user": "Noha_Hamed1",
+        "user_location": "Mansoura, Egypt",
+        "date": "Tue Jun 25 16:56:48 +0000 2019",
+        "text": "RT @_mahmoudd: I keep losing myself!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_mahmoudd",
+                "name": "mahmoud",
+                "id": 1657479542,
+                "id_str": "1657479542",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "filtered_text": "RT : I keep losing myself!",
+        "without_stowords": [
+            "RT",
+            ":",
+            "I",
+            "keep",
+            "losing",
+            "!"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143563367241699329,
+        "user": "K_Rose8",
+        "user_location": "Amarillo, TX",
+        "date": "Tue Jun 25 16:55:27 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1143562926764302337,
+        "user": "twin_solid19",
+        "user_location": "",
+        "date": "Tue Jun 25 16:53:42 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "filtered_text": "RT : Once you are in a relationship you think it's gonna last forever. But in reality, it only lasts as long as you're worki\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Once",
+            "relationship",
+            "think",
+            "'s",
+            "gon",
+            "na",
+            "last",
+            "forever",
+            ".",
+            "But",
+            "reality",
+            ",",
+            "lasts",
+            "long",
+            "'re",
+            "worki\u2026"
+        ],
+        "region": "New Cairo"
+    }
+]

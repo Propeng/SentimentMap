@@ -1,0 +1,1785 @@
+[
+    {
+        "id": 1144387458529923074,
+        "user": "M_H_Elgendi",
+        "user_location": "El Daqahlia, Egypt",
+        "date": "Thu Jun 27 23:30:06 +0000 2019",
+        "text": "Just posted a photo @ Ramses Hilton https://t.co/icto3dnyq5",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05045076,
+                31.23204829
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/icto3dnyq5",
+                "expanded_url": "https://www.instagram.com/p/BzO1BqCh7F2PFLbqvvu_zRq2fW8F1hklSpclJA0/?igshid=vrlfop8dh9f0",
+                "display_url": "instagram.com/p/BzO1BqCh7F2P\u2026",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Ramses Hilton",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Ramses",
+            "Hilton"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144378496216641536,
+        "user": "AldhawiNouf",
+        "user_location": "",
+        "date": "Thu Jun 27 22:54:29 +0000 2019",
+        "text": "\ud83c\udf19 (@ Balcona in Mohandesin, Giza w/ @deemaaldhawi) https://t.co/87RqZzUaCl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.056177,
+                31.194359
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/87RqZzUaCl",
+                "expanded_url": "https://www.swarmapp.com/c/kA6MkJM0MXz",
+                "display_url": "swarmapp.com/c/kA6MkJM0MXz",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "DeemaAlDhawi",
+                "name": "Deema AlDhawi",
+                "id": 354635439,
+                "id_str": "354635439",
+                "indices": [
+                    36,
+                    49
+                ]
+            }
+        ],
+        "filtered_text": "\ud83c\udf19 (@ Balcona in Mohandesin, Giza w/ )",
+        "without_stowords": [
+            "\ud83c\udf19",
+            "(",
+            "@",
+            "Balcona",
+            "Mohandesin",
+            ",",
+            "Giza",
+            "w/",
+            ")"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144372610618331136,
+        "user": "aya_elborgy",
+        "user_location": "Almahalla Al-kobra",
+        "date": "Thu Jun 27 22:31:06 +0000 2019",
+        "text": "Favorite color ideas for your little one's room \ud83e\udd29\n\nHere's some of my favorite wall paint colors /grades for kidsroo\u2026 https://t.co/nqE1dpWKNW",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nqE1dpWKNW",
+                "expanded_url": "https://twitter.com/i/web/status/1144372610618331136",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Favorite color ideas for your little one's room \ud83e\udd29 Here's some of my favorite wall paint colors /grades for kidsroo\u2026",
+        "without_stowords": [
+            "Favorite",
+            "color",
+            "ideas",
+            "little",
+            "one",
+            "'s",
+            "room",
+            "\ud83e\udd29",
+            "Here",
+            "'s",
+            "favorite",
+            "wall",
+            "paint",
+            "colors",
+            "/grades",
+            "kidsroo\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144356701988171776,
+        "user": "A_for_Adham",
+        "user_location": "Shoubra , Cairo",
+        "date": "Thu Jun 27 21:27:53 +0000 2019",
+        "text": "Fly me to the moon\n\n#fly #me #to #the #moon #sky #unipen #blue #gray #stars # love #drawing #man #franksinatra @ Ca\u2026 https://t.co/tQZ1kNBVKa",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tQZ1kNBVKa",
+                "expanded_url": "https://twitter.com/i/web/status/1144356701988171776",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Fly me to the moon #fly #me #to #the #moon #sky #unipen #blue #gray #stars # love #drawing #man #franksinatra @ Ca\u2026",
+        "without_stowords": [
+            "Fly",
+            "moon",
+            "#",
+            "fly",
+            "#",
+            "#",
+            "#",
+            "#",
+            "moon",
+            "#",
+            "sky",
+            "#",
+            "unipen",
+            "#",
+            "blue",
+            "#",
+            "gray",
+            "#",
+            "stars",
+            "#",
+            "love",
+            "#",
+            "drawing",
+            "#",
+            "man",
+            "#",
+            "franksinatra",
+            "@",
+            "Ca\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144352949965139980,
+        "user": "CliftonKassam",
+        "user_location": "Ndhiwa",
+        "date": "Thu Jun 27 21:12:58 +0000 2019",
+        "text": "Feeling dissapointed with 19753others\ud83d\ude02\ud83d\ude02\ud83d\ude02like if you're represented in that Kenyan Team\ud83d\udd90\ud83d\udd90\ud83d\udd90Hao wengine mnaeza comment\u2026 https://t.co/GY4acAs1Os",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/GY4acAs1Os",
+                "expanded_url": "https://twitter.com/i/web/status/1144352949965139980",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Feeling dissapointed with 19753others\ud83d\ude02\ud83d\ude02\ud83d\ude02like if you're represented in that Kenyan Team\ud83d\udd90\ud83d\udd90\ud83d\udd90Hao wengine mnaeza comment\u2026",
+        "without_stowords": [
+            "Feeling",
+            "dissapointed",
+            "19753others\ud83d\ude02\ud83d\ude02\ud83d\ude02like",
+            "'re",
+            "represented",
+            "Kenyan",
+            "Team\ud83d\udd90\ud83d\udd90\ud83d\udd90Hao",
+            "wengine",
+            "mnaeza",
+            "comment\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144352910618374156,
+        "user": "Bashayer_M25",
+        "user_location": "Jeddah",
+        "date": "Thu Jun 27 21:12:49 +0000 2019",
+        "text": "I'm at Sheraton Cairo Hotel &amp; Casino in Cairo, EG-C https://t.co/aNXONp6dMs",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03919471,
+                31.22031619
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aNXONp6dMs",
+                "expanded_url": "https://www.swarmapp.com/c/20HZAVXzpBL",
+                "display_url": "swarmapp.com/c/20HZAVXzpBL",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Sheraton Cairo Hotel &amp; Casino in Cairo, EG-C",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Sheraton",
+            "Cairo",
+            "Hotel",
+            "&",
+            "amp",
+            ";",
+            "Casino",
+            "Cairo",
+            ",",
+            "EG-C"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144351764914851846,
+        "user": "rawanashour5",
+        "user_location": "Kafr El Shikh",
+        "date": "Thu Jun 27 21:08:16 +0000 2019",
+        "text": "\ud83c\udf1f @ Faculty of Medicine Ain Shams University https://t.co/gbck3e05p1",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/gbck3e05p1",
+                "expanded_url": "https://www.instagram.com/p/BzOky4lgna5CzG8BeCjpVrNvFJ_OTezvvG3L500/?igshid=zcgitixegchy",
+                "display_url": "instagram.com/p/BzOky4lgna5C\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83c\udf1f @ Faculty of Medicine Ain Shams University",
+        "without_stowords": [
+            "\ud83c\udf1f",
+            "@",
+            "Faculty",
+            "Medicine",
+            "Ain",
+            "Shams",
+            "University"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144313007004106753,
+        "user": "shaimaarady2",
+        "user_location": "",
+        "date": "Thu Jun 27 18:34:15 +0000 2019",
+        "text": "I'm at 6th October Bridge in Cairo, Cairo - Giza https://t.co/vI97ekzxdS",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04902522,
+                31.22275302
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vI97ekzxdS",
+                "expanded_url": "https://www.swarmapp.com/c/eEUyXaslFvF",
+                "display_url": "swarmapp.com/c/eEUyXaslFvF",
+                "indices": [
+                    49,
+                    72
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at 6th October Bridge in Cairo, Cairo - Giza",
+        "without_stowords": [
+            "I",
+            "'m",
+            "6th",
+            "October",
+            "Bridge",
+            "Cairo",
+            ",",
+            "Cairo",
+            "-",
+            "Giza"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144305494158430210,
+        "user": "fahad_alshmre9",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Thu Jun 27 18:04:24 +0000 2019",
+        "text": "I'm at Egypt - @experienceegypt https://t.co/KpZN8cljEH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04935215,
+                31.24416232
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/KpZN8cljEH",
+                "expanded_url": "https://www.swarmapp.com/c/8EAE1pkEC6Y",
+                "display_url": "swarmapp.com/c/8EAE1pkEC6Y",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "ExperienceEgypt",
+                "name": "ExperienceEgypt",
+                "id": 49567800,
+                "id_str": "49567800",
+                "indices": [
+                    15,
+                    31
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Egypt -",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Egypt",
+            "-"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144302481423441920,
+        "user": "fatmabodoma",
+        "user_location": "Earth",
+        "date": "Thu Jun 27 17:52:26 +0000 2019",
+        "text": "Dramatic warm\n\n#cairobiennale  #artist  #arte  #artwork #artistsofinstagram @ Cairo Opera House https://t.co/8jJ5hgwjGG",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04236822,
+                31.2247324
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/8jJ5hgwjGG",
+                "expanded_url": "https://www.instagram.com/p/BzOOYhVhKu2/?igshid=zlirbf9oog2t",
+                "display_url": "instagram.com/p/BzOOYhVhKu2/\u2026",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Dramatic warm #cairobiennale #artist #arte #artwork #artistsofinstagram @ Cairo Opera House",
+        "without_stowords": [
+            "Dramatic",
+            "warm",
+            "#",
+            "cairobiennale",
+            "#",
+            "artist",
+            "#",
+            "arte",
+            "#",
+            "artwork",
+            "#",
+            "artistsofinstagram",
+            "@",
+            "Cairo",
+            "Opera",
+            "House"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144293488969883649,
+        "user": "mego2im",
+        "user_location": "SmallVille",
+        "date": "Thu Jun 27 17:16:42 +0000 2019",
+        "text": "WING \ud83c\udf01 \u2728\n*A story of a one-wing-creature with half opportunity to fly* \nUsing robertoferri_italianpainter great wor\u2026 https://t.co/GQNuNqoG11",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03608968,
+                31.22438908
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/GQNuNqoG11",
+                "expanded_url": "https://twitter.com/i/web/status/1144293488969883649",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "WING \ud83c\udf01 \u2728 *A story of a one-wing-creature with half opportunity to fly* Using robertoferri_italianpainter great wor\u2026",
+        "without_stowords": [
+            "WING",
+            "\ud83c\udf01",
+            "\u2728",
+            "*A",
+            "story",
+            "one-wing-creature",
+            "half",
+            "opportunity",
+            "fly*",
+            "Using",
+            "robertoferri_italianpainter",
+            "great",
+            "wor\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144291853098876928,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jun 27 17:10:12 +0000 2019",
+        "text": "current weather in Cairo: clear sky, 35\u00b0C\n39% humidity, wind 6kmh, pressure 1007mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "current weather in Cairo: clear sky, 35\u00b0C 39% humidity, wind 6kmh, pressure 1007mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "35\u00b0C",
+            "39",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "6kmh",
+            ",",
+            "pressure",
+            "1007mb"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144290584670031872,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jun 27 17:05:09 +0000 2019",
+        "text": "Cairo: 8:00pm: sunset",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Cairo: 8:00pm: sunset",
+        "without_stowords": [
+            "Cairo",
+            ":",
+            "8:00pm",
+            ":",
+            "sunset"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144288528475574273,
+        "user": "elfatehofficial",
+        "user_location": "\u0645\u0635\u0631",
+        "date": "Thu Jun 27 16:56:59 +0000 2019",
+        "text": "#sunset \ud83c\udf05 @ Al Manyal, Al Jizah, Egypt https://t.co/7sSZjgHOd3",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0183,
+                31.2239
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/7sSZjgHOd3",
+                "expanded_url": "https://www.instagram.com/p/BzOICWfH_Z_8g59NsOq8iHJ0mPDudl-vPMUt3E0/?igshid=3olql5sa7psf",
+                "display_url": "instagram.com/p/BzOICWfH_Z_8\u2026",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "#sunset \ud83c\udf05 @ Al Manyal, Al Jizah, Egypt",
+        "without_stowords": [
+            "#",
+            "sunset",
+            "\ud83c\udf05",
+            "@",
+            "Al",
+            "Manyal",
+            ",",
+            "Al",
+            "Jizah",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144283720175820800,
+        "user": "ROYALTYMONROE_",
+        "user_location": "where the cash at ",
+        "date": "Thu Jun 27 16:37:53 +0000 2019",
+        "text": "The mummy returns flow \ud83d\ude32\ud83d\ude32\ud83d\ude32\ud83d\ude32 @ Egyptian Museum https://t.co/RNyZEAc4hF",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.047778,
+                31.233333
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/RNyZEAc4hF",
+                "expanded_url": "https://www.instagram.com/p/BzOFxH-HPRB/?igshid=d4u24so4g4wf",
+                "display_url": "instagram.com/p/BzOFxH-HPRB/\u2026",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "The mummy returns flow \ud83d\ude32\ud83d\ude32\ud83d\ude32\ud83d\ude32 @ Egyptian Museum",
+        "without_stowords": [
+            "The",
+            "mummy",
+            "returns",
+            "flow",
+            "\ud83d\ude32\ud83d\ude32\ud83d\ude32\ud83d\ude32",
+            "@",
+            "Egyptian",
+            "Museum"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144279545278861312,
+        "user": "fatmabodoma",
+        "user_location": "Earth",
+        "date": "Thu Jun 27 16:21:17 +0000 2019",
+        "text": "My plant book and pine cones.\n\n#home #fatma_the_farmer #artistsofinstagram  #bohemianstyle  #arte  #artist\u2026 https://t.co/EyBXaREzFY",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04706757,
+                31.23934507
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/EyBXaREzFY",
+                "expanded_url": "https://twitter.com/i/web/status/1144279545278861312",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My plant book and pine cones. #home #fatma_the_farmer #artistsofinstagram #bohemianstyle #arte #artist\u2026",
+        "without_stowords": [
+            "My",
+            "plant",
+            "book",
+            "pine",
+            "cones",
+            ".",
+            "#",
+            "home",
+            "#",
+            "fatma_the_farmer",
+            "#",
+            "artistsofinstagram",
+            "#",
+            "bohemianstyle",
+            "#",
+            "arte",
+            "#",
+            "artist\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144267364147453952,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Thu Jun 27 15:32:53 +0000 2019",
+        "text": "Want to work at IQVIA? We're hiring in #Cairo, Cairo Governorate! Click the link in our bio for details on this job\u2026 https://t.co/UwBWE6j7ag",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/UwBWE6j7ag",
+                "expanded_url": "https://twitter.com/i/web/status/1144267364147453952",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Want to work at IQVIA? We're hiring in #Cairo, Cairo Governorate! Click the link in our bio for details on this job\u2026",
+        "without_stowords": [
+            "Want",
+            "work",
+            "IQVIA",
+            "?",
+            "We",
+            "'re",
+            "hiring",
+            "#",
+            "Cairo",
+            ",",
+            "Cairo",
+            "Governorate",
+            "!",
+            "Click",
+            "link",
+            "bio",
+            "details",
+            "job\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144258680537407489,
+        "user": "alaaklose",
+        "user_location": "",
+        "date": "Thu Jun 27 14:58:23 +0000 2019",
+        "text": "I've lived with you the feeling of the first time of everything, and that's enough don't always remember you @ KFC https://t.co/KCkqJHy2Js",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05496,
+                31.20344
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/KCkqJHy2Js",
+                "expanded_url": "https://www.instagram.com/p/BzN6dt8nsmlDK72LtM1YxZXvKiGpkYogCqhjJs0/?igshid=1ulzjd83u99sa",
+                "display_url": "instagram.com/p/BzN6dt8nsmlD\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I've lived with you the feeling of the first time of everything, and that's enough don't always remember you @ KFC",
+        "without_stowords": [
+            "I",
+            "'ve",
+            "lived",
+            "feeling",
+            "first",
+            "time",
+            "everything",
+            ",",
+            "'s",
+            "enough",
+            "n't",
+            "always",
+            "remember",
+            "@",
+            "KFC"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144246819469156353,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Thu Jun 27 14:11:15 +0000 2019",
+        "text": "Career tip for landing jobs like \"Accounts Payable Accountant\" in #Cairo. Go on informational interviews. The best\u2026 https://t.co/PGmQDFbXJV",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/PGmQDFbXJV",
+                "expanded_url": "https://twitter.com/i/web/status/1144246819469156353",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Career tip for landing jobs like \"Accounts Payable Accountant\" in #Cairo. Go on informational interviews. The best\u2026",
+        "without_stowords": [
+            "Career",
+            "tip",
+            "landing",
+            "jobs",
+            "like",
+            "``",
+            "Accounts",
+            "Payable",
+            "Accountant",
+            "''",
+            "#",
+            "Cairo",
+            ".",
+            "Go",
+            "informational",
+            "interviews",
+            ".",
+            "The",
+            "best\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144240121446850560,
+        "user": "fatmabodoma",
+        "user_location": "Earth",
+        "date": "Thu Jun 27 13:44:38 +0000 2019",
+        "text": "Blue.\n\n#cyanotype #cyanotypeart  #blue #50shadesofblue #cyan #art #artist  #artistsofinstagram @ Downtown Cairo https://t.co/NxXn2H86GB",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04706757,
+                31.23934507
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NxXn2H86GB",
+                "expanded_url": "https://www.instagram.com/p/BzNyBdDB37G/?igshid=g2fakefy8ni2",
+                "display_url": "instagram.com/p/BzNyBdDB37G/\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Blue. #cyanotype #cyanotypeart #blue #50shadesofblue #cyan #art #artist #artistsofinstagram @ Downtown Cairo",
+        "without_stowords": [
+            "Blue",
+            ".",
+            "#",
+            "cyanotype",
+            "#",
+            "cyanotypeart",
+            "#",
+            "blue",
+            "#",
+            "50shadesofblue",
+            "#",
+            "cyan",
+            "#",
+            "art",
+            "#",
+            "artist",
+            "#",
+            "artistsofinstagram",
+            "@",
+            "Downtown",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144229575741923331,
+        "user": "GREATDEBATER8",
+        "user_location": "Philly",
+        "date": "Thu Jun 27 13:02:44 +0000 2019",
+        "text": "\u201cWhen your wildest dreams become your reality you start realizing dreams are just the beginning.\u201d #Living #Life\u2026 https://t.co/liHHpHLAte",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05035583,
+                31.23218299
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/liHHpHLAte",
+                "expanded_url": "https://twitter.com/i/web/status/1144229575741923331",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\u201cWhen your wildest dreams become your reality you start realizing dreams are just the beginning.\u201d #Living #Life\u2026",
+        "without_stowords": [
+            "\u201c",
+            "When",
+            "wildest",
+            "dreams",
+            "become",
+            "reality",
+            "start",
+            "realizing",
+            "dreams",
+            "beginning.",
+            "\u201d",
+            "#",
+            "Living",
+            "#",
+            "Life\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144227628066529280,
+        "user": "EVENTSRDCCOM",
+        "user_location": "Kinshasa",
+        "date": "Thu Jun 27 12:54:59 +0000 2019",
+        "text": "A dit @sports_tn \n#eventsrdc #toujoursderrierelesleopards #EzakakaFin #Tosangana243\ntout_puissant_mazembe\u2026 https://t.co/fJ3N2cxPgH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fJ3N2cxPgH",
+                "expanded_url": "https://twitter.com/i/web/status/1144227628066529280",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "sports_tn",
+                "name": "TN Sports",
+                "id": 793217086596214784,
+                "id_str": "793217086596214784",
+                "indices": [
+                    6,
+                    16
+                ]
+            }
+        ],
+        "filtered_text": "A dit #eventsrdc #toujoursderrierelesleopards #EzakakaFin #Tosangana243 tout_puissant_mazembe\u2026",
+        "without_stowords": [
+            "A",
+            "dit",
+            "#",
+            "eventsrdc",
+            "#",
+            "toujoursderrierelesleopards",
+            "#",
+            "EzakakaFin",
+            "#",
+            "Tosangana243",
+            "tout_puissant_mazembe\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144227005585645568,
+        "user": "EVENTSRDCCOM",
+        "user_location": "Kinshasa",
+        "date": "Thu Jun 27 12:52:31 +0000 2019",
+        "text": "A dit @bakambu17 \n#eventsrdc #toujoursderrierelesleopards #EzakakaFin #Tosangana243\ntout_puissant_mazembe\u2026 https://t.co/9HmSVxSsvS",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9HmSVxSsvS",
+                "expanded_url": "https://twitter.com/i/web/status/1144227005585645568",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Bakambu17",
+                "name": "C\u00e9dric Bakambu",
+                "id": 276675688,
+                "id_str": "276675688",
+                "indices": [
+                    6,
+                    16
+                ]
+            }
+        ],
+        "filtered_text": "A dit #eventsrdc #toujoursderrierelesleopards #EzakakaFin #Tosangana243 tout_puissant_mazembe\u2026",
+        "without_stowords": [
+            "A",
+            "dit",
+            "#",
+            "eventsrdc",
+            "#",
+            "toujoursderrierelesleopards",
+            "#",
+            "EzakakaFin",
+            "#",
+            "Tosangana243",
+            "tout_puissant_mazembe\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144226267065008128,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Thu Jun 27 12:49:35 +0000 2019",
+        "text": "Can you recommend anyone for this job? French-Arabic Speaking Demand Generation Specialist -\u2026 https://t.co/vqSELgT9Y8",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vqSELgT9Y8",
+                "expanded_url": "https://twitter.com/i/web/status/1144226267065008128",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    94,
+                    117
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Can you recommend anyone for this job? French-Arabic Speaking Demand Generation Specialist -\u2026",
+        "without_stowords": [
+            "Can",
+            "recommend",
+            "anyone",
+            "job",
+            "?",
+            "French-Arabic",
+            "Speaking",
+            "Demand",
+            "Generation",
+            "Specialist",
+            "-\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144221082200739840,
+        "user": "ajx411",
+        "user_location": "Jeddah",
+        "date": "Thu Jun 27 12:28:59 +0000 2019",
+        "text": "I'm at P.S Caf\u00e9 in Zamalek, Cairo https://t.co/ih3bJLCoPM",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06036163,
+                31.22252388
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ih3bJLCoPM",
+                "expanded_url": "https://www.swarmapp.com/c/4ZgvZV2fJ2K",
+                "display_url": "swarmapp.com/c/4ZgvZV2fJ2K",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at P.S Caf\u00e9 in Zamalek, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "P.S",
+            "Caf\u00e9",
+            "Zamalek",
+            ",",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144218778600763393,
+        "user": "IQVIAcareers",
+        "user_location": "Global",
+        "date": "Thu Jun 27 12:19:50 +0000 2019",
+        "text": "Join the IQVIA team! See our latest job opening here: https://t.co/UouPIYC1no #Finance Governorate #Cairo, Cairo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/UouPIYC1no",
+                "expanded_url": "http://bit.ly/2ISZS33",
+                "display_url": "bit.ly/2ISZS33",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Join the IQVIA team! See our latest job opening here: #Finance Governorate #Cairo, Cairo",
+        "without_stowords": [
+            "Join",
+            "IQVIA",
+            "team",
+            "!",
+            "See",
+            "latest",
+            "job",
+            "opening",
+            ":",
+            "#",
+            "Finance",
+            "Governorate",
+            "#",
+            "Cairo",
+            ",",
+            "Cairo"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144217562940661760,
+        "user": "_tanna__",
+        "user_location": "",
+        "date": "Thu Jun 27 12:15:00 +0000 2019",
+        "text": "65 \ud83d\udc55 \n40 \u26bd\ufe0f\n22 \ud83c\udd70\ufe0f\nWill mosalah lead Egypt to afcon2019 glory ?\n.\n.\n.#tannatalkssoccer #ttsszn #tts #salah #mosalah\u2026 https://t.co/lyei7IVknd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/lyei7IVknd",
+                "expanded_url": "https://twitter.com/i/web/status/1144217562940661760",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "65 \ud83d\udc55 40 \u26bd\ufe0f 22 \ud83c\udd70\ufe0f Will mosalah lead Egypt to afcon2019 glory ? . . .#tannatalkssoccer #ttsszn #tts #salah #mosalah\u2026",
+        "without_stowords": [
+            "65",
+            "\ud83d\udc55",
+            "40",
+            "\u26bd\ufe0f",
+            "22",
+            "\ud83c\udd70\ufe0f",
+            "Will",
+            "mosalah",
+            "lead",
+            "Egypt",
+            "afcon2019",
+            "glory",
+            "?",
+            ".",
+            ".",
+            ".",
+            "#",
+            "tannatalkssoccer",
+            "#",
+            "ttsszn",
+            "#",
+            "tts",
+            "#",
+            "salah",
+            "#",
+            "mosalah\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144209316779458561,
+        "user": "JoeSamy666",
+        "user_location": "Down below.",
+        "date": "Thu Jun 27 11:42:14 +0000 2019",
+        "text": "Been having such a good timr @ Cairo, Egypt https://t.co/lIj6nNe52a",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/lIj6nNe52a",
+                "expanded_url": "https://www.instagram.com/p/BzNkA_5jTuOl54hzyOI9Z_PekY9ghEC15qx8UQ0/?igshid=nrai3xfo0een",
+                "display_url": "instagram.com/p/BzNkA_5jTuOl\u2026",
+                "indices": [
+                    44,
+                    67
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Been having such a good timr @ Cairo, Egypt",
+        "without_stowords": [
+            "Been",
+            "good",
+            "timr",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144208522135134210,
+        "user": "CPAissaMASOUD",
+        "user_location": "Tanzania",
+        "date": "Thu Jun 27 11:39:04 +0000 2019",
+        "text": "Ready for the game  #TaifaStars vs #HarambeeStars https://t.co/LlYWoxoh1r",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0482685,
+                31.2195464
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Ready for the game #TaifaStars vs #HarambeeStars https://t.co/LlYWoxoh1r",
+        "without_stowords": [
+            "Ready",
+            "game",
+            "#",
+            "TaifaStars",
+            "vs",
+            "#",
+            "HarambeeStars",
+            "https",
+            ":",
+            "//t.co/LlYWoxoh1r"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144197129105264640,
+        "user": "rayanmohamed908",
+        "user_location": "ZAMALEK",
+        "date": "Thu Jun 27 10:53:48 +0000 2019",
+        "text": "@Andycaaap 2alby \ud83d\ude0d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Andycaaap",
+                "name": "\u0627\u062d\u0645\u062f\u062d\u0633\u0627\u0645\u0651",
+                "id": 2705539635,
+                "id_str": "2705539635",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "filtered_text": "2alby \ud83d\ude0d",
+        "without_stowords": [
+            "2alby",
+            "\ud83d\ude0d"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144182891749896192,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jun 27 09:57:13 +0000 2019",
+        "text": "current weather in Cairo: clear sky, 37\u00b0C\n21% humidity, wind 3kmh, pressure 1009mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "current weather in Cairo: clear sky, 37\u00b0C 21% humidity, wind 3kmh, pressure 1009mb",
+        "without_stowords": [
+            "current",
+            "weather",
+            "Cairo",
+            ":",
+            "clear",
+            "sky",
+            ",",
+            "37\u00b0C",
+            "21",
+            "%",
+            "humidity",
+            ",",
+            "wind",
+            "3kmh",
+            ",",
+            "pressure",
+            "1009mb"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144171797388177408,
+        "user": "OmarKhalifa84",
+        "user_location": "Zamalek, Egypt",
+        "date": "Thu Jun 27 09:13:08 +0000 2019",
+        "text": "Bad business https://t.co/kGxuFbGzGq",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/kGxuFbGzGq",
+                "expanded_url": "https://twitter.com/brfootball/status/1144171283283943425",
+                "display_url": "twitter.com/brfootball/sta\u2026",
+                "indices": [
+                    13,
+                    36
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Bad business",
+        "without_stowords": [
+            "Bad",
+            "business"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144170437099831296,
+        "user": "jeii55",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jun 27 09:07:44 +0000 2019",
+        "text": "I'm at Echo Club in Mohandesin, Muhafazat al Jizah https://t.co/tixCoDthCy",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05874533,
+                31.20750725
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tixCoDthCy",
+                "expanded_url": "https://www.swarmapp.com/c/fLZl9UJaXvq",
+                "display_url": "swarmapp.com/c/fLZl9UJaXvq",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Echo Club in Mohandesin, Muhafazat al Jizah",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Echo",
+            "Club",
+            "Mohandesin",
+            ",",
+            "Muhafazat",
+            "al",
+            "Jizah"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144156417630363648,
+        "user": "alyelkhayat",
+        "user_location": "",
+        "date": "Thu Jun 27 08:12:02 +0000 2019",
+        "text": "\ud83d\udd7a\ud83c\udffc @ The WaterWay https://t.co/LCkMlQhJ57",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/LCkMlQhJ57",
+                "expanded_url": "https://www.instagram.com/p/BzNL9YAnQQqC-mEG7b1nji9JpsMuDz4W3dfTFw0/?igshid=1g9vprhq8jklz",
+                "display_url": "instagram.com/p/BzNL9YAnQQqC\u2026",
+                "indices": [
+                    18,
+                    41
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83d\udd7a\ud83c\udffc @ The WaterWay",
+        "without_stowords": [
+            "\ud83d\udd7a\ud83c\udffc",
+            "@",
+            "The",
+            "WaterWay"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144153057858654208,
+        "user": "AhmedRa05266460",
+        "user_location": "\u0627\u0644\u0632\u0645\u0627\u0644\u0643",
+        "date": "Thu Jun 27 07:58:40 +0000 2019",
+        "text": "Always be yourself\ud83d\udc9c\ud83d\ude42 https://t.co/uBVdO5dynj",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Always be yourself\ud83d\udc9c\ud83d\ude42 https://t.co/uBVdO5dynj",
+        "without_stowords": [
+            "Always",
+            "yourself\ud83d\udc9c\ud83d\ude42",
+            "https",
+            ":",
+            "//t.co/uBVdO5dynj"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144092623688351744,
+        "user": "deejay_amedeo",
+        "user_location": "egypt",
+        "date": "Thu Jun 27 03:58:32 +0000 2019",
+        "text": "wedding and events (Dj Ahmed Sokar)\nfor bookings &amp; inquiries kindly contact us on +201022280023 Wedding planner by\u2026 https://t.co/IITQONJ5jg",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03673066,
+                31.22949452
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/IITQONJ5jg",
+                "expanded_url": "https://twitter.com/i/web/status/1144092623688351744",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "wedding and events (Dj Ahmed Sokar) for bookings &amp; inquiries kindly contact us on +201022280023 Wedding planner by\u2026",
+        "without_stowords": [
+            "wedding",
+            "events",
+            "(",
+            "Dj",
+            "Ahmed",
+            "Sokar",
+            ")",
+            "bookings",
+            "&",
+            "amp",
+            ";",
+            "inquiries",
+            "kindly",
+            "contact",
+            "us",
+            "+201022280023",
+            "Wedding",
+            "planner",
+            "by\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144089412910948357,
+        "user": "EsmailMOmar",
+        "user_location": "Egypt, Cairo",
+        "date": "Thu Jun 27 03:45:46 +0000 2019",
+        "text": "#TbT were time was fun &amp; also the sun @ Cairo, Egypt https://t.co/X5ZUyyqpkr",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/X5ZUyyqpkr",
+                "expanded_url": "https://www.instagram.com/p/BzMtfVzglgFyJG47yzcmBSzPHDebUp1AJvfgUI0/?igshid=xgwkgsnkmve",
+                "display_url": "instagram.com/p/BzMtfVzglgFy\u2026",
+                "indices": [
+                    57,
+                    80
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "#TbT were time was fun &amp; also the sun @ Cairo, Egypt",
+        "without_stowords": [
+            "#",
+            "TbT",
+            "time",
+            "fun",
+            "&",
+            "amp",
+            ";",
+            "also",
+            "sun",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144085886335954944,
+        "user": "AJALORRAINE",
+        "user_location": "Florida, USA",
+        "date": "Thu Jun 27 03:31:46 +0000 2019",
+        "text": "#BlackRaine is COMING VERY SOON!\nProduced by: @blackboi813\n\ud83c\udfb9: lexx_darkstar\n@blackboi813\nThe King &amp; I... \u25b6\ud83d\udd0a\n#NDVID\u2026 https://t.co/jxuUtnJpOh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/jxuUtnJpOh",
+                "expanded_url": "https://twitter.com/i/web/status/1144085886335954944",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "blackboi813",
+                "name": "@blackboi813",
+                "id": 246093983,
+                "id_str": "246093983",
+                "indices": [
+                    46,
+                    58
+                ]
+            },
+            {
+                "screen_name": "blackboi813",
+                "name": "@blackboi813",
+                "id": 246093983,
+                "id_str": "246093983",
+                "indices": [
+                    76,
+                    88
+                ]
+            }
+        ],
+        "filtered_text": "#BlackRaine is COMING VERY SOON! Produced by: \ud83c\udfb9: lexx_darkstar The King &amp; I... \u25b6\ud83d\udd0a #NDVID\u2026",
+        "without_stowords": [
+            "#",
+            "BlackRaine",
+            "COMING",
+            "VERY",
+            "SOON",
+            "!",
+            "Produced",
+            ":",
+            "\ud83c\udfb9",
+            ":",
+            "lexx_darkstar",
+            "The",
+            "King",
+            "&",
+            "amp",
+            ";",
+            "I",
+            "...",
+            "\u25b6\ud83d\udd0a",
+            "#",
+            "NDVID\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144048616887263232,
+        "user": "SugaChef",
+        "user_location": "Brand/PR Mngr: @onyxqueenmedia",
+        "date": "Thu Jun 27 01:03:40 +0000 2019",
+        "text": "Question: What would you do if this Banana Chocolate Chip Caramel Cake was in your kitchen at 1am and nobody was ar\u2026 https://t.co/hfD2YHtRoG",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0581,
+                31.2289
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hfD2YHtRoG",
+                "expanded_url": "https://twitter.com/i/web/status/1144048616887263232",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Question: What would you do if this Banana Chocolate Chip Caramel Cake was in your kitchen at 1am and nobody was ar\u2026",
+        "without_stowords": [
+            "Question",
+            ":",
+            "What",
+            "would",
+            "Banana",
+            "Chocolate",
+            "Chip",
+            "Caramel",
+            "Cake",
+            "kitchen",
+            "1am",
+            "nobody",
+            "ar\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144047731587067915,
+        "user": "BrosMam97",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jun 27 01:00:09 +0000 2019",
+        "text": "German club, https://t.co/2Qo7e2AkOV ,Sudan\nPure freestyle party \nThe last rapper stand on stage\nOmdur hustlers did\u2026 https://t.co/O7ZUQhgvXd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2Qo7e2AkOV",
+                "expanded_url": "http://K.city",
+                "display_url": "K.city",
+                "indices": [
+                    13,
+                    36
+                ]
+            },
+            {
+                "url": "https://t.co/O7ZUQhgvXd",
+                "expanded_url": "https://twitter.com/i/web/status/1144047731587067915",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "German club, ,Sudan Pure freestyle party The last rapper stand on stage Omdur hustlers did\u2026",
+        "without_stowords": [
+            "German",
+            "club",
+            ",",
+            ",",
+            "Sudan",
+            "Pure",
+            "freestyle",
+            "party",
+            "The",
+            "last",
+            "rapper",
+            "stand",
+            "stage",
+            "Omdur",
+            "hustlers",
+            "did\u2026"
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144039107276025856,
+        "user": "Popamosestoombs",
+        "user_location": "Atlanta",
+        "date": "Thu Jun 27 00:25:53 +0000 2019",
+        "text": "Fast lane @ Cairo, Egypt https://t.co/9BDABMnk30",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9BDABMnk30",
+                "expanded_url": "https://www.instagram.com/p/BzL_6P2AtRG/?igshid=11nh5xwn6299",
+                "display_url": "instagram.com/p/BzL_6P2AtRG/\u2026",
+                "indices": [
+                    25,
+                    48
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Fast lane @ Cairo, Egypt",
+        "without_stowords": [
+            "Fast",
+            "lane",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Dokki"
+    }
+]

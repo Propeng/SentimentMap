@@ -1,0 +1,2964 @@
+[
+    {
+        "id": 1143669345358405633,
+        "user": "Waffa93AM",
+        "user_location": "... Riyadh ",
+        "date": "Tue Jun 25 23:56:34 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/YIAcKiEKlw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/YIAcKiEKlw",
+                "expanded_url": "https://www.swarmapp.com/c/kDIXOap7CPs",
+                "display_url": "swarmapp.com/c/kDIXOap7CPs",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143666873743159296,
+        "user": "Haazeem98",
+        "user_location": "Nasr city ",
+        "date": "Tue Jun 25 23:46:45 +0000 2019",
+        "text": "depressed at my bed",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "depressed at my bed",
+        "without_stowords": [
+            "depressed",
+            "bed"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143662917709172736,
+        "user": "_oAln",
+        "user_location": "\u0627\u0644\u0643\u0648\u064a\u062a , \u0627\u0644\u0635\u0645\u0627\u0646",
+        "date": "Tue Jun 25 23:31:02 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/Qhn4rGOM0k",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Qhn4rGOM0k",
+                "expanded_url": "https://www.swarmapp.com/c/lvGZTRg5kWa",
+                "display_url": "swarmapp.com/c/lvGZTRg5kWa",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143656093127593984,
+        "user": "Lyren_",
+        "user_location": "Behind you",
+        "date": "Tue Jun 25 23:03:55 +0000 2019",
+        "text": "RT @MindCap: what exen really does while his bot is playing https://t.co/IGzs5TvQuA",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : what exen really does while his bot is playing https://t.co/IGzs5TvQuA",
+        "without_stowords": [
+            "RT",
+            ":",
+            "exen",
+            "really",
+            "bot",
+            "playing",
+            "https",
+            ":",
+            "//t.co/IGzs5TvQuA"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143655617724387333,
+        "user": "MarinaAchraf",
+        "user_location": "Le Caire",
+        "date": "Tue Jun 25 23:02:02 +0000 2019",
+        "text": "RT @MennaElHoshy: And i realise this fact every night when i feel like i just need someone to hug me till i fall asleep",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MennaElHoshy",
+                "name": "\u0645\u0650\u0646\u0651\u0629\u064f \u0627\u0644\u0644\u0647\ud83c\udfbc\ud83c\udf38",
+                "id": 249391838,
+                "id_str": "249391838",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "filtered_text": "RT : And i realise this fact every night when i feel like i just need someone to hug me till i fall asleep",
+        "without_stowords": [
+            "RT",
+            ":",
+            "And",
+            "realise",
+            "fact",
+            "every",
+            "night",
+            "feel",
+            "like",
+            "need",
+            "someone",
+            "hug",
+            "till",
+            "fall",
+            "asleep"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143650994615721989,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Tue Jun 25 22:43:39 +0000 2019",
+        "text": "And i realise this fact every night when i feel like i just need someone to hug me till i fall asleep",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "And i realise this fact every night when i feel like i just need someone to hug me till i fall asleep",
+        "without_stowords": [
+            "And",
+            "realise",
+            "fact",
+            "every",
+            "night",
+            "feel",
+            "like",
+            "need",
+            "someone",
+            "hug",
+            "till",
+            "fall",
+            "asleep"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143650231852175362,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Tue Jun 25 22:40:37 +0000 2019",
+        "text": "When the hell did i become so fragile!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "When the hell did i become so fragile!",
+        "without_stowords": [
+            "When",
+            "hell",
+            "become",
+            "fragile",
+            "!"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143649308841074695,
+        "user": "YB145x",
+        "user_location": "MCCCXIV",
+        "date": "Tue Jun 25 22:36:57 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/puhwTb99Ls",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/puhwTb99Ls",
+                "expanded_url": "https://www.swarmapp.com/c/9EjzLugQ1W7",
+                "display_url": "swarmapp.com/c/9EjzLugQ1W7",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143646250870460417,
+        "user": "TaxiGuy9422",
+        "user_location": "somewhere",
+        "date": "Tue Jun 25 22:24:48 +0000 2019",
+        "text": "RT @MindCap: what if your thirst for blood continued? Very well, let the blood spill. Let the demons feed off your unfortunate soul...\n\nbut\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : what if your thirst for blood continued? Very well, let the blood spill. Let the demons feed off your unfortunate soul... but\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "thirst",
+            "blood",
+            "continued",
+            "?",
+            "Very",
+            "well",
+            ",",
+            "let",
+            "blood",
+            "spill",
+            ".",
+            "Let",
+            "demons",
+            "feed",
+            "unfortunate",
+            "soul",
+            "...",
+            "but\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143645767833464832,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Tue Jun 25 22:22:53 +0000 2019",
+        "text": "My inner light keeps fading.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "My inner light keeps fading.",
+        "without_stowords": [
+            "My",
+            "inner",
+            "light",
+            "keeps",
+            "fading",
+            "."
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143645339645358081,
+        "user": "TaxiGuy9422",
+        "user_location": "somewhere",
+        "date": "Tue Jun 25 22:21:11 +0000 2019",
+        "text": "RT @MindCap: when you see food https://t.co/0cP0E3a7I0",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : when you see food https://t.co/0cP0E3a7I0",
+        "without_stowords": [
+            "RT",
+            ":",
+            "see",
+            "food",
+            "https",
+            ":",
+            "//t.co/0cP0E3a7I0"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143643514300981249,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 22:13:56 +0000 2019",
+        "text": "@envylol_ @griffsTM how lol dm me",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "envylol_",
+                "name": "Envy",
+                "id": 843138928446078977,
+                "id_str": "843138928446078977",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "griffsTM",
+                "name": "shitpost god X",
+                "id": 982169868546928640,
+                "id_str": "982169868546928640",
+                "indices": [
+                    10,
+                    19
+                ]
+            }
+        ],
+        "filtered_text": "how lol dm me",
+        "without_stowords": [
+            "lol",
+            "dm"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143643404083089409,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 22:13:30 +0000 2019",
+        "text": "kpop stans reproduce asexually",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "kpop stans reproduce asexually",
+        "without_stowords": [
+            "kpop",
+            "stans",
+            "reproduce",
+            "asexually"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143643040420118535,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 22:12:03 +0000 2019",
+        "text": "@envylol_ @griffsTM what happened",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "envylol_",
+                "name": "Envy",
+                "id": 843138928446078977,
+                "id_str": "843138928446078977",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "griffsTM",
+                "name": "temporary maintenance",
+                "id": 982169868546928640,
+                "id_str": "982169868546928640",
+                "indices": [
+                    10,
+                    19
+                ]
+            }
+        ],
+        "filtered_text": "what happened",
+        "without_stowords": [
+            "happened"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143640650983923713,
+        "user": "Aliwael26",
+        "user_location": "Nasr city ",
+        "date": "Tue Jun 25 22:02:33 +0000 2019",
+        "text": "My 25th birthday https://t.co/X0NlVjnTKJ",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "My 25th birthday https://t.co/X0NlVjnTKJ",
+        "without_stowords": [
+            "My",
+            "25th",
+            "birthday",
+            "https",
+            ":",
+            "//t.co/X0NlVjnTKJ"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143639269598277632,
+        "user": "Haazeem98",
+        "user_location": "Nasr city ",
+        "date": "Tue Jun 25 21:57:04 +0000 2019",
+        "text": "Some changes ..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Some changes ..",
+        "without_stowords": [
+            "Some",
+            "changes",
+            ".."
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143638849035390977,
+        "user": "BozenaSz",
+        "user_location": "South America/the Middle East",
+        "date": "Tue Jun 25 21:55:24 +0000 2019",
+        "text": "Ancient walls and incredible light just before sunset at Bab Al Futuh (The Gate of Conquest) in center of Old Cairo\u2026 https://t.co/jsBX9awNaR",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0555,
+                31.2634
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/jsBX9awNaR",
+                "expanded_url": "https://twitter.com/i/web/status/1143638849035390977",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Ancient walls and incredible light just before sunset at Bab Al Futuh (The Gate of Conquest) in center of Old Cairo\u2026",
+        "without_stowords": [
+            "Ancient",
+            "walls",
+            "incredible",
+            "light",
+            "sunset",
+            "Bab",
+            "Al",
+            "Futuh",
+            "(",
+            "The",
+            "Gate",
+            "Conquest",
+            ")",
+            "center",
+            "Old",
+            "Cairo\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143638379445268480,
+        "user": "WalMe7dar",
+        "user_location": "Jeddah, Makkah Al Mukarrama",
+        "date": "Tue Jun 25 21:53:32 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/MAlEatSPFh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/MAlEatSPFh",
+                "expanded_url": "https://www.swarmapp.com/c/a1XXDnVmskf",
+                "display_url": "swarmapp.com/c/a1XXDnVmskf",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143636519669960705,
+        "user": "Eltagpharmhotm3",
+        "user_location": "Nasr city ",
+        "date": "Tue Jun 25 21:46:08 +0000 2019",
+        "text": "1000.oo GOOD\nB\nY\nE",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "1000.oo GOOD B Y E",
+        "without_stowords": [
+            "1000.oo",
+            "GOOD",
+            "B",
+            "Y",
+            "E"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143634010226266113,
+        "user": "AbdelrhmanFikri",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 21:36:10 +0000 2019",
+        "text": "I think that, the eyes show what the heart hides.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I think that, the eyes show what the heart hides.",
+        "without_stowords": [
+            "I",
+            "think",
+            ",",
+            "eyes",
+            "show",
+            "heart",
+            "hides",
+            "."
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143632957493694464,
+        "user": "Elefont",
+        "user_location": "Panorama City, Los Angeles",
+        "date": "Tue Jun 25 21:31:59 +0000 2019",
+        "text": "Happy Birthday to my Golden Goddess! She gracefully creates, and keeps me tame.\n@MichelleMakela I love you. \ud83d\udc9b\n.\n.\nE\u2026 https://t.co/A10y8xZFuu",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/A10y8xZFuu",
+                "expanded_url": "https://twitter.com/i/web/status/1143632957493694464",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "MichelleMakela",
+                "name": "MichelleMimiMakela",
+                "id": 167968936,
+                "id_str": "167968936",
+                "indices": [
+                    80,
+                    95
+                ]
+            }
+        ],
+        "filtered_text": "Happy Birthday to my Golden Goddess! She gracefully creates, and keeps me tame. I love you. \ud83d\udc9b . . E\u2026",
+        "without_stowords": [
+            "Happy",
+            "Birthday",
+            "Golden",
+            "Goddess",
+            "!",
+            "She",
+            "gracefully",
+            "creates",
+            ",",
+            "keeps",
+            "tame",
+            ".",
+            "I",
+            "love",
+            ".",
+            "\ud83d\udc9b",
+            ".",
+            ".",
+            "E\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143625325424848897,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Tue Jun 25 21:01:39 +0000 2019",
+        "text": "My all time insecurity https://t.co/yIbnZj2pCs",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/yIbnZj2pCs",
+                "expanded_url": "https://twitter.com/SAD15566/status/1143247702165196800",
+                "display_url": "twitter.com/SAD15566/statu\u2026",
+                "indices": [
+                    23,
+                    46
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My all time insecurity",
+        "without_stowords": [
+            "My",
+            "time",
+            "insecurity"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143620381741334528,
+        "user": "YaHia_Mabrouk",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 20:42:01 +0000 2019",
+        "text": "Red right hand \ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f https://t.co/95RAkXN8Bc",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/95RAkXN8Bc",
+                "expanded_url": "https://twitter.com/ashrakatkhaled1/status/1143595721238765568",
+                "display_url": "twitter.com/ashrakatkhaled\u2026",
+                "indices": [
+                    21,
+                    44
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Red right hand \ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f",
+        "without_stowords": [
+            "Red",
+            "right",
+            "hand",
+            "\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143619994124804096,
+        "user": "MaryamAbdo8199",
+        "user_location": "Nasr city",
+        "date": "Tue Jun 25 20:40:28 +0000 2019",
+        "text": "@farrahmaged @eslamsalahh Me too\ud83d\ude13\ud83d\ude22",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "farrahmaged",
+                "name": "farah",
+                "id": 3520023555,
+                "id_str": "3520023555",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "eslamsalahh",
+                "name": "\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+                "id": 770336942328274945,
+                "id_str": "770336942328274945",
+                "indices": [
+                    13,
+                    25
+                ]
+            }
+        ],
+        "filtered_text": "Me too\ud83d\ude13\ud83d\ude22",
+        "without_stowords": [
+            "Me",
+            "too\ud83d\ude13\ud83d\ude22"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143618439971594240,
+        "user": "YaHia_Mabrouk",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 20:34:18 +0000 2019",
+        "text": "What i have survived might kill you",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "What i have survived might kill you",
+        "without_stowords": [
+            "What",
+            "survived",
+            "might",
+            "kill"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143617910570663936,
+        "user": "Vuny93",
+        "user_location": "nasr city",
+        "date": "Tue Jun 25 20:32:11 +0000 2019",
+        "text": "Menna Nagui i know it will be u \u2764\ufe0f https://t.co/Ay7mvHH3c0",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Ay7mvHH3c0",
+                "expanded_url": "https://www.facebook.com/100002953233766/posts/2206507946124292/",
+                "display_url": "facebook.com/10000295323376\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Menna Nagui i know it will be u \u2764\ufe0f",
+        "without_stowords": [
+            "Menna",
+            "Nagui",
+            "know",
+            "u",
+            "\u2764\ufe0f"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143612988454297602,
+        "user": "hajar47x",
+        "user_location": "\u2741",
+        "date": "Tue Jun 25 20:12:38 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/pomGXwo9ie",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pomGXwo9ie",
+                "expanded_url": "https://www.swarmapp.com/c/faYwT5Fxlne",
+                "display_url": "swarmapp.com/c/faYwT5Fxlne",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143604549757915137,
+        "user": "rodolphosanttos",
+        "user_location": "Dublin City, Ireland",
+        "date": "Tue Jun 25 19:39:06 +0000 2019",
+        "text": "Embracing change.   \u0633\u0644\u0627\u0645 \u0645\u0639\u0643\u0645 \ud83d\ude4f\ud83c\udffd\u2063\u2063\u2063\n\u2063\u2063\u2063\nSuch a beautiful mosque!\u2063\u2063\u2063\n\u2063\u2063\u2063\n\u2063\u2063\u2063\nSince its founding in 907 AD, it is an\u2026 https://t.co/A1tAuMh4Sy",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.045869,
+                31.262753
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/A1tAuMh4Sy",
+                "expanded_url": "https://twitter.com/i/web/status/1143604549757915137",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Embracing change. \u0633\u0644\u0627\u0645 \u0645\u0639\u0643\u0645 \ud83d\ude4f\ud83c\udffd\u2063\u2063\u2063 \u2063\u2063\u2063 Such a beautiful mosque!\u2063\u2063\u2063 \u2063\u2063\u2063 \u2063\u2063\u2063 Since its founding in 907 AD, it is an\u2026",
+        "without_stowords": [
+            "Embracing",
+            "change",
+            ".",
+            "\u0633\u0644\u0627\u0645",
+            "\u0645\u0639\u0643\u0645",
+            "\ud83d\ude4f\ud83c\udffd\u2063\u2063\u2063",
+            "\u2063\u2063\u2063",
+            "Such",
+            "beautiful",
+            "mosque",
+            "!",
+            "\u2063\u2063\u2063",
+            "\u2063\u2063\u2063",
+            "\u2063\u2063\u2063",
+            "Since",
+            "founding",
+            "907",
+            "AD",
+            ",",
+            "an\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143600324961329152,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 19:22:19 +0000 2019",
+        "text": "Tamer Ashour mood is ON\ud83d\udde1\u2665\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Tamer Ashour mood is ON\ud83d\udde1\u2665\ufe0f",
+        "without_stowords": [
+            "Tamer",
+            "Ashour",
+            "mood",
+            "ON\ud83d\udde1\u2665\ufe0f"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143598738843348994,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 19:16:01 +0000 2019",
+        "text": "But the heart wants what it wants",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "But the heart wants what it wants",
+        "without_stowords": [
+            "But",
+            "heart",
+            "wants",
+            "wants"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143580856776368128,
+        "user": "omar_hamed1",
+        "user_location": "cairo , egypt",
+        "date": "Tue Jun 25 18:04:57 +0000 2019",
+        "text": "Just posted a photo @ Startup Haus Cairo https://t.co/zgBECzur2R",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05186,
+                31.24162
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zgBECzur2R",
+                "expanded_url": "https://www.instagram.com/p/BzJGOebpP3x/?igshid=m6nuyjzuch6l",
+                "display_url": "instagram.com/p/BzJGOebpP3x/\u2026",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Startup Haus Cairo",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Startup",
+            "Haus",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143578946744791042,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:57:22 +0000 2019",
+        "text": "My lovey students today! Thank you, Girls! \nRaqs of Course Festival!  \n#jadeeljabel #dancaarabe #dancadoventre\u2026 https://t.co/9LMNzZBcTF",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9LMNzZBcTF",
+                "expanded_url": "https://twitter.com/i/web/status/1143578946744791042",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "My lovey students today! Thank you, Girls! Raqs of Course Festival! #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "My",
+            "lovey",
+            "students",
+            "today",
+            "!",
+            "Thank",
+            ",",
+            "Girls",
+            "!",
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143578422985338882,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:55:17 +0000 2019",
+        "text": "My sister, my colleague,  my idol, the great and unique @soraiazaied1 (inspiring me for almoy30 years!) Raqs of Cou\u2026 https://t.co/0TEOzFzz1m",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0TEOzFzz1m",
+                "expanded_url": "https://twitter.com/i/web/status/1143578422985338882",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "soraiazaied1",
+                "name": "soraia zaied",
+                "id": 1128577021,
+                "id_str": "1128577021",
+                "indices": [
+                    56,
+                    69
+                ]
+            }
+        ],
+        "filtered_text": "My sister, my colleague, my idol, the great and unique (inspiring me for almoy30 years!) Raqs of Cou\u2026",
+        "without_stowords": [
+            "My",
+            "sister",
+            ",",
+            "colleague",
+            ",",
+            "idol",
+            ",",
+            "great",
+            "unique",
+            "(",
+            "inspiring",
+            "almoy30",
+            "years",
+            "!",
+            ")",
+            "Raqs",
+            "Cou\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143578052057882626,
+        "user": "omar_hamed1",
+        "user_location": "cairo , egypt",
+        "date": "Tue Jun 25 17:53:48 +0000 2019",
+        "text": "Apple fanboys will love it @ Downtown Cairo https://t.co/D7GFGVzClw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04706757,
+                31.23934507
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/D7GFGVzClw",
+                "expanded_url": "https://www.instagram.com/p/BzJE8rVlLLO/?igshid=18cb66gwivafu",
+                "display_url": "instagram.com/p/BzJE8rVlLLO/\u2026",
+                "indices": [
+                    44,
+                    67
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Apple fanboys will love it @ Downtown Cairo",
+        "without_stowords": [
+            "Apple",
+            "fanboys",
+            "love",
+            "@",
+            "Downtown",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143577690169065473,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:52:22 +0000 2019",
+        "text": "The wonderful azizacairo at Raqs of Course Festival! (OMG! \ud83d\ude0d)\n#jadeeljabel #dancaarabe #dancadoventre\u2026 https://t.co/DYMU0Oor7G",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DYMU0Oor7G",
+                "expanded_url": "https://twitter.com/i/web/status/1143577690169065473",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    103,
+                    126
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "The wonderful azizacairo at Raqs of Course Festival! (OMG! \ud83d\ude0d) #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "The",
+            "wonderful",
+            "azizacairo",
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "(",
+            "OMG",
+            "!",
+            "\ud83d\ude0d",
+            ")",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143577135879270400,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 17:50:10 +0000 2019",
+        "text": "Raqs of Course Festival! The great randakamelofficial \u2764\ufe0f \n#jadeeljabel #dancaarabe #dancadoventre #bellydancebrasil\u2026 https://t.co/sL8X16qidE",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sL8X16qidE",
+                "expanded_url": "https://twitter.com/i/web/status/1143577135879270400",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Raqs of Course Festival! The great randakamelofficial \u2764\ufe0f #jadeeljabel #dancaarabe #dancadoventre #bellydancebrasil\u2026",
+        "without_stowords": [
+            "Raqs",
+            "Course",
+            "Festival",
+            "!",
+            "The",
+            "great",
+            "randakamelofficial",
+            "\u2764\ufe0f",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre",
+            "#",
+            "bellydancebrasil\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143567095885631488,
+        "user": "ShukriSamir",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 17:10:16 +0000 2019",
+        "text": "silent mood",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "silent mood",
+        "without_stowords": [
+            "silent",
+            "mood"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143567010066042881,
+        "user": "IsmailKharbotly",
+        "user_location": "",
+        "date": "Tue Jun 25 17:09:56 +0000 2019",
+        "text": "\ud83d\udd25 Can love melt an icy heart \u2744? Tell me what you think \ud83d\udce3 @ Cairo, Egypt https://t.co/aRNOq8SHqt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aRNOq8SHqt",
+                "expanded_url": "https://www.instagram.com/p/BzI_7fBBtjo/?igshid=3sxk7y07m8uv",
+                "display_url": "instagram.com/p/BzI_7fBBtjo/\u2026",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83d\udd25 Can love melt an icy heart \u2744? Tell me what you think \ud83d\udce3 @ Cairo, Egypt",
+        "without_stowords": [
+            "\ud83d\udd25",
+            "Can",
+            "love",
+            "melt",
+            "icy",
+            "heart",
+            "\u2744",
+            "?",
+            "Tell",
+            "think",
+            "\ud83d\udce3",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143551932688191488,
+        "user": "queenfarida2006",
+        "user_location": "Nasr city",
+        "date": "Tue Jun 25 16:10:01 +0000 2019",
+        "text": "Hi gedo",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Hi gedo",
+        "without_stowords": [
+            "Hi",
+            "gedo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143550552950882304,
+        "user": "sluds5",
+        "user_location": "Super Mario 3D World",
+        "date": "Tue Jun 25 16:04:32 +0000 2019",
+        "text": "RT @MindCap: no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143546486334078976,
+        "user": "mhmadalm_",
+        "user_location": "P.E.Student\u26bd\ufe0f",
+        "date": "Tue Jun 25 15:48:23 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/t0iEt90hmP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/t0iEt90hmP",
+                "expanded_url": "https://www.swarmapp.com/c/78azcP3nWbV",
+                "display_url": "swarmapp.com/c/78azcP3nWbV",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143542112425861123,
+        "user": "swiborg4",
+        "user_location": "",
+        "date": "Tue Jun 25 15:31:00 +0000 2019",
+        "text": "RT @MindCap: no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143520509738586113,
+        "user": "almartinbcn",
+        "user_location": "London",
+        "date": "Tue Jun 25 14:05:09 +0000 2019",
+        "text": "Meeting room with views over the #Nile #Cairo #hotel #design #architecture #egypt #africa @ Cairo, Egypt https://t.co/4cI6i9xR93",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4cI6i9xR93",
+                "expanded_url": "https://www.instagram.com/p/BzIqxe7FYbe/?igshid=cer2tkac9hgm",
+                "display_url": "instagram.com/p/BzIqxe7FYbe/\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Meeting room with views over the #Nile #Cairo #hotel #design #architecture #egypt #africa @ Cairo, Egypt",
+        "without_stowords": [
+            "Meeting",
+            "room",
+            "views",
+            "#",
+            "Nile",
+            "#",
+            "Cairo",
+            "#",
+            "hotel",
+            "#",
+            "design",
+            "#",
+            "architecture",
+            "#",
+            "egypt",
+            "#",
+            "africa",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143502790070874112,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jun 25 12:54:45 +0000 2019",
+        "text": "I'm at Friends Center https://t.co/DqxMKB1ZPf",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07270948,
+                31.27918025
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DqxMKB1ZPf",
+                "expanded_url": "https://www.swarmapp.com/c/aqHWr5XDbqB",
+                "display_url": "swarmapp.com/c/aqHWr5XDbqB",
+                "indices": [
+                    22,
+                    45
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Friends Center",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Friends",
+            "Center"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143493027878625280,
+        "user": "Jacir_Hilmi",
+        "user_location": "Alexandria, Egypt",
+        "date": "Tue Jun 25 12:15:57 +0000 2019",
+        "text": "I very small visit to the capital does not mean skipping a smaller visit to The-Bro. @ Talaat Harb https://t.co/14QEmL2Kdd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04762592,
+                31.23863519
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/14QEmL2Kdd",
+                "expanded_url": "https://www.instagram.com/p/BzIeSPFhIho/?igshid=11gtha5eq99k4",
+                "display_url": "instagram.com/p/BzIeSPFhIho/\u2026",
+                "indices": [
+                    99,
+                    122
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I very small visit to the capital does not mean skipping a smaller visit to The-Bro. @ Talaat Harb",
+        "without_stowords": [
+            "I",
+            "small",
+            "visit",
+            "capital",
+            "mean",
+            "skipping",
+            "smaller",
+            "visit",
+            "The-Bro",
+            ".",
+            "@",
+            "Talaat",
+            "Harb"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143475544106946560,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 11:06:29 +0000 2019",
+        "text": "@GaidenHertuny get getted",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "GaidenHertuny",
+                "name": "GaidenHertuny",
+                "id": 415741865,
+                "id_str": "415741865",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "filtered_text": "get getted",
+        "without_stowords": [
+            "get",
+            "getted"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143468288317558786,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 10:37:39 +0000 2019",
+        "text": "With the \u201cLegend\u201d Mr. mogeddawi \nNo Festival Raqs of Course 2019\n\n#jadeeljabel #dancaarabe #dancadoventre\u2026 https://t.co/4IOg576bTT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4IOg576bTT",
+                "expanded_url": "https://twitter.com/i/web/status/1143468288317558786",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "With the \u201cLegend\u201d Mr. mogeddawi No Festival Raqs of Course 2019 #jadeeljabel #dancaarabe #dancadoventre\u2026",
+        "without_stowords": [
+            "With",
+            "\u201c",
+            "Legend",
+            "\u201d",
+            "Mr.",
+            "mogeddawi",
+            "No",
+            "Festival",
+            "Raqs",
+            "Course",
+            "2019",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe",
+            "#",
+            "dancadoventre\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143465143713579013,
+        "user": "shakeoffx",
+        "user_location": "Algeria",
+        "date": "Tue Jun 25 10:25:09 +0000 2019",
+        "text": "RT @MindCap: it's peanut butter jelly time",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : it's peanut butter jelly time",
+        "without_stowords": [
+            "RT",
+            ":",
+            "'s",
+            "peanut",
+            "butter",
+            "jelly",
+            "time"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143459837617025029,
+        "user": "leicacracker",
+        "user_location": "Brooklyn, NY",
+        "date": "Tue Jun 25 10:04:04 +0000 2019",
+        "text": "In Cairo about a week after the revolution ousted Mubarak. \n+\n+\n+\n+\n+\n#leica #streetphotography #filmphotography\u2026 https://t.co/VxABozgAND",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/VxABozgAND",
+                "expanded_url": "https://twitter.com/i/web/status/1143459837617025029",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "In Cairo about a week after the revolution ousted Mubarak. + + + + + #leica #streetphotography #filmphotography\u2026",
+        "without_stowords": [
+            "In",
+            "Cairo",
+            "week",
+            "revolution",
+            "ousted",
+            "Mubarak",
+            ".",
+            "+",
+            "+",
+            "+",
+            "+",
+            "+",
+            "#",
+            "leica",
+            "#",
+            "streetphotography",
+            "#",
+            "filmphotography\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143457113290747904,
+        "user": "DaREELDarkswe",
+        "user_location": "",
+        "date": "Tue Jun 25 09:53:14 +0000 2019",
+        "text": "RT @MindCap: Channel: \"Rescue TB\"\n-He's a guy who fakes animal rescue videos in order to torture the animals.\n-if you watch them you can se\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : Channel: \"Rescue TB\" -He's a guy who fakes animal rescue videos in order to torture the animals. -if you watch them you can se\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Channel",
+            ":",
+            "``",
+            "Rescue",
+            "TB",
+            "''",
+            "-He",
+            "'s",
+            "guy",
+            "fakes",
+            "animal",
+            "rescue",
+            "videos",
+            "order",
+            "torture",
+            "animals",
+            ".",
+            "-if",
+            "watch",
+            "se\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143452686928531456,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jun 25 09:35:39 +0000 2019",
+        "text": "I'm at Department Of Neurosurgery in Cairo https://t.co/9tlVIqcb5v",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06503,
+                31.28117
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9tlVIqcb5v",
+                "expanded_url": "https://www.swarmapp.com/c/1XJnLKnv3UM",
+                "display_url": "swarmapp.com/c/1XJnLKnv3UM",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at Department Of Neurosurgery in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Department",
+            "Of",
+            "Neurosurgery",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143445551712800768,
+        "user": "3amba55",
+        "user_location": "nasr city ",
+        "date": "Tue Jun 25 09:07:18 +0000 2019",
+        "text": "*         *    .           *     .   *      .   *\n    .              *   .    * .         .\n*         *    .    *\u2026 https://t.co/UG54QQ1gQm",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/UG54QQ1gQm",
+                "expanded_url": "https://twitter.com/i/web/status/1143445551712800768",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "* * . * . * . * . * . * . . * * . *\u2026",
+        "without_stowords": [
+            "*",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            "*",
+            ".",
+            ".",
+            "*",
+            "*",
+            ".",
+            "*\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143441414417575937,
+        "user": "pesto408",
+        "user_location": "SCP 106's Containment Cell",
+        "date": "Tue Jun 25 08:50:51 +0000 2019",
+        "text": "RT @MindCap: it's peanut butter jelly time",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : it's peanut butter jelly time",
+        "without_stowords": [
+            "RT",
+            ":",
+            "'s",
+            "peanut",
+            "butter",
+            "jelly",
+            "time"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143438908568625152,
+        "user": "mohammedqamer",
+        "user_location": "nasr city ",
+        "date": "Tue Jun 25 08:40:54 +0000 2019",
+        "text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddec in the #TotalAFCON2019 against DR Congo \ud83c\udde8\ud83c\udde9! Go Egypt! #EGYDRC #FootballTogether",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddec in the #TotalAFCON2019 against DR Congo \ud83c\udde8\ud83c\udde9! Go Egypt! #EGYDRC #FootballTogether",
+        "without_stowords": [
+            "I",
+            "cheer",
+            "#",
+            "Pharaohs",
+            "\ud83c\uddea\ud83c\uddec",
+            "#",
+            "TotalAFCON2019",
+            "DR",
+            "Congo",
+            "\ud83c\udde8\ud83c\udde9",
+            "!",
+            "Go",
+            "Egypt",
+            "!",
+            "#",
+            "EGYDRC",
+            "#",
+            "FootballTogether"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143438218660069378,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 08:38:10 +0000 2019",
+        "text": "it's peanut butter jelly time",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "it's peanut butter jelly time",
+        "without_stowords": [
+            "'s",
+            "peanut",
+            "butter",
+            "jelly",
+            "time"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143423690736115713,
+        "user": "SeifXero",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 07:40:26 +0000 2019",
+        "text": "@GronKy_ Gronk 1v1 me im cracked add xero55 on epic",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "GronKy_",
+                "name": "GronKy",
+                "id": 1594432027,
+                "id_str": "1594432027",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "filtered_text": "Gronk 1v1 me im cracked add xero55 on epic",
+        "without_stowords": [
+            "Gronk",
+            "1v1",
+            "im",
+            "cracked",
+            "add",
+            "xero55",
+            "epic"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143418777654063104,
+        "user": "TyPier_",
+        "user_location": "United States",
+        "date": "Tue Jun 25 07:20:54 +0000 2019",
+        "text": "RT @MindCap: He's been doing that for over a month now and it would be nice to report this bitch and stop his sick fetishes from being post\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : He's been doing that for over a month now and it would be nice to report this bitch and stop his sick fetishes from being post\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "He",
+            "'s",
+            "month",
+            "would",
+            "nice",
+            "report",
+            "bitch",
+            "stop",
+            "sick",
+            "fetishes",
+            "post\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143418761950593024,
+        "user": "TyPier_",
+        "user_location": "United States",
+        "date": "Tue Jun 25 07:20:51 +0000 2019",
+        "text": "RT @MindCap: Channel: \"Rescue TB\"\n-He's a guy who fakes animal rescue videos in order to torture the animals.\n-if you watch them you can se\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : Channel: \"Rescue TB\" -He's a guy who fakes animal rescue videos in order to torture the animals. -if you watch them you can se\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Channel",
+            ":",
+            "``",
+            "Rescue",
+            "TB",
+            "''",
+            "-He",
+            "'s",
+            "guy",
+            "fakes",
+            "animal",
+            "rescue",
+            "videos",
+            "order",
+            "torture",
+            "animals",
+            ".",
+            "-if",
+            "watch",
+            "se\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143416395083984896,
+        "user": "AdashioX",
+        "user_location": "Jaffa, Palestine",
+        "date": "Tue Jun 25 07:11:26 +0000 2019",
+        "text": "RT @MindCap: me when i     N U T https://t.co/dYHxI7vT3l",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : me when i N U T https://t.co/dYHxI7vT3l",
+        "without_stowords": [
+            "RT",
+            ":",
+            "N",
+            "U",
+            "T",
+            "https",
+            ":",
+            "//t.co/dYHxI7vT3l"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143407129967190019,
+        "user": "50_zv",
+        "user_location": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+        "date": "Tue Jun 25 06:34:37 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/1XQrbT11Xq",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/1XQrbT11Xq",
+                "expanded_url": "https://www.swarmapp.com/c/asVb5w2Mexm",
+                "display_url": "swarmapp.com/c/asVb5w2Mexm",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143393048275169281,
+        "user": "Kareem_rojo",
+        "user_location": "Nasr city",
+        "date": "Tue Jun 25 05:38:40 +0000 2019",
+        "text": "do me a favour and drop your album on 1/7 @djsnake",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "djsnake",
+                "name": "DJ SNAKE",
+                "id": 22317367,
+                "id_str": "22317367",
+                "indices": [
+                    42,
+                    50
+                ]
+            }
+        ],
+        "filtered_text": "do me a favour and drop your album on 1/7",
+        "without_stowords": [
+            "favour",
+            "drop",
+            "album",
+            "1/7"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143390956080771074,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 05:30:21 +0000 2019",
+        "text": "For a thousands Summer, I will wait for you\ud83c\udf3b https://t.co/TLdU2w9mmk",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/TLdU2w9mmk",
+                "expanded_url": "https://soundcloud.com/daliakhairi/i-will-wait-for-you-frank",
+                "display_url": "soundcloud.com/daliakhairi/i-\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "For a thousands Summer, I will wait for you\ud83c\udf3b",
+        "without_stowords": [
+            "For",
+            "thousands",
+            "Summer",
+            ",",
+            "I",
+            "wait",
+            "you\ud83c\udf3b"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143384958075047936,
+        "user": "Mazen00140758",
+        "user_location": "Nasr city",
+        "date": "Tue Jun 25 05:06:31 +0000 2019",
+        "text": "@MoSalah I am coming the match with Congo Dr because I love you and I want you to play a good game",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MoSalah",
+                "name": "Mohamed Salah",
+                "id": 2396677714,
+                "id_str": "2396677714",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "filtered_text": "I am coming the match with Congo Dr because I love you and I want you to play a good game",
+        "without_stowords": [
+            "I",
+            "coming",
+            "match",
+            "Congo",
+            "Dr",
+            "I",
+            "love",
+            "I",
+            "want",
+            "play",
+            "good",
+            "game"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143347223796813825,
+        "user": "HeshamHegazyOwn",
+        "user_location": "Nasr City ,Egypt",
+        "date": "Tue Jun 25 02:36:35 +0000 2019",
+        "text": "Really you \u2018re a source of Pride \ud83d\udc4c https://t.co/ESWIQZJJSo",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ESWIQZJJSo",
+                "expanded_url": "https://twitter.com/hend_nafea/status/1130436915784814592",
+                "display_url": "twitter.com/hend_nafea/sta\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Really you \u2018re a source of Pride \ud83d\udc4c",
+        "without_stowords": [
+            "Really",
+            "\u2018",
+            "source",
+            "Pride",
+            "\ud83d\udc4c"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143346174713188352,
+        "user": "moebrahiim",
+        "user_location": "Mansoura",
+        "date": "Tue Jun 25 02:32:25 +0000 2019",
+        "text": "RT @HeshamHegazyOwn: Relationship Situation: in love with Sansa \u2764\ufe0f https://t.co/WGpnjleFKW",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WGpnjleFKW",
+                "expanded_url": "https://twitter.com/moebrahiim/status/1141586130225246208",
+                "display_url": "twitter.com/moebrahiim/sta\u2026",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "HeshamHegazyOwn",
+                "name": "H",
+                "id": 739867909,
+                "id_str": "739867909",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "filtered_text": "RT : Relationship Situation: in love with Sansa \u2764\ufe0f",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Relationship",
+            "Situation",
+            ":",
+            "love",
+            "Sansa",
+            "\u2764\ufe0f"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143346158699520001,
+        "user": "202010_salma",
+        "user_location": "nasr city",
+        "date": "Tue Jun 25 02:32:21 +0000 2019",
+        "text": "Yaret https://t.co/9NTABO9nM4",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9NTABO9nM4",
+                "expanded_url": "https://twitter.com/AhmedVetaa/status/1143277989372866560",
+                "display_url": "twitter.com/AhmedVetaa/sta\u2026",
+                "indices": [
+                    6,
+                    29
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Yaret",
+        "without_stowords": [
+            "Yaret"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143344299209367552,
+        "user": "ab8y_",
+        "user_location": "Fort Gay, WV",
+        "date": "Tue Jun 25 02:24:57 +0000 2019",
+        "text": "RT @MindCap: no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143338278231433216,
+        "user": "jadeeljabel",
+        "user_location": "S\u00e3o Paulo - Brasil",
+        "date": "Tue Jun 25 02:01:02 +0000 2019",
+        "text": "This will be my class tomorrow at Raqs of Course Festival, 1:30 pm! Yallah! \ud83d\udcaa\ud83c\udffc\n#jadeeljabel #dancaarabe\u2026 https://t.co/QyzHxlwPlW",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/QyzHxlwPlW",
+                "expanded_url": "https://twitter.com/i/web/status/1143338278231433216",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "This will be my class tomorrow at Raqs of Course Festival, 1:30 pm! Yallah! \ud83d\udcaa\ud83c\udffc #jadeeljabel #dancaarabe\u2026",
+        "without_stowords": [
+            "This",
+            "class",
+            "tomorrow",
+            "Raqs",
+            "Course",
+            "Festival",
+            ",",
+            "1:30",
+            "pm",
+            "!",
+            "Yallah",
+            "!",
+            "\ud83d\udcaa\ud83c\udffc",
+            "#",
+            "jadeeljabel",
+            "#",
+            "dancaarabe\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143337063070273541,
+        "user": "HeshamHegazyOwn",
+        "user_location": "Nasr City ,Egypt",
+        "date": "Tue Jun 25 01:56:12 +0000 2019",
+        "text": "Crisis in all of that .. it\u2019s public and AL-Saud still operates with them ! https://t.co/nnbpfK5N0D",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nnbpfK5N0D",
+                "expanded_url": "https://twitter.com/ajplusarabi/status/1143145051129819142",
+                "display_url": "twitter.com/ajplusarabi/st\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Crisis in all of that .. it\u2019s public and AL-Saud still operates with them !",
+        "without_stowords": [
+            "Crisis",
+            "..",
+            "\u2019",
+            "public",
+            "AL-Saud",
+            "still",
+            "operates",
+            "!"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143334658094116866,
+        "user": "omar_farag98",
+        "user_location": "Nasr city",
+        "date": "Tue Jun 25 01:46:39 +0000 2019",
+        "text": "Damn bro, I wish you were still around to see how things changed quickly, share it with you. BTW, I miss you.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Damn bro, I wish you were still around to see how things changed quickly, share it with you. BTW, I miss you.",
+        "without_stowords": [
+            "Damn",
+            "bro",
+            ",",
+            "I",
+            "wish",
+            "still",
+            "around",
+            "see",
+            "things",
+            "changed",
+            "quickly",
+            ",",
+            "share",
+            ".",
+            "BTW",
+            ",",
+            "I",
+            "miss",
+            "."
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143330393975902210,
+        "user": "HeshamHegazyOwn",
+        "user_location": "Nasr City ,Egypt",
+        "date": "Tue Jun 25 01:29:42 +0000 2019",
+        "text": "Relationship Situation: in love with Sansa \u2764\ufe0f https://t.co/WGpnjleFKW",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WGpnjleFKW",
+                "expanded_url": "https://twitter.com/moebrahiim/status/1141586130225246208",
+                "display_url": "twitter.com/moebrahiim/sta\u2026",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Relationship Situation: in love with Sansa \u2764\ufe0f",
+        "without_stowords": [
+            "Relationship",
+            "Situation",
+            ":",
+            "love",
+            "Sansa",
+            "\u2764\ufe0f"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143327850843508737,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 01:19:36 +0000 2019",
+        "text": "@blaireswip cool and all but what the fuck",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "blaireswip",
+                "name": "Blaireswip~",
+                "id": 2462863525,
+                "id_str": "2462863525",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "cool and all but what the fuck",
+        "without_stowords": [
+            "cool",
+            "fuck"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143327617950597126,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 01:18:40 +0000 2019",
+        "text": "@TheDustam haha silly school is over!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "TheDustam",
+                "name": "dustam",
+                "id": 918182930605920256,
+                "id_str": "918182930605920256",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "filtered_text": "haha silly school is over!",
+        "without_stowords": [
+            "haha",
+            "silly",
+            "school",
+            "!"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143325365848432641,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 01:09:43 +0000 2019",
+        "text": "@pennubar chair needs to go back to the carpenter https://t.co/k9E6bqaq2U",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/k9E6bqaq2U",
+                "expanded_url": "https://twitter.com/demonlistgd/status/1143259801583050752",
+                "display_url": "twitter.com/demonlistgd/st\u2026",
+                "indices": [
+                    50,
+                    73
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "pennubar",
+                "name": "Pennutoh",
+                "id": 721778483681169408,
+                "id_str": "721778483681169408",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "filtered_text": "chair needs to go back to the carpenter",
+        "without_stowords": [
+            "chair",
+            "needs",
+            "go",
+            "back",
+            "carpenter"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143321748135391232,
+        "user": "SeifXero",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 00:55:21 +0000 2019",
+        "text": "@GronKy_ The most underrated ltm that i think that im the only one who loves it is the steady storm and i know most\u2026 https://t.co/Kz4JKxTtdJ",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Kz4JKxTtdJ",
+                "expanded_url": "https://twitter.com/i/web/status/1143321748135391232",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "GronKy_",
+                "name": "GronKy",
+                "id": 1594432027,
+                "id_str": "1594432027",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "filtered_text": "The most underrated ltm that i think that im the only one who loves it is the steady storm and i know most\u2026",
+        "without_stowords": [
+            "The",
+            "underrated",
+            "ltm",
+            "think",
+            "im",
+            "one",
+            "loves",
+            "steady",
+            "storm",
+            "know",
+            "most\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143321119388291074,
+        "user": "astrrll",
+        "user_location": "",
+        "date": "Tue Jun 25 00:52:51 +0000 2019",
+        "text": "RT @MindCap: no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143320489953320965,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 00:50:21 +0000 2019",
+        "text": "@technical49 yeah?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "technical49",
+                "name": "Technical",
+                "id": 755172373318496256,
+                "id_str": "755172373318496256",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "filtered_text": "yeah?",
+        "without_stowords": [
+            "yeah",
+            "?"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143318791302057984,
+        "user": "technical49",
+        "user_location": "",
+        "date": "Tue Jun 25 00:43:36 +0000 2019",
+        "text": "RT @MindCap: no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143316372182749184,
+        "user": "as305x__",
+        "user_location": "",
+        "date": "Tue Jun 25 00:33:59 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/FCu9B3O3NP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FCu9B3O3NP",
+                "expanded_url": "https://www.swarmapp.com/c/lgGFF92d9hJ",
+                "display_url": "swarmapp.com/c/lgGFF92d9hJ",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143314594078896131,
+        "user": "_lolwut7",
+        "user_location": "Cadrega City",
+        "date": "Tue Jun 25 00:26:55 +0000 2019",
+        "text": "RT @MindCap: no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "RT",
+            ":",
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143309486683238400,
+        "user": "zRyder_",
+        "user_location": "Antartica",
+        "date": "Tue Jun 25 00:06:37 +0000 2019",
+        "text": "RT @MindCap: Channel: \"Rescue TB\"\n-He's a guy who fakes animal rescue videos in order to torture the animals.\n-if you watch them you can se\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "filtered_text": "RT : Channel: \"Rescue TB\" -He's a guy who fakes animal rescue videos in order to torture the animals. -if you watch them you can se\u2026",
+        "without_stowords": [
+            "RT",
+            ":",
+            "Channel",
+            ":",
+            "``",
+            "Rescue",
+            "TB",
+            "''",
+            "-He",
+            "'s",
+            "guy",
+            "fakes",
+            "animal",
+            "rescue",
+            "videos",
+            "order",
+            "torture",
+            "animals",
+            ".",
+            "-if",
+            "watch",
+            "se\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1143309150333652992,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jun 25 00:05:17 +0000 2019",
+        "text": "no one:\n\ntechnical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "no one: technical when he's trying to express any emotion: https://t.co/32VAdPgDwx",
+        "without_stowords": [
+            "one",
+            ":",
+            "technical",
+            "'s",
+            "trying",
+            "express",
+            "emotion",
+            ":",
+            "https",
+            ":",
+            "//t.co/32VAdPgDwx"
+        ],
+        "region": "Abbaseya"
+    }
+]

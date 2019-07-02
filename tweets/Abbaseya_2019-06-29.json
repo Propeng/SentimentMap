@@ -1,0 +1,803 @@
+[
+    {
+        "id": 1145116074561736706,
+        "user": "MelonyMcGant",
+        "user_location": "New York City and The World",
+        "date": "Sat Jun 29 23:45:22 +0000 2019",
+        "text": "Joyfully Remembering #Cairo, #Egypt ...\nMelony Sailing the #nileriver River on a #Felluca!  What a Beautiful Blessi\u2026 https://t.co/eEmmzV8ojf",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/eEmmzV8ojf",
+                "expanded_url": "https://twitter.com/i/web/status/1145116074561736706",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Joyfully Remembering #Cairo, #Egypt ... Melony Sailing the #nileriver River on a #Felluca! What a Beautiful Blessi\u2026",
+        "without_stowords": [
+            "Joyfully",
+            "Remembering",
+            "#",
+            "Cairo",
+            ",",
+            "#",
+            "Egypt",
+            "...",
+            "Melony",
+            "Sailing",
+            "#",
+            "nileriver",
+            "River",
+            "#",
+            "Felluca",
+            "!",
+            "What",
+            "Beautiful",
+            "Blessi\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145115408711737344,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Sat Jun 29 23:42:43 +0000 2019",
+        "text": "I hate to go with the stream\nBetter to create my own style\ud83e\udd19\ud83c\udffc",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "I hate to go with the stream Better to create my own style\ud83e\udd19\ud83c\udffc",
+        "without_stowords": [
+            "I",
+            "hate",
+            "go",
+            "stream",
+            "Better",
+            "create",
+            "style\ud83e\udd19\ud83c\udffc"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145108498285506560,
+        "user": "AlAhmad501",
+        "user_location": "Qurtoba-K'290",
+        "date": "Sat Jun 29 23:15:15 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/xgcgs5VTGx",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/xgcgs5VTGx",
+                "expanded_url": "https://www.swarmapp.com/c/hl3C788uhsn",
+                "display_url": "swarmapp.com/c/hl3C788uhsn",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145107726818828289,
+        "user": "SamaHesham3",
+        "user_location": "Nasr City",
+        "date": "Sat Jun 29 23:12:11 +0000 2019",
+        "text": "Always and forever and until forever ends.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "Always and forever and until forever ends.",
+        "without_stowords": [
+            "Always",
+            "forever",
+            "forever",
+            "ends",
+            "."
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145104478879830016,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Sat Jun 29 22:59:17 +0000 2019",
+        "text": "I LOVED IT!\u2665\ufe0f https://t.co/0K6XMDEQQt",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0K6XMDEQQt",
+                "expanded_url": "https://twitter.com/ane_jane/status/1144459334497132547",
+                "display_url": "twitter.com/ane_jane/statu\u2026",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I LOVED IT!\u2665\ufe0f",
+        "without_stowords": [
+            "I",
+            "LOVED",
+            "IT",
+            "!",
+            "\u2665\ufe0f"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145104042370224128,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Sat Jun 29 22:57:33 +0000 2019",
+        "text": "You gave me forever within number of days :\u2019)",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "You gave me forever within number of days :\u2019)",
+        "without_stowords": [
+            "You",
+            "gave",
+            "forever",
+            "within",
+            "number",
+            "days",
+            ":",
+            "\u2019",
+            ")"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145102707902025728,
+        "user": "AlAhmad501",
+        "user_location": "Qurtoba-K'290",
+        "date": "Sat Jun 29 22:52:15 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/jvE7O53QxR",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/jvE7O53QxR",
+                "expanded_url": "https://www.swarmapp.com/c/2PRfL9zl9iP",
+                "display_url": "swarmapp.com/c/2PRfL9zl9iP",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145095093113802753,
+        "user": "af_alameer",
+        "user_location": "CAI | LDN",
+        "date": "Sat Jun 29 22:21:59 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo w/ @alsaeedtm https://t.co/6XVfaEskZc",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6XVfaEskZc",
+                "expanded_url": "https://www.swarmapp.com/c/1pMNFB54wiM",
+                "display_url": "swarmapp.com/c/1pMNFB54wiM",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AlsaeedTM",
+                "name": "\u0637\u0644\u0627\u0644 \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u0651\u0639\u064a\u062f",
+                "id": 268752701,
+                "id_str": "268752701",
+                "indices": [
+                    35,
+                    45
+                ]
+            }
+        ],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            "w/"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145092146703286283,
+        "user": "F7Q8_",
+        "user_location": "",
+        "date": "Sat Jun 29 22:10:17 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo w/ @ah_al3nzy https://t.co/gRqPhYjpHJ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/gRqPhYjpHJ",
+                "expanded_url": "https://www.swarmapp.com/c/hNumry5w8SY",
+                "display_url": "swarmapp.com/c/hNumry5w8SY",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            },
+            {
+                "screen_name": "ah_al3nzy",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0639\u0646\u0632\u064a \ud83d\udc68\ud83c\udffd\u200d\u2695\ufe0f",
+                "id": 3891765132,
+                "id_str": "3891765132",
+                "indices": [
+                    56,
+                    66
+                ]
+            }
+        ],
+        "filtered_text": "I'm at Fairmont Nile City - in Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "Fairmont",
+            "Nile",
+            "City",
+            "-",
+            "Cairo",
+            "w/"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145091274111717377,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Sat Jun 29 22:06:49 +0000 2019",
+        "text": "temperature down 34\u00b0C -&gt; 28\u00b0C\nhumidity up 36% -&gt; 58%\nwind 5kmh -&gt; 3kmh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "filtered_text": "temperature down 34\u00b0C -&gt; 28\u00b0C humidity up 36% -&gt; 58% wind 5kmh -&gt; 3kmh",
+        "without_stowords": [
+            "temperature",
+            "34\u00b0C",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "28\u00b0C",
+            "humidity",
+            "36",
+            "%",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "58",
+            "%",
+            "wind",
+            "5kmh",
+            "-",
+            "&",
+            "gt",
+            ";",
+            "3kmh"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145091265257779200,
+        "user": "AldhawiNouf",
+        "user_location": "",
+        "date": "Sat Jun 29 22:06:47 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo w/ @dalalaldhawi12 @deemaaldhawi https://t.co/0npHAUx22n",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0npHAUx22n",
+                "expanded_url": "https://www.swarmapp.com/c/2iKMbHsTugy",
+                "display_url": "swarmapp.com/c/2iKMbHsTugy",
+                "indices": [
+                    65,
+                    88
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Dalalaldhawi12",
+                "name": "\u062f\u0644\u0627\u0644 \u0627\u0644\u0636\u0627\u0648\u064a\ud83c\uddf8\ud83c\udde6",
+                "id": 754455911368908800,
+                "id_str": "754455911368908800",
+                "indices": [
+                    35,
+                    50
+                ]
+            },
+            {
+                "screen_name": "DeemaAlDhawi",
+                "name": "Deema AlDhawi",
+                "id": 354635439,
+                "id_str": "354635439",
+                "indices": [
+                    51,
+                    64
+                ]
+            }
+        ],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo w/",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            "w/"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145082797603905536,
+        "user": "blueComplains",
+        "user_location": "owo land",
+        "date": "Sat Jun 29 21:33:08 +0000 2019",
+        "text": "RT @MindCap: @01Jacobward you just turned asian basically",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "01Jacobward",
+                "name": "fuckboy #1",
+                "id": 996431879724257280,
+                "id_str": "996431879724257280",
+                "indices": [
+                    13,
+                    25
+                ]
+            }
+        ],
+        "filtered_text": "RT : you just turned asian basically",
+        "without_stowords": [
+            "RT",
+            ":",
+            "turned",
+            "asian",
+            "basically"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145082539587133441,
+        "user": "3mo_ramooo",
+        "user_location": "Deep Shit",
+        "date": "Sat Jun 29 21:32:06 +0000 2019",
+        "text": "Shadow being... @ Cairo, Egypt https://t.co/OKy8yDY8JR",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/OKy8yDY8JR",
+                "expanded_url": "https://www.instagram.com/p/BzTxHKWht0x/?igshid=2e3v0a4jyi9x",
+                "display_url": "instagram.com/p/BzTxHKWht0x/\u2026",
+                "indices": [
+                    31,
+                    54
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Shadow being... @ Cairo, Egypt",
+        "without_stowords": [
+            "Shadow",
+            "...",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145081863955976192,
+        "user": "omarraaffat",
+        "user_location": "Nasr City",
+        "date": "Sat Jun 29 21:29:25 +0000 2019",
+        "text": "@_itsHan_ howa who gave you the right enek teshtmy omo asasn we teshtmy elnas deh? mesh 3agbek elbalad emshy menha shofty sahla ezay?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_itsHan_",
+                "name": "Mama Hana",
+                "id": 411199806,
+                "id_str": "411199806",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "filtered_text": "howa who gave you the right enek teshtmy omo asasn we teshtmy elnas deh? mesh 3agbek elbalad emshy menha shofty sahla ezay?",
+        "without_stowords": [
+            "howa",
+            "gave",
+            "right",
+            "enek",
+            "teshtmy",
+            "omo",
+            "asasn",
+            "teshtmy",
+            "elnas",
+            "deh",
+            "?",
+            "mesh",
+            "3agbek",
+            "elbalad",
+            "emshy",
+            "menha",
+            "shofty",
+            "sahla",
+            "ezay",
+            "?"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145076895601631233,
+        "user": "omar_farag98",
+        "user_location": "Nasr city",
+        "date": "Sat Jun 29 21:09:41 +0000 2019",
+        "text": "But you throw me into the deep end!\nExpect me to know how to swim?\nAnd I put my faith in someone else ..\n'Cause I w\u2026 https://t.co/683gnc7jMi",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/683gnc7jMi",
+                "expanded_url": "https://twitter.com/i/web/status/1145076895601631233",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "But you throw me into the deep end! Expect me to know how to swim? And I put my faith in someone else .. 'Cause I w\u2026",
+        "without_stowords": [
+            "But",
+            "throw",
+            "deep",
+            "end",
+            "!",
+            "Expect",
+            "know",
+            "swim",
+            "?",
+            "And",
+            "I",
+            "put",
+            "faith",
+            "someone",
+            "else",
+            "..",
+            "'Cause",
+            "I",
+            "w\u2026"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145076834738024455,
+        "user": "dweenAN18",
+        "user_location": "Al Khobar, Alhasa.",
+        "date": "Sat Jun 29 21:09:26 +0000 2019",
+        "text": "\u0631\u0648\u0639\u0647 (@ The Roof in Bulaq, Cairo) https://t.co/ie7rbKQDwm",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ie7rbKQDwm",
+                "expanded_url": "https://www.swarmapp.com/c/2pqc1mFEXNw",
+                "display_url": "swarmapp.com/c/2pqc1mFEXNw",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\u0631\u0648\u0639\u0647 (@ The Roof in Bulaq, Cairo)",
+        "without_stowords": [
+            "\u0631\u0648\u0639\u0647",
+            "(",
+            "@",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo",
+            ")"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145076174202318849,
+        "user": "Berna_Basket",
+        "user_location": "Mar\u00eda de Huerva",
+        "date": "Sat Jun 29 21:06:49 +0000 2019",
+        "text": "\ud83e\uddea\ud83d\udca5\ud83d\udd1a @ Last One https://t.co/k2rEau3tHk",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/k2rEau3tHk",
+                "expanded_url": "https://www.instagram.com/p/BzTuNhiID65/?igshid=bxlxbflf5j4b",
+                "display_url": "instagram.com/p/BzTuNhiID65/\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "\ud83e\uddea\ud83d\udca5\ud83d\udd1a @ Last One",
+        "without_stowords": [
+            "\ud83e\uddea\ud83d\udca5\ud83d\udd1a",
+            "@",
+            "Last",
+            "One"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145071667061972993,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Sat Jun 29 20:48:54 +0000 2019",
+        "text": "@dianaakhater Wait they send you emails if you're rejected? https://t.co/DinXAvdvdj",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "dianaakhater",
+                "name": "Diana",
+                "id": 798268261158813697,
+                "id_str": "798268261158813697",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "filtered_text": "Wait they send you emails if you're rejected? https://t.co/DinXAvdvdj",
+        "without_stowords": [
+            "Wait",
+            "send",
+            "emails",
+            "'re",
+            "rejected",
+            "?",
+            "https",
+            ":",
+            "//t.co/DinXAvdvdj"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145066817708277760,
+        "user": "LinahFaa",
+        "user_location": "KSA",
+        "date": "Sat Jun 29 20:29:38 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/zSvHKOQNIt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zSvHKOQNIt",
+                "expanded_url": "https://www.instagram.com/p/BzTp9pwhfCN/?igshid=8jpjo46hxp09",
+                "display_url": "instagram.com/p/BzTp9pwhfCN/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "Just posted a photo @ Cairo, Egypt",
+        "without_stowords": [
+            "Just",
+            "posted",
+            "photo",
+            "@",
+            "Cairo",
+            ",",
+            "Egypt"
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1145060269170864128,
+        "user": "kadebostanyy",
+        "user_location": "",
+        "date": "Sat Jun 29 20:03:37 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/6lbAxisufl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6lbAxisufl",
+                "expanded_url": "https://www.swarmapp.com/c/5R6mjOok7H3",
+                "display_url": "swarmapp.com/c/5R6mjOok7H3",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "filtered_text": "I'm at The Roof in Bulaq, Cairo",
+        "without_stowords": [
+            "I",
+            "'m",
+            "The",
+            "Roof",
+            "Bulaq",
+            ",",
+            "Cairo"
+        ],
+        "region": "Abbaseya"
+    }
+]
