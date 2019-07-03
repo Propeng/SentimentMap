@@ -4,7 +4,7 @@ from nltk.tokenize import word_tokenize
 from contractions import contractions
 
 def filter_tweet(tweet):
-    text = tweet['text']
+    text = tweet['filtered_text']
     for item in tweet['mentions'] + tweet['urls']:
         start = item['indices'][0]
         end = item['indices'][1]
