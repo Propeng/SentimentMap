@@ -9,49 +9,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "I H A T E S U M M E R",
-        "without_stowords": [
-            "I",
-            "H",
-            "A",
-            "T",
-            "E",
-            "S",
-            "U",
-            "M",
-            "M",
-            "E",
-            "R"
-        ],
-        "region": "Heliopolis"
-    },
-    {
-        "id": 1144031140392517633,
-        "user": "walidmadkour95",
-        "user_location": "Heliopolis, Egypt",
-        "date": "Wed Jun 26 23:54:13 +0000 2019",
-        "text": "Please help her #help https://t.co/rvPEnY0PWI",
-        "geo": null,
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/rvPEnY0PWI",
-                "expanded_url": "https://twitter.com/__1Buttercup__/status/1143959924470407168",
-                "display_url": "twitter.com/__1Buttercup__\u2026",
-                "indices": [
-                    22,
-                    45
-                ]
-            }
-        ],
-        "mentions": [],
-        "filtered_text": "Please help her #help",
-        "without_stowords": [
-            "Please",
-            "help",
-            "#",
-            "help"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -75,14 +32,6 @@
                 ]
             }
         ],
-        "filtered_text": "Yk bro it really be like that sometimes",
-        "without_stowords": [
-            "Yk",
-            "bro",
-            "really",
-            "like",
-            "sometimes"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -105,16 +54,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "What an assist from trezeguet too. #JustSauce \ud83d\udd25\ud83d\udd25",
-        "without_stowords": [
-            "What",
-            "assist",
-            "trezeguet",
-            ".",
-            "#",
-            "JustSauce",
-            "\ud83d\udd25\ud83d\udd25"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -143,13 +82,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Home \u2665",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Home",
-            "\u2665"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -162,25 +94,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "The Godfather: Part III (1990) dir. Francis Ford Coppola https://t.co/OXMBspX4RK",
-        "without_stowords": [
-            "The",
-            "Godfather",
-            ":",
-            "Part",
-            "III",
-            "(",
-            "1990",
-            ")",
-            "dir",
-            ".",
-            "Francis",
-            "Ford",
-            "Coppola",
-            "https",
-            ":",
-            "//t.co/OXMBspX4RK"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -193,18 +106,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "You are the better part of every bit of beating heart that I have.",
-        "without_stowords": [
-            "You",
-            "better",
-            "part",
-            "every",
-            "bit",
-            "beating",
-            "heart",
-            "I",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -217,16 +118,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "I saw the part of you that only when you're older you will see too.",
-        "without_stowords": [
-            "I",
-            "saw",
-            "part",
-            "'re",
-            "older",
-            "see",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -255,18 +146,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\ud83c\udfc6Congratulations to #Egypt \ud83c\uddea\ud83c\uddec# @ Cairo International Stadium",
-        "without_stowords": [
-            "\ud83c\udfc6Congratulations",
-            "#",
-            "Egypt",
-            "\ud83c\uddea\ud83c\uddec",
-            "#",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -300,14 +179,6 @@
                 ]
             }
         ],
-        "filtered_text": "dont ruin the epic moment soulax",
-        "without_stowords": [
-            "dont",
-            "ruin",
-            "epic",
-            "moment",
-            "soulax"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -330,13 +201,6 @@
                     9
                 ]
             }
-        ],
-        "filtered_text": "why are you charging up your swear words?",
-        "without_stowords": [
-            "charging",
-            "swear",
-            "words",
-            "?"
         ],
         "region": "Heliopolis"
     },
@@ -371,16 +235,6 @@
                 ]
             }
         ],
-        "filtered_text": "this looks like something alkali would make ngl",
-        "without_stowords": [
-            "looks",
-            "like",
-            "something",
-            "alkali",
-            "would",
-            "make",
-            "ngl"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -414,11 +268,6 @@
                 ]
             }
         ],
-        "filtered_text": "thanks obama",
-        "without_stowords": [
-            "thanks",
-            "obama"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -441,15 +290,6 @@
                     13
                 ]
             }
-        ],
-        "filtered_text": "RT : one real person is enough",
-        "without_stowords": [
-            "RT",
-            ":",
-            "one",
-            "real",
-            "person",
-            "enough"
         ],
         "region": "Heliopolis"
     },
@@ -474,15 +314,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : one real person is enough",
-        "without_stowords": [
-            "RT",
-            ":",
-            "one",
-            "real",
-            "person",
-            "enough"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -505,15 +336,6 @@
                     13
                 ]
             }
-        ],
-        "filtered_text": "RT : one real person is enough",
-        "without_stowords": [
-            "RT",
-            ":",
-            "one",
-            "real",
-            "person",
-            "enough"
         ],
         "region": "Heliopolis"
     },
@@ -538,29 +360,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : 13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Update 1.4 30\u2026",
-        "without_stowords": [
-            "RT",
-            ":",
-            "13.8.2013",
-            "Geometry",
-            "Dash",
-            "released",
-            "!",
-            "10.9.2013",
-            "Update",
-            "1.1",
-            "17.10.2013",
-            "Update",
-            "1.2",
-            "20.11.2013",
-            "Update",
-            "1.3",
-            "26.12.2013",
-            "Update",
-            "1.4",
-            "30\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -583,25 +382,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "13.8.2013 Geometry Dash is released! 10.9.2013 Update 1.1 17.10.2013 Update 1.2 20.11.2013 Update 1.3 26.12.2013 Up\u2026",
-        "without_stowords": [
-            "13.8.2013",
-            "Geometry",
-            "Dash",
-            "released",
-            "!",
-            "10.9.2013",
-            "Update",
-            "1.1",
-            "17.10.2013",
-            "Update",
-            "1.2",
-            "20.11.2013",
-            "Update",
-            "1.3",
-            "26.12.2013",
-            "Up\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -624,10 +404,6 @@
                     13
                 ]
             }
-        ],
-        "filtered_text": "same tbh",
-        "without_stowords": [
-            "tbh"
         ],
         "region": "Heliopolis"
     },
@@ -657,16 +433,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "To be continued \ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec @ Cairo International Stadium",
-        "without_stowords": [
-            "To",
-            "continued",
-            "\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -679,27 +445,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "I cheer for the #Pharaohs \ud83c\uddea\ud83c\uddec in the #TotalAFCON2019 against DR Congo \ud83c\udde8\ud83c\udde9! Go Egypt! #EGYDRC #FootballTogether",
-        "without_stowords": [
-            "I",
-            "cheer",
-            "#",
-            "Pharaohs",
-            "\ud83c\uddea\ud83c\uddec",
-            "#",
-            "TotalAFCON2019",
-            "DR",
-            "Congo",
-            "\ud83c\udde8\ud83c\udde9",
-            "!",
-            "Go",
-            "Egypt",
-            "!",
-            "#",
-            "EGYDRC",
-            "#",
-            "FootballTogether"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -712,10 +457,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "GOOOOOOAAAAAAAAAAAL",
-        "without_stowords": [
-            "GOOOOOOAAAAAAAAAAAL"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -758,11 +499,6 @@
                     35
                 ]
             }
-        ],
-        "filtered_text": "everybody sucks",
-        "without_stowords": [
-            "everybody",
-            "sucks"
         ],
         "region": "Heliopolis"
     },
@@ -807,16 +543,6 @@
                 ]
             }
         ],
-        "filtered_text": "this reminds me of the getting robbed? just say no. meme",
-        "without_stowords": [
-            "reminds",
-            "getting",
-            "robbed",
-            "?",
-            "say",
-            ".",
-            "meme"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -845,16 +571,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Tivoli Plaza in Heliopolis, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Tivoli",
-            "Plaza",
-            "Heliopolis",
-            ",",
-            "Cairo"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -883,17 +599,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Mazooony \ud83d\ude0d mama menna \ud83d\ude02\ud83d\ude02 @ Giggles academy",
-        "without_stowords": [
-            "Mazooony",
-            "\ud83d\ude0d",
-            "mama",
-            "menna",
-            "\ud83d\ude02\ud83d\ude02",
-            "@",
-            "Giggles",
-            "academy"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -933,14 +638,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at in Heliopolis, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Heliopolis",
-            ",",
-            "Cairo"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -974,15 +671,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : funny. did laugh.",
-        "without_stowords": [
-            "RT",
-            ":",
-            "funny",
-            ".",
-            "laugh",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1006,13 +694,6 @@
                 ]
             }
         ],
-        "filtered_text": "funny. did laugh.",
-        "without_stowords": [
-            "funny",
-            ".",
-            "laugh",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1025,12 +706,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "You don't own me ..",
-        "without_stowords": [
-            "You",
-            "n't",
-            ".."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1054,15 +729,6 @@
                 ]
             }
         ],
-        "filtered_text": "Gimme that -chris brown, lil wayne",
-        "without_stowords": [
-            "Gim",
-            "-chris",
-            "brown",
-            ",",
-            "lil",
-            "wayne"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1075,16 +741,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Now ... I\u2019m officially a graduate \ud83c\udf93\u2764\ufe0f\ud83d\udc83\ud83d\ude09",
-        "without_stowords": [
-            "Now",
-            "...",
-            "I",
-            "\u2019",
-            "officially",
-            "graduate",
-            "\ud83c\udf93\u2764\ufe0f\ud83d\udc83\ud83d\ude09"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1108,15 +764,6 @@
                 ]
             }
         ],
-        "filtered_text": "What if it was sent to her without HER consent?",
-        "without_stowords": [
-            "What",
-            "sent",
-            "without",
-            "HER",
-            "consent",
-            "?"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1139,24 +786,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Sexual harassment isnt something that happens coincidentally. Its a choice and theres a pattern. A sexual predator\u2026",
-        "without_stowords": [
-            "Sexual",
-            "harassment",
-            "isnt",
-            "something",
-            "happens",
-            "coincidentally",
-            ".",
-            "Its",
-            "choice",
-            "theres",
-            "pattern",
-            ".",
-            "A",
-            "sexual",
-            "predator\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1179,11 +808,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\ud83d\ude02 warda\ud83d\ude02",
-        "without_stowords": [
-            "\ud83d\ude02",
-            "warda\ud83d\ude02"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1206,22 +830,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "It sickens me to my fucking core that people, especially women are making excuses for him or believe that whats hap\u2026",
-        "without_stowords": [
-            "It",
-            "sickens",
-            "fucking",
-            "core",
-            "people",
-            ",",
-            "especially",
-            "women",
-            "making",
-            "excuses",
-            "believe",
-            "whats",
-            "hap\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1234,10 +842,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Aspany99",
-        "without_stowords": [
-            "Aspany99"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1260,12 +864,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Ask me anything!",
-        "without_stowords": [
-            "Ask",
-            "anything",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1294,16 +892,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo International Stadium",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1337,16 +925,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Every time i see my crush \u261d\ud83c\udffb\ud83d\ude02",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Every",
-            "time",
-            "see",
-            "crush",
-            "\u261d\ud83c\udffb\ud83d\ude02"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1375,16 +953,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a video @ Cairo International Stadium",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "video",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1413,16 +981,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo International Stadium",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1435,18 +993,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "TIME RIDE TORNADO HIDE USA LAND BY ONCE \ud83c\udff4\ud83d\udd3a\u261b\u267c",
-        "without_stowords": [
-            "TIME",
-            "RIDE",
-            "TORNADO",
-            "HIDE",
-            "USA",
-            "LAND",
-            "BY",
-            "ONCE",
-            "\ud83c\udff4\ud83d\udd3a\u261b\u267c"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1469,28 +1015,6 @@
                     16
                 ]
             }
-        ],
-        "filtered_text": "RT : Anyone noticing massive battery drain after chimera ios 12 ? It shows that mobile.lockdown is causing that. There\u2019s worka\u2026",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Anyone",
-            "noticing",
-            "massive",
-            "battery",
-            "drain",
-            "chimera",
-            "ios",
-            "12",
-            "?",
-            "It",
-            "shows",
-            "mobile.lockdown",
-            "causing",
-            ".",
-            "There",
-            "\u2019",
-            "worka\u2026"
         ],
         "region": "Heliopolis"
     },
@@ -1525,12 +1049,6 @@
                 ]
             }
         ],
-        "filtered_text": "as old as my hatred for anime*",
-        "without_stowords": [
-            "old",
-            "hatred",
-            "anime*"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1564,12 +1082,6 @@
                 ]
             }
         ],
-        "filtered_text": "no this is as old as his love for anime",
-        "without_stowords": [
-            "old",
-            "love",
-            "anime"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1598,23 +1110,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "21.06.2019 #Show #operations and #technical standing by, minutes before the big bang that was the #OpeningCeremony\u2026",
-        "without_stowords": [
-            "21.06.2019",
-            "#",
-            "Show",
-            "#",
-            "operations",
-            "#",
-            "technical",
-            "standing",
-            ",",
-            "minutes",
-            "big",
-            "bang",
-            "#",
-            "OpeningCeremony\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1638,10 +1133,6 @@
                 ]
             }
         ],
-        "filtered_text": "is he nutting",
-        "without_stowords": [
-            "nutting"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1654,18 +1145,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "John wick is just high octane action. I love it!",
-        "without_stowords": [
-            "John",
-            "wick",
-            "high",
-            "octane",
-            "action",
-            ".",
-            "I",
-            "love",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1689,13 +1168,6 @@
                 ]
             }
         ],
-        "filtered_text": "We live in a sick society",
-        "without_stowords": [
-            "We",
-            "live",
-            "sick",
-            "society"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1718,26 +1190,6 @@
                     14
                 ]
             }
-        ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
         ],
         "region": "Heliopolis"
     },
@@ -1772,13 +1224,6 @@
                 ]
             }
         ],
-        "filtered_text": "no, but my tweet would be accurate by then",
-        "without_stowords": [
-            ",",
-            "tweet",
-            "would",
-            "accurate"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1801,26 +1246,6 @@
                     14
                 ]
             }
-        ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
         ],
         "region": "Heliopolis"
     },
@@ -1845,15 +1270,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : one real person is enough",
-        "without_stowords": [
-            "RT",
-            ":",
-            "one",
-            "real",
-            "person",
-            "enough"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1876,26 +1292,6 @@
                     14
                 ]
             }
-        ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
         ],
         "region": "Heliopolis"
     },
@@ -1920,26 +1316,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1962,16 +1338,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Day 782: Chemtrail https://t.co/Kn6OaO0a6N",
-        "without_stowords": [
-            "Day",
-            "782",
-            ":",
-            "Chemtrail",
-            "https",
-            ":",
-            "//t.co/Kn6OaO0a6N"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1994,26 +1360,6 @@
                     14
                 ]
             }
-        ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
         ],
         "region": "Heliopolis"
     },
@@ -2038,26 +1384,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2080,13 +1406,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "The Beatles Greatest Hits",
-        "without_stowords": [
-            "The",
-            "Beatles",
-            "Greatest",
-            "Hits"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2099,14 +1418,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Dont ever trust a girl \ud83d\ude02\ud83d\ude02",
-        "without_stowords": [
-            "Dont",
-            "ever",
-            "trust",
-            "girl",
-            "\ud83d\ude02\ud83d\ude02"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2129,21 +1440,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "And gonna to stay best series ever released with awesome variety of characters \u2764\ufe0f\u2764\ufe0f",
-        "without_stowords": [
-            "And",
-            "gon",
-            "na",
-            "stay",
-            "best",
-            "series",
-            "ever",
-            "released",
-            "awesome",
-            "variety",
-            "characters",
-            "\u2764\ufe0f\u2764\ufe0f"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2177,13 +1473,6 @@
                 ]
             }
         ],
-        "filtered_text": "God save Mauritania \ud83e\udd32",
-        "without_stowords": [
-            "God",
-            "save",
-            "Mauritania",
-            "\ud83e\udd32"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2207,11 +1496,6 @@
                 ]
             }
         ],
-        "filtered_text": "time to piss you off then",
-        "without_stowords": [
-            "time",
-            "piss"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2234,18 +1518,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Hotel california Inta omri THE AB BROTHERS Mashup remix",
-        "without_stowords": [
-            "Hotel",
-            "california",
-            "Inta",
-            "omri",
-            "THE",
-            "AB",
-            "BROTHERS",
-            "Mashup",
-            "remix"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2279,13 +1551,6 @@
                 ]
             }
         ],
-        "filtered_text": "The best ever in the world",
-        "without_stowords": [
-            "The",
-            "best",
-            "ever",
-            "world"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2314,15 +1579,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\u2708\ufe0f\u2708\ufe0f \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d @ Cairo International Airport",
-        "without_stowords": [
-            "\u2708\ufe0f\u2708\ufe0f",
-            "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
-            "@",
-            "Cairo",
-            "International",
-            "Airport"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2345,26 +1601,6 @@
                     14
                 ]
             }
-        ],
-        "filtered_text": "RT : U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "RT",
-            ":",
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
         ],
         "region": "Heliopolis"
     },
@@ -2389,15 +1625,6 @@
                 ]
             }
         ],
-        "filtered_text": "A lot of people would say scorpio",
-        "without_stowords": [
-            "A",
-            "lot",
-            "people",
-            "would",
-            "say",
-            "scorpio"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2410,24 +1637,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "U show me, I show u.. Fa Haa\ud83d\udca6 #\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629 #\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d https://t.co/sZw12cZ19D",
-        "without_stowords": [
-            "U",
-            "show",
-            ",",
-            "I",
-            "show",
-            "u..",
-            "Fa",
-            "Haa\ud83d\udca6",
-            "#",
-            "\u0639\u0645\u0631\u0648_\u0648\u0631\u062f\u0629",
-            "#",
-            "\u0645\u0644\u0648\u0643_\u0627\u0644\u0647\u0627\u0634_\u0648\u0641\u0648\u0644\u0648\u0631\u0632_\u0644\u0644\u0635\u0628\u062d",
-            "https",
-            ":",
-            "//t.co/sZw12cZ19D"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2451,15 +1660,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : why is pennutoh sending me gay porn",
-        "without_stowords": [
-            "RT",
-            ":",
-            "pennutoh",
-            "sending",
-            "gay",
-            "porn"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2482,13 +1682,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "There is justice!!",
-        "without_stowords": [
-            "There",
-            "justice",
-            "!",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2501,13 +1694,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "why is pennutoh sending me gay porn",
-        "without_stowords": [
-            "pennutoh",
-            "sending",
-            "gay",
-            "porn"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2520,11 +1706,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Go toilet",
-        "without_stowords": [
-            "Go",
-            "toilet"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2548,15 +1729,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : kpop stans reproduce asexually",
-        "without_stowords": [
-            "RT",
-            ":",
-            "kpop",
-            "stans",
-            "reproduce",
-            "asexually"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2579,21 +1751,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Tap the link and return to the battlefield! Invitation Code: 98MQ7V https://t.co/UUXBxLUeqQ",
-        "without_stowords": [
-            "Tap",
-            "link",
-            "return",
-            "battlefield",
-            "!",
-            "Invitation",
-            "Code",
-            ":",
-            "98MQ7V",
-            "https",
-            ":",
-            "//t.co/UUXBxLUeqQ"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2616,21 +1773,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Tap the link and return to the battlefield! Invitation Code: 98MQ7V https://t.co/j93X4iDci9",
-        "without_stowords": [
-            "Tap",
-            "link",
-            "return",
-            "battlefield",
-            "!",
-            "Invitation",
-            "Code",
-            ":",
-            "98MQ7V",
-            "https",
-            ":",
-            "//t.co/j93X4iDci9"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2674,11 +1816,6 @@
                 ]
             }
         ],
-        "filtered_text": "shut the fuck up",
-        "without_stowords": [
-            "shut",
-            "fuck"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2701,11 +1838,6 @@
                     9
                 ]
             }
-        ],
-        "filtered_text": "Come Greece\ud83d\ude02\ud83d\ude02\ud83d\ude02",
-        "without_stowords": [
-            "Come",
-            "Greece\ud83d\ude02\ud83d\ude02\ud83d\ude02"
         ],
         "region": "Heliopolis"
     },
@@ -2730,15 +1862,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : kpop stans reproduce asexually",
-        "without_stowords": [
-            "RT",
-            ":",
-            "kpop",
-            "stans",
-            "reproduce",
-            "asexually"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2761,12 +1884,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Ask me anything!",
-        "without_stowords": [
-            "Ask",
-            "anything",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2790,14 +1907,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Celestial Force 2",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Celestial",
-            "Force",
-            "2"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2820,11 +1929,6 @@
                     12
                 ]
             }
-        ],
-        "filtered_text": "Awesome \ud83d\ude0d",
-        "without_stowords": [
-            "Awesome",
-            "\ud83d\ude0d"
         ],
         "region": "Heliopolis"
     },
@@ -2859,21 +1963,6 @@
                 ]
             }
         ],
-        "filtered_text": "So tell me are u doing what you love or u are just wasting your God damn time in shit place with so ma\u2026",
-        "without_stowords": [
-            "So",
-            "tell",
-            "u",
-            "love",
-            "u",
-            "wasting",
-            "God",
-            "damn",
-            "time",
-            "shit",
-            "place",
-            "ma\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2906,18 +1995,6 @@
                     69
                 ]
             }
-        ],
-        "filtered_text": "We Miss you :'( Avicii - Heaven via",
-        "without_stowords": [
-            "We",
-            "Miss",
-            ":",
-            "'",
-            "(",
-            "Avicii",
-            "-",
-            "Heaven",
-            "via"
         ],
         "region": "Heliopolis"
     },
@@ -2958,18 +2035,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at Cairo International Airport - in Heliopolis, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Cairo",
-            "International",
-            "Airport",
-            "-",
-            "Heliopolis",
-            ",",
-            "Cairo"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2992,24 +2057,6 @@
                     19
                 ]
             }
-        ],
-        "filtered_text": "RT : Think i'll miss you forever like the stars miss the sun in the morning sky _lana del rey",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Think",
-            "'ll",
-            "miss",
-            "forever",
-            "like",
-            "stars",
-            "miss",
-            "sun",
-            "morning",
-            "sky",
-            "_lana",
-            "del",
-            "rey"
         ],
         "region": "Heliopolis"
     },
@@ -3034,22 +2081,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : i didn't love and i won't love someone like you! and no one loves you more than me!",
-        "without_stowords": [
-            "RT",
-            ":",
-            "n't",
-            "love",
-            "wo",
-            "n't",
-            "love",
-            "someone",
-            "like",
-            "!",
-            "one",
-            "loves",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3073,16 +2104,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : loving you is hard being here is harder #LanaDelRey",
-        "without_stowords": [
-            "RT",
-            ":",
-            "loving",
-            "hard",
-            "harder",
-            "#",
-            "LanaDelRey"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3095,12 +2116,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "back #\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645",
-        "without_stowords": [
-            "back",
-            "#",
-            "\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3113,13 +2128,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "follow back #\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645",
-        "without_stowords": [
-            "follow",
-            "back",
-            "#",
-            "\u0636\u064a\u0648\u0641\u0646\u0627_\u0648\u0644\u0627\u0632\u0645_\u0646\u0643\u0631\u0645\u0647\u0645"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3143,17 +2151,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : History of footwear . https://t.co/K3vh3C5mEO",
-        "without_stowords": [
-            "RT",
-            ":",
-            "History",
-            "footwear",
-            ".",
-            "https",
-            ":",
-            "//t.co/K3vh3C5mEO"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3166,20 +2163,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Baby tell me one more beautiful lia, one tach and I Ignite.",
-        "without_stowords": [
-            "Baby",
-            "tell",
-            "one",
-            "beautiful",
-            "lia",
-            ",",
-            "one",
-            "tach",
-            "I",
-            "Ignite",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3192,15 +2175,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Let the darkness lead us into the light.",
-        "without_stowords": [
-            "Let",
-            "darkness",
-            "lead",
-            "us",
-            "light",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -3213,27 +2187,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Soon I will be sixty years old, dady got sixty one remember life and thin your life becomes a big one.",
-        "without_stowords": [
-            "Soon",
-            "I",
-            "sixty",
-            "years",
-            "old",
-            ",",
-            "dady",
-            "got",
-            "sixty",
-            "one",
-            "remember",
-            "life",
-            "thin",
-            "life",
-            "becomes",
-            "big",
-            "one",
-            "."
-        ],
         "region": "Heliopolis"
     }
 ]

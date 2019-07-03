@@ -1,5 +1,28 @@
 [
     {
+        "id": 1144751267232792576,
+        "user": "Mohamed91791513",
+        "user_location": "In Your thoughts ",
+        "date": "Fri Jun 28 23:35:45 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
         "id": 1144748273959350274,
         "user": "NassefNassef6",
         "user_location": "zamalek",
@@ -19,12 +42,51 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Get well soon \ud83d\udc96\ud83c\udde6\ud83c\uddf9",
-        "without_stowords": [
-            "Get",
-            "well",
-            "soon",
-            "\ud83d\udc96\ud83c\udde6\ud83c\uddf9"
+        "region": "Dokki"
+    },
+    {
+        "id": 1144748199044931584,
+        "user": "ashrakat_fawzy",
+        "user_location": "Zag",
+        "date": "Fri Jun 28 23:23:33 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144736258809323521,
+        "user": "ess_elwazan",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jun 28 22:36:06 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -44,42 +106,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "at 1:02am: scattered clouds -&gt; clear sky temperature down 32\u00b0C -&gt; 28\u00b0C humidity up 49% -&gt; 61% wind 6kmh -&gt; 3kmh",
-        "without_stowords": [
-            "1:02am",
-            ":",
-            "scattered",
-            "clouds",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "clear",
-            "sky",
-            "temperature",
-            "32\u00b0C",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "28\u00b0C",
-            "humidity",
-            "49",
-            "%",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "61",
-            "%",
-            "wind",
-            "6kmh",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "3kmh"
-        ],
         "region": "Dokki"
     },
     {
@@ -118,14 +144,6 @@
                     17
                 ]
             }
-        ],
-        "filtered_text": "I'm at in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Mohandesin",
-            ",",
-            "Giza"
         ],
         "region": "Dokki"
     },
@@ -166,27 +184,51 @@
                 ]
             }
         ],
-        "filtered_text": "\ud83d\ude00 Learn, design, make and move. We design and manufacture puppets upon request. We provide whatever ne\u2026",
-        "without_stowords": [
-            "\ud83d\ude00",
-            "Learn",
-            ",",
-            "design",
-            ",",
-            "make",
-            "move",
-            ".",
-            "We",
-            "design",
-            "manufacture",
-            "puppets",
-            "upon",
-            "request",
-            ".",
-            "We",
-            "provide",
-            "whatever",
-            "ne\u2026"
+        "region": "Dokki"
+    },
+    {
+        "id": 1144714049139204097,
+        "user": "eladl_mando",
+        "user_location": "\ud83d\ude34\ud83d\ude34",
+        "date": "Fri Jun 28 21:07:51 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144712433401044994,
+        "user": "OOArabeen",
+        "user_location": "Not Your Business",
+        "date": "Fri Jun 28 21:01:26 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -216,13 +258,28 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "made in the 90's.\u2665\ufe0f\ud83d\udcab @ El Maadi",
-        "without_stowords": [
-            "made",
-            "90's.\u2665\ufe0f\ud83d\udcab",
-            "@",
-            "El",
-            "Maadi"
+        "region": "Dokki"
+    },
+    {
+        "id": 1144708390066765824,
+        "user": "4abassy",
+        "user_location": "DAM",
+        "date": "Fri Jun 28 20:45:22 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -252,21 +309,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at The Nile River in Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "The",
-            "Nile",
-            "River",
-            "Cairo",
-            ",",
-            "Mu\u1e29\u0101faz\u0327at",
-            "al",
-            "Q\u0101hirah",
-            ",",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -295,23 +337,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\u2615\ufe0f (@ Four Seasons Hotel Cairo at Nile Plaza in Garden City, Cairo)",
-        "without_stowords": [
-            "\u2615\ufe0f",
-            "(",
-            "@",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "Nile",
-            "Plaza",
-            "Garden",
-            "City",
-            ",",
-            "Cairo",
-            ")"
-        ],
         "region": "Dokki"
     },
     {
@@ -334,15 +359,6 @@
                     15
                 ]
             }
-        ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
         ],
         "region": "Dokki"
     },
@@ -372,18 +388,202 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Al Hanager Art Center in Zamalek, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Al",
-            "Hanager",
-            "Art",
-            "Center",
-            "Zamalek",
-            ",",
-            "Cairo"
+        "region": "Dokki"
+    },
+    {
+        "id": 1144706622494773248,
+        "user": "Malik_A_N_K",
+        "user_location": "Lost in the wonderland",
+        "date": "Fri Jun 28 20:38:21 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144706487664742402,
+        "user": "Aya_Mu98",
+        "user_location": "Palestine,Gaza",
+        "date": "Fri Jun 28 20:37:48 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144706470707154944,
+        "user": "mahmodabozed22",
+        "user_location": "El Gharbia, Egypt",
+        "date": "Fri Jun 28 20:37:44 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144705958263828481,
+        "user": "_Reemshalaby_",
+        "user_location": "damnhour :(",
+        "date": "Fri Jun 28 20:35:42 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144705818593570816,
+        "user": "abdoelr7maan",
+        "user_location": "Ras Vegas .Damitta",
+        "date": "Fri Jun 28 20:35:09 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144705801615040512,
+        "user": "KhokhaEzat",
+        "user_location": "Domiat, Ras elbar",
+        "date": "Fri Jun 28 20:35:05 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144705716336386050,
+        "user": "NancyHilmy2",
+        "user_location": "",
+        "date": "Fri Jun 28 20:34:45 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144705614418984966,
+        "user": "AndrewAdooo605",
+        "user_location": "",
+        "date": "Fri Jun 28 20:34:20 +0000 2019",
+        "text": "RT @AmiiraAyman: songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144705566566227968,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jun 28 20:34:09 +0000 2019",
+        "text": "songs explain feelings",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
         "region": "Dokki"
     },
     {
@@ -406,15 +606,6 @@
                     15
                 ]
             }
-        ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
         ],
         "region": "Dokki"
     },
@@ -439,15 +630,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
-        ],
         "region": "Dokki"
     },
     {
@@ -470,16 +652,6 @@
                     9
                 ]
             }
-        ],
-        "filtered_text": "Why is Rojo not playing? Is he injured?",
-        "without_stowords": [
-            "Why",
-            "Rojo",
-            "playing",
-            "?",
-            "Is",
-            "injured",
-            "?"
         ],
         "region": "Dokki"
     },
@@ -509,21 +681,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Four Seasons Hotel Cairo at Nile Plaza in Garden City, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "Nile",
-            "Plaza",
-            "Garden",
-            "City",
-            ",",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -546,15 +703,6 @@
                     15
                 ]
             }
-        ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
         ],
         "region": "Dokki"
     },
@@ -579,15 +727,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
-        ],
         "region": "Dokki"
     },
     {
@@ -611,15 +750,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
-        ],
         "region": "Dokki"
     },
     {
@@ -642,24 +772,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Argentina vs Venezuela is a very tough match... they have been very unlucky since the 2014 World Cup... I really ho\u2026",
-        "without_stowords": [
-            "Argentina",
-            "vs",
-            "Venezuela",
-            "tough",
-            "match",
-            "...",
-            "unlucky",
-            "since",
-            "2014",
-            "World",
-            "Cup",
-            "...",
-            "I",
-            "really",
-            "ho\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -682,10 +794,51 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Humility \u2764\ufe0f",
-        "without_stowords": [
-            "Humility",
-            "\u2764\ufe0f"
+        "region": "Dokki"
+    },
+    {
+        "id": 1144668085254860800,
+        "user": "karemhesham199",
+        "user_location": "",
+        "date": "Fri Jun 28 18:05:13 +0000 2019",
+        "text": "RT @AmiiraAyman: so cute \u2764 https://t.co/gduf4CtkwS",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144667574128578560,
+        "user": "_Reemshalaby_",
+        "user_location": "damnhour :(",
+        "date": "Fri Jun 28 18:03:11 +0000 2019",
+        "text": "RT @AmiiraAyman: so cute \u2764 https://t.co/gduf4CtkwS",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -710,15 +863,18 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
-        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144666220488269824,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jun 28 17:57:48 +0000 2019",
+        "text": "so cute \u2764 https://t.co/gduf4CtkwS",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
         "region": "Dokki"
     },
     {
@@ -741,15 +897,6 @@
                     15
                 ]
             }
-        ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
         ],
         "region": "Dokki"
     },
@@ -774,15 +921,6 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
-        ],
         "region": "Dokki"
     },
     {
@@ -795,13 +933,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Mood https://t.co/jcdNK0xDqe",
-        "without_stowords": [
-            "Mood",
-            "https",
-            ":",
-            "//t.co/jcdNK0xDqe"
-        ],
         "region": "Dokki"
     },
     {
@@ -841,29 +972,6 @@
                 ]
             }
         ],
-        "filtered_text": "Artist KHALED SOROUR (1965) Khaled003 A Fish Meal 2006 Acrylic on Canvas - 80x80 cm \u201cSorour's paintings\u2026",
-        "without_stowords": [
-            "Artist",
-            "KHALED",
-            "SOROUR",
-            "(",
-            "1965",
-            ")",
-            "Khaled003",
-            "A",
-            "Fish",
-            "Meal",
-            "2006",
-            "Acrylic",
-            "Canvas",
-            "-",
-            "80x80",
-            "cm",
-            "\u201c",
-            "Sorour",
-            "'s",
-            "paintings\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -887,16 +995,6 @@
                 ]
             }
         ],
-        "filtered_text": "Hader nta haketly ya3ni hatt2bl khlas \ud83d\ude02",
-        "without_stowords": [
-            "Hader",
-            "nta",
-            "haketly",
-            "ya3ni",
-            "hatt2bl",
-            "khlas",
-            "\ud83d\ude02"
-        ],
         "region": "Dokki"
     },
     {
@@ -915,26 +1013,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: scattered clouds, 32\u00b0C 49% humidity, wind 6kmh, pressure 1006mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "scattered",
-            "clouds",
-            ",",
-            "32\u00b0C",
-            "49",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "6kmh",
-            ",",
-            "pressure",
-            "1006mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -958,23 +1036,6 @@
                 ]
             }
         ],
-        "filtered_text": "Bs 2olt hatsafr mara de b3d ma haketly mn 3 days ya3ni washy hlw \ud83d\ude02",
-        "without_stowords": [
-            "Bs",
-            "2olt",
-            "hatsafr",
-            "mara",
-            "de",
-            "b3d",
-            "haketly",
-            "mn",
-            "3",
-            "days",
-            "ya3ni",
-            "washy",
-            "hlw",
-            "\ud83d\ude02"
-        ],
         "region": "Dokki"
     },
     {
@@ -993,14 +1054,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Cairo: 8:00pm: sunset",
-        "without_stowords": [
-            "Cairo",
-            ":",
-            "8:00pm",
-            ":",
-            "sunset"
-        ],
         "region": "Dokki"
     },
     {
@@ -1024,14 +1077,6 @@
                 ]
             }
         ],
-        "filtered_text": "3lshan 2oltly bs shoft \ud83d\ude02",
-        "without_stowords": [
-            "3lshan",
-            "2oltly",
-            "bs",
-            "shoft",
-            "\ud83d\ude02"
-        ],
         "region": "Dokki"
     },
     {
@@ -1044,13 +1089,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Your favorite song ?",
-        "without_stowords": [
-            "Your",
-            "favorite",
-            "song",
-            "?"
-        ],
         "region": "Dokki"
     },
     {
@@ -1079,18 +1117,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "#alahly #\u0645\u0646_\u0627\u0644\u062a\u0627\u0644\u062a\u0647_\u0634\u0645\u0627\u0644_\u0628\u0646\u0647\u0632_\u062c\u0628\u0627\u0644\ud83d\udcaa\ud83d\udc4f\ud83d\udcaa\ud83d\udc4c #\u0627\u0644\u0627\u0647\u0644\u064a_\u0627\u0644\u0645\u0635\u0631\u064a @ Ramses Hilton",
-        "without_stowords": [
-            "#",
-            "alahly",
-            "#",
-            "\u0645\u0646_\u0627\u0644\u062a\u0627\u0644\u062a\u0647_\u0634\u0645\u0627\u0644_\u0628\u0646\u0647\u0632_\u062c\u0628\u0627\u0644\ud83d\udcaa\ud83d\udc4f\ud83d\udcaa\ud83d\udc4c",
-            "#",
-            "\u0627\u0644\u0627\u0647\u0644\u064a_\u0627\u0644\u0645\u0635\u0631\u064a",
-            "@",
-            "Ramses",
-            "Hilton"
-        ],
         "region": "Dokki"
     },
     {
@@ -1119,14 +1145,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "#\u062d\u0641\u064a\u0638_\u062f\u0631\u0627\u062c\u064a @ Ramses Hilton",
-        "without_stowords": [
-            "#",
-            "\u062d\u0641\u064a\u0638_\u062f\u0631\u0627\u062c\u064a",
-            "@",
-            "Ramses",
-            "Hilton"
-        ],
         "region": "Dokki"
     },
     {
@@ -1155,23 +1173,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Aura at Four Seasons Hotel Cairo at The First Residence in Cairo, Al J\u012bzah",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Aura",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "The",
-            "First",
-            "Residence",
-            "Cairo",
-            ",",
-            "Al",
-            "J\u012bzah"
-        ],
         "region": "Dokki"
     },
     {
@@ -1200,28 +1201,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Want to land a job like \"Event Planner\" at CWT? Applicant tracking systems look for specific keywords. Use the righ\u2026",
-        "without_stowords": [
-            "Want",
-            "land",
-            "job",
-            "like",
-            "``",
-            "Event",
-            "Planner",
-            "''",
-            "CWT",
-            "?",
-            "Applicant",
-            "tracking",
-            "systems",
-            "look",
-            "specific",
-            "keywords",
-            ".",
-            "Use",
-            "righ\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1244,28 +1223,6 @@
                     9
                 ]
             }
-        ],
-        "filtered_text": "\ud83d\ude02 I was just speaking with a friend predicting it'll go to penalty kicks... I hope I'm wrong and that Argentina wins easily \ud83d\udcaa",
-        "without_stowords": [
-            "\ud83d\ude02",
-            "I",
-            "speaking",
-            "friend",
-            "predicting",
-            "'ll",
-            "go",
-            "penalty",
-            "kicks",
-            "...",
-            "I",
-            "hope",
-            "I",
-            "'m",
-            "wrong",
-            "Argentina",
-            "wins",
-            "easily",
-            "\ud83d\udcaa"
         ],
         "region": "Dokki"
     },
@@ -1295,15 +1252,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Bocca in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Bocca",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -1332,33 +1280,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "It\u2019s Friday \ud83d\udc99 Even though that , we\u2019re working \ud83d\ude22 I want to go to my mum \ud83d\ude22\ud83d\ude22 ##Friday #Working #cairo @ \u0627\u0644\u062f\u0642\u06cc",
-        "without_stowords": [
-            "It",
-            "\u2019",
-            "Friday",
-            "\ud83d\udc99",
-            "Even",
-            "though",
-            ",",
-            "\u2019",
-            "working",
-            "\ud83d\ude22",
-            "I",
-            "want",
-            "go",
-            "mum",
-            "\ud83d\ude22\ud83d\ude22",
-            "#",
-            "#",
-            "Friday",
-            "#",
-            "Working",
-            "#",
-            "cairo",
-            "@",
-            "\u0627\u0644\u062f\u0642\u06cc"
-        ],
         "region": "Dokki"
     },
     {
@@ -1387,27 +1308,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "My polaroids, The old ones and the new. #polaroid #artistsofinstagram #art #photooftheday #photography\u2026",
-        "without_stowords": [
-            "My",
-            "polaroids",
-            ",",
-            "The",
-            "old",
-            "ones",
-            "new",
-            ".",
-            "#",
-            "polaroid",
-            "#",
-            "artistsofinstagram",
-            "#",
-            "art",
-            "#",
-            "photooftheday",
-            "#",
-            "photography\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1436,27 +1336,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "If you're looking for work in Cairo, Cairo Governorate, Egypt, check out this #SkilledTrade job via the link in our\u2026",
-        "without_stowords": [
-            "If",
-            "'re",
-            "looking",
-            "work",
-            "Cairo",
-            ",",
-            "Cairo",
-            "Governorate",
-            ",",
-            "Egypt",
-            ",",
-            "check",
-            "#",
-            "SkilledTrade",
-            "job",
-            "via",
-            "link",
-            "our\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1496,16 +1375,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at Koshary Abou Tarek - in Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Koshary",
-            "Abou",
-            "Tarek",
-            "-",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -1534,12 +1403,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Egypt",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -1568,18 +1431,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "White and black #SHERIFAlTAYEH \u2764\u2764\u2764\u2764 @ Cairo, Egypt",
-        "without_stowords": [
-            "White",
-            "black",
-            "#",
-            "SHERIFAlTAYEH",
-            "\u2764\u2764\u2764\u2764",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -1608,20 +1459,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "With love from Cairo... #classic \u260e\ufe0f @ Cairo, Egypt",
-        "without_stowords": [
-            "With",
-            "love",
-            "Cairo",
-            "...",
-            "#",
-            "classic",
-            "\u260e\ufe0f",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -1650,28 +1487,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "wedding and events (Dj Ahmed Sokar) for bookings &amp; inquiries kindly contact us on +201022280023 Wedding planner by\u2026",
-        "without_stowords": [
-            "wedding",
-            "events",
-            "(",
-            "Dj",
-            "Ahmed",
-            "Sokar",
-            ")",
-            "bookings",
-            "&",
-            "amp",
-            ";",
-            "inquiries",
-            "kindly",
-            "contact",
-            "us",
-            "+201022280023",
-            "Wedding",
-            "planner",
-            "by\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1700,23 +1515,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "See our latest #Cairo job and click to apply: Supply Chain Planner - #Clerical",
-        "without_stowords": [
-            "See",
-            "latest",
-            "#",
-            "Cairo",
-            "job",
-            "click",
-            "apply",
-            ":",
-            "Supply",
-            "Chain",
-            "Planner",
-            "-",
-            "#",
-            "Clerical"
-        ],
         "region": "Dokki"
     },
     {
@@ -1745,25 +1543,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Looking to score a job at GE? You're in luck. Click the link in our bio for the job description and information on\u2026",
-        "without_stowords": [
-            "Looking",
-            "score",
-            "job",
-            "GE",
-            "?",
-            "You",
-            "'re",
-            "luck",
-            ".",
-            "Click",
-            "link",
-            "bio",
-            "job",
-            "description",
-            "information",
-            "on\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1792,19 +1571,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Some of my favorite pieces from the Museum of Egyptian Antiquities #RomeoJBallayan #emotionalintelligence\u2026",
-        "without_stowords": [
-            "Some",
-            "favorite",
-            "pieces",
-            "Museum",
-            "Egyptian",
-            "Antiquities",
-            "#",
-            "RomeoJBallayan",
-            "#",
-            "emotionalintelligence\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1833,14 +1599,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Mohandessin",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Mohandessin"
-        ],
         "region": "Dokki"
     },
     {
@@ -1859,26 +1617,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 33\u00b0C 41% humidity, wind 4kmh, pressure 1006mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "33\u00b0C",
-            "41",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "4kmh",
-            ",",
-            "pressure",
-            "1006mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -1907,26 +1645,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "We're hiring in #Cairo, Cairo Governorate! Click the link in our bio to apply to this job and more: Upgrades Sales\u2026",
-        "without_stowords": [
-            "We",
-            "'re",
-            "hiring",
-            "#",
-            "Cairo",
-            ",",
-            "Cairo",
-            "Governorate",
-            "!",
-            "Click",
-            "link",
-            "bio",
-            "apply",
-            "job",
-            ":",
-            "Upgrades",
-            "Sales\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1955,26 +1673,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Dream BIG, Love GOD, Word incredibly HARD... #GodsTiming \u2764\ufe0f @ Cairo, Egypt",
-        "without_stowords": [
-            "Dream",
-            "BIG",
-            ",",
-            "Love",
-            "GOD",
-            ",",
-            "Word",
-            "incredibly",
-            "HARD",
-            "...",
-            "#",
-            "GodsTiming",
-            "\u2764\ufe0f",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -2014,23 +1712,6 @@
                 ]
             }
         ],
-        "filtered_text": "The build up to the winning goal and that assist... Sublime! harambee_stars victorwanyama @ Cairo, Egy\u2026",
-        "without_stowords": [
-            "The",
-            "build",
-            "winning",
-            "goal",
-            "assist",
-            "...",
-            "Sublime",
-            "!",
-            "harambee_stars",
-            "victorwanyama",
-            "@",
-            "Cairo",
-            ",",
-            "Egy\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -2059,30 +1740,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Dear Instagram, I've been filming the #africacupofnations between #cairo, #ismailia and #suez. It's being tough, m\u2026",
-        "without_stowords": [
-            "Dear",
-            "Instagram",
-            ",",
-            "I",
-            "'ve",
-            "filming",
-            "#",
-            "africacupofnations",
-            "#",
-            "cairo",
-            ",",
-            "#",
-            "ismailia",
-            "#",
-            "suez",
-            ".",
-            "It",
-            "'s",
-            "tough",
-            ",",
-            "m\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -2111,24 +1768,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "She badder than bad Hit her with a line Said she wan' see love, the kiss Bra set by sheinofficial\u2026",
-        "without_stowords": [
-            "She",
-            "badder",
-            "bad",
-            "Hit",
-            "line",
-            "Said",
-            "wan",
-            "'",
-            "see",
-            "love",
-            ",",
-            "kiss",
-            "Bra",
-            "set",
-            "sheinofficial\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -2147,26 +1786,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 26\u00b0C 78% humidity, wind 4kmh, pressure 1007mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "26\u00b0C",
-            "78",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "4kmh",
-            ",",
-            "pressure",
-            "1007mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -2185,16 +1804,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Cairo: 5:56am: sunrise sunset will be at 8:00pm",
-        "without_stowords": [
-            "Cairo",
-            ":",
-            "5:56am",
-            ":",
-            "sunrise",
-            "sunset",
-            "8:00pm"
-        ],
         "region": "Dokki"
     },
     {
@@ -2213,14 +1822,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "5:56am: sunrise sunset will be at 8:00pm",
-        "without_stowords": [
-            "5:56am",
-            ":",
-            "sunrise",
-            "sunset",
-            "8:00pm"
-        ],
         "region": "Dokki"
     },
     {
@@ -2249,15 +1850,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Location in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Location",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -2286,24 +1878,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I should learn to love the red because I was considering it a sign of bloodshed, and it's true, someone get to lear\u2026",
-        "without_stowords": [
-            "I",
-            "learn",
-            "love",
-            "red",
-            "I",
-            "considering",
-            "sign",
-            "bloodshed",
-            ",",
-            "'s",
-            "true",
-            ",",
-            "someone",
-            "get",
-            "lear\u2026"
-        ],
         "region": "Dokki"
     }
 ]

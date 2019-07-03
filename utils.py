@@ -7,7 +7,14 @@ def filter_tweet(tweet):
         start = item['indices'][0]
         end = item['indices'][1]
         text = text[0:start] + ' '*(end-start) + text[end:len(text)]
-    return ' '.join(text.split())
+
+    #remove extra urls
+    split = filter(lambda word: not word.startswith('http://') and not word.startswith('https://'), text.split())
+
+    #remove #'s at the beginning of hashtags
+    split = map(lambda word: word.strip('#'), split)
+
+    return ' '.join(split)
 
 def remove_stopwords(tweet):
     stop_words = set(stopwords.words('english')) 

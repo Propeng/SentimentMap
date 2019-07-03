@@ -6,6 +6,10 @@ from datetime import date, timedelta
 
 import utils
 
+print("Tweets will be fetched for the days", str(date.today() - timedelta(days=7)),
+    "to", str(date.today()))
+print()
+
 regions = [
     {'name': 'New Cairo', 'geocode': '30.028652,31.465498,10km', 'tweets': {}},
     {'name': 'Dokki', 'geocode': '30.039874,31.206894,3km', 'tweets': {}},
@@ -52,8 +56,8 @@ for day_i in range(7):
             tweet['lang'] = status['lang']
             tweet['urls'] = status['entities']['urls']
             tweet['mentions'] = status['entities']['user_mentions']
-            tweet['filtered_text'] = utils.filter_tweet(tweet)
-            tweet['without_stowords'] = utils.remove_stopwords(tweet)
+            #tweet['filtered_text'] = utils.filter_tweet(tweet)
+            #tweet['without_stopwords'] = utils.remove_stopwords(tweet)
             tweet['region'] = region['name']
             try:
                 region['tweets'][query['since']].append(tweet)

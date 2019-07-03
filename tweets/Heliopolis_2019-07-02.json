@@ -1,0 +1,2266 @@
+[
+    {
+        "id": 1146204258754355201,
+        "user": "SamaHesham3",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 23:49:25 +0000 2019",
+        "text": "looks like someone I\u2019d like to annoy forever.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146195617020096515,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 23:15:05 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/cfBi6zJH29",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cfBi6zJH29",
+                "expanded_url": "https://www.swarmapp.com/c/7gx5YQNSk6k",
+                "display_url": "swarmapp.com/c/7gx5YQNSk6k",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146195521981358088,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 23:14:42 +0000 2019",
+        "text": "Here\u2019s a song for you\u2026 Ain't No Mountain High Enough by Marvin Gaye\nhttps://t.co/E8br27jIux",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/E8br27jIux",
+                "expanded_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX?si=Mm_DLm7gQaOSgvFIzqqC8w",
+                "display_url": "open.spotify.com/track/7tqhbajS\u2026",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146192443152502784,
+        "user": "Marim_Soliman",
+        "user_location": "Alexandria, Egypt",
+        "date": "Tue Jul 02 23:02:28 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146191854205095938,
+        "user": "gehadsediek5",
+        "user_location": "Nasr city",
+        "date": "Tue Jul 02 23:00:07 +0000 2019",
+        "text": "Baby blue  \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d https://t.co/Wh94zs84xl",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Wh94zs84xl",
+                "expanded_url": "https://www.facebook.com/100024054247239/posts/477682009710270/",
+                "display_url": "facebook.com/10002405424723\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146191532065787909,
+        "user": "so_hailaaa",
+        "user_location": "Heliopolis, Al Qahirah, Egypt",
+        "date": "Tue Jul 02 22:58:51 +0000 2019",
+        "text": "Follow me on instagram \ud83c\udf3b\ud83c\udf3f\nSo.hailaaa \nhttps://t.co/u5OG1dXvog https://t.co/tuGBrnHzr2",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/u5OG1dXvog",
+                "expanded_url": "https://instagram.com/so.hailaaa",
+                "display_url": "instagram.com/so.hailaaa",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146191047304916992,
+        "user": "_neffertiti_",
+        "user_location": "",
+        "date": "Tue Jul 02 22:56:55 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146190823320694784,
+        "user": "nonefav",
+        "user_location": "Alexandria, Egypt",
+        "date": "Tue Jul 02 22:56:02 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146190520995241984,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Tue Jul 02 22:54:50 +0000 2019",
+        "text": "You save everyone, but who saves you?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146187766260207616,
+        "user": "DaliaSafwaat",
+        "user_location": "",
+        "date": "Tue Jul 02 22:43:53 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146184403451858949,
+        "user": "Saraaah177",
+        "user_location": "+966",
+        "date": "Tue Jul 02 22:30:31 +0000 2019",
+        "text": "I'm at @AlMasahHotel in Nasr City, Cairo https://t.co/tzzw2rclw4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0611646,
+                31.31713714
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tzzw2rclw4",
+                "expanded_url": "https://www.swarmapp.com/c/7XEYuHK87Dk",
+                "display_url": "swarmapp.com/c/7XEYuHK87Dk",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AlMasahHotel",
+                "name": "Al Masah Hotel",
+                "id": 3324102412,
+                "id_str": "3324102412",
+                "indices": [
+                    7,
+                    20
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146184392156602369,
+        "user": "ReffOo7",
+        "user_location": "Nasr city",
+        "date": "Tue Jul 02 22:30:28 +0000 2019",
+        "text": "@radwaarefatt Wins eh b2a !?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "radwaarefatt",
+                "name": "\u1d3f\u1d2c\u1d30\u1d42\u1d2c'\ud83d\udc8b",
+                "id": 1137690859418333185,
+                "id_str": "1137690859418333185",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146180821847543809,
+        "user": "omarhussien98",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 22:16:17 +0000 2019",
+        "text": "Ask me anything! https://t.co/rjGaynbC9K",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rjGaynbC9K",
+                "expanded_url": "https://curiouscat.me/omarhussien98?t=1562105777",
+                "display_url": "curiouscat.me/omarhussien98?\u2026",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146177081799303168,
+        "user": "3bd0gom3a",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 22:01:25 +0000 2019",
+        "text": "I told you that before i can\u2019t imagine my life without you and how you\u2019re so important to me... after this you choose to walk away...!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146165601028771840,
+        "user": "Jahelo_",
+        "user_location": "Nasr city ",
+        "date": "Tue Jul 02 21:15:48 +0000 2019",
+        "text": "You are the song \nI always wanna hear :')",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146164495200464896,
+        "user": "OmarSam71214125",
+        "user_location": "nasr city ",
+        "date": "Tue Jul 02 21:11:25 +0000 2019",
+        "text": "Completely destroyed ..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146155342478417926,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Tue Jul 02 20:35:02 +0000 2019",
+        "text": "The savagery https://t.co/2k284j2dOG",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2k284j2dOG",
+                "expanded_url": "https://twitter.com/BBCMOTD/status/1146146823284936704",
+                "display_url": "twitter.com/BBCMOTD/status\u2026",
+                "indices": [
+                    13,
+                    36
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146150545553592321,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 20:15:59 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/mmxTJLkuw7",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mmxTJLkuw7",
+                "expanded_url": "https://www.swarmapp.com/c/kLAGENJAl2g",
+                "display_url": "swarmapp.com/c/kLAGENJAl2g",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146148115742961664,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 20:06:19 +0000 2019",
+        "text": "The Lebanese cuisine became my favorite one forever khalaaass\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146145401189408775,
+        "user": "hhazzeem",
+        "user_location": "Heliopolis ,Egypt",
+        "date": "Tue Jul 02 19:55:32 +0000 2019",
+        "text": "Fuck this\ud83d\ude02 https://t.co/M7UaeTBgBK",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/M7UaeTBgBK",
+                "expanded_url": "https://twitter.com/TSwift_Spotify/status/1145882633819213824",
+                "display_url": "twitter.com/TSwift_Spotify\u2026",
+                "indices": [
+                    11,
+                    34
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146142169981341696,
+        "user": "Zubzub131",
+        "user_location": "Antarctica",
+        "date": "Tue Jul 02 19:42:42 +0000 2019",
+        "text": "RT @MindCap: this aqua girl lookin....................................fine i guess",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140177129193472,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:47 +0000 2019",
+        "text": "RT @KingTutNews: The grey heron or Bennu bird with characteristic twin plumes. A vignette from funerary papyrus, 21st dynasty. Egyptian Mus\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140165968158726,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:44 +0000 2019",
+        "text": "RT @KingTutNews: A gilded wooden image of the god Sopdu as a falcon on a standard. From the tomb of Tutankhamun, 18th dynasty. Egyptian Mus\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140161174122497,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:43 +0000 2019",
+        "text": "RT @KingTutNews: The enthroned Re-Horakhtay-Atum, '..great god, Lord of Heaven'. 18th dynasty. Tomb of Roy, western Thebes. https://t.co/XK\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140151825018880,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:41 +0000 2019",
+        "text": "RT @KingTutNews: Sethos I offers incense and a libation to the enthroned Sokar. 19th dynasty. Temple of Sethos I, Abydos. https://t.co/lX9I\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140128978571266,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:35 +0000 2019",
+        "text": "RT @KingTutNews: 1/4 Throughout their history, Egyptian kings used images of hunting to demonstrate their power to conquer chaos, establish\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140119239462913,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:33 +0000 2019",
+        "text": "RT @KingTutNews: 1/6 The pyramids of Giza and their attendant cemeteries reflect the social organization of the time. The king was the cent\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140114621554689,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:32 +0000 2019",
+        "text": "RT @KingTutNews: Happy Boxing Day everyone! I hope your personal \"offering bearers\" brought you everything you wanted for Christmas. https:\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140105905758209,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:30 +0000 2019",
+        "text": "RT @KingTutNews: 1/4 Canopic jars, such as these @metmuseum, were used to contain mummified viscera. Each head represents a specific deity\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "metmuseum",
+                "name": "The Met",
+                "id": 17057271,
+                "id_str": "17057271",
+                "indices": [
+                    49,
+                    59
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140089245937664,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:26 +0000 2019",
+        "text": "RT @KingTutNews: Harkhuf\u2019s trips won him the favor of Pepi II not only in terms of wealth and rank but also in the form of a personal lette\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140073286623232,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:22 +0000 2019",
+        "text": "RT @KingTutNews: Tutankhamun is shown here as the creator god, Nefertum, emerging from a lotus/lily. The young king's head is shaved, and t\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140062964494336,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:19 +0000 2019",
+        "text": "RT @KingTutNews: The deceased worships before a form of the sun god Re (left) above a register depicting tombs of the Theban necropolis.  S\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140054517145600,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:17 +0000 2019",
+        "text": "RT @KingTutNews: Golden head of an image of the Horus falcon with polished obsidian eyes. From Hierakonpolis, one of the earliest cult cent\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140049756569607,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:16 +0000 2019",
+        "text": "RT @KingTutNews: Re in the form of a ram-headed falcon, and associated with Osiris, flanked by the mourning Isis and Nephthys as birds of p\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140041296654336,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:14 +0000 2019",
+        "text": "RT @KingTutNews: Ramesses III crowned by Horus and Seth as the mythical heirs of Lower and Upper Egypt. 20th dynasty. Egyptian Museum, Cair\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140030680883200,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:12 +0000 2019",
+        "text": "RT @KingTutNews: The baboon was primarily a solar creature in Egyptian religion - as in the case of these animals depicted worshipping the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140021226909696,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:09 +0000 2019",
+        "text": "RT @KingTutNews: Nefertem, whose lotiform headdress symbolized both his identity as 'lord of perfumes' and the regeneration and rebirth imp\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140016097320965,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:08 +0000 2019",
+        "text": "RT @KingTutNews: Cippus or amuletic plaque of Horus depicting Horus the Child grasping noxious creatures and standing upon the heads of cro\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140007314460678,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:06 +0000 2019",
+        "text": "RT @KingTutNews: The god Wadj-Wer (at right), his body covered in symbolic waves, in a procession of deities bringing offering-hieroglyphs\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146140002079956992,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:05 +0000 2019",
+        "text": "RT @KingTutNews: Ivory head-rest from the tomb of Tutankhamun showing the god Shu who supported the head of the king - symbolically the sun\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139992630145024,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:03 +0000 2019",
+        "text": "RT @KingTutNews: Gilded statuette of Ptah the creator from the tomb of Tutankhamun. The pedestal on which the god stands may represent the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139988091969536,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:34:02 +0000 2019",
+        "text": "RT @KingTutNews: Ptah within his shrine. The straight beard and particular style of necklace counterpoise at the god's back are distinctive\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139977790763010,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:59 +0000 2019",
+        "text": "RT @KingTutNews: Ptah-Sokar-Osiris figures such as this fused the creator god with the ancient mortuary deity Sokar and with Osiris. Late P\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139973227360257,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:58 +0000 2019",
+        "text": "RT @KingTutNews: The child god Ihy, son of Hathor. Roman birth house, Dendera. Elsewhere, the god was sometimes regarded as the child of ot\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139963462955014,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:56 +0000 2019",
+        "text": "RT @KingTutNews: The god Ptah embraced by Senwosret I. Detail of a pillar from Senwosret's destroyed temple at Karnak. 12th dynasty. Egypti\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139954529144834,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:54 +0000 2019",
+        "text": "RT @KingTutNews: Horemheb before Osiris. The pose (except that he is standing) and dress of the god are virtually identical to those in the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139949839867904,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:52 +0000 2019",
+        "text": "RT @KingTutNews: The crook, flail and feathered Atef Crown, although taken over by Osiris, became unmistakable attributes of the netherworl\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139938951442433,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:50 +0000 2019",
+        "text": "RT @KingTutNews: Nefertari before the throne of Osiris 'Wennefer...ruler of eternity'. Diminutive figures of the four 'sons of Horus (or Os\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139933951836160,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:49 +0000 2019",
+        "text": "RT @KingTutNews: Enigmatic depiction of Osiris as a reclining ithyphallic figure associated with the sun god Re. The scene cannot be ascrib\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139923596156934,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:46 +0000 2019",
+        "text": "RT @KingTutNews: The god Nun lifts the solar barque with the new-born sun from the waters of creation. The original creation was also mirro\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139919011762176,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:45 +0000 2019",
+        "text": "RT @KingTutNews: Senwosret I presents bread to Amun-Re in the form of Min before a garden of lettuce which was a symbolic attribute of the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139906357497857,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:42 +0000 2019",
+        "text": "RT @KingTutNews: Amun-Min, an aspect of Amun merged with Min, whose black face symbolizes the fertile richness of the damp earth from which\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139902335172609,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:41 +0000 2019",
+        "text": "RT @KingTutNews: Khonsu in his falcon-headed form with the characteristic attributes of disk and crescent moon. 20th dynasty. Tomb of Montu\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139891824283649,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:39 +0000 2019",
+        "text": "RT @KingTutNews: Black and red granite statue of Khonsu with the features of Tutankhamun. The sidelock of youth and the curved divine beard\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139887533461505,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:38 +0000 2019",
+        "text": "RT @KingTutNews: The god Hapy, 'father of the gods, clasping symbols of life, receives the worship of Ramesses III in a scene of harvest an\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139863869247489,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:32 +0000 2019",
+        "text": "RT @KingTutNews: Dual depictions of Hapy \u2014representing Upper and Lower Egypt \u2014 tie the symbolic plants of the two lands together in the sem\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139859503001602,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:31 +0000 2019",
+        "text": "RT @KingTutNews: The enthroned Geb is represented in both the Red and White Crowns on this gold and lapis lazuli bracelet of 17th-dynasty Q\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139848253878272,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:28 +0000 2019",
+        "text": "RT @KingTutNews: The god Amun (at right), in his role as supreme state god and named as 'Lord of the thrones of the Two Lands [of Upper and\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139843262631937,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:27 +0000 2019",
+        "text": "RT @KingTutNews: Great god Amun-Re, depicted in both his normal anthropomorphic form (second from right) &amp; as the ithyphallic Amun-Min at l\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139813063663616,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:20 +0000 2019",
+        "text": "RT @KingTutNews: Honored during his lifetime with statues such as this one, and with his own mortuary temple, Amenophis Son of Hapu, the ma\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139807816605708,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:19 +0000 2019",
+        "text": "RT @KingTutNews: Ramesses I depicted between a falcon-headed 'soul' of Pe and a jackal-headed 'soul' of Nekhen. The bau or souls celebrate\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139795493662720,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:16 +0000 2019",
+        "text": "RT @KingTutNews: The four sons of Horus, Tomb of Ay. This unique representation depicts the sons of Horus as seated mummiform figures weari\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139791190196224,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:15 +0000 2019",
+        "text": "RT @KingTutNews: Fecundity figures personifying nomes, cities, and estates \u2014 and sometimes identified with the king \u2014 are frequently depict\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139779534381057,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:12 +0000 2019",
+        "text": "RT @KingTutNews: Gold and silver foil-covered image of the Canaanite god Baal. The god's name means 'lord' or 'master' and could apply to s\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139775264546816,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:11 +0000 2019",
+        "text": "RT @KingTutNews: The judgment of the deceased in the Hall of Justice from the 19th-dynasty Book of the Dead of Hunefer. Hunefer is shown un\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139759342956546,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:07 +0000 2019",
+        "text": "RT @KingTutNews: Demons were often represented with the heads of fierce or fabulous creatures and many were depicted with weapons such as k\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139753684840449,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:06 +0000 2019",
+        "text": "RT @KingTutNews: Scene from the fifth section of the Book of Caverns in the Tomb of Ramesses VI.\nAccording to this funerary work the nether\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139743689879558,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:03 +0000 2019",
+        "text": "RT @KingTutNews: Hebdomad of the Seven Divine Cows, differentiated and named with their bull vignette to Chapter 148, Book of the Dead of M\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139738136596481,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:33:02 +0000 2019",
+        "text": "RT @KingTutNews: Divine pairs were often depicted with the Egyptian king as their 'son, forming a family-based triad which strengthened the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139725356568576,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:59 +0000 2019",
+        "text": "RT @KingTutNews: Generic star gods depicted in the seated pose of the 'deity' hieroglyph. 19th dynasty. Tomb of Irynefer, western Thebes. h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139719245488134,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:57 +0000 2019",
+        "text": "RT @KingTutNews: Horus, shown crowned with the Double Crown of all Egypt, was mythological heir to Osiris and often personified the role of\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139706888994816,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:55 +0000 2019",
+        "text": "RT @KingTutNews: The enthroned Osiris, attended by Isis, Nephthys, Horns and Thoth. As king of the netherworld, Osiris personified one aspe\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139701725794304,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:53 +0000 2019",
+        "text": "RT @KingTutNews: Ka figure of King Ay (middle). The royal ka seems to have incorporated the royal ancestors, as well as the ka of the livin\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139692670341121,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:51 +0000 2019",
+        "text": "RT @KingTutNews: Peristyle court of the mortuary temple of Ramesses Ill with remnants of Osiride statues of the king The royal mortuary tem\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139687628808193,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:50 +0000 2019",
+        "text": "RT @KingTutNews: The intimate embrace of Ramesses III and the goddess Isis underscores the divine nature of the deceased Egyptian monarch.\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139677851881473,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:48 +0000 2019",
+        "text": "RT @KingTutNews: The sanctuary of the mortuary temple of Ramesses II at Abu Simbel holds seated statues of the gods Ptah, Amun, Ramesses, a\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139671577145344,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:46 +0000 2019",
+        "text": "RT @KingTutNews: Black granite statue of Ramesses II, the great pharaoh whose images and works strive to personify the ideal of divine king\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139657069092870,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:43 +0000 2019",
+        "text": "RT @KingTutNews: The gods Thoth and Horus pour water over the king in a ritual lustration. Temple of Horus, Edfu. Theologically, the Egypti\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139652174336000,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:41 +0000 2019",
+        "text": "RT @KingTutNews: Painted wooden 'ear stela' of Bai with three pairs of ears representing divine hearing of the worshiper's prayer. From Dei\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139643584364545,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:39 +0000 2019",
+        "text": "RT @KingTutNews: Detail of Ramessesnakht donating a statue of the Theban family, Amun in the god seated in the middle of the little group w\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139638865768448,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:38 +0000 2019",
+        "text": "RT @KingTutNews: 'Opening of the mouth' scene, Tomb of Inherkha, Thebes. https://t.co/CnHLRnH1Zl",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139629428596737,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:36 +0000 2019",
+        "text": "RT @KingTutNews: Usurped representation depicts the offering of a diminutive image of the goddess Maat \u2014 symbol of the Egyptian monarch's r\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139623036456960,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:35 +0000 2019",
+        "text": "RT @KingTutNews: Amenophis III offers incense and a libation over a richly laden altar 18th dynasty. Luxor Temple. Although usually represe\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139612462616578,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:32 +0000 2019",
+        "text": "RT @KingTutNews: The 'Restoration Stela' of Tutankhamun documenting the return to orthodox Egyptian religion and the restitution of the Amu\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139607588904960,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:31 +0000 2019",
+        "text": "RT @KingTutNews: Painted limestone stela depicting Akhenaten and Nefertiti with infant princesses. The disk of the solar Men shines on the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139595379236865,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:28 +0000 2019",
+        "text": "RT @KingTutNews: Tuthmosis III (at left) offers incense and libation before Amun, the Theban god who rose to national pre-eminence during N\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139590547451910,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:27 +0000 2019",
+        "text": "RT @KingTutNews: The great god Amun-Re (left),Seen here receiving the gift of `meret chests' from Ramesses II, represented the syncretism o\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139566665097218,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:21 +0000 2019",
+        "text": "RT @KingTutNews: The solar god Re-Horakhty blesses a female worshiper with flower-like rays The combined Re and Horakhty were joined into a\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139561514479616,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:20 +0000 2019",
+        "text": "RT @KingTutNews: Crouching deity in the hieroglyphic pose for 'god'. The Egyptians often used such generic images of deities to represent t\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139551821455362,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:18 +0000 2019",
+        "text": "RT @KingTutNews: Despite his divinity, the death of the god Osiris plays a central role in Egyptian mythology. He is mourned by his sisters\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139539003662336,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:14 +0000 2019",
+        "text": "RT @KingTutNews: The air god Shu, assisted by other deities, supports the sky goddess Nut above her husband, the earth god Geb. 21st/22nd d\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139533811048448,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:13 +0000 2019",
+        "text": "RT @KingTutNews: One variant of the Great Ennead or 'group of nine deities' which here consists of (right to left) the sun god Re-Horakhty\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139521874038785,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:10 +0000 2019",
+        "text": "RT @KingTutNews: Some of the earliest anthropomorphic images known from Egypt seem to fuse the human form with zoomorphic characteristics a\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139516476055553,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:09 +0000 2019",
+        "text": "RT @KingTutNews: Psamtik protected by Hathor in the form of a cow; from the tomb of Psamtik at Saqqara; late Dynasty 26; greywacke, h. 96 c\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139505138831362,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:06 +0000 2019",
+        "text": "RT @KingTutNews: The king performing rituals of cosmic maintenance for the god. Mammisi of the Temple of Edfu. https://t.co/9AuDNeh3hH",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139499614953474,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:05 +0000 2019",
+        "text": "RT @KingTutNews: The solid gold death mask of Psusennes I. https://t.co/hLSKdVnbFQ",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139489800249345,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:03 +0000 2019",
+        "text": "RT @KingTutNews: The defeat of the Sea Peoples by Ramesses III. Medinet Habu. https://t.co/mgjMaRmbwV",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139479155064835,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:32:00 +0000 2019",
+        "text": "RT @KingTutNews: Hittite chariotry in action against the Egyptians at the Battle of Kadesh. Note the heavier build of the Hittite chariots\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139471341113344,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:31:58 +0000 2019",
+        "text": "RT @KingTutNews: The king as priest before Ptah: performing the \u201cspell for breaking the clay seal (of the god\u2019s shrine)\u201d, an episode in the\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139460503003136,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:31:56 +0000 2019",
+        "text": "RT @KingTutNews: Karnak. Propylon of the temple of Khonsu built by Ptolemy III. https://t.co/uqpCiSYy8Z",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    }
+]

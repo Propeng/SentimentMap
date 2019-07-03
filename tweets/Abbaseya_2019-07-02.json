@@ -1,0 +1,1051 @@
+[
+    {
+        "id": 1146204258754355201,
+        "user": "SamaHesham3",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 23:49:25 +0000 2019",
+        "text": "looks like someone I\u2019d like to annoy forever.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146195521981358088,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 23:14:42 +0000 2019",
+        "text": "Here\u2019s a song for you\u2026 Ain't No Mountain High Enough by Marvin Gaye\nhttps://t.co/E8br27jIux",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/E8br27jIux",
+                "expanded_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX?si=Mm_DLm7gQaOSgvFIzqqC8w",
+                "display_url": "open.spotify.com/track/7tqhbajS\u2026",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146192443152502784,
+        "user": "Marim_Soliman",
+        "user_location": "Alexandria, Egypt",
+        "date": "Tue Jul 02 23:02:28 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146191854205095938,
+        "user": "gehadsediek5",
+        "user_location": "Nasr city",
+        "date": "Tue Jul 02 23:00:07 +0000 2019",
+        "text": "Baby blue  \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d https://t.co/Wh94zs84xl",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Wh94zs84xl",
+                "expanded_url": "https://www.facebook.com/100024054247239/posts/477682009710270/",
+                "display_url": "facebook.com/10002405424723\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146191047304916992,
+        "user": "_neffertiti_",
+        "user_location": "",
+        "date": "Tue Jul 02 22:56:55 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146191002325176322,
+        "user": "saadalsaadii",
+        "user_location": "\u0643\u0648\u064a\u062a \u0627\u0644\u0645\u062c\u062f ",
+        "date": "Tue Jul 02 22:56:44 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/Pkc5jKxfrD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Pkc5jKxfrD",
+                "expanded_url": "https://www.swarmapp.com/c/9MM1XJuBnqR",
+                "display_url": "swarmapp.com/c/9MM1XJuBnqR",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146190823320694784,
+        "user": "nonefav",
+        "user_location": "Alexandria, Egypt",
+        "date": "Tue Jul 02 22:56:02 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146190520995241984,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Tue Jul 02 22:54:50 +0000 2019",
+        "text": "You save everyone, but who saves you?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146189286007422981,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 22:49:55 +0000 2019",
+        "text": "temperature down 34\u00b0C -&gt; 28\u00b0C\nhumidity up 32% -&gt; 58%",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146187766260207616,
+        "user": "DaliaSafwaat",
+        "user_location": "",
+        "date": "Tue Jul 02 22:43:53 +0000 2019",
+        "text": "RT @youmnaaAshraf: i feel like giving up on everything, i\u2019m so tired of trying",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "youmnaaAshraf",
+                "name": "youmna",
+                "id": 2342189012,
+                "id_str": "2342189012",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146187236494495744,
+        "user": "SultanTWB",
+        "user_location": "\ud83c\uddfa\ud83c\uddf8,Jeddah",
+        "date": "Tue Jul 02 22:41:46 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/q99Mc1235l",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/q99Mc1235l",
+                "expanded_url": "https://www.swarmapp.com/c/kBAvK83IZRL",
+                "display_url": "swarmapp.com/c/kBAvK83IZRL",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146186589015629827,
+        "user": "AKA_595",
+        "user_location": "Kuwait, Cairo",
+        "date": "Tue Jul 02 22:39:12 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo w/ @nataliealsh1 https://t.co/cXo7n27Paw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cXo7n27Paw",
+                "expanded_url": "https://www.swarmapp.com/c/fkUBXAzgjZH",
+                "display_url": "swarmapp.com/c/fkUBXAzgjZH",
+                "indices": [
+                    49,
+                    72
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Nataliealsh1",
+                "name": "natalie",
+                "id": 3210367136,
+                "id_str": "3210367136",
+                "indices": [
+                    35,
+                    48
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146184913097494528,
+        "user": "_Yx24",
+        "user_location": "\ud83d\udd1d",
+        "date": "Tue Jul 02 22:32:33 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/FFsY4fIHky",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FFsY4fIHky",
+                "expanded_url": "https://www.swarmapp.com/c/lXAItzFFJ6j",
+                "display_url": "swarmapp.com/c/lXAItzFFJ6j",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146184403451858949,
+        "user": "Saraaah177",
+        "user_location": "+966",
+        "date": "Tue Jul 02 22:30:31 +0000 2019",
+        "text": "I'm at @AlMasahHotel in Nasr City, Cairo https://t.co/tzzw2rclw4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0611646,
+                31.31713714
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tzzw2rclw4",
+                "expanded_url": "https://www.swarmapp.com/c/7XEYuHK87Dk",
+                "display_url": "swarmapp.com/c/7XEYuHK87Dk",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AlMasahHotel",
+                "name": "Al Masah Hotel",
+                "id": 3324102412,
+                "id_str": "3324102412",
+                "indices": [
+                    7,
+                    20
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146184392156602369,
+        "user": "ReffOo7",
+        "user_location": "Nasr city",
+        "date": "Tue Jul 02 22:30:28 +0000 2019",
+        "text": "@radwaarefatt Wins eh b2a !?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "radwaarefatt",
+                "name": "\u1d3f\u1d2c\u1d30\u1d42\u1d2c'\ud83d\udc8b",
+                "id": 1137690859418333185,
+                "id_str": "1137690859418333185",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146180821847543809,
+        "user": "omarhussien98",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 22:16:17 +0000 2019",
+        "text": "Ask me anything! https://t.co/rjGaynbC9K",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rjGaynbC9K",
+                "expanded_url": "https://curiouscat.me/omarhussien98?t=1562105777",
+                "display_url": "curiouscat.me/omarhussien98?\u2026",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146179054283960320,
+        "user": "WalMe7dar",
+        "user_location": "Jeddah, Makkah Al Mukarrama",
+        "date": "Tue Jul 02 22:09:16 +0000 2019",
+        "text": "I'm at Bab El Nil - @fairmonthotels in Cairo https://t.co/AtTwNJd2od",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07221713,
+                31.22778863
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AtTwNJd2od",
+                "expanded_url": "https://www.swarmapp.com/c/4Wd7K871wzs",
+                "display_url": "swarmapp.com/c/4Wd7K871wzs",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    20,
+                    35
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146177655521325056,
+        "user": "Majed60z",
+        "user_location": "",
+        "date": "Tue Jul 02 22:03:42 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/Yl4xutwneB",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Yl4xutwneB",
+                "expanded_url": "https://www.instagram.com/p/BzbjHXClnHd/?igshid=1iz613mion500",
+                "display_url": "instagram.com/p/BzbjHXClnHd/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146177081799303168,
+        "user": "3bd0gom3a",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 22:01:25 +0000 2019",
+        "text": "I told you that before i can\u2019t imagine my life without you and how you\u2019re so important to me... after this you choose to walk away...!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146165601028771840,
+        "user": "Jahelo_",
+        "user_location": "Nasr city ",
+        "date": "Tue Jul 02 21:15:48 +0000 2019",
+        "text": "You are the song \nI always wanna hear :')",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146164495200464896,
+        "user": "OmarSam71214125",
+        "user_location": "nasr city ",
+        "date": "Tue Jul 02 21:11:25 +0000 2019",
+        "text": "Completely destroyed ..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146153583886372871,
+        "user": "Andrew_Shenouda",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 20:28:03 +0000 2019",
+        "text": "Summer Night in Cairo\n.\n.\n.\n.\n.\n#everydayegypt #cityscape #cairo #egypt #unlimitedegypt #night #city_explore\u2026 https://t.co/iSIlgFHxKO",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/iSIlgFHxKO",
+                "expanded_url": "https://twitter.com/i/web/status/1146153583886372871",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146148115742961664,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 20:06:19 +0000 2019",
+        "text": "The Lebanese cuisine became my favorite one forever khalaaass\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146145781126053888,
+        "user": "BozenaSz",
+        "user_location": "South America/the Middle East",
+        "date": "Tue Jul 02 19:57:03 +0000 2019",
+        "text": "Egypt\u2019s sprawling capital Cairo is the largest city in the Arab World and the center of the largest metropolitan ar\u2026 https://t.co/uJvHximqRC",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/uJvHximqRC",
+                "expanded_url": "https://twitter.com/i/web/status/1146145781126053888",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146142169981341696,
+        "user": "Zubzub131",
+        "user_location": "Antarctica",
+        "date": "Tue Jul 02 19:42:42 +0000 2019",
+        "text": "RT @MindCap: this aqua girl lookin....................................fine i guess",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146139077445599233,
+        "user": "HBadgerDairies",
+        "user_location": "Dubai",
+        "date": "Tue Jul 02 19:30:24 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/bQH9guJiZ4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bQH9guJiZ4",
+                "expanded_url": "https://www.instagram.com/p/BzbRkWSJ570/?igshid=1u30xxofb73ea",
+                "display_url": "instagram.com/p/BzbRkWSJ570/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146123565617623040,
+        "user": "Eltagpharmhotm3",
+        "user_location": "Nasr city ",
+        "date": "Tue Jul 02 18:28:46 +0000 2019",
+        "text": "\u2708\u2622\nVIOLET EARTH\nhttps://t.co/n4si1bxN7U",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/n4si1bxN7U",
+                "expanded_url": "https://youtu.be/GzxDmQ2Tavs",
+                "display_url": "youtu.be/GzxDmQ2Tavs",
+                "indices": [
+                    16,
+                    39
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146118512655708162,
+        "user": "sandmanmaverick",
+        "user_location": "Dubai, United Arab Emirates",
+        "date": "Tue Jul 02 18:08:41 +0000 2019",
+        "text": "\u201cThe grill is the summer \u2600\ufe0f equivalent of a fireplace \ud83d\udd25; everyone gravitates to it \ud83e\udd17..#lunch #foodgasm #foodporn\u2026 https://t.co/Ge5JL0pF8N",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Ge5JL0pF8N",
+                "expanded_url": "https://twitter.com/i/web/status/1146118512655708162",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146113299525906432,
+        "user": "islamwahhab",
+        "user_location": "nasr city",
+        "date": "Tue Jul 02 17:47:59 +0000 2019",
+        "text": "watching AMI Films",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146104248834244609,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 17:12:01 +0000 2019",
+        "text": "current weather in Cairo: clear sky, 34\u00b0C\n32% humidity, wind 4kmh, pressure 1009mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146102709109395456,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 17:05:54 +0000 2019",
+        "text": "Cairo: 8:00pm: sunset",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146095880983855104,
+        "user": "Mahmoud_Ali74",
+        "user_location": "Maadi",
+        "date": "Tue Jul 02 16:38:46 +0000 2019",
+        "text": "Wait US \ud83d\udcaa\ud83c\udffb \ud83d\udd25\u270b\ud83c\udffb\ud83d\udc6e\ud83c\udffb @ Cairo, Egypt https://t.co/2Q7oHw0Zdd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2Q7oHw0Zdd",
+                "expanded_url": "https://www.instagram.com/p/Bza97YfnP0LFgo2b6UbKbVlT73Xa_5r4S3KK3A0/?igshid=1gqvfukahx2m5",
+                "display_url": "instagram.com/p/Bza97YfnP0LF\u2026",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146095588041199620,
+        "user": "ghalyaaa6",
+        "user_location": "",
+        "date": "Tue Jul 02 16:37:36 +0000 2019",
+        "text": "I'm at Fairmont Nile City Sky Pool - @fairmonthotels in Cairo https://t.co/43wkdu7Qxg",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07170954,
+                31.22761791
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/43wkdu7Qxg",
+                "expanded_url": "https://www.swarmapp.com/c/5TkiaF1nhYQ",
+                "display_url": "swarmapp.com/c/5TkiaF1nhYQ",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    37,
+                    52
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146084340524130304,
+        "user": "Talal9910",
+        "user_location": "Egypt - Cairo - (AlRehab city)",
+        "date": "Tue Jul 02 15:52:54 +0000 2019",
+        "text": "Green weekend \u267b\ufe0f\u2705 @ Cairo, Egypt https://t.co/8iHOVR0sJb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/8iHOVR0sJb",
+                "expanded_url": "https://www.instagram.com/p/Bza4rYcnk9kLJUJB16UfJbFiaOfkSq1VF80d780/?igshid=ofxbvo0s3jm4",
+                "display_url": "instagram.com/p/Bza4rYcnk9kL\u2026",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146079459025543168,
+        "user": "shakeoffx",
+        "user_location": "Algeria",
+        "date": "Tue Jul 02 15:33:30 +0000 2019",
+        "text": "RT @MindCap: this aqua girl lookin....................................fine i guess",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146071131172028421,
+        "user": "islamwahhab",
+        "user_location": "nasr city",
+        "date": "Tue Jul 02 15:00:25 +0000 2019",
+        "text": "\u2764 \u2014 watching FIVE FEET APART",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146049857427296256,
+        "user": "MarkosQz",
+        "user_location": "Campinas -SP",
+        "date": "Tue Jul 02 13:35:53 +0000 2019",
+        "text": "In my heart, in this cold heart\nI can live or I can die\nI believe if I just try\n\u2026\nI'm probably wrong\nMaybe this tim\u2026 https://t.co/WpWJsIm6zv",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04894353,
+                31.25588894
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WpWJsIm6zv",
+                "expanded_url": "https://twitter.com/i/web/status/1146049857427296256",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146045928610156546,
+        "user": "Nnakhal",
+        "user_location": "",
+        "date": "Tue Jul 02 13:20:16 +0000 2019",
+        "text": "chase your stars, fool\nDesigner: enaskomsan.designs \nMakeup: makeupbyessmat @ Windsor Hotel (Cairo) https://t.co/n1AS58o3xT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05337169,
+                31.24563719
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/n1AS58o3xT",
+                "expanded_url": "https://www.instagram.com/p/BzanNYAFD4r/?igshid=1mwbrx8wsri2y",
+                "display_url": "instagram.com/p/BzanNYAFD4r/\u2026",
+                "indices": [
+                    100,
+                    123
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146041614562934784,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 13:03:07 +0000 2019",
+        "text": "this aqua girl lookin....................................fine i guess",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146037987697930240,
+        "user": "HagarEsmailA",
+        "user_location": "Nasr City",
+        "date": "Tue Jul 02 12:48:43 +0000 2019",
+        "text": "@VodafoneEgypt @VodafoneEgypt  till Now no one has contacted me to solve my issue !!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "VodafoneEgypt",
+                "name": "Vodafone Egypt",
+                "id": 56355963,
+                "id_str": "56355963",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "VodafoneEgypt",
+                "name": "Vodafone Egypt",
+                "id": 56355963,
+                "id_str": "56355963",
+                "indices": [
+                    15,
+                    29
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146036359636955136,
+        "user": "Shmos_Net",
+        "user_location": "Nasr City egypt",
+        "date": "Tue Jul 02 12:42:15 +0000 2019",
+        "text": "Smashing Soccer 2  - https://t.co/cVf8XMJUcV",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cVf8XMJUcV",
+                "expanded_url": "https://games.shmosnet.com/2013/08/smashing-soccer-2.html&text=Smashing%20Soccer%202%20%20-",
+                "display_url": "games.shmosnet.com/2013/08/smashi\u2026",
+                "indices": [
+                    21,
+                    44
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146035397270659073,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 12:38:25 +0000 2019",
+        "text": "I'm at Friends Center https://t.co/nXrPwMcnlP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07270948,
+                31.27918025
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nXrPwMcnlP",
+                "expanded_url": "https://www.swarmapp.com/c/9uxtTZHnQrE",
+                "display_url": "swarmapp.com/c/9uxtTZHnQrE",
+                "indices": [
+                    22,
+                    45
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146022574708707328,
+        "user": "manastar23",
+        "user_location": "Nasr city",
+        "date": "Tue Jul 02 11:47:28 +0000 2019",
+        "text": "I'd gladly give my life to watch all of you swallow it \ud83d\ude08",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146017943542738944,
+        "user": "Mazen00140758",
+        "user_location": "Nasr city",
+        "date": "Tue Jul 02 11:29:04 +0000 2019",
+        "text": "@_Erroor love you",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Erroor",
+                "name": "Error.",
+                "id": 1010122435373518848,
+                "id_str": "1010122435373518848",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1146012834561552384,
+        "user": "fatmabodoma",
+        "user_location": "Earth",
+        "date": "Tue Jul 02 11:08:46 +0000 2019",
+        "text": "2otna cotton candy, the mother of Numelhum and my guardian angel , she is the queen of the house ,she took good car\u2026 https://t.co/lAJxMSU05O",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/lAJxMSU05O",
+                "expanded_url": "https://twitter.com/i/web/status/1146012834561552384",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    }
+]

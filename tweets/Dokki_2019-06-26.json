@@ -25,14 +25,51 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Mohandesin in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Mohandesin",
-            "Mohandesin",
-            ",",
-            "Giza"
+        "region": "Dokki"
+    },
+    {
+        "id": 1144006749281804289,
+        "user": "ali8991892",
+        "user_location": "UAE , Egypt",
+        "date": "Wed Jun 26 22:17:18 +0000 2019",
+        "text": "RT @AmiiraAyman: tell me about your Mother",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1144004886306217984,
+        "user": "__mariamtaher__",
+        "user_location": "Alexandria",
+        "date": "Wed Jun 26 22:09:54 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -73,14 +110,214 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Mohandesin",
-            ",",
-            "Giza"
+        "region": "Dokki"
+    },
+    {
+        "id": 1143992891603398656,
+        "user": "jowiriagmal",
+        "user_location": "",
+        "date": "Wed Jun 26 21:22:14 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143987422994345987,
+        "user": "Bassant24900113",
+        "user_location": "El Daqahlia, Egypt",
+        "date": "Wed Jun 26 21:00:30 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143985751706783746,
+        "user": "bassiony_gamal",
+        "user_location": "Alexandria, Egypt",
+        "date": "Wed Jun 26 20:53:52 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143976941881573377,
+        "user": "rahma_esmaill",
+        "user_location": "Stars..",
+        "date": "Wed Jun 26 20:18:51 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143975635926290432,
+        "user": "ArwaAkram2",
+        "user_location": "",
+        "date": "Wed Jun 26 20:13:40 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143975428878733314,
+        "user": "Salmamokhtarrr",
+        "user_location": "Port Said, Egypt",
+        "date": "Wed Jun 26 20:12:50 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143972388217995271,
+        "user": "AhmedSaqa7",
+        "user_location": "\u0627\u0644\u062c\u064a\u0632\u0629 - \u0645\u0635\u0631",
+        "date": "Wed Jun 26 20:00:45 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143971350664683525,
+        "user": "Terrified45",
+        "user_location": "Cairo,Egypt ",
+        "date": "Wed Jun 26 19:56:38 +0000 2019",
+        "text": "RT @AmiiraAyman: I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143970757233524736,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Wed Jun 26 19:54:17 +0000 2019",
+        "text": "I need to travel",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1143956534243864576,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Wed Jun 26 18:57:46 +0000 2019",
+        "text": "tell me about your Mother",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
         "region": "Dokki"
     },
     {
@@ -109,23 +346,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "The madness of Cairo. Best viewed from a sky bar. #cairo @ Ramses Hilton",
-        "without_stowords": [
-            "The",
-            "madness",
-            "Cairo",
-            ".",
-            "Best",
-            "viewed",
-            "sky",
-            "bar",
-            ".",
-            "#",
-            "cairo",
-            "@",
-            "Ramses",
-            "Hilton"
-        ],
         "region": "Dokki"
     },
     {
@@ -154,22 +374,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Four Seasons Hotel Cairo at First Residence in Cairo, Mu\u1e29\u0101faz\u0327at al J\u012bzah",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "First",
-            "Residence",
-            "Cairo",
-            ",",
-            "Mu\u1e29\u0101faz\u0327at",
-            "al",
-            "J\u012bzah"
-        ],
         "region": "Dokki"
     },
     {
@@ -198,27 +402,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\ud835\ude20\ud835\ude22 \ud835\ude14\ud835\ude22\ud835\ude2b\ud835\ude26\ud835\ude26\ud835\ude25, \ud835\ude12\ud835\ude26\ud835\ude26\ud835\ude31 \ud835\ude2e\ud835\ude26 \ud835\ude36\ud835\ude2f\ud835\ude25\ud835\ude26\ud835\ude33 \ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33 \ud835\ude14\ud835\ude26\ud835\ude33\ud835\ude24\ud835\ude3a\u2019\ud835\ude34 \ud835\ude1a\ud835\ude29\ud835\ude22\ud835\ude25\ud835\ude26 Ameen\ud83e\udde1\ud83e\udd32\ud83c\udffb\u2063 \u2063 This beautiful dua is in the fuego nasheed\u2026",
-        "without_stowords": [
-            "\ud835\ude20\ud835\ude22",
-            "\ud835\ude14\ud835\ude22\ud835\ude2b\ud835\ude26\ud835\ude26\ud835\ude25",
-            ",",
-            "\ud835\ude12\ud835\ude26\ud835\ude26\ud835\ude31",
-            "\ud835\ude2e\ud835\ude26",
-            "\ud835\ude36\ud835\ude2f\ud835\ude25\ud835\ude26\ud835\ude33",
-            "\ud835\ude3a\ud835\ude30\ud835\ude36\ud835\ude33",
-            "\ud835\ude14\ud835\ude26\ud835\ude33\ud835\ude24\ud835\ude3a",
-            "\u2019",
-            "\ud835\ude34",
-            "\ud835\ude1a\ud835\ude29\ud835\ude22\ud835\ude25\ud835\ude26",
-            "Ameen\ud83e\udde1\ud83e\udd32\ud83c\udffb\u2063",
-            "\u2063",
-            "This",
-            "beautiful",
-            "dua",
-            "fuego",
-            "nasheed\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -247,26 +430,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "All the very best to our National Team \u2014 The Uganda Cranes at the #AFCON2019. Raise our flag high, cheering you on\u2026",
-        "without_stowords": [
-            "All",
-            "best",
-            "National",
-            "Team",
-            "\u2014",
-            "The",
-            "Uganda",
-            "Cranes",
-            "#",
-            "AFCON2019",
-            ".",
-            "Raise",
-            "flag",
-            "high",
-            ",",
-            "cheering",
-            "on\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -306,22 +469,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at Four Seasons Hotel Cairo at Nile Plaza in Garden City, Cairo w/",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "Nile",
-            "Plaza",
-            "Garden",
-            "City",
-            ",",
-            "Cairo",
-            "w/"
-        ],
         "region": "Dokki"
     },
     {
@@ -350,14 +497,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Sarmady",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Sarmady"
-        ],
         "region": "Dokki"
     },
     {
@@ -397,23 +536,6 @@
                 ]
             }
         ],
-        "filtered_text": "Our best wishes to the out in Egypt at the #AFCON2019 tournament. Go Cranes, cheering you on, our bo\u2026",
-        "without_stowords": [
-            "Our",
-            "best",
-            "wishes",
-            "Egypt",
-            "#",
-            "AFCON2019",
-            "tournament",
-            ".",
-            "Go",
-            "Cranes",
-            ",",
-            "cheering",
-            ",",
-            "bo\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -442,23 +564,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Ever thought about being a Summer Internship - Marketing and Communication? An opportunity to join GE has arisen in\u2026",
-        "without_stowords": [
-            "Ever",
-            "thought",
-            "Summer",
-            "Internship",
-            "-",
-            "Marketing",
-            "Communication",
-            "?",
-            "An",
-            "opportunity",
-            "join",
-            "GE",
-            "arisen",
-            "in\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -487,18 +592,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "#Lets go boys \ud83c\uddff\ud83c\uddfc\ud83c\uddfa\ud83c\uddec @ Cairo, Egypt",
-        "without_stowords": [
-            "#",
-            "Lets",
-            "go",
-            "boys",
-            "\ud83c\uddff\ud83c\uddfc\ud83c\uddfa\ud83c\uddec",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -527,16 +620,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -565,28 +648,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Sometimes it's hard to face reality. . #shotoniphone #shootoniphone #vsco #vscocam #vscocam_my #potrait\u2026",
-        "without_stowords": [
-            "Sometimes",
-            "'s",
-            "hard",
-            "face",
-            "reality",
-            ".",
-            ".",
-            "#",
-            "shotoniphone",
-            "#",
-            "shootoniphone",
-            "#",
-            "vsco",
-            "#",
-            "vscocam",
-            "#",
-            "vscocam_my",
-            "#",
-            "potrait\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -626,14 +687,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -665,21 +718,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "A great pleasure to be sharing my experience on . I'll be publishing monthly Op-Ed articles\u2026",
-        "without_stowords": [
-            "A",
-            "great",
-            "pleasure",
-            "sharing",
-            "experience",
-            ".",
-            "I",
-            "'ll",
-            "publishing",
-            "monthly",
-            "Op-Ed",
-            "articles\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -708,36 +746,12 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Self-discipline! . #Limitless #Gym #Gymaholic #Gymrat #Motivation #Physique #Shredded #CrossFit #BodyBuilding\u2026",
-        "without_stowords": [
-            "Self-discipline",
-            "!",
-            ".",
-            "#",
-            "Limitless",
-            "#",
-            "Gym",
-            "#",
-            "Gymaholic",
-            "#",
-            "Gymrat",
-            "#",
-            "Motivation",
-            "#",
-            "Physique",
-            "#",
-            "Shredded",
-            "#",
-            "CrossFit",
-            "#",
-            "BodyBuilding\u2026"
-        ],
         "region": "Dokki"
     },
     {
         "id": 1143840959211417600,
         "user": "Dalal_alm90",
-        "user_location": "Cairo, Egypt",
+        "user_location": "Kuwait",
         "date": "Wed Jun 26 11:18:30 +0000 2019",
         "text": "I'm at Embassy of the State of Kuwait in Dokki, Mu\u1e29\u0101faz\u0327at al J\u012bzah, Giza - Egypt https://t.co/3s3IMtKhgp",
         "geo": {
@@ -760,23 +774,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Embassy of the State of Kuwait in Dokki, Mu\u1e29\u0101faz\u0327at al J\u012bzah, Giza - Egypt",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Embassy",
-            "State",
-            "Kuwait",
-            "Dokki",
-            ",",
-            "Mu\u1e29\u0101faz\u0327at",
-            "al",
-            "J\u012bzah",
-            ",",
-            "Giza",
-            "-",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -805,16 +802,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -843,16 +830,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -871,26 +848,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 37\u00b0C 20% humidity, wind 3kmh, pressure 1010mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "37\u00b0C",
-            "20",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "3kmh",
-            ",",
-            "pressure",
-            "1010mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -919,28 +876,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "C L A S S Y \u2728 S T Y L E @ Four Seasons Hotel Cairo at Nile Plaza",
-        "without_stowords": [
-            "C",
-            "L",
-            "A",
-            "S",
-            "S",
-            "Y",
-            "\u2728",
-            "S",
-            "T",
-            "Y",
-            "L",
-            "E",
-            "@",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "Nile",
-            "Plaza"
-        ],
         "region": "Dokki"
     },
     {
@@ -969,21 +904,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "A gorgeous 38\u00b0c here just outside Cairo today! #noneedforraincoatshere @ Cairo Governorate",
-        "without_stowords": [
-            "A",
-            "gorgeous",
-            "38\u00b0c",
-            "outside",
-            "Cairo",
-            "today",
-            "!",
-            "#",
-            "noneedforraincoatshere",
-            "@",
-            "Cairo",
-            "Governorate"
-        ],
         "region": "Dokki"
     },
     {
@@ -1012,25 +932,28 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "If jobs with titles like \"Solution Architect IP/PC\" sound appealing to you, follow us to hear about these types of\u2026",
-        "without_stowords": [
-            "If",
-            "jobs",
-            "titles",
-            "like",
-            "``",
-            "Solution",
-            "Architect",
-            "IP/PC",
-            "''",
-            "sound",
-            "appealing",
-            ",",
-            "follow",
-            "us",
-            "hear",
-            "types",
-            "of\u2026"
+        "region": "Dokki"
+    },
+    {
+        "id": 1143792195780141056,
+        "user": "nody_tarek4",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jun 26 08:04:44 +0000 2019",
+        "text": "RT @AmiiraAyman: Mood https://t.co/48wtRQDBnM",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -1060,16 +983,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Out and about #afcon2019 @ Cairo, Egypt",
-        "without_stowords": [
-            "Out",
-            "#",
-            "afcon2019",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -1092,16 +1005,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Zero humanity, sad world we live in.",
-        "without_stowords": [
-            "Zero",
-            "humanity",
-            ",",
-            "sad",
-            "world",
-            "live",
-            "."
-        ],
         "region": "Dokki"
     },
     {
@@ -1130,24 +1033,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Privileged to spend some time at #afcon2019 and see some #football; and a necessary visit to a pile of stones.....\ud83d\ude09\u2026",
-        "without_stowords": [
-            "Privileged",
-            "spend",
-            "time",
-            "#",
-            "afcon2019",
-            "see",
-            "#",
-            "football",
-            ";",
-            "necessary",
-            "visit",
-            "pile",
-            "stones",
-            "...",
-            "..\ud83d\ude09\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1187,23 +1072,28 @@
                 ]
             }
         ],
-        "filtered_text": "Our best wishes to the out in Egypt at the #AFCON2019 tournament. Go Cranes, cheering you on, our bo\u2026",
-        "without_stowords": [
-            "Our",
-            "best",
-            "wishes",
-            "Egypt",
-            "#",
-            "AFCON2019",
-            "tournament",
-            ".",
-            "Go",
-            "Cranes",
-            ",",
-            "cheering",
-            ",",
-            "bo\u2026"
+        "region": "Dokki"
+    },
+    {
+        "id": 1143741149854801920,
+        "user": "iIl15l",
+        "user_location": "",
+        "date": "Wed Jun 26 04:41:54 +0000 2019",
+        "text": "Nice\ud83d\udc9e. https://t.co/TqUTlkvrbF",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/TqUTlkvrbF",
+                "expanded_url": "https://twitter.com/maisonbijouxx/status/1140379101267681285",
+                "display_url": "twitter.com/maisonbijouxx/\u2026",
+                "indices": [
+                    7,
+                    30
+                ]
+            }
         ],
+        "mentions": [],
         "region": "Dokki"
     },
     {
@@ -1232,16 +1122,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Pull up @ Pyramid,Giza,Egypt",
-        "without_stowords": [
-            "Pull",
-            "@",
-            "Pyramid",
-            ",",
-            "Giza",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -1260,26 +1140,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 27\u00b0C 65% humidity, wind 3kmh, pressure 1010mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "27\u00b0C",
-            "65",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "3kmh",
-            ",",
-            "pressure",
-            "1010mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -1298,16 +1158,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Cairo: 5:55am: sunrise sunset will be at 7:59pm",
-        "without_stowords": [
-            "Cairo",
-            ":",
-            "5:55am",
-            ":",
-            "sunrise",
-            "sunset",
-            "7:59pm"
-        ],
         "region": "Dokki"
     },
     {
@@ -1336,16 +1186,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Pottery Cafe in Zamalek, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Pottery",
-            "Cafe",
-            "Zamalek",
-            ",",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -1374,13 +1214,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Giza in Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Giza",
-            "Giza"
-        ],
         "region": "Dokki"
     }
 ]

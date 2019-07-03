@@ -20,15 +20,6 @@
                 ]
             }
         ],
-        "filtered_text": "King of Egypt \u2764 https://t.co/w3KlR6sK7u",
-        "without_stowords": [
-            "King",
-            "Egypt",
-            "\u2764",
-            "https",
-            ":",
-            "//t.co/w3KlR6sK7u"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -41,13 +32,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Fake people every where !",
-        "without_stowords": [
-            "Fake",
-            "people",
-            "every",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -70,20 +54,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "#ThankYouWitStudio for what can only be described as a masterpiece. You have set the bar for what a great anime is.",
-        "without_stowords": [
-            "#",
-            "ThankYouWitStudio",
-            "described",
-            "masterpiece",
-            ".",
-            "You",
-            "set",
-            "bar",
-            "great",
-            "anime",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -112,16 +82,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo International Stadium",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -144,10 +104,6 @@
                     16
                 ]
             }
-        ],
-        "filtered_text": "Albyy\ud83d\ude02\ud83d\ude02\ud83c\udf55",
-        "without_stowords": [
-            "Albyy\ud83d\ude02\ud83d\ude02\ud83c\udf55"
         ],
         "region": "Heliopolis"
     },
@@ -172,18 +128,6 @@
                 ]
             }
         ],
-        "filtered_text": "I\u2019m proud to be your partner \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udc8d\ud83d\udc8d\ud83d\udc8d .. and proud to have you a fianc\u00e9 \u2764\ufe0f\u2764\ufe0f\ud83d\udc8d\ud83d\udc8d",
-        "without_stowords": [
-            "I",
-            "\u2019",
-            "proud",
-            "partner",
-            "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udc8d\ud83d\udc8d\ud83d\udc8d",
-            "..",
-            "proud",
-            "fianc\u00e9",
-            "\u2764\ufe0f\u2764\ufe0f\ud83d\udc8d\ud83d\udc8d"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -196,13 +140,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "One mistake game over.",
-        "without_stowords": [
-            "One",
-            "mistake",
-            "game",
-            "."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -225,25 +162,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "If you could slow down time, what would you do with that power? \u2014 I'll slow down time from jan-2018 to feb-2019 !",
-        "without_stowords": [
-            "If",
-            "could",
-            "slow",
-            "time",
-            ",",
-            "would",
-            "power",
-            "?",
-            "\u2014",
-            "I",
-            "'ll",
-            "slow",
-            "time",
-            "jan-2018",
-            "feb-2019",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -266,11 +184,6 @@
                     8
                 ]
             }
-        ],
-        "filtered_text": "He atoned",
-        "without_stowords": [
-            "He",
-            "atoned"
         ],
         "region": "Heliopolis"
     },
@@ -295,11 +208,6 @@
                 ]
             }
         ],
-        "filtered_text": "Gorgeous \ud83d\ude0d\ud83d\ude0d",
-        "without_stowords": [
-            "Gorgeous",
-            "\ud83d\ude0d\ud83d\ude0d"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -322,15 +230,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "ibrahimhameddd: Mobile photography 2018 \ud83c\uddea\ud83c\uddec",
-        "without_stowords": [
-            "ibrahimhameddd",
-            ":",
-            "Mobile",
-            "photography",
-            "2018",
-            "\ud83c\uddea\ud83c\uddec"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -353,15 +252,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "ibrahimhameddd: 4 Cats Mobilephotography huaweip8lite",
-        "without_stowords": [
-            "ibrahimhameddd",
-            ":",
-            "4",
-            "Cats",
-            "Mobilephotography",
-            "huaweip8lite"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -384,19 +274,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "ibrahimhameddd: Egyptian cats #new 2019 \ud83c\uddea\ud83c\uddec Huaweip8lite \ud83d\udcf1",
-        "without_stowords": [
-            "ibrahimhameddd",
-            ":",
-            "Egyptian",
-            "cats",
-            "#",
-            "new",
-            "2019",
-            "\ud83c\uddea\ud83c\uddec",
-            "Huaweip8lite",
-            "\ud83d\udcf1"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -430,11 +307,6 @@
                 ]
             }
         ],
-        "filtered_text": "Beauty and idiot",
-        "without_stowords": [
-            "Beauty",
-            "idiot"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -458,15 +330,6 @@
                 ]
             }
         ],
-        "filtered_text": "i dont have any furry images saved on my phone sadly",
-        "without_stowords": [
-            "dont",
-            "furry",
-            "images",
-            "saved",
-            "phone",
-            "sadly"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -489,16 +352,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Listen to Kol Haga Betaady by Cairokee on #SoundCloud",
-        "without_stowords": [
-            "Listen",
-            "Kol",
-            "Haga",
-            "Betaady",
-            "Cairokee",
-            "#",
-            "SoundCloud"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -527,13 +380,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Home \u2665",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Home",
-            "\u2665"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -556,11 +402,6 @@
                     14
                 ]
             }
-        ],
-        "filtered_text": "Get in line",
-        "without_stowords": [
-            "Get",
-            "line"
         ],
         "region": "Heliopolis"
     },
@@ -590,25 +431,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "2-0 Egypt at halftime. #africacup #africacupofnations #egypt #uganda @ Cairo International Stadium",
-        "without_stowords": [
-            "2-0",
-            "Egypt",
-            "halftime",
-            ".",
-            "#",
-            "africacup",
-            "#",
-            "africacupofnations",
-            "#",
-            "egypt",
-            "#",
-            "uganda",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -637,34 +459,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "#cairo #egypt #mosalah #salah #mo #when #i#am#lucky#go#egypt#caf2019 @ Cairo International Stadium",
-        "without_stowords": [
-            "#",
-            "cairo",
-            "#",
-            "egypt",
-            "#",
-            "mosalah",
-            "#",
-            "salah",
-            "#",
-            "mo",
-            "#",
-            "#",
-            "#",
-            "#",
-            "lucky",
-            "#",
-            "go",
-            "#",
-            "egypt",
-            "#",
-            "caf2019",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -704,20 +498,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at Stars Cinema - in Heliopolis, Cairo w/ @alwleed0202",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Stars",
-            "Cinema",
-            "-",
-            "Heliopolis",
-            ",",
-            "Cairo",
-            "w/",
-            "@",
-            "alwleed0202"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -740,11 +520,6 @@
                     10
                 ]
             }
-        ],
-        "filtered_text": "WACK off horny",
-        "without_stowords": [
-            "WACK",
-            "horny"
         ],
         "region": "Heliopolis"
     },
@@ -769,17 +544,6 @@
                 ]
             }
         ],
-        "filtered_text": "Yabny da b do3a el 100 million \ud83d\ude02\ud83d\ude02",
-        "without_stowords": [
-            "Yabny",
-            "da",
-            "b",
-            "do3a",
-            "el",
-            "100",
-            "million",
-            "\ud83d\ude02\ud83d\ude02"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -792,14 +556,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "El shenawy man of the match \u2665\ufe0f",
-        "without_stowords": [
-            "El",
-            "shenawy",
-            "man",
-            "match",
-            "\u2665\ufe0f"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -812,14 +568,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "GOOOOAAAAAAALLLLL \ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec https://t.co/3pJQgxqICm",
-        "without_stowords": [
-            "GOOOOAAAAAAALLLLL",
-            "\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec\ud83c\uddea\ud83c\uddec",
-            "https",
-            ":",
-            "//t.co/3pJQgxqICm"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -848,22 +596,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Back here, 12 years later #Egypt #AFCON2019 @ Cairo International Stadium",
-        "without_stowords": [
-            "Back",
-            ",",
-            "12",
-            "years",
-            "later",
-            "#",
-            "Egypt",
-            "#",
-            "AFCON2019",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -892,20 +624,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Happening now \u26bd\ud83c\uddea\ud83c\uddec #AFCON #\u0634\u062c\u0639_\u0645\u0635\u0631 EGYPT @ Cairo International Stadium",
-        "without_stowords": [
-            "Happening",
-            "\u26bd\ud83c\uddea\ud83c\uddec",
-            "#",
-            "AFCON",
-            "#",
-            "\u0634\u062c\u0639_\u0645\u0635\u0631",
-            "EGYPT",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -934,39 +652,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "4 Stadiums in 4 days. New Cairo -&gt; El-Salam -&gt; Ismaeliya -&gt; back to A13 where it all started. #AFCON2019 @ Cairo In\u2026",
-        "without_stowords": [
-            "4",
-            "Stadiums",
-            "4",
-            "days",
-            ".",
-            "New",
-            "Cairo",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "El-Salam",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "Ismaeliya",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "back",
-            "A13",
-            "started",
-            ".",
-            "#",
-            "AFCON2019",
-            "@",
-            "Cairo",
-            "In\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -985,16 +670,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "AFCONEGYPT2019 Egypt vs Uganda https://t.co/fEJcrIy6nN",
-        "without_stowords": [
-            "AFCONEGYPT2019",
-            "Egypt",
-            "vs",
-            "Uganda",
-            "https",
-            ":",
-            "//t.co/fEJcrIy6nN"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1018,13 +693,6 @@
                 ]
             }
         ],
-        "filtered_text": "I found the love \ud83d\ude02\ud83d\ude02\ud83d\udda4\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f",
-        "without_stowords": [
-            "I",
-            "found",
-            "love",
-            "\ud83d\ude02\ud83d\ude02\ud83d\udda4\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1037,19 +705,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Your time is coming, appreciate the process. https://t.co/dvqryyn6an",
-        "without_stowords": [
-            "Your",
-            "time",
-            "coming",
-            ",",
-            "appreciate",
-            "process",
-            ".",
-            "https",
-            ":",
-            "//t.co/dvqryyn6an"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1062,19 +717,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "In my mind there\u2019re no limits I AM LIMITLESS https://t.co/Jrc0bam429",
-        "without_stowords": [
-            "In",
-            "mind",
-            "\u2019",
-            "limits",
-            "I",
-            "AM",
-            "LIMITLESS",
-            "https",
-            ":",
-            "//t.co/Jrc0bam429"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1087,21 +729,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "JUST MAKE SURE YOU KEEP FEEDING YOUR MIND EVERYDAY https://t.co/0FOjX42Ybl",
-        "without_stowords": [
-            "JUST",
-            "MAKE",
-            "SURE",
-            "YOU",
-            "KEEP",
-            "FEEDING",
-            "YOUR",
-            "MIND",
-            "EVERYDAY",
-            "https",
-            ":",
-            "//t.co/0FOjX42Ybl"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1124,14 +751,6 @@
                     11
                 ]
             }
-        ],
-        "filtered_text": "I will literally pay you money NOT to do that",
-        "without_stowords": [
-            "I",
-            "literally",
-            "pay",
-            "money",
-            "NOT"
         ],
         "region": "Heliopolis"
     },
@@ -1156,11 +775,6 @@
                 ]
             }
         ],
-        "filtered_text": "im ashamed",
-        "without_stowords": [
-            "im",
-            "ashamed"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1173,25 +787,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "ok so i have the anime profile picture ready someone send me a google docx of all the uwu's and owo's variations i could use",
-        "without_stowords": [
-            "ok",
-            "anime",
-            "profile",
-            "picture",
-            "ready",
-            "someone",
-            "send",
-            "google",
-            "docx",
-            "uwu",
-            "'s",
-            "owo",
-            "'s",
-            "variations",
-            "could",
-            "use"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1214,25 +809,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "It's Social Media Day! Name your favorite social media apps now! \u2014 i hate them all :)",
-        "without_stowords": [
-            "It",
-            "'s",
-            "Social",
-            "Media",
-            "Day",
-            "!",
-            "Name",
-            "favorite",
-            "social",
-            "media",
-            "apps",
-            "!",
-            "\u2014",
-            "hate",
-            ":",
-            ")"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1255,15 +831,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "did this fucking hit 150 in less than 24 hours",
-        "without_stowords": [
-            "fucking",
-            "hit",
-            "150",
-            "less",
-            "24",
-            "hours"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1286,13 +853,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "CAHILL\u2019s PASS \ud83d\udc89\ud83e\udd23",
-        "without_stowords": [
-            "CAHILL",
-            "\u2019",
-            "PASS",
-            "\ud83d\udc89\ud83e\udd23"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1315,17 +875,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "What is the most played song in your music library? \u2014 Se\u00f1orita",
-        "without_stowords": [
-            "What",
-            "played",
-            "song",
-            "music",
-            "library",
-            "?",
-            "\u2014",
-            "Se\u00f1orita"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1354,22 +903,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "When in Rome, find an international match and try to fit in! @ Cairo International Stadium",
-        "without_stowords": [
-            "When",
-            "Rome",
-            ",",
-            "find",
-            "international",
-            "match",
-            "try",
-            "fit",
-            "!",
-            "@",
-            "Cairo",
-            "International",
-            "Stadium"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1393,10 +926,6 @@
                 ]
             }
         ],
-        "filtered_text": "Left",
-        "without_stowords": [
-            "Left"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1419,10 +948,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "me irl",
-        "without_stowords": [
-            "irl"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1445,21 +970,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "you have to explore new places and activities between while , Check it and Enjoy The Full Video Spirit \u2665\ufe0f\u2026",
-        "without_stowords": [
-            "explore",
-            "new",
-            "places",
-            "activities",
-            ",",
-            "Check",
-            "Enjoy",
-            "The",
-            "Full",
-            "Video",
-            "Spirit",
-            "\u2665\ufe0f\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1482,16 +992,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Day 786: Stir https://t.co/1f9QQ0abTW",
-        "without_stowords": [
-            "Day",
-            "786",
-            ":",
-            "Stir",
-            "https",
-            ":",
-            "//t.co/1f9QQ0abTW"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1515,17 +1015,6 @@
                 ]
             }
         ],
-        "filtered_text": "what the fuck a capslock twitter post that i actually agree with now thats hot",
-        "without_stowords": [
-            "fuck",
-            "capslock",
-            "twitter",
-            "post",
-            "actually",
-            "agree",
-            "thats",
-            "hot"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1548,13 +1037,6 @@
                     7
                 ]
             }
-        ],
-        "filtered_text": "Thankyou:\u201d)",
-        "without_stowords": [
-            "Thankyou",
-            ":",
-            "\u201d",
-            ")"
         ],
         "region": "Heliopolis"
     },
@@ -1584,14 +1066,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Summer vibes\u2600\ufe0f @ Fermont Hotel",
-        "without_stowords": [
-            "Summer",
-            "vibes\u2600\ufe0f",
-            "@",
-            "Fermont",
-            "Hotel"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1631,18 +1105,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at Cairo International Airport - in Heliopolis, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Cairo",
-            "International",
-            "Airport",
-            "-",
-            "Heliopolis",
-            ",",
-            "Cairo"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1666,13 +1128,6 @@
                 ]
             }
         ],
-        "filtered_text": "Thank youu refaaaay \ud83e\udd70\u2764\ufe0f\u2764\ufe0f",
-        "without_stowords": [
-            "Thank",
-            "youu",
-            "refaaaay",
-            "\ud83e\udd70\u2764\ufe0f\u2764\ufe0f"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1695,11 +1150,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Plz share",
-        "without_stowords": [
-            "Plz",
-            "share"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1722,15 +1172,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Here\u2019s a song for you\u2026 Wait by M83",
-        "without_stowords": [
-            "Here",
-            "\u2019",
-            "song",
-            "you\u2026",
-            "Wait",
-            "M83"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1753,15 +1194,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "How old r u \u2014 28",
-        "without_stowords": [
-            "How",
-            "old",
-            "r",
-            "u",
-            "\u2014",
-            "28"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1784,12 +1216,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Hello \u2014 Its me",
-        "without_stowords": [
-            "Hello",
-            "\u2014",
-            "Its"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1802,13 +1228,28 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Albeeeeee \ud83d\udc95\ud83d\udc95\ud83d\udc95 https://t.co/TuZy3Qewk9",
-        "without_stowords": [
-            "Albeeeeee",
-            "\ud83d\udc95\ud83d\udc95\ud83d\udc95",
-            "https",
-            ":",
-            "//t.co/TuZy3Qewk9"
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1145274057631379456,
+        "user": "Sunflow00550070",
+        "user_location": "",
+        "date": "Sun Jun 30 10:13:08 +0000 2019",
+        "text": "RT @KingTutNews: Upper section of the stela of the royal craftsman Qeh from Deir el-Medina showing the goddess Qadesh flanked by her consor\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Heliopolis"
     },
@@ -1822,16 +1263,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "As you push ACTIONS speak louder than words \ud83d\udc4d",
-        "without_stowords": [
-            "As",
-            "push",
-            "ACTIONS",
-            "speak",
-            "louder",
-            "words",
-            "\ud83d\udc4d"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1860,26 +1291,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Insanely large mall in El Cairo, 8 stories of endless shops all opened at night from clothes to jewelry, skiing are\u2026",
-        "without_stowords": [
-            "Insanely",
-            "large",
-            "mall",
-            "El",
-            "Cairo",
-            ",",
-            "8",
-            "stories",
-            "endless",
-            "shops",
-            "opened",
-            "night",
-            "clothes",
-            "jewelry",
-            ",",
-            "skiing",
-            "are\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1892,13 +1303,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "the nostalgia hit me hard with this one..",
-        "without_stowords": [
-            "nostalgia",
-            "hit",
-            "hard",
-            "one.."
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1921,27 +1325,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "#NowPlaying \u201cPayphone (feat. Wiz Khalifa)\u201d by Maroon 5 on #Anghami https://t.co/qhEJl8xS9p",
-        "without_stowords": [
-            "#",
-            "NowPlaying",
-            "\u201c",
-            "Payphone",
-            "(",
-            "feat",
-            ".",
-            "Wiz",
-            "Khalifa",
-            ")",
-            "\u201d",
-            "Maroon",
-            "5",
-            "#",
-            "Anghami",
-            "https",
-            ":",
-            "//t.co/qhEJl8xS9p"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -1981,22 +1364,6 @@
                 ]
             }
         ],
-        "filtered_text": "Goin home \u2764\ufe0f (@ Cairo International Airport - in Heliopolis, Cairo)",
-        "without_stowords": [
-            "Goin",
-            "home",
-            "\u2764\ufe0f",
-            "(",
-            "@",
-            "Cairo",
-            "International",
-            "Airport",
-            "-",
-            "Heliopolis",
-            ",",
-            "Cairo",
-            ")"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2019,11 +1386,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "So cute\ud83d\ude0d",
-        "without_stowords": [
-            "So",
-            "cute\ud83d\ude0d"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2046,10 +1408,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Same\ud83d\ude02\ud83d\ude02",
-        "without_stowords": [
-            "Same\ud83d\ude02\ud83d\ude02"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2089,20 +1447,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at Stars Cinema - in Heliopolis, Cairo https://t.co/69GiNGGsYe",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Stars",
-            "Cinema",
-            "-",
-            "Heliopolis",
-            ",",
-            "Cairo",
-            "https",
-            ":",
-            "//t.co/69GiNGGsYe"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2125,12 +1469,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Ask me anything!",
-        "without_stowords": [
-            "Ask",
-            "anything",
-            "!"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2143,17 +1481,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Apple, Mall of Emirates. https://t.co/2bLFWSnTey",
-        "without_stowords": [
-            "Apple",
-            ",",
-            "Mall",
-            "Emirates",
-            ".",
-            "https",
-            ":",
-            "//t.co/2bLFWSnTey"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2176,31 +1503,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\u266b #NowPlaying \u201cTheme From Schindler's List\u201d by Itzhak Perlman, Boston Symphony Orchestra &amp; John Williams on\u2026",
-        "without_stowords": [
-            "\u266b",
-            "#",
-            "NowPlaying",
-            "\u201c",
-            "Theme",
-            "From",
-            "Schindler",
-            "'s",
-            "List",
-            "\u201d",
-            "Itzhak",
-            "Perlman",
-            ",",
-            "Boston",
-            "Symphony",
-            "Orchestra",
-            "&",
-            "amp",
-            ";",
-            "John",
-            "Williams",
-            "on\u2026"
-        ],
         "region": "Heliopolis"
     },
     {
@@ -2223,11 +1525,6 @@
                     8
                 ]
             }
-        ],
-        "filtered_text": "october 16th",
-        "without_stowords": [
-            "october",
-            "16th"
         ],
         "region": "Heliopolis"
     }

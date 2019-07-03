@@ -25,28 +25,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Joyfully Remembering #Cairo, #Egypt ... Melony Sailing the #nileriver River on a #Felluca! What a Beautiful Blessi\u2026",
-        "without_stowords": [
-            "Joyfully",
-            "Remembering",
-            "#",
-            "Cairo",
-            ",",
-            "#",
-            "Egypt",
-            "...",
-            "Melony",
-            "Sailing",
-            "#",
-            "nileriver",
-            "River",
-            "#",
-            "Felluca",
-            "!",
-            "What",
-            "Beautiful",
-            "Blessi\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -75,15 +53,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Starbucks in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Starbucks",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -112,17 +81,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\ud83d\ude47\ud83c\udffc\u200d\u2642\ufe0f (@ Location in Mohandesin, Giza)",
-        "without_stowords": [
-            "\ud83d\ude47\ud83c\udffc\u200d\u2642\ufe0f",
-            "(",
-            "@",
-            "Location",
-            "Mohandesin",
-            ",",
-            "Giza",
-            ")"
-        ],
         "region": "Dokki"
     },
     {
@@ -135,14 +93,28 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "I,m Tired\ud83d\udc94 https://t.co/sZsq953WO5",
-        "without_stowords": [
-            "I",
-            ",",
-            "Tired\ud83d\udc94",
-            "https",
-            ":",
-            "//t.co/sZsq953WO5"
+        "region": "Dokki"
+    },
+    {
+        "id": 1145106979846795266,
+        "user": "MeRnaa_MaGeed",
+        "user_location": "somewhere behind the moon.",
+        "date": "Sat Jun 29 23:09:13 +0000 2019",
+        "text": "RT @AmiiraAyman: tell me about your Mother",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -162,32 +134,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "temperature down 34\u00b0C -&gt; 28\u00b0C humidity up 36% -&gt; 58% wind 5kmh -&gt; 3kmh",
-        "without_stowords": [
-            "temperature",
-            "34\u00b0C",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "28\u00b0C",
-            "humidity",
-            "36",
-            "%",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "58",
-            "%",
-            "wind",
-            "5kmh",
-            "-",
-            "&",
-            "gt",
-            ";",
-            "3kmh"
-        ],
         "region": "Dokki"
     },
     {
@@ -216,15 +162,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Shadow being... @ Cairo, Egypt",
-        "without_stowords": [
-            "Shadow",
-            "...",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -253,13 +190,41 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\ud83e\uddea\ud83d\udca5\ud83d\udd1a @ Last One",
-        "without_stowords": [
-            "\ud83e\uddea\ud83d\udca5\ud83d\udd1a",
-            "@",
-            "Last",
-            "One"
+        "region": "Dokki"
+    },
+    {
+        "id": 1145076139473461248,
+        "user": "abdoelr7maan",
+        "user_location": "Ras Vegas .Damitta",
+        "date": "Sat Jun 29 21:06:40 +0000 2019",
+        "text": "RT @AmiiraAyman: Don\u2019t stop until you achieve what you want.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145075874557038592,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Sat Jun 29 21:05:37 +0000 2019",
+        "text": "Don\u2019t stop until you achieve what you want.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
         "region": "Dokki"
     },
     {
@@ -288,16 +253,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -310,14 +265,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "LIKE..? https://t.co/oiXiVst1Aw",
-        "without_stowords": [
-            "LIKE..",
-            "?",
-            "https",
-            ":",
-            "//t.co/oiXiVst1Aw"
-        ],
         "region": "Dokki"
     },
     {
@@ -346,30 +293,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "ARTIST NATHAN DOSS (1971) N-RECEPTIVE-019 Love &amp; Thorns 135x40x30 CM BRONZE 2018 doss.nathan \u201cNathan Doss know\u2026",
-        "without_stowords": [
-            "ARTIST",
-            "NATHAN",
-            "DOSS",
-            "(",
-            "1971",
-            ")",
-            "N-RECEPTIVE-019",
-            "Love",
-            "&",
-            "amp",
-            ";",
-            "Thorns",
-            "135x40x30",
-            "CM",
-            "BRONZE",
-            "2018",
-            "doss.nathan",
-            "\u201c",
-            "Nathan",
-            "Doss",
-            "know\u2026"
-        ],
         "region": "Dokki"
     }
 ]

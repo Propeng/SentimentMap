@@ -1,0 +1,2172 @@
+[
+    {
+        "id": 1146206409614352384,
+        "user": "abdulazizhashad",
+        "user_location": "Mukattam",
+        "date": "Tue Jul 02 23:57:58 +0000 2019",
+        "text": "All i know that when im with you i feel...safe",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146204904341594112,
+        "user": "AssiellMustafa",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 23:51:59 +0000 2019",
+        "text": "Never love sweetie . https://t.co/qCTaUQ920l",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/qCTaUQ920l",
+                "expanded_url": "https://twitter.com/Deep_Distress/status/1137829207051046917",
+                "display_url": "twitter.com/Deep_Distress/\u2026",
+                "indices": [
+                    21,
+                    44
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146204436613750789,
+        "user": "usamasalama",
+        "user_location": "\u0644\u0644\u0628\u064a\u0639 \u0639\u0644\u0634\u0627\u0646 \u062a\u0631\u062a\u0627\u062d\u0648\u0627 ",
+        "date": "Tue Jul 02 23:50:07 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146202841553371136,
+        "user": "CastroCompton",
+        "user_location": "",
+        "date": "Tue Jul 02 23:43:47 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146200339890212864,
+        "user": "EzzAhmmed",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 23:33:51 +0000 2019",
+        "text": "Look at the stars, Look how they shine for you.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146195617020096515,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 23:15:05 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/cfBi6zJH29",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cfBi6zJH29",
+                "expanded_url": "https://www.swarmapp.com/c/7gx5YQNSk6k",
+                "display_url": "swarmapp.com/c/7gx5YQNSk6k",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146190584811589632,
+        "user": "_KingSnoop",
+        "user_location": "In Max World",
+        "date": "Tue Jul 02 22:55:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146190498383745024,
+        "user": "amilegitflips",
+        "user_location": "Los Angeles, CA",
+        "date": "Tue Jul 02 22:54:44 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146186581142847490,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 22:39:10 +0000 2019",
+        "text": "I'm so lonely..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146184403451858949,
+        "user": "Saraaah177",
+        "user_location": "+966",
+        "date": "Tue Jul 02 22:30:31 +0000 2019",
+        "text": "I'm at @AlMasahHotel in Nasr City, Cairo https://t.co/tzzw2rclw4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0611646,
+                31.31713714
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tzzw2rclw4",
+                "expanded_url": "https://www.swarmapp.com/c/7XEYuHK87Dk",
+                "display_url": "swarmapp.com/c/7XEYuHK87Dk",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AlMasahHotel",
+                "name": "Al Masah Hotel",
+                "id": 3324102412,
+                "id_str": "3324102412",
+                "indices": [
+                    7,
+                    20
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177331637182465,
+        "user": "letsgoheroes",
+        "user_location": "London, United Kingdom",
+        "date": "Tue Jul 02 22:02:25 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146176817830739968,
+        "user": "NoHopeFound",
+        "user_location": "\ud835\udd88\ud835\udd86\ud835\udd98\ud835\udd99\ud835\udd91\ud835\udd8a \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
+        "date": "Tue Jul 02 22:00:22 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146175476521680896,
+        "user": "JuJu30344686",
+        "user_location": "Philadelphia, PA",
+        "date": "Tue Jul 02 21:55:03 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146173997253615617,
+        "user": "TakeFlightMarta",
+        "user_location": "In The Stu",
+        "date": "Tue Jul 02 21:49:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146170645736230913,
+        "user": "chloemoren0",
+        "user_location": "Pearland, TX",
+        "date": "Tue Jul 02 21:35:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146166221286662144,
+        "user": "starr_imani",
+        "user_location": "WithMyBoyfriend\ud83e\udd70",
+        "date": "Tue Jul 02 21:18:16 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146164461725790209,
+        "user": "_ImBeth",
+        "user_location": "",
+        "date": "Tue Jul 02 21:11:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146161871726288897,
+        "user": "ItsMxrixh",
+        "user_location": "",
+        "date": "Tue Jul 02 21:00:59 +0000 2019",
+        "text": "RT @_Mysterygirl_P: It's better to have your heart broken once by walking away than to break it daily waiting for things to get better.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146161316454907905,
+        "user": "gottalovedara",
+        "user_location": "",
+        "date": "Tue Jul 02 20:58:47 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146159748124958720,
+        "user": "Queen_Lee215",
+        "user_location": "",
+        "date": "Tue Jul 02 20:52:33 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146158741752074245,
+        "user": "YAgirlFULLA",
+        "user_location": "",
+        "date": "Tue Jul 02 20:48:33 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146158223604535296,
+        "user": "sarahhhemeda",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:46:29 +0000 2019",
+        "text": "my sis is better than yours\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f@HendKo4ary https://t.co/0lRP7E2fJN",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HendKo4ary",
+                "name": "\u0643\u0634\u0631\u064a",
+                "id": 2988448864,
+                "id_str": "2988448864",
+                "indices": [
+                    33,
+                    44
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146157867713609728,
+        "user": "keriyaah",
+        "user_location": "Memphis, TN",
+        "date": "Tue Jul 02 20:45:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146153875705085953,
+        "user": "issatriples",
+        "user_location": "jeddah",
+        "date": "Tue Jul 02 20:29:13 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/RAOc963FOP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/RAOc963FOP",
+                "expanded_url": "https://www.swarmapp.com/c/1Qppznrv8GE",
+                "display_url": "swarmapp.com/c/1Qppznrv8GE",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146150545553592321,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 20:15:59 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/mmxTJLkuw7",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mmxTJLkuw7",
+                "expanded_url": "https://www.swarmapp.com/c/kLAGENJAl2g",
+                "display_url": "swarmapp.com/c/kLAGENJAl2g",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146150446060449794,
+        "user": "mrsjaylewis",
+        "user_location": "",
+        "date": "Tue Jul 02 20:15:35 +0000 2019",
+        "text": "RT @_Mysterygirl_P: It's better to have your heart broken once by walking away than to break it daily waiting for things to get better.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146150410790592513,
+        "user": "pimpinnJ1",
+        "user_location": "",
+        "date": "Tue Jul 02 20:15:27 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145755276677120,
+        "user": "myaatanell",
+        "user_location": "",
+        "date": "Tue Jul 02 19:56:57 +0000 2019",
+        "text": "RT @_Mysterygirl_P: It's better to have your heart broken once by walking away than to break it daily waiting for things to get better.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145194854645760,
+        "user": "bryannaaa101",
+        "user_location": "Imperial, CA",
+        "date": "Tue Jul 02 19:54:43 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145098788474881,
+        "user": "daj_gold",
+        "user_location": "Trenton, NJ",
+        "date": "Tue Jul 02 19:54:20 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145036054085632,
+        "user": "arianalohaa",
+        "user_location": "O'ahu, Hawai'i",
+        "date": "Tue Jul 02 19:54:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146144475057512448,
+        "user": "rayychooo",
+        "user_location": "Seattle, WA",
+        "date": "Tue Jul 02 19:51:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146142527013175302,
+        "user": "chinaaaaadollll",
+        "user_location": "my bed\ud83d\udc7d",
+        "date": "Tue Jul 02 19:44:07 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146140213661581317,
+        "user": "_Emonn",
+        "user_location": "\ud83d\udcb0",
+        "date": "Tue Jul 02 19:34:55 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146139294127591430,
+        "user": "_noshaaaa",
+        "user_location": "Grambling , La",
+        "date": "Tue Jul 02 19:31:16 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146139084206813184,
+        "user": "Tiarra_newman",
+        "user_location": "baltimore maryland",
+        "date": "Tue Jul 02 19:30:26 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146138316632285185,
+        "user": "fin_ese_ca",
+        "user_location": "California, USA",
+        "date": "Tue Jul 02 19:27:23 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146137123558494208,
+        "user": "LaKiriaaa",
+        "user_location": "Birmingham, AL",
+        "date": "Tue Jul 02 19:22:39 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146136744372449285,
+        "user": "TheRealNazj",
+        "user_location": "Tre4",
+        "date": "Tue Jul 02 19:21:08 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146136347909873664,
+        "user": "ChrisfromtheP",
+        "user_location": "Fairfield, CA",
+        "date": "Tue Jul 02 19:19:34 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146136309225967617,
+        "user": "JusBrezy_",
+        "user_location": "",
+        "date": "Tue Jul 02 19:19:24 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146136015930871808,
+        "user": "gabriellemaya_",
+        "user_location": "",
+        "date": "Tue Jul 02 19:18:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146135871399354368,
+        "user": "laurenlashaee",
+        "user_location": "the crib capital ",
+        "date": "Tue Jul 02 19:17:40 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146135468406390784,
+        "user": "__shewinefine",
+        "user_location": "",
+        "date": "Tue Jul 02 19:16:04 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146135178538029057,
+        "user": "kidd_leek",
+        "user_location": "",
+        "date": "Tue Jul 02 19:14:55 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146135161400172545,
+        "user": "heavenlyhoney__",
+        "user_location": "where the wild things are \ud83e\udd2a",
+        "date": "Tue Jul 02 19:14:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146135027698339841,
+        "user": "_branayyyy",
+        "user_location": "",
+        "date": "Tue Jul 02 19:14:19 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146134458699046912,
+        "user": "_darkskinpikaa",
+        "user_location": "",
+        "date": "Tue Jul 02 19:12:03 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146134291992068102,
+        "user": "kaathyzuniga",
+        "user_location": "",
+        "date": "Tue Jul 02 19:11:24 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146134215609765888,
+        "user": "morxonn",
+        "user_location": "Nola \ud83d\udccd",
+        "date": "Tue Jul 02 19:11:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146134017558962178,
+        "user": "AlAhmad501",
+        "user_location": "Qurtoba-K'290",
+        "date": "Tue Jul 02 19:10:18 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/L7OmgiyU6C",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/L7OmgiyU6C",
+                "expanded_url": "https://www.swarmapp.com/c/5WMNBYwJEzU",
+                "display_url": "swarmapp.com/c/5WMNBYwJEzU",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146133216304291841,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 19:07:07 +0000 2019",
+        "text": "Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146133056102776832,
+        "user": "X0ra_",
+        "user_location": "SaudiArabia - Dmm. ",
+        "date": "Tue Jul 02 19:06:29 +0000 2019",
+        "text": "I'm at Cairo Intl Airport VIP Lounge in Al Nozha, Cairo https://t.co/Qu0ogIog3U https://t.co/SQlnomXQwQ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.108376,
+                31.388536
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Qu0ogIog3U",
+                "expanded_url": "https://www.swarmapp.com/c/jh4V2bo69Lb",
+                "display_url": "swarmapp.com/c/jh4V2bo69Lb",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146131720967786502,
+        "user": "NoHopeFound",
+        "user_location": "\ud835\udd88\ud835\udd86\ud835\udd98\ud835\udd99\ud835\udd91\ud835\udd8a \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
+        "date": "Tue Jul 02 19:01:11 +0000 2019",
+        "text": "RT @_Mysterygirl_P: It's better to have your heart broken once by walking away than to break it daily waiting for things to get better.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146129760680062976,
+        "user": "TaTrease",
+        "user_location": "",
+        "date": "Tue Jul 02 18:53:23 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146128987762167808,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 18:50:19 +0000 2019",
+        "text": "It's better to have your heart broken once by walking away than to break it daily waiting for things to get better.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146120234258112512,
+        "user": "YungCash423",
+        "user_location": "Chattanooga, TN",
+        "date": "Tue Jul 02 18:15:32 +0000 2019",
+        "text": "ITZ UP @gmnboogie OTW \ud83d\udcaf\u2795\ud83d\udcaa\ud83c\udffe @ Over seas https://t.co/G3WO3UFTQO",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02054025,
+                31.45605683
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/G3WO3UFTQO",
+                "expanded_url": "https://www.instagram.com/p/BzbJABvhRG7/?igshid=5633osvcyym4",
+                "display_url": "instagram.com/p/BzbJABvhRG7/\u2026",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "GmnBoogie",
+                "name": "Ima Die Gmn",
+                "id": 488043390,
+                "id_str": "488043390",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146117783752757249,
+        "user": "oMysterios",
+        "user_location": "",
+        "date": "Tue Jul 02 18:05:48 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/nqEF7LRJmG",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nqEF7LRJmG",
+                "expanded_url": "https://www.swarmapp.com/c/euglu9lCWd9",
+                "display_url": "swarmapp.com/c/euglu9lCWd9",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146117139742502914,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 18:03:14 +0000 2019",
+        "text": "I'm at Storia in Nasr City https://t.co/sVCY9bYTBu",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05509117,
+                31.33856827
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sVCY9bYTBu",
+                "expanded_url": "https://www.swarmapp.com/c/eQBdIPLB46Q",
+                "display_url": "swarmapp.com/c/eQBdIPLB46Q",
+                "indices": [
+                    27,
+                    50
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146115850057003008,
+        "user": "jesushamric",
+        "user_location": "Alabama, USA",
+        "date": "Tue Jul 02 17:58:07 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146111701886091265,
+        "user": "OppsIsaidIt",
+        "user_location": "Raytown, MO",
+        "date": "Tue Jul 02 17:41:38 +0000 2019",
+        "text": "RT @_Mysterygirl_P: This generation doesn't appreciate good hearted people.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146111202566844419,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 17:39:39 +0000 2019",
+        "text": "Saying I\u2019m non photogenic is another way of saying to people the I\u2019m too ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146108958748422145,
+        "user": "AlexusWade1",
+        "user_location": "North Miami, FL",
+        "date": "Tue Jul 02 17:30:44 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146107771315789824,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 17:26:00 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/WtHiWfX8U4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WtHiWfX8U4",
+                "expanded_url": "https://www.swarmapp.com/c/0pk40ysjxKg",
+                "display_url": "swarmapp.com/c/0pk40ysjxKg",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146104640976629760,
+        "user": "WhatdaDoll",
+        "user_location": "Hell",
+        "date": "Tue Jul 02 17:13:34 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146096949566824448,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 16:43:00 +0000 2019",
+        "text": "@bittiem13 True.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "bittiem13",
+                "name": "\ud835\udd05\ud835\udd2f\ud835\udd26\ud835\udd31\ud835\udd31 \ud83e\uddf8\ud83e\udde1",
+                "id": 4269592463,
+                "id_str": "4269592463",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146094952767774720,
+        "user": "DouMuhammed",
+        "user_location": "New cairo city",
+        "date": "Tue Jul 02 16:35:04 +0000 2019",
+        "text": "He's my role model ya gma3a 5alac\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude46 https://t.co/e630zWcZDc",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/e630zWcZDc",
+                "expanded_url": "https://twitter.com/kotbovic/status/1146094273546346496",
+                "display_url": "twitter.com/kotbovic/statu\u2026",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146093052710281216,
+        "user": "lmmaa94",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 16:27:31 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146092192685056001,
+        "user": "asmaa_shafik",
+        "user_location": "",
+        "date": "Tue Jul 02 16:24:06 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146090000376893441,
+        "user": "bryan_250",
+        "user_location": "",
+        "date": "Tue Jul 02 16:15:24 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146089926657806336,
+        "user": "ZNazzer",
+        "user_location": "Egypt",
+        "date": "Tue Jul 02 16:15:06 +0000 2019",
+        "text": "RT @DouMuhammed: actually mariam was doing this since she was younger , she reached 11 now  and guess what she keeps doing this every singl\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "DouMuhammed",
+                "name": "Dahlia Muhammed(Dou)",
+                "id": 1344180012,
+                "id_str": "1344180012",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146087541533270017,
+        "user": "DouMuhammed",
+        "user_location": "New cairo city",
+        "date": "Tue Jul 02 16:05:37 +0000 2019",
+        "text": "actually mariam was doing this since she was younger , she reached 11 now  and guess what she keeps doing this ever\u2026 https://t.co/wSCSE6TzEL",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/wSCSE6TzEL",
+                "expanded_url": "https://twitter.com/i/web/status/1146087541533270017",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146086345410002944,
+        "user": "DouMuhammed",
+        "user_location": "New cairo city",
+        "date": "Tue Jul 02 16:00:52 +0000 2019",
+        "text": "@AlaaYas10171188 hwa shklha msh hyb2a 7ad wa7ed we're such a bunch of evil people bayn\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude4c\ud83d\ude46",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AlaaYas10171188",
+                "name": "Alaa Yasser\ud83c\udf88",
+                "id": 986720345146224646,
+                "id_str": "986720345146224646",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146085665672704006,
+        "user": "cristian_ivan17",
+        "user_location": "TX",
+        "date": "Tue Jul 02 15:58:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Your funeral gone be more packed than your birthday party because people would rather see you on ya back than on ya fee\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146076938081067008,
+        "user": "muhamedmuhsen74",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 15:23:29 +0000 2019",
+        "text": "You have made me feel like i'm not good enough..\nI'll never forget that.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146067045970132993,
+        "user": "paaananaa",
+        "user_location": "",
+        "date": "Tue Jul 02 14:44:11 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I ain't wasting time with people who make me feel unwanted.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146056005878312960,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 14:00:19 +0000 2019",
+        "text": "Tony L : You are going home\n\n*Meadow whisper : dady we love you don't leave us *\n\nThe sopranos https://t.co/psPU6MTuOg",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146055622514958336,
+        "user": "Moustaomar",
+        "user_location": "",
+        "date": "Tue Jul 02 13:58:47 +0000 2019",
+        "text": "\ud83d\ude45\u200d\u2642\ufe0f\ud83d\ude45\u200d\u2642\ufe0f\ud83d\udd25 @ Fifth Settlement https://t.co/bfZRKH5u3A",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0047,
+                31.4342
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bfZRKH5u3A",
+                "expanded_url": "https://www.instagram.com/p/Bzarni6HcUTt3XfQ1HoE2TwY0f4ePu6xcPphkw0/?igshid=ofwaga415z5t",
+                "display_url": "instagram.com/p/Bzarni6HcUTt\u2026",
+                "indices": [
+                    29,
+                    52
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146052220762259457,
+        "user": "_fuentesashley",
+        "user_location": "",
+        "date": "Tue Jul 02 13:45:16 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146051525464272896,
+        "user": "kkdenaee",
+        "user_location": "Baton Rouge, LA",
+        "date": "Tue Jul 02 13:42:30 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146043290648813569,
+        "user": "Ghaidaa_Alaaa",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 13:09:47 +0000 2019",
+        "text": "I'm just scared of never feeling it again",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146043182125371393,
+        "user": "Riham_zzz",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 13:09:21 +0000 2019",
+        "text": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/QGa9AqL9pf",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146031477773230080,
+        "user": "DigtalHumanatee",
+        "user_location": "",
+        "date": "Tue Jul 02 12:22:51 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146030694851911681,
+        "user": "N_ourhan_",
+        "user_location": "Giza - Egypt",
+        "date": "Tue Jul 02 12:19:44 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146029900446535680,
+        "user": "Real_Person_DH",
+        "user_location": "Earth",
+        "date": "Tue Jul 02 12:16:35 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146029085119983616,
+        "user": "Mazloum",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 12:13:20 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146027931728252928,
+        "user": "MariamMecky",
+        "user_location": "",
+        "date": "Tue Jul 02 12:08:45 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146025833494208512,
+        "user": "AyaEl_Sabagh",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 12:00:25 +0000 2019",
+        "text": "@desvuuu 3aaaaaasssshhhh keep going \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "desvuuu",
+                "name": "Alaa",
+                "id": 3076648570,
+                "id_str": "3076648570",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146024869383081984,
+        "user": "ReemSaad10",
+        "user_location": "Cairo",
+        "date": "Tue Jul 02 11:56:35 +0000 2019",
+        "text": "RT @AUC_Library: We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the position h\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_Library",
+                "name": "AUC Main Library",
+                "id": 1022007618699714562,
+                "id_str": "1022007618699714562",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146021485229891585,
+        "user": "AUC_Library",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 11:43:08 +0000 2019",
+        "text": "We are hiring! We are looking for a Digital Humanities Librarian to join our team. \n\nMore information about the pos\u2026 https://t.co/tTj1EBgtET",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tTj1EBgtET",
+                "expanded_url": "https://twitter.com/i/web/status/1146021485229891585",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146021285178347520,
+        "user": "fairyhoez",
+        "user_location": "",
+        "date": "Tue Jul 02 11:42:21 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146020824484372480,
+        "user": "LexiconRoad",
+        "user_location": "",
+        "date": "Tue Jul 02 11:40:31 +0000 2019",
+        "text": "RT @AUC_RBSCL: On July 3rd the opening of the exhibit \"Princess Fawzia: The Duality of Egyptian Womanhood through Western and Egyptian Eyes\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_RBSCL",
+                "name": "AUC Rare Books Lib",
+                "id": 140441304,
+                "id_str": "140441304",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146020477837725696,
+        "user": "AUC_Library",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 11:39:08 +0000 2019",
+        "text": "RT @AUC_RBSCL: On July 3rd the opening of the exhibit \"Princess Fawzia: The Duality of Egyptian Womanhood through Western and Egyptian Eyes\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_RBSCL",
+                "name": "AUC Rare Books Lib",
+                "id": 140441304,
+                "id_str": "140441304",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146016931985707009,
+        "user": "rm_mhh",
+        "user_location": "bu\u20199abi",
+        "date": "Tue Jul 02 11:25:03 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146015442860937216,
+        "user": "teltarshouby",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 11:19:08 +0000 2019",
+        "text": "Same Mr. Ride. Same https://t.co/UNpq1IY4ZC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    }
+]

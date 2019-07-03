@@ -1,5 +1,97 @@
 [
     {
+        "id": 1145843865477402625,
+        "user": "Maryemisawii",
+        "user_location": "Egypt,Tanta",
+        "date": "Mon Jul 01 23:57:20 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145842514634649601,
+        "user": "Heba_T_Allah249",
+        "user_location": "Egypt .. Al.Mahalah Al.Kubra",
+        "date": "Mon Jul 01 23:51:58 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145840670839627778,
+        "user": "joice_reda",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 23:44:39 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145839842393300992,
+        "user": "jeepersmister",
+        "user_location": "United States",
+        "date": "Mon Jul 01 23:41:21 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
         "id": 1145834520534384640,
         "user": "bakarpuppet",
         "user_location": "Cairo, Egypt  ",
@@ -25,27 +117,51 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "\ud83d\ude00Learn, design, make and move. We design and manufacture puppets upon request. We provide whatever needed for theat\u2026",
-        "without_stowords": [
-            "\ud83d\ude00Learn",
-            ",",
-            "design",
-            ",",
-            "make",
-            "move",
-            ".",
-            "We",
-            "design",
-            "manufacture",
-            "puppets",
-            "upon",
-            "request",
-            ".",
-            "We",
-            "provide",
-            "whatever",
-            "needed",
-            "theat\u2026"
+        "region": "Dokki"
+    },
+    {
+        "id": 1145834435482398727,
+        "user": "farrahrostom1",
+        "user_location": "Cairo, Egypt",
+        "date": "Mon Jul 01 23:19:52 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145832940540219393,
+        "user": "lois_hunterrr",
+        "user_location": "",
+        "date": "Mon Jul 01 23:13:56 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -75,18 +191,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "...RICH ROYALTY...\ud83d\udc51\ud83d\udc51\ud83d\udc99\ud83d\udc99 @ Cairo, Egypt",
-        "without_stowords": [
-            "...",
-            "RICH",
-            "ROYALTY",
-            "...",
-            "\ud83d\udc51\ud83d\udc51\ud83d\udc99\ud83d\udc99",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -110,14 +214,74 @@
                 ]
             }
         ],
-        "filtered_text": "RT : Mood https://t.co/k4qVxCuu60",
-        "without_stowords": [
-            "RT",
-            ":",
-            "Mood",
-            "https",
-            ":",
-            "//t.co/k4qVxCuu60"
+        "region": "Dokki"
+    },
+    {
+        "id": 1145824192601964544,
+        "user": "Kholodgoned1",
+        "user_location": "",
+        "date": "Mon Jul 01 22:39:10 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145822111132475392,
+        "user": "Esraa_omar7",
+        "user_location": "North Sinai, Egypt",
+        "date": "Mon Jul 01 22:30:54 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1145821815522156545,
+        "user": "IbrahimElakawy",
+        "user_location": "El Arish, North Sinai, Egypt",
+        "date": "Mon Jul 01 22:29:43 +0000 2019",
+        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
         ],
         "region": "Dokki"
     },
@@ -147,25 +311,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I\u2019ll always be rooting for egypt\ud83c\uddea\ud83c\uddec Did this look in honor of Egypt hosting the African cup on nations, winning 3/3\u2026",
-        "without_stowords": [
-            "I",
-            "\u2019",
-            "always",
-            "rooting",
-            "egypt\ud83c\uddea\ud83c\uddec",
-            "Did",
-            "look",
-            "honor",
-            "Egypt",
-            "hosting",
-            "African",
-            "cup",
-            "nations",
-            ",",
-            "winning",
-            "3/3\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -194,45 +339,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "THAT S HOW YOU START THE WEEK!!! GOTTA LET EVERYBODY KNOW, MY LIONS AIN\u2019T FU\u20ac\u00a3\u00a5NG AROUND THIS YEAR!!!! NEXT!!!! I J\u2026",
-        "without_stowords": [
-            "THAT",
-            "S",
-            "HOW",
-            "YOU",
-            "START",
-            "THE",
-            "WEEK",
-            "!",
-            "!",
-            "!",
-            "GOT",
-            "TA",
-            "LET",
-            "EVERYBODY",
-            "KNOW",
-            ",",
-            "MY",
-            "LIONS",
-            "AIN",
-            "\u2019",
-            "T",
-            "FU\u20ac\u00a3\u00a5NG",
-            "AROUND",
-            "THIS",
-            "YEAR",
-            "!",
-            "!",
-            "!",
-            "!",
-            "NEXT",
-            "!",
-            "!",
-            "!",
-            "!",
-            "I",
-            "J\u2026"
-        ],
         "region": "Dokki"
     }
 ]

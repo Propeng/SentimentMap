@@ -25,13 +25,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Giza in Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Giza",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -60,15 +53,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Nile View Boat in Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Nile",
-            "View",
-            "Boat",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -97,24 +81,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "The Coptic people are the largest ethno-religious minority in Egypt. The largest Coptic Christian group in Egypt is\u2026",
-        "without_stowords": [
-            "The",
-            "Coptic",
-            "people",
-            "largest",
-            "ethno-religious",
-            "minority",
-            "Egypt",
-            ".",
-            "The",
-            "largest",
-            "Coptic",
-            "Christian",
-            "group",
-            "Egypt",
-            "is\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -143,19 +109,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Noble and great. @ Zamalek, Al Qahirah, Egypt",
-        "without_stowords": [
-            "Noble",
-            "great",
-            ".",
-            "@",
-            "Zamalek",
-            ",",
-            "Al",
-            "Qahirah",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -184,15 +137,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Location in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Location",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -232,14 +176,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -268,15 +204,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Hammer Strength Training Center",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Hammer",
-            "Strength",
-            "Training",
-            "Center"
-        ],
         "region": "Dokki"
     },
     {
@@ -305,16 +232,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "The King\ud83d\udc51 mosalah @ Cairo, Egypt",
-        "without_stowords": [
-            "The",
-            "King\ud83d\udc51",
-            "mosalah",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -343,16 +260,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -381,16 +288,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -419,14 +316,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Tahrir Square in Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Tahrir",
-            "Square",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -455,24 +344,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Things to do in a Sunday in El Cairo: Whatever you decide, just don\u2019t cross the streets walking, it\u2019s a very hazard\u2026",
-        "without_stowords": [
-            "Things",
-            "Sunday",
-            "El",
-            "Cairo",
-            ":",
-            "Whatever",
-            "decide",
-            ",",
-            "\u2019",
-            "cross",
-            "streets",
-            "walking",
-            ",",
-            "\u2019",
-            "hazard\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -495,12 +366,6 @@
                     10
                 ]
             }
-        ],
-        "filtered_text": "Emi meen \ud83d\ude02",
-        "without_stowords": [
-            "Emi",
-            "meen",
-            "\ud83d\ude02"
         ],
         "region": "Dokki"
     },
@@ -530,16 +395,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Pottery Cafe in Zamalek, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Pottery",
-            "Cafe",
-            "Zamalek",
-            ",",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -568,16 +423,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -606,16 +451,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Cairo Tower in Zamalek, Cairo",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Cairo",
-            "Tower",
-            "Zamalek",
-            ",",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -634,26 +469,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 34\u00b0C 44% humidity, wind 5kmh, pressure 1006mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "34\u00b0C",
-            "44",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "5kmh",
-            ",",
-            "pressure",
-            "1006mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -693,23 +508,6 @@
                 ]
             }
         ],
-        "filtered_text": "Our best wishes to the out in Egypt at the #AFCON2019 tournament. Go Cranes, cheering you on, our bo\u2026",
-        "without_stowords": [
-            "Our",
-            "best",
-            "wishes",
-            "Egypt",
-            "#",
-            "AFCON2019",
-            "tournament",
-            ".",
-            "Go",
-            "Cranes",
-            ",",
-            "cheering",
-            ",",
-            "bo\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -738,22 +536,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I\u2019ll stop wearing black when they make a darker color. \ud83d\udda4 @ Zamalek Cinema",
-        "without_stowords": [
-            "I",
-            "\u2019",
-            "stop",
-            "wearing",
-            "black",
-            "make",
-            "darker",
-            "color",
-            ".",
-            "\ud83d\udda4",
-            "@",
-            "Zamalek",
-            "Cinema"
-        ],
         "region": "Dokki"
     },
     {
@@ -772,14 +554,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Cairo: 8:00pm: sunset",
-        "without_stowords": [
-            "Cairo",
-            ":",
-            "8:00pm",
-            ":",
-            "sunset"
-        ],
         "region": "Dokki"
     },
     {
@@ -808,15 +582,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Location in Mohandesin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Location",
-            "Mohandesin",
-            ",",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -856,63 +621,6 @@
                 ]
             }
         ],
-        "filtered_text": "I'm at in Mohandessin, Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Mohandessin",
-            ",",
-            "Giza"
-        ],
-        "region": "Dokki"
-    },
-    {
-        "id": 1145342334092996609,
-        "user": "tmj_egy_jobs",
-        "user_location": "Egypt",
-        "date": "Sun Jun 30 14:44:26 +0000 2019",
-        "text": "Click the link in our bio to see currently open #ProjectMgmt jobs like \"Solution Architect\" at Ericsson in Cairo, C\u2026 https://t.co/L7r5xQ8MIk",
-        "geo": {
-            "type": "Point",
-            "coordinates": [
-                30.0444196,
-                31.2357116
-            ]
-        },
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/L7r5xQ8MIk",
-                "expanded_url": "https://twitter.com/i/web/status/1145342334092996609",
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "indices": [
-                    117,
-                    140
-                ]
-            }
-        ],
-        "mentions": [],
-        "filtered_text": "Click the link in our bio to see currently open #ProjectMgmt jobs like \"Solution Architect\" at Ericsson in Cairo, C\u2026",
-        "without_stowords": [
-            "Click",
-            "link",
-            "bio",
-            "see",
-            "currently",
-            "open",
-            "#",
-            "ProjectMgmt",
-            "jobs",
-            "like",
-            "``",
-            "Solution",
-            "Architect",
-            "''",
-            "Ericsson",
-            "Cairo",
-            ",",
-            "C\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -941,23 +649,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Can the Moon \ud83c\udf1a speak, or does it simply have nothing to say, after seeing the horrendous things we do day after day\u2026",
-        "without_stowords": [
-            "Can",
-            "Moon",
-            "\ud83c\udf1a",
-            "speak",
-            ",",
-            "simply",
-            "nothing",
-            "say",
-            ",",
-            "seeing",
-            "horrendous",
-            "things",
-            "day",
-            "day\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -986,19 +677,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Zamalek, Al Qahirah, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Zamalek",
-            ",",
-            "Al",
-            "Qahirah",
-            ",",
-            "Egypt"
-        ],
         "region": "Dokki"
     },
     {
@@ -1027,66 +705,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Just posted a photo @ Cairo, Egypt",
-        "without_stowords": [
-            "Just",
-            "posted",
-            "photo",
-            "@",
-            "Cairo",
-            ",",
-            "Egypt"
-        ],
-        "region": "Dokki"
-    },
-    {
-        "id": 1145301096434262016,
-        "user": "tmj_egy_jobs",
-        "user_location": "Egypt",
-        "date": "Sun Jun 30 12:00:34 +0000 2019",
-        "text": "Don't submit then quit. Apply for jobs like \"Solution Architect\" at Ericsson, then look for people you might know a\u2026 https://t.co/o4QNqsVyR4",
-        "geo": {
-            "type": "Point",
-            "coordinates": [
-                30.0444196,
-                31.2357116
-            ]
-        },
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/o4QNqsVyR4",
-                "expanded_url": "https://twitter.com/i/web/status/1145301096434262016",
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "indices": [
-                    117,
-                    140
-                ]
-            }
-        ],
-        "mentions": [],
-        "filtered_text": "Don't submit then quit. Apply for jobs like \"Solution Architect\" at Ericsson, then look for people you might know a\u2026",
-        "without_stowords": [
-            "Do",
-            "n't",
-            "submit",
-            "quit",
-            ".",
-            "Apply",
-            "jobs",
-            "like",
-            "``",
-            "Solution",
-            "Architect",
-            "''",
-            "Ericsson",
-            ",",
-            "look",
-            "people",
-            "might",
-            "know",
-            "a\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1109,10 +727,6 @@
                     11
                 ]
             }
-        ],
-        "filtered_text": "Hello",
-        "without_stowords": [
-            "Hello"
         ],
         "region": "Dokki"
     },
@@ -1142,24 +756,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Num Elhum, she was born on my birthday , so we celebrate our birthdays together. She was also born in our house and\u2026",
-        "without_stowords": [
-            "Num",
-            "Elhum",
-            ",",
-            "born",
-            "birthday",
-            ",",
-            "celebrate",
-            "birthdays",
-            "together",
-            ".",
-            "She",
-            "also",
-            "born",
-            "house",
-            "and\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1188,25 +784,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "We're hiring in #Cairo! Click the link in our bio to apply to this job and more: Regulatory Affairs Associate Resea\u2026",
-        "without_stowords": [
-            "We",
-            "'re",
-            "hiring",
-            "#",
-            "Cairo",
-            "!",
-            "Click",
-            "link",
-            "bio",
-            "apply",
-            "job",
-            ":",
-            "Regulatory",
-            "Affairs",
-            "Associate",
-            "Resea\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1225,26 +802,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 33\u00b0C 41% humidity, wind 3kmh, pressure 1007mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "33\u00b0C",
-            "41",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "3kmh",
-            ",",
-            "pressure",
-            "1007mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -1273,35 +830,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Have you ever had a role like \"Supply Planner &amp; Material Planner Gum &amp; Candy, Middle East and North Africa\"? What d\u2026",
-        "without_stowords": [
-            "Have",
-            "ever",
-            "role",
-            "like",
-            "``",
-            "Supply",
-            "Planner",
-            "&",
-            "amp",
-            ";",
-            "Material",
-            "Planner",
-            "Gum",
-            "&",
-            "amp",
-            ";",
-            "Candy",
-            ",",
-            "Middle",
-            "East",
-            "North",
-            "Africa",
-            "''",
-            "?",
-            "What",
-            "d\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1330,25 +858,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "We're hiring! Read about our latest job opening here: Financial Accountant - #Finance #Cairo",
-        "without_stowords": [
-            "We",
-            "'re",
-            "hiring",
-            "!",
-            "Read",
-            "latest",
-            "job",
-            "opening",
-            ":",
-            "Financial",
-            "Accountant",
-            "-",
-            "#",
-            "Finance",
-            "#",
-            "Cairo"
-        ],
         "region": "Dokki"
     },
     {
@@ -1377,25 +886,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Four Seasons Hotel Cairo at First Residence in Cairo, Mu\u1e29\u0101faz\u0327at al J\u012bzah https://t.co/yBispFBTKh",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Four",
-            "Seasons",
-            "Hotel",
-            "Cairo",
-            "First",
-            "Residence",
-            "Cairo",
-            ",",
-            "Mu\u1e29\u0101faz\u0327at",
-            "al",
-            "J\u012bzah",
-            "https",
-            ":",
-            "//t.co/yBispFBTKh"
-        ],
         "region": "Dokki"
     },
     {
@@ -1424,28 +914,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Artist HANA El-SAGINI (1980) Moments-002 21.03 - 3.21 Acrylic on Mounted Wood 46x72 cm 2017\\2018 hanasagini \u201cBor\u2026",
-        "without_stowords": [
-            "Artist",
-            "HANA",
-            "El-SAGINI",
-            "(",
-            "1980",
-            ")",
-            "Moments-002",
-            "21.03",
-            "-",
-            "3.21",
-            "Acrylic",
-            "Mounted",
-            "Wood",
-            "46x72",
-            "cm",
-            "2017\\2018",
-            "hanasagini",
-            "\u201c",
-            "Bor\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1474,28 +942,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Coriander &amp; Mint marinated Alexandrian sardines, baby zucchini salad, seawater espuma. Actually on the menu ledeckc\u2026",
-        "without_stowords": [
-            "Coriander",
-            "&",
-            "amp",
-            ";",
-            "Mint",
-            "marinated",
-            "Alexandrian",
-            "sardines",
-            ",",
-            "baby",
-            "zucchini",
-            "salad",
-            ",",
-            "seawater",
-            "espuma",
-            ".",
-            "Actually",
-            "menu",
-            "ledeckc\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1524,26 +970,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "Artist HOSSAM DIRAR (1978) HOSSAM-028 Nefertari Oil on Canvas 112x120 cm 2019 hossamdirar \u201cDirar is an Egyptian\u2026",
-        "without_stowords": [
-            "Artist",
-            "HOSSAM",
-            "DIRAR",
-            "(",
-            "1978",
-            ")",
-            "HOSSAM-028",
-            "Nefertari",
-            "Oil",
-            "Canvas",
-            "112x120",
-            "cm",
-            "2019",
-            "hossamdirar",
-            "\u201c",
-            "Dirar",
-            "Egyptian\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1572,28 +998,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "wedding and events (Dj Ahmed Sokar) for bookings &amp; inquiries kindly contact us on +201022280023 Wedding planner by\u2026",
-        "without_stowords": [
-            "wedding",
-            "events",
-            "(",
-            "Dj",
-            "Ahmed",
-            "Sokar",
-            ")",
-            "bookings",
-            "&",
-            "amp",
-            ";",
-            "inquiries",
-            "kindly",
-            "contact",
-            "us",
-            "+201022280023",
-            "Wedding",
-            "planner",
-            "by\u2026"
-        ],
         "region": "Dokki"
     },
     {
@@ -1622,20 +1026,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "New brand ambassador... #cowboymart @ Middle East Fine Arts",
-        "without_stowords": [
-            "New",
-            "brand",
-            "ambassador",
-            "...",
-            "#",
-            "cowboymart",
-            "@",
-            "Middle",
-            "East",
-            "Fine",
-            "Arts"
-        ],
         "region": "Dokki"
     },
     {
@@ -1664,13 +1054,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Giza in Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Giza",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -1689,26 +1072,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "current weather in Cairo: clear sky, 26\u00b0C 69% humidity, wind 3kmh, pressure 1007mb",
-        "without_stowords": [
-            "current",
-            "weather",
-            "Cairo",
-            ":",
-            "clear",
-            "sky",
-            ",",
-            "26\u00b0C",
-            "69",
-            "%",
-            "humidity",
-            ",",
-            "wind",
-            "3kmh",
-            ",",
-            "pressure",
-            "1007mb"
-        ],
         "region": "Dokki"
     },
     {
@@ -1737,13 +1100,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "I'm at Giza in Giza",
-        "without_stowords": [
-            "I",
-            "'m",
-            "Giza",
-            "Giza"
-        ],
         "region": "Dokki"
     },
     {
@@ -1762,16 +1118,6 @@
         "lang": "en",
         "urls": [],
         "mentions": [],
-        "filtered_text": "Cairo: 5:56am: sunrise sunset will be at 8:00pm",
-        "without_stowords": [
-            "Cairo",
-            ":",
-            "5:56am",
-            ":",
-            "sunrise",
-            "sunset",
-            "8:00pm"
-        ],
         "region": "Dokki"
     },
     {
@@ -1800,27 +1146,6 @@
             }
         ],
         "mentions": [],
-        "filtered_text": "The King! Dr. mogeddawi and us, the Brazilians tonight at Nile Maxim Boat! \u2764\ufe0f\ud83c\udde7\ud83c\uddf7\ud83c\uddea\ud83c\uddec #jadeeljabel #dancaarabe\u2026",
-        "without_stowords": [
-            "The",
-            "King",
-            "!",
-            "Dr.",
-            "mogeddawi",
-            "us",
-            ",",
-            "Brazilians",
-            "tonight",
-            "Nile",
-            "Maxim",
-            "Boat",
-            "!",
-            "\u2764\ufe0f\ud83c\udde7\ud83c\uddf7\ud83c\uddea\ud83c\uddec",
-            "#",
-            "jadeeljabel",
-            "#",
-            "dancaarabe\u2026"
-        ],
         "region": "Dokki"
     }
 ]
