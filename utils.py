@@ -3,15 +3,28 @@ from nltk.tokenize import word_tokenize
 
 from contractions import contractions
 
+def process(tweet):
+    tweet['filtered_text'] = tweet['text']
+    tweet['filtered_text'] = filter_tweet(tweet)
+    tweet['filtered_text'] = expand_contractions(tweet)
+    tweet['filtered_text'] = remove_stopwords(tweet)
+    return tweet['filtered_text']
+
 def filter_tweet(tweet):
     text = tweet['filtered_text']
-    for item in tweet['mentions'] + tweet['urls']:
-        start = item['indices'][0]
-        end = item['indices'][1]
-        text = text[0:start] + ' '*(end-start) + text[end:len(text)]
+    try:
+        for item in tweet['mentions'] + tweet['urls']:
+            start = item['indices'][0]
+            end = item['indices'][1]
+            text = text[0:start] + ' '*(end-start) + text[end:len(text)]
+    except KeyError:
+        pass
 
     #remove extra urls
     split = filter(lambda word: not word.startswith('http://') and not word.startswith('https://'), text.split())
+
+    #remove mentions
+    split = filter(lambda word: not word.startswith('@'), text.split())
 
     #remove #'s at the beginning of hashtags
     split = map(lambda word: word.strip('#'), split)

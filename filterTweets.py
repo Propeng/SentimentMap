@@ -16,9 +16,10 @@ df = pd.DataFrame(tweets)
 df.set_index('id', drop = True, inplace=True)
 print(df)
 
-df['filtered_text'] = df['text']
-df['filtered_text'] = df.apply(utils.filter_tweet, axis=1)
-df['filtered_text'] = df.apply(utils.remove_stopwords, axis=1)
+df['filtered_text'] = df.apply(utils.process, axis=1)
+#df['filtered_text'] = df['text']
+#df['filtered_text'] = df.apply(utils.filter_tweet, axis=1)
+#df['filtered_text'] = df.apply(utils.remove_stopwords, axis=1)
 
-df.to_pickle("./dataframe")
+df.to_pickle("./tweets.pkl")
 
