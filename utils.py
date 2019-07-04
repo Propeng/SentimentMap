@@ -3,7 +3,11 @@ from nltk.tokenize import word_tokenize
 
 from contractions import contractions
 
+i = 1
 def process(tweet):
+    global i
+    print(i)
+    i += 1
     tweet['filtered_text'] = tweet['text']
     tweet['filtered_text'] = filter_tweet(tweet)
     tweet['filtered_text'] = expand_contractions(tweet)
@@ -24,7 +28,7 @@ def filter_tweet(tweet):
     split = filter(lambda word: not word.startswith('http://') and not word.startswith('https://'), text.split())
 
     #remove mentions
-    split = filter(lambda word: not word.startswith('@'), text.split())
+    split = filter(lambda word: not word.startswith('@'), split)
 
     #remove #'s at the beginning of hashtags
     split = map(lambda word: word.strip('#'), split)
