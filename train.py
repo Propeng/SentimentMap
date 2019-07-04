@@ -3,6 +3,7 @@ from nltk.corpus import subjectivity
 from nltk.sentiment import SentimentAnalyzer
 from nltk.sentiment.util import extract_unigram_feats, mark_negation
 import pandas as pd
+import pickle
 
 import utils
 
@@ -21,12 +22,17 @@ classifier = analyzer.train(NaiveBayesClassifier.train, training_set)
 
 print('done')
 
-while True:
-    test_tweet = {'text': input()}
-    utils.process(test_tweet)
-    print(test_tweet['filtered_text'])
-    test_set = analyzer.apply_features([(test_tweet['filtered_text'], '')])
-    prob = classifier.prob_classify_many([doc[0] for doc in test_set])
-    print("pos", prob[0].prob('pos'))
-    print("neg", prob[0].prob('neg'))
+with open('analyzer.pkl', 'wb') as analyzer_file:
+    pickle.dump(analyzer, analyzer_file)
+with open('classifier.pkl', 'wb') as classifier_file:
+    pickle.dump(classifier, classifier_file)
+
+# while True:
+#     test_tweet = {'text': input()}
+#     utils.process(test_tweet)
+#     print(test_tweet['filtered_text'])
+#     test_set = analyzer.apply_features([(test_tweet['filtered_text'], '')])
+#     prob = classifier.prob_classify_many([doc[0] for doc in test_set])
+#     print("pos", prob[0].prob('pos'))
+#     print("neg", prob[0].prob('neg'))
 
