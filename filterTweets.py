@@ -3,9 +3,11 @@ import os
 import utils
 import pandas as pd
 
-tweets_dir = "./tweets/"
+tweets_dirs = ["./tweets/en/", "./tweets/ar/"]
 
-files = [tweets_dir+filename for filename in os.listdir(tweets_dir)]
+files = []
+for dir in tweets_dirs:
+    files += [dir+filename for filename in os.listdir(dir)]
 
 tweets = []
 for filename in files:
@@ -17,9 +19,8 @@ df.set_index('id', drop = True, inplace=True)
 print(df)
 
 df['filtered_text'] = df.apply(utils.process, axis=1)
-#df['filtered_text'] = df['text']
-#df['filtered_text'] = df.apply(utils.filter_tweet, axis=1)
-#df['filtered_text'] = df.apply(utils.remove_stopwords, axis=1)
+
+#temp['filtered2'] = df['filtered_text']
 
 df.to_pickle("./tweets.pkl")
 
