@@ -1,5 +1,6 @@
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize 
+from emoji import UNICODE_EMOJI
 
 from contractions import contractions
 
@@ -10,9 +11,25 @@ def process(tweet):
     i += 1
     tweet['filtered_text'] = tweet['text']
     tweet['filtered_text'] = filter_tweet(tweet)
+    tweet['filtered_text'] = separate_emojis(tweet)
     tweet['filtered_text'] = expand_contractions(tweet)
     tweet['filtered_text'] = remove_stopwords(tweet)
     return tweet['filtered_text']
+
+def separate_emojis(tweet):
+    text = tweet['filtered_text']
+
+    for emoji in UNICODE_EMOJI.keys():
+        last_index = 0
+        while True:
+            try:
+                next_index = text.index(emoji, last_index)
+                last_index = next_index + len(emoji) + 3
+                text = text[0:next_index] + ' ' + emoji + ' ' + text[next_index+len(emoji):len(text)]
+            except ValueError:
+                break
+    
+    return text
 
 def filter_tweet(tweet):
     text = tweet['filtered_text']
