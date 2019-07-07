@@ -1,7 +1,7 @@
 from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import subjectivity
 from nltk.sentiment import SentimentAnalyzer
-from nltk.sentiment.util import extract_unigram_feats, mark_negation
+from nltk.sentiment.util import extract_unigram_feats
 import pandas as pd
 import pickle
 
@@ -14,7 +14,7 @@ neg_tweets = [(row['filtered_text'], 'neg') for index, row in df.loc[df['polarit
 all_tweets = pos_tweets + neg_tweets
 
 analyzer = SentimentAnalyzer()
-all_words = analyzer.all_words([mark_negation(doc) for doc in all_tweets])
+all_words = analyzer.all_words([doc for doc in all_tweets])
 unigram_feats = analyzer.unigram_word_feats(all_words, min_freq=4)
 analyzer.add_feat_extractor(extract_unigram_feats, unigrams=unigram_feats)
 training_set = analyzer.apply_features(all_tweets)
