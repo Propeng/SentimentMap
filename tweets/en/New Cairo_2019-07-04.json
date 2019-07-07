@@ -1,0 +1,2197 @@
+[
+    {
+        "id": 1146930707958312961,
+        "user": "leatheyy",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jul 04 23:56:04 +0000 2019",
+        "text": "RT @fullofwritings: ever looked at someone and thought \u201chow was I alive before I met you?\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "fullofwritings",
+                "name": "String name = \u201cAhmed Abdelrahman\u201d;",
+                "id": 98472706,
+                "id_str": "98472706",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146923557286481920,
+        "user": "_mahmoudd",
+        "user_location": "New cairo",
+        "date": "Thu Jul 04 23:27:39 +0000 2019",
+        "text": "We ignore facts for temporary happiness.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146919751752585219,
+        "user": "emanashmawi96",
+        "user_location": "New Cairo",
+        "date": "Thu Jul 04 23:12:32 +0000 2019",
+        "text": "I push people away and now complaining of being lonely !?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146919359622909952,
+        "user": "BitchShines",
+        "user_location": "NYC",
+        "date": "Thu Jul 04 23:10:58 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146916964671074304,
+        "user": "yehiaebeid",
+        "user_location": "New Cairo",
+        "date": "Thu Jul 04 23:01:27 +0000 2019",
+        "text": "\u266b #NowPlaying \u201cAl Donya [ft. Tarek El Sheikh]\u201d by Zap Tharwat &amp; Sary Hany on #Anghami https://t.co/dB6VEG0bge https://t.co/dB6VEG0bge",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dB6VEG0bge",
+                "expanded_url": "https://play.anghami.com/song/35701188?bid=/oeVjzJ3M3X",
+                "display_url": "play.anghami.com/song/35701188?\u2026",
+                "indices": [
+                    90,
+                    113
+                ]
+            },
+            {
+                "url": "https://t.co/dB6VEG0bge",
+                "expanded_url": "https://play.anghami.com/song/35701188?bid=/oeVjzJ3M3X",
+                "display_url": "play.anghami.com/song/35701188?\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146913195044605952,
+        "user": "OmrSber",
+        "user_location": " New Cairo",
+        "date": "Thu Jul 04 22:46:28 +0000 2019",
+        "text": "@AbulJoe25 Because You're 5awl ya basha For Second Time \ud83d\ude02\ud83d\ude0b",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AbulJoe25",
+                "name": "Abul Joe",
+                "id": 1065643628201156608,
+                "id_str": "1065643628201156608",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146908023228645378,
+        "user": "ahmeedmusttafa",
+        "user_location": "mukattam",
+        "date": "Thu Jul 04 22:25:55 +0000 2019",
+        "text": "\"He shall never know I love him: and that, not because he's handsome, but because he's more myself than I am. Whate\u2026 https://t.co/QxIwTEy4DL",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/QxIwTEy4DL",
+                "expanded_url": "https://twitter.com/i/web/status/1146908023228645378",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146906619302879233,
+        "user": "_RMK9",
+        "user_location": "",
+        "date": "Thu Jul 04 22:20:21 +0000 2019",
+        "text": "I'm at City Square in New Cairo, Cairo https://t.co/cUSdp5NLDt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05469475,
+                31.49228316
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cUSdp5NLDt",
+                "expanded_url": "https://www.swarmapp.com/c/gAjr0KsR1nm",
+                "display_url": "swarmapp.com/c/gAjr0KsR1nm",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146905151988477952,
+        "user": "iiEmadd",
+        "user_location": "Nasr city ",
+        "date": "Thu Jul 04 22:14:31 +0000 2019",
+        "text": "RT @OmrSber: Take The Risk Or Lose The Chance! \ud83d\ude0e",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "OmrSber",
+                "name": "\u0639\u064f\u0640\u0640\u0645\u0640\u0640\u0631 \u0667\u0664",
+                "id": 637096329,
+                "id_str": "637096329",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146900877648769024,
+        "user": "jolynnsolis5",
+        "user_location": "",
+        "date": "Thu Jul 04 21:57:32 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146891953428148225,
+        "user": "ronneyelmesery",
+        "user_location": "Egypt",
+        "date": "Thu Jul 04 21:22:04 +0000 2019",
+        "text": "RT @fullofwritings: ever looked at someone and thought \u201chow was I alive before I met you?\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "fullofwritings",
+                "name": "String name = \u201cAhmed Abdelrahman\u201d;",
+                "id": 98472706,
+                "id_str": "98472706",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146887270001192960,
+        "user": "Taifsk85_",
+        "user_location": "Kuwait",
+        "date": "Thu Jul 04 21:03:27 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/EtH1BajESp",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/EtH1BajESp",
+                "expanded_url": "https://www.swarmapp.com/c/4Jh5fpEKEoS",
+                "display_url": "swarmapp.com/c/4Jh5fpEKEoS",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146882918482173954,
+        "user": "zeinaessam23",
+        "user_location": "cai",
+        "date": "Thu Jul 04 20:46:10 +0000 2019",
+        "text": "RT @fullofwritings: ever looked at someone and thought \u201chow was I alive before I met you?\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "fullofwritings",
+                "name": "String name = \u201cAhmed Abdelrahman\u201d;",
+                "id": 98472706,
+                "id_str": "98472706",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146882720146120740,
+        "user": "fullofwritings",
+        "user_location": "new cairo",
+        "date": "Thu Jul 04 20:45:23 +0000 2019",
+        "text": "ever looked at someone and thought \u201chow was I alive before I met you?\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146881891187867648,
+        "user": "_emzzz_",
+        "user_location": "",
+        "date": "Thu Jul 04 20:42:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146878303128756224,
+        "user": "AdolfHitlir",
+        "user_location": "New cairo",
+        "date": "Thu Jul 04 20:27:50 +0000 2019",
+        "text": "What do you think? https://t.co/Laqs4RiPa9",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Laqs4RiPa9",
+                "expanded_url": "https://www.facebook.com/story.php?story_fbid=2635115556500602&id=100000065501563",
+                "display_url": "facebook.com/story.php?stor\u2026",
+                "indices": [
+                    19,
+                    42
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146873958937047041,
+        "user": "S_Kalkatawi",
+        "user_location": "Somewhere",
+        "date": "Thu Jul 04 20:10:34 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/h7U5qMFT7L",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/h7U5qMFT7L",
+                "expanded_url": "https://www.swarmapp.com/c/3yl0aWhZ9fW",
+                "display_url": "swarmapp.com/c/3yl0aWhZ9fW",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146872556143730688,
+        "user": "janaasu",
+        "user_location": "Jeddah",
+        "date": "Thu Jul 04 20:04:59 +0000 2019",
+        "text": "I'm at Stars Cinema - @citystarscinema in Heliopolis, Cairo https://t.co/4gpUFkaauB",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07328658,
+                31.34661154
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4gpUFkaauB",
+                "expanded_url": "https://www.swarmapp.com/c/d0YHAMpuaEy",
+                "display_url": "swarmapp.com/c/d0YHAMpuaEy",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CityStarsCinema",
+                "name": "City Stars Cinema",
+                "id": 4249061201,
+                "id_str": "4249061201",
+                "indices": [
+                    22,
+                    38
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146870899561439232,
+        "user": "Lzm25_",
+        "user_location": "II-VII-MMXIX",
+        "date": "Thu Jul 04 19:58:24 +0000 2019",
+        "text": "I'm at Stars Cinema - @citystarscinema in Heliopolis, Cairo https://t.co/muq5paFIxD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07328658,
+                31.34661154
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/muq5paFIxD",
+                "expanded_url": "https://www.swarmapp.com/c/kaGJd5vqqDL",
+                "display_url": "swarmapp.com/c/kaGJd5vqqDL",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CityStarsCinema",
+                "name": "City Stars Cinema",
+                "id": 4249061201,
+                "id_str": "4249061201",
+                "indices": [
+                    22,
+                    38
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146869271647215617,
+        "user": "MostafaHamdy_",
+        "user_location": "",
+        "date": "Thu Jul 04 19:51:56 +0000 2019",
+        "text": "Just posted a photo @ AL-Masa Hotel https://t.co/6Kmwy3ZIK5",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0611646,
+                31.31713714
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6Kmwy3ZIK5",
+                "expanded_url": "https://www.instagram.com/p/BzgczfeHipdJD15P9OhubS5y1qTbTfLyXHi90g0/?igshid=9a6ub0q9772w",
+                "display_url": "instagram.com/p/BzgczfeHipdJ\u2026",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146864627902554113,
+        "user": "yessi_2436",
+        "user_location": "",
+        "date": "Thu Jul 04 19:33:29 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146863423927521280,
+        "user": "DnOo_2013",
+        "user_location": "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+        "date": "Thu Jul 04 19:28:42 +0000 2019",
+        "text": "\ud83d\ude34\ud83d\udda4 (at @Starbucks in New Cairo, New Cairo, Cairo - Egypt) https://t.co/5cQNgfKtqp https://t.co/cH8hOox54v",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02848336,
+                31.40827943
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5cQNgfKtqp",
+                "expanded_url": "https://www.swarmapp.com/c/cca5JHmwR4c",
+                "display_url": "swarmapp.com/c/cca5JHmwR4c",
+                "indices": [
+                    58,
+                    81
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Starbucks",
+                "name": "Starbucks Coffee",
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146858311159078912,
+        "user": "cammerrrryn",
+        "user_location": "",
+        "date": "Thu Jul 04 19:08:23 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146856282491707393,
+        "user": "yessie121310",
+        "user_location": "Pinewood, FL",
+        "date": "Thu Jul 04 19:00:19 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146853852882329601,
+        "user": "AmilyClary",
+        "user_location": "Oklahoma, USA",
+        "date": "Thu Jul 04 18:50:40 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146852254391111682,
+        "user": "IsabellaAzia",
+        "user_location": "",
+        "date": "Thu Jul 04 18:44:19 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146850318489137155,
+        "user": "reeves_mikayla",
+        "user_location": "Oklahoma, USA",
+        "date": "Thu Jul 04 18:36:38 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146848780765007873,
+        "user": "i_might_be_fake",
+        "user_location": "Not where i thought id be",
+        "date": "Thu Jul 04 18:30:31 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146847352969465856,
+        "user": "X_SXC_XO",
+        "user_location": "",
+        "date": "Thu Jul 04 18:24:50 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146847103408365570,
+        "user": "a__soniqueee",
+        "user_location": "",
+        "date": "Thu Jul 04 18:23:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I do have days where I am happy, but there are still days where my heart be aching...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146843727446585344,
+        "user": "oMysterios",
+        "user_location": "",
+        "date": "Thu Jul 04 18:10:26 +0000 2019",
+        "text": "I'm at Downtown Mall in New Cairo, Cairo https://t.co/VAoydghgJW",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01719596,
+                31.4124012
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/VAoydghgJW",
+                "expanded_url": "https://www.swarmapp.com/c/kMedDcGoitg",
+                "display_url": "swarmapp.com/c/kMedDcGoitg",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146843632185544704,
+        "user": "dessy11wessy11",
+        "user_location": "New Orleans, LA",
+        "date": "Thu Jul 04 18:10:03 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146842367196053507,
+        "user": "ghaida59_",
+        "user_location": "",
+        "date": "Thu Jul 04 18:05:02 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/xyGMgh3A9L",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/xyGMgh3A9L",
+                "expanded_url": "https://www.swarmapp.com/c/2f1wUG7KtDz",
+                "display_url": "swarmapp.com/c/2f1wUG7KtDz",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146842323055271936,
+        "user": "_TiaraaaSenaee",
+        "user_location": "Spring, TX",
+        "date": "Thu Jul 04 18:04:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I do have days where I am happy, but there are still days where my heart be aching...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146836862113202176,
+        "user": "WhySoHostile_",
+        "user_location": "",
+        "date": "Thu Jul 04 17:43:09 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146836810389000192,
+        "user": "Emmiiiillllllyy",
+        "user_location": "Los Angeles, CA",
+        "date": "Thu Jul 04 17:42:57 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146836533686784000,
+        "user": "sincerelypaigee",
+        "user_location": "Texas, USA",
+        "date": "Thu Jul 04 17:41:51 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146834813674037248,
+        "user": "AUC_Library",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 17:35:01 +0000 2019",
+        "text": "Graduated from @AUC? You can still use the Library and its resources on campus! #AUCLibrary https://t.co/gfRqHkpeoN",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC",
+                "name": "AUC",
+                "id": 40629323,
+                "id_str": "40629323",
+                "indices": [
+                    15,
+                    19
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146834434038964224,
+        "user": "art_cum",
+        "user_location": "",
+        "date": "Thu Jul 04 17:33:30 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146833608050716672,
+        "user": "_PinkEmpress_",
+        "user_location": "Baltimore, MD",
+        "date": "Thu Jul 04 17:30:13 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146833002439294981,
+        "user": "carol_osn",
+        "user_location": "New York, USA",
+        "date": "Thu Jul 04 17:27:49 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146832267232174080,
+        "user": "CaraFreccero",
+        "user_location": "Oakland, CA",
+        "date": "Thu Jul 04 17:24:54 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146830854066491392,
+        "user": "emanashmawi96",
+        "user_location": "New Cairo",
+        "date": "Thu Jul 04 17:19:17 +0000 2019",
+        "text": "I can\u2019t fight anymore",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146827671999057920,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 17:06:38 +0000 2019",
+        "text": "@LilkeefQuotes True\ud83d\udcaf",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "LilkeefQuotes",
+                "name": "Lil Keef\u203c\ufe0f\u203c\ufe0f",
+                "id": 994615715373244416,
+                "id_str": "994615715373244416",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146827454163640321,
+        "user": "k_alotaibi36",
+        "user_location": "Al omariya, Kuwait ",
+        "date": "Thu Jul 04 17:05:46 +0000 2019",
+        "text": "I'm at Cairo Festival City Mall - @caifestivalcity in New Cairo, Cairo https://t.co/pRn1SbJ9nz",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028296,
+                31.40805
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pRn1SbJ9nz",
+                "expanded_url": "https://www.swarmapp.com/c/efbtAHvVlEP",
+                "display_url": "swarmapp.com/c/efbtAHvVlEP",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CaiFestivalCity",
+                "name": "Cairo Festival City",
+                "id": 1899254348,
+                "id_str": "1899254348",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146826833327005697,
+        "user": "OmrSber",
+        "user_location": " New Cairo",
+        "date": "Thu Jul 04 17:03:18 +0000 2019",
+        "text": "Take The Risk Or Lose The Chance! \ud83d\ude0e",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146826776225681415,
+        "user": "katelynknoxx",
+        "user_location": "Philadelphia, PA",
+        "date": "Thu Jul 04 17:03:05 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I do have days where I am happy, but there are still days where my heart be aching...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146824178403872768,
+        "user": "lyndsay_maria",
+        "user_location": "NC \u2600\ufe0f",
+        "date": "Thu Jul 04 16:52:45 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146821168172806145,
+        "user": "BIANCA86098915",
+        "user_location": "Jamaica",
+        "date": "Thu Jul 04 16:40:48 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146820217500262400,
+        "user": "kayleekaylee",
+        "user_location": "",
+        "date": "Thu Jul 04 16:37:01 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146819965472972801,
+        "user": "ayeeitscjay",
+        "user_location": "Raleigh, NC",
+        "date": "Thu Jul 04 16:36:01 +0000 2019",
+        "text": "RT @_Mysterygirl_P: Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146818661652582400,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 16:30:50 +0000 2019",
+        "text": "Summer is here and...\n\u2013 I lost no weight\n\u2013 haven't saved any money\n\u2013 still ugly",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146817280950657024,
+        "user": "inge_gls",
+        "user_location": "Parking",
+        "date": "Thu Jul 04 16:25:21 +0000 2019",
+        "text": "Sonny \ud83c\udfb6 \n\n#TDF2019 https://t.co/vNgHUL2ToK",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146816068893184000,
+        "user": "FaDyPhilip2",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 16:20:32 +0000 2019",
+        "text": "Sex is not the only thing that has to do with it all in the world https://t.co/erz8DSWvuw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/erz8DSWvuw",
+                "expanded_url": "https://twitter.com/JakePeralta_ar/status/1146747101658984449",
+                "display_url": "twitter.com/JakePeralta_ar\u2026",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146815025463644160,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 16:16:23 +0000 2019",
+        "text": "@original__kay Thanks. Same to you\ud83e\udd17",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "original__kay",
+                "name": "Ki \ud83d\udc51",
+                "id": 3345139840,
+                "id_str": "3345139840",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146813325109583872,
+        "user": "moodyunited",
+        "user_location": "new cairo",
+        "date": "Thu Jul 04 16:09:38 +0000 2019",
+        "text": "and l did it several times \ud83d\ude02\ud83d\ude02 https://t.co/eB5JBbZQaK",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/eB5JBbZQaK",
+                "expanded_url": "https://twitter.com/Sir7Khaled/status/1105224221330952193",
+                "display_url": "twitter.com/Sir7Khaled/sta\u2026",
+                "indices": [
+                    30,
+                    53
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146807401011658755,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 15:46:05 +0000 2019",
+        "text": "@Redd_DotMedia You too.\ud83e\udd70",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Redd_DotMedia",
+                "name": "DIVINE GOD \u264a\ufe0f\ud83d\udd4a",
+                "id": 1106895613571055616,
+                "id_str": "1106895613571055616",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146804398443630595,
+        "user": "philosophy159",
+        "user_location": "everywhere",
+        "date": "Thu Jul 04 15:34:09 +0000 2019",
+        "text": "RT @salmaashraf28: Depression will never leave.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "salmaashraf28",
+                "name": "SA\ud83e\udd40",
+                "id": 1467031208,
+                "id_str": "1467031208",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146800616116764672,
+        "user": "salmaashraf28",
+        "user_location": "New Cairo",
+        "date": "Thu Jul 04 15:19:08 +0000 2019",
+        "text": "Depression will never leave.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146793646068523009,
+        "user": "mahytabmohameed",
+        "user_location": "New cairo city",
+        "date": "Thu Jul 04 14:51:26 +0000 2019",
+        "text": "excatly..excatly https://t.co/CVk6rFwMXR",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CVk6rFwMXR",
+                "expanded_url": "https://twitter.com/brj202027/status/1146792037716582400",
+                "display_url": "twitter.com/brj202027/stat\u2026",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146792468790333440,
+        "user": "alieswy",
+        "user_location": "New Cairo,Egypt",
+        "date": "Thu Jul 04 14:46:45 +0000 2019",
+        "text": "Never start an exercise without a proper warm up. \ud83d\ude16\ud83d\ude14 https://t.co/Qj8vyXrO60",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Qj8vyXrO60",
+                "expanded_url": "https://twitter.com/irineuloturco/status/1024293203644702720",
+                "display_url": "twitter.com/irineuloturco/\u2026",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146791880287502337,
+        "user": "mahytabmohameed",
+        "user_location": "New cairo city",
+        "date": "Thu Jul 04 14:44:25 +0000 2019",
+        "text": "You\u2019re the blood in my veins\u2665\ufe0f.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146790964670935040,
+        "user": "onlyygabby_",
+        "user_location": "",
+        "date": "Thu Jul 04 14:40:46 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't have time to play these mind games. I've got a caring heart, I've been through hell and I am ready to love. Tak\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146786143104569346,
+        "user": "alieswy",
+        "user_location": "New Cairo,Egypt",
+        "date": "Thu Jul 04 14:21:37 +0000 2019",
+        "text": "@theNsaied Yess when you need a refreshment \ud83d\ude05\ud83d\ude0d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "theNsaied",
+                "name": "Nada",
+                "id": 1026509053147664384,
+                "id_str": "1026509053147664384",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146784672111874048,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Thu Jul 04 14:15:46 +0000 2019",
+        "text": "you know what, why I'm here in the first place, is to sell you meth! https://t.co/rQz5yjc6pm",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146782802064609283,
+        "user": "shylerharisonnn",
+        "user_location": "Ottawa, Ontario",
+        "date": "Thu Jul 04 14:08:20 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I do have days where I am happy, but there are still days where my heart be aching...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146781194924843010,
+        "user": "AmishaKikieCar1",
+        "user_location": "",
+        "date": "Thu Jul 04 14:01:57 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't have time to play these mind games. I've got a caring heart, I've been through hell and I am ready to love. Tak\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146776383080816641,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Thu Jul 04 13:42:50 +0000 2019",
+        "text": "Say my name \ud83d\udd76\ufe0f https://t.co/cInE3oBzRe",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146775706246008832,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Thu Jul 04 13:40:09 +0000 2019",
+        "text": "Breaking bad \ud83d\udc8a https://t.co/QzMBd1sJCi",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146775688180928514,
+        "user": "etym_dub",
+        "user_location": "",
+        "date": "Thu Jul 04 13:40:04 +0000 2019",
+        "text": "RT @AUC_RBSCL: For #tbt we have the time @AUC had a \"university station wagon.\" We hope (nay, demand) it had wood paneling. Presumably ther\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AUC_RBSCL",
+                "name": "AUC Rare Books Lib",
+                "id": 140441304,
+                "id_str": "140441304",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "AUC",
+                "name": "AUC",
+                "id": 40629323,
+                "id_str": "40629323",
+                "indices": [
+                    41,
+                    45
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146775107051745287,
+        "user": "esmael_sharara",
+        "user_location": "New Cairo City",
+        "date": "Thu Jul 04 13:37:46 +0000 2019",
+        "text": "Heeeeey \ud83d\udcaa challenge accepted \ud83d\udc4c\ud83d\ude0e\n#bottlecapchallenge #jasonstatham #scott #michealjaiwhite #challengeaccepted jasons\u2026 https://t.co/kyu1aXNEbf",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06627129,
+                31.50037766
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/kyu1aXNEbf",
+                "expanded_url": "https://twitter.com/i/web/status/1146775107051745287",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146774706009399297,
+        "user": "AleahTay",
+        "user_location": "",
+        "date": "Thu Jul 04 13:36:10 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever call someone and while their phone is ringing you're hoping they don't pick up?\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146774093041156096,
+        "user": "Dariusruth08",
+        "user_location": "Haiti",
+        "date": "Thu Jul 04 13:33:44 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't have time to play these mind games. I've got a caring heart, I've been through hell and I am ready to love. Tak\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146773874178240515,
+        "user": "bbygirllposts",
+        "user_location": "",
+        "date": "Thu Jul 04 13:32:52 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I don't have time to play these mind games. I've got a caring heart, I've been through hell and I am ready to love. Tak\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146766729990889474,
+        "user": "ElmantawyRawan",
+        "user_location": "Kw , Eg",
+        "date": "Thu Jul 04 13:04:28 +0000 2019",
+        "text": "RT @Habibam32112: Fen El agaza we El safr we El khorgat b2a?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Habibam32112",
+                "name": "Habiiba",
+                "id": 832365290340175873,
+                "id_str": "832365290340175873",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146755109151543298,
+        "user": "AUC_RBSCL",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 12:18:18 +0000 2019",
+        "text": "For #tbt we have the time @AUC had a \"university station wagon.\" We hope (nay, demand) it had wood paneling. Presum\u2026 https://t.co/E6JOxz2F9R",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/E6JOxz2F9R",
+                "expanded_url": "https://twitter.com/i/web/status/1146755109151543298",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AUC",
+                "name": "AUC",
+                "id": 40629323,
+                "id_str": "40629323",
+                "indices": [
+                    26,
+                    30
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146755103145283590,
+        "user": "hebaamohaammed",
+        "user_location": "Mukattam",
+        "date": "Thu Jul 04 12:18:16 +0000 2019",
+        "text": "heavy heart",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146754263282061313,
+        "user": "Maryamhelall1",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jul 04 12:14:56 +0000 2019",
+        "text": "RT @BdellrahmanA: May we meet again",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "BdellrahmanA",
+                "name": "iamabdelrhman_Stark \ud83d\udc8e",
+                "id": 1009646195856363520,
+                "id_str": "1009646195856363520",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146754179228196864,
+        "user": "mahytabmohameed",
+        "user_location": "New cairo city",
+        "date": "Thu Jul 04 12:14:36 +0000 2019",
+        "text": "Lady\ud83d\udc9e https://t.co/heXirTSnlJ",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/heXirTSnlJ",
+                "expanded_url": "https://twitter.com/fareada44/status/1146608969512837120",
+                "display_url": "twitter.com/fareada44/stat\u2026",
+                "indices": [
+                    6,
+                    29
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146751582979207169,
+        "user": "xxxaeyshaxxx",
+        "user_location": "",
+        "date": "Thu Jul 04 12:04:17 +0000 2019",
+        "text": "RT @_Mysterygirl_P: I do have days where I am happy, but there are still days where my heart be aching...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146742245959307264,
+        "user": "osama_ahmed7",
+        "user_location": "New Cairo , Egypt",
+        "date": "Thu Jul 04 11:27:11 +0000 2019",
+        "text": "I'm ready https://t.co/VrEE1GNIzs",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146722857960890368,
+        "user": "Marvoich",
+        "user_location": "New Cairo",
+        "date": "Thu Jul 04 10:10:09 +0000 2019",
+        "text": "You love humanity in theory and may sacrifice a lot to ensure ... More for Aquarius https://t.co/vqgUNOc4mM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vqgUNOc4mM",
+                "expanded_url": "http://bit.ly/whBNNw",
+                "display_url": "bit.ly/whBNNw",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146716338716577793,
+        "user": "myhomerealesta",
+        "user_location": "new cairo",
+        "date": "Thu Jul 04 09:44:14 +0000 2019",
+        "text": "Chalet For Sale In Il Monte Galala Ain Al Sokhna\nBuilt Area: 180 m + Garden: 250 m\nView: Lagoon\nDelivery status: Fu\u2026 https://t.co/hXlb5ictG3",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hXlb5ictG3",
+                "expanded_url": "https://twitter.com/i/web/status/1146716338716577793",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146716151830994944,
+        "user": "myhomerealesta",
+        "user_location": "new cairo",
+        "date": "Thu Jul 04 09:43:30 +0000 2019",
+        "text": "Chalet For Sale In Il Monte Galala Ain Al Sokhna\nBuilt Area: 126 m\nChalet Consist Of: 3 Bedrooms + 2 Bathrooms + 2\u2026 https://t.co/JDMtdRB0o6",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JDMtdRB0o6",
+                "expanded_url": "https://twitter.com/i/web/status/1146716151830994944",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146715919164596224,
+        "user": "myhomerealesta",
+        "user_location": "new cairo",
+        "date": "Thu Jul 04 09:42:34 +0000 2019",
+        "text": "Villa For Sale In Compound Lake View, 5th Settlements\nBuilt Area: 580m\nLand Area: 650m\nView: Landscape\nDelivery sta\u2026 https://t.co/rMV1ihNYGm",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rMV1ihNYGm",
+                "expanded_url": "https://twitter.com/i/web/status/1146715919164596224",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146715611134865408,
+        "user": "khaledwaleed102",
+        "user_location": "New Cairo,egypt",
+        "date": "Thu Jul 04 09:41:21 +0000 2019",
+        "text": "@Fxrno @FCBarcelona You made my day\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Fxrno",
+                "name": "Ferno",
+                "id": 3358860021,
+                "id_str": "3358860021",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "FCBarcelona",
+                "name": "FC Barcelona",
+                "id": 96951800,
+                "id_str": "96951800",
+                "indices": [
+                    7,
+                    19
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146715602079440896,
+        "user": "myhomerealesta",
+        "user_location": "new cairo",
+        "date": "Thu Jul 04 09:41:19 +0000 2019",
+        "text": "The Last Opportunity to Get Your Lagoon View Chalets In Caesar North Coast \nDown Payment 10%\nOver 4 Years Installme\u2026 https://t.co/cwriWOAtYm",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cwriWOAtYm",
+                "expanded_url": "https://twitter.com/i/web/status/1146715602079440896",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146715008518250496,
+        "user": "mahdx5",
+        "user_location": "\ud83c\uddf0\ud83c\uddfcKuw|Cairo\ud83c\uddea\ud83c\uddec",
+        "date": "Thu Jul 04 09:38:57 +0000 2019",
+        "text": "I'm at Faculty Of Dentistry in New Cairo, Cairo https://t.co/C61Oqz51Ss",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02784444,
+                31.49187264
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/C61Oqz51Ss",
+                "expanded_url": "https://www.swarmapp.com/c/1N2Z8Djf77a",
+                "display_url": "swarmapp.com/c/1N2Z8Djf77a",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146708004257042432,
+        "user": "foreignleahh",
+        "user_location": "",
+        "date": "Thu Jul 04 09:11:07 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever call someone and while their phone is ringing you're hoping they don't pick up?\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146706460669353984,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 09:04:59 +0000 2019",
+        "text": "@UnZenn Have fun being a fat hoe then",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "UnZenn",
+                "name": "ziyad",
+                "id": 336374467,
+                "id_str": "336374467",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146702748148277248,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 08:50:14 +0000 2019",
+        "text": "@allabout_karma @thebecabear My favorite \ud83d\ude0b",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "allabout_karma",
+                "name": "Bob Smith",
+                "id": 889240566201950208,
+                "id_str": "889240566201950208",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "thebecabear",
+                "name": "beca",
+                "id": 913698648,
+                "id_str": "913698648",
+                "indices": [
+                    16,
+                    28
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146698471287791616,
+        "user": "Abdullahasalam1",
+        "user_location": "New cairo ",
+        "date": "Thu Jul 04 08:33:14 +0000 2019",
+        "text": "@Mohamedzamzam15 Omal ana a3ml eh \n5aly 3andk dam\ud83d\ude12\ud83d\ude12\ud83d\ude12",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mohamedzamzam15",
+                "name": "Mohamed Zamzam",
+                "id": 3040579511,
+                "id_str": "3040579511",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146695033023815680,
+        "user": "_Mysterygirl_P",
+        "user_location": "New Cairo, Egypt",
+        "date": "Thu Jul 04 08:19:35 +0000 2019",
+        "text": "@slimmdrea Friends like that are annoying...I mean I am here what else do you need??\ud83d\ude44",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "slimmdrea",
+                "name": "Andrea \ud83c\udf38\ud83d\udc8e\ud83c\udf38",
+                "id": 228489064,
+                "id_str": "228489064",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146684375293190144,
+        "user": "TAbubakr_",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jul 04 07:37:14 +0000 2019",
+        "text": "Let\u2019s be productive before people wake up\ud83c\udfcb\ud83c\udffd\u200d\u2640\ufe0f\ud83c\udfcb\ud83c\udffd\u200d\u2642\ufe0f #earlybirds #squattogetherstaytogether https://t.co/GmGRovIiTA\u2026 https://t.co/5yjOHz3jao",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.08503265,
+                31.35412484
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/GmGRovIiTA",
+                "expanded_url": "http://thepac.eg",
+                "display_url": "thepac.eg",
+                "indices": [
+                    91,
+                    114
+                ]
+            },
+            {
+                "url": "https://t.co/5yjOHz3jao",
+                "expanded_url": "https://twitter.com/i/web/status/1146684375293190144",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    }
+]

@@ -1,0 +1,741 @@
+[
+    {
+        "id": 1147655578560450562,
+        "user": "MennaMahmoud97",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 06 23:56:26 +0000 2019",
+        "text": "Life feels so complete when you are around \ud83c\udf52",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147651985501544448,
+        "user": "zAndru_",
+        "user_location": "Colombia",
+        "date": "Sat Jul 06 23:42:10 +0000 2019",
+        "text": "RT @MindCap: what i think i look like when i reach the toxin lab 2 drop https://t.co/YAeSPqG6h1",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147649328745472002,
+        "user": "Xaro_GD",
+        "user_location": "\u00d6sterreich",
+        "date": "Sat Jul 06 23:31:36 +0000 2019",
+        "text": "RT @MindCap: what i think i look like when i reach the toxin lab 2 drop https://t.co/YAeSPqG6h1",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147648551650041858,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Sat Jul 06 23:28:31 +0000 2019",
+        "text": "\u266b #NowPlaying \u201cDayret El Rehla\u201d by @Mounirofficial on #Anghami https://t.co/n5rViAMcIU  https://t.co/n5rViAMcIU",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/n5rViAMcIU",
+                "expanded_url": "https://play.anghami.com/song/117199?bid=/ulMD2CY86X",
+                "display_url": "play.anghami.com/song/117199?bi\u2026",
+                "indices": [
+                    63,
+                    86
+                ]
+            },
+            {
+                "url": "https://t.co/n5rViAMcIU",
+                "expanded_url": "https://play.anghami.com/song/117199?bid=/ulMD2CY86X",
+                "display_url": "play.anghami.com/song/117199?bi\u2026",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Mounirofficial",
+                "name": "Mohamed Mounir",
+                "id": 4567346655,
+                "id_str": "4567346655",
+                "indices": [
+                    35,
+                    50
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147634187785998337,
+        "user": "CairoTour",
+        "user_location": "Egypt",
+        "date": "Sat Jul 06 22:31:27 +0000 2019",
+        "text": "Booking your trip&amp; its invaluable vacations and most tourists prefer to spend their time relaxing. \nLet's booking y\u2026 https://t.co/4b7US4DDtk",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0475,
+                31.262222
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4b7US4DDtk",
+                "expanded_url": "https://twitter.com/i/web/status/1147634187785998337",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147631181132906498,
+        "user": "OmarSam71214125",
+        "user_location": "nasr city ",
+        "date": "Sat Jul 06 22:19:30 +0000 2019",
+        "text": "@ubod1412 W ba3den b2a fl 2amar da b2aaa \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude44",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ubod1412",
+                "name": "AbDallaH",
+                "id": 877346335363649537,
+                "id_str": "877346335363649537",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147628333896806400,
+        "user": "anwarjoharii",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Sat Jul 06 22:08:11 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/an6o9KyXZe https://t.co/IbZYhcxrBw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/an6o9KyXZe",
+                "expanded_url": "https://www.swarmapp.com/c/311HsqfbjlL",
+                "display_url": "swarmapp.com/c/311HsqfbjlL",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147625154564042752,
+        "user": "Menna_Medhat_36",
+        "user_location": "Nasr city",
+        "date": "Sat Jul 06 21:55:33 +0000 2019",
+        "text": "a lot awe awe ya3ne https://t.co/WLxpwCCH8h",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WLxpwCCH8h",
+                "expanded_url": "https://twitter.com/arjmxrell/status/1147150113112043522",
+                "display_url": "twitter.com/arjmxrell/stat\u2026",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147615319504146432,
+        "user": "dweenAN18",
+        "user_location": "Al Khobar, Alhasa.",
+        "date": "Sat Jul 06 21:16:28 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/2HGb1rN7CM",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2HGb1rN7CM",
+                "expanded_url": "https://www.swarmapp.com/c/7wzLA4CP2lG",
+                "display_url": "swarmapp.com/c/7wzLA4CP2lG",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147613007108812800,
+        "user": "Jernkjeve",
+        "user_location": "Oslo, Norway",
+        "date": "Sat Jul 06 21:07:17 +0000 2019",
+        "text": "No expedition too long. No challenge too difficult. No adventure too dangerous. #findingthesourceoftherivernile @ C\u2026 https://t.co/FKDOqhln7C",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FKDOqhln7C",
+                "expanded_url": "https://twitter.com/i/web/status/1147613007108812800",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147611116333199360,
+        "user": "AfricaWorldNews",
+        "user_location": "Dublin",
+        "date": "Sat Jul 06 20:59:46 +0000 2019",
+        "text": "African Cup of Nations - EGYPT 0 vs SOUTH AFRICA 1 @ Cairo, Egypt https://t.co/JExQ77rMOV",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JExQ77rMOV",
+                "expanded_url": "https://www.instagram.com/p/Bzlu95sidxo/?igshid=1e793nare3kc4",
+                "display_url": "instagram.com/p/Bzlu95sidxo/\u2026",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147603928474902535,
+        "user": "Eltagpharmhotm3",
+        "user_location": "Nasr city ",
+        "date": "Sat Jul 06 20:31:12 +0000 2019",
+        "text": "\ud83d\uddfaHESHAM\ud83c\uddea\ud83c\uddec\nFOR\nEGYPT\nONCE https://t.co/5mCpTGBT0s",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147598586198265856,
+        "user": "Yarareda121",
+        "user_location": " nasr city",
+        "date": "Sat Jul 06 20:09:58 +0000 2019",
+        "text": "Same \ud83e\udd1d https://t.co/oU03zr2WZu",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/oU03zr2WZu",
+                "expanded_url": "https://twitter.com/seifdiab96/status/1147502352468992001",
+                "display_url": "twitter.com/seifdiab96/sta\u2026",
+                "indices": [
+                    7,
+                    30
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147592694367236097,
+        "user": "Lorenz_KO",
+        "user_location": "South Africa",
+        "date": "Sat Jul 06 19:46:34 +0000 2019",
+        "text": "HT: #EGY\ud83c\uddea\ud83c\uddec 0-0 #RSA\n\n#BafanaBafana have silenced the home crowd, frustrated faces all round with the media zone fro\u2026 https://t.co/WTe2F1avKI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06931659,
+                31.31263493
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WTe2F1avKI",
+                "expanded_url": "https://twitter.com/i/web/status/1147592694367236097",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147587376904134656,
+        "user": "ohosny10",
+        "user_location": "Cairo, Egypt. ",
+        "date": "Sat Jul 06 19:25:26 +0000 2019",
+        "text": "Egyptian fireflies #afcon2019 @ Cairo International Stadium https://t.co/AHlVwPpJ2j",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.069111,
+                31.312333
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AHlVwPpJ2j",
+                "expanded_url": "https://www.instagram.com/p/BzlkJWwB7Ce/?igshid=1s5xluc465v82",
+                "display_url": "instagram.com/p/BzlkJWwB7Ce/\u2026",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147586814087258113,
+        "user": "ABZ_Alsarheed",
+        "user_location": "Kuwait \u2665 | koc\ud83d\udccd",
+        "date": "Sat Jul 06 19:23:12 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/SC6JjdGwTq",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/SC6JjdGwTq",
+                "expanded_url": "https://www.swarmapp.com/c/gnKwVLqdT4Y",
+                "display_url": "swarmapp.com/c/gnKwVLqdT4Y",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147585412141129728,
+        "user": "GDNewT",
+        "user_location": "San Jos\u00e9, Costa Rica.",
+        "date": "Sat Jul 06 19:17:38 +0000 2019",
+        "text": "RT @MindCap: what i think i look like when i reach the toxin lab 2 drop https://t.co/YAeSPqG6h1",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147582262902513666,
+        "user": "nevr_on",
+        "user_location": "wouldn't you like to know",
+        "date": "Sat Jul 06 19:05:07 +0000 2019",
+        "text": "RT @MindCap: the xylophone is just a gay drum",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147582109843771392,
+        "user": "samemperor001",
+        "user_location": "oka akoko south west ondo stat",
+        "date": "Sat Jul 06 19:04:30 +0000 2019",
+        "text": "Two legends, Samuel Eto and Kanu sat side by side @ Nigeria vs Cameroon Round of 16 Match; Eto'o had the first half\u2026 https://t.co/Obbvf7law6",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Obbvf7law6",
+                "expanded_url": "https://twitter.com/i/web/status/1147582109843771392",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147578011153125376,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 06 18:48:13 +0000 2019",
+        "text": "@Lucarinon @exyndotmp3 nah you're just edgy",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Lucarinon",
+                "name": "Rin",
+                "id": 949552674822852608,
+                "id_str": "949552674822852608",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "exyndotmp3",
+                "name": ":+'Exyen_; \ud83d\udda4 999",
+                "id": 902690963021324289,
+                "id_str": "902690963021324289",
+                "indices": [
+                    11,
+                    22
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147577744479412224,
+        "user": "akm2xx",
+        "user_location": "\u0635\u0628\u0627\u062d \u0627\u0644\u0646\u0627\u0635\u0631, \u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+        "date": "Sat Jul 06 18:47:09 +0000 2019",
+        "text": "I'm at @ConradCairo Executive Lounge in Bulaq, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah https://t.co/QzHunFdSSA",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06596275,
+                31.22808496
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/QzHunFdSSA",
+                "expanded_url": "https://www.swarmapp.com/c/gdCV5wTJVEF",
+                "display_url": "swarmapp.com/c/gdCV5wTJVEF",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "ConradCairo",
+                "name": "Conrad Cairo",
+                "id": 307269332,
+                "id_str": "307269332",
+                "indices": [
+                    7,
+                    19
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147577434214150150,
+        "user": "NouraSattam_",
+        "user_location": "Riyadh , Saudi Arabia",
+        "date": "Sat Jul 06 18:45:55 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo w/ @saraalghamdi11 https://t.co/gJQVCtz1vK",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/gJQVCtz1vK",
+                "expanded_url": "https://www.swarmapp.com/c/9yvlbNttyQq",
+                "display_url": "swarmapp.com/c/9yvlbNttyQq",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "saraalghamdi11",
+                "name": "Sara ALGhamdi\ud83c\udf10",
+                "id": 369150648,
+                "id_str": "369150648",
+                "indices": [
+                    35,
+                    50
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147572193573953536,
+        "user": "CAF_Online",
+        "user_location": "Egypt",
+        "date": "Sat Jul 06 18:25:06 +0000 2019",
+        "text": "The two sides conclude their preparations ahead of #EGYRSA.\n#TotalAFCON2019 https://t.co/fejQ4bNjGn",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06935303,
+                31.31176068
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fejQ4bNjGn",
+                "expanded_url": "https://www.pscp.tv/w/b_De_jFXZ0tnYWxXcnFrRXZ8MWdxeHZWbk9OZ2x4QnQofwbin0Hu0n6swLYqcYDU0rYifPW9OTXSDTQfw8CU",
+                "display_url": "pscp.tv/w/b_De_jFXZ0tn\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147570040637669376,
+        "user": "aya_elborgy",
+        "user_location": "Almahalla Al-kobra",
+        "date": "Sat Jul 06 18:16:33 +0000 2019",
+        "text": "How to make a small room look BIGGER \ud83d\ude09\n\n#borgy_idt\n#borgyinteriordesigntips\n\n#smallrooms #art #interiortips\u2026 https://t.co/gS4rQ5E0Jf",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/gS4rQ5E0Jf",
+                "expanded_url": "https://twitter.com/i/web/status/1147570040637669376",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147569833564938240,
+        "user": "OOCMindCap",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 06 18:15:43 +0000 2019",
+        "text": "@Lucarinon @TheRealGDColon \"plenty of context rin\" coming soon",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Lucarinon",
+                "name": "Rin",
+                "id": 949552674822852608,
+                "id_str": "949552674822852608",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "TheRealGDColon",
+                "name": "Colon",
+                "id": 833838358996611073,
+                "id_str": "833838358996611073",
+                "indices": [
+                    11,
+                    26
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147565704008409089,
+        "user": "ASMbody",
+        "user_location": "Cairo",
+        "date": "Sat Jul 06 17:59:19 +0000 2019",
+        "text": "My every thing is here in cairo stadium \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f @ Cairo International Stadium https://t.co/RhqkXdkpWJ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.069111,
+                31.312333
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/RhqkXdkpWJ",
+                "expanded_url": "https://www.instagram.com/p/BzlaUt3gQnVu4KngSDcTFKIQ2L9lj2AERRyso40/?igshid=qni27ondihgl",
+                "display_url": "instagram.com/p/BzlaUt3gQnVu\u2026",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1147562534389465088,
+        "user": "KindaBlackGMD",
+        "user_location": "Washington, USA",
+        "date": "Sat Jul 06 17:46:43 +0000 2019",
+        "text": "RT @MindCap: the xylophone is just a gay drum",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    }
+]

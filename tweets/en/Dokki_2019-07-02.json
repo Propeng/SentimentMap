@@ -186,29 +186,6 @@
         "region": "Dokki"
     },
     {
-        "id": 1146173464262381568,
-        "user": "AdhamELsawy3",
-        "user_location": "Tanta, Egypt",
-        "date": "Tue Jul 02 21:47:03 +0000 2019",
-        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
-        "geo": null,
-        "lang": "en",
-        "urls": [],
-        "mentions": [
-            {
-                "screen_name": "AmiiraAyman",
-                "name": "Mira",
-                "id": 1723825243,
-                "id_str": "1723825243",
-                "indices": [
-                    3,
-                    15
-                ]
-            }
-        ],
-        "region": "Dokki"
-    },
-    {
         "id": 1146170247591989248,
         "user": "WedM7",
         "user_location": "",
@@ -269,34 +246,6 @@
                 "indices": [
                     20,
                     43
-                ]
-            }
-        ],
-        "mentions": [],
-        "region": "Dokki"
-    },
-    {
-        "id": 1146164909744545793,
-        "user": "BirehanBukha",
-        "user_location": "ur haert",
-        "date": "Tue Jul 02 21:13:03 +0000 2019",
-        "text": "I'm at Kasr El Nile Bridge in Downtown, Cairo https://t.co/Drw6MKbvxz",
-        "geo": {
-            "type": "Point",
-            "coordinates": [
-                30.04356521,
-                31.22968492
-            ]
-        },
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/Drw6MKbvxz",
-                "expanded_url": "https://www.swarmapp.com/c/5EocUKjohP1",
-                "display_url": "swarmapp.com/c/5EocUKjohP1",
-                "indices": [
-                    46,
-                    69
                 ]
             }
         ],
@@ -429,7 +378,7 @@
     {
         "id": 1146134610738159621,
         "user": "janaasu",
-        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "user_location": "Jeddah",
         "date": "Tue Jul 02 19:12:40 +0000 2019",
         "text": "I'm at Coffeeshop Company - @coffeeshopegypt in Manyal Sh\u012b\u1e29ah, Mu\u1e29\u0101faz\u0327at al J\u012bzah https://t.co/3q2PglNozs",
         "geo": {
@@ -580,7 +529,7 @@
     {
         "id": 1146116592826277888,
         "user": "janaasu",
-        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "user_location": "Jeddah",
         "date": "Tue Jul 02 18:01:04 +0000 2019",
         "text": "I'm at Kadoura in Mohandesin, Giza https://t.co/2R9wexNRhW",
         "geo": {
@@ -631,45 +580,6 @@
             }
         ],
         "mentions": [],
-        "region": "Dokki"
-    },
-    {
-        "id": 1146111110480896002,
-        "user": "BirehanBukha",
-        "user_location": "ur haert",
-        "date": "Tue Jul 02 17:39:17 +0000 2019",
-        "text": "I'm at @Starbucks in Mohandesin, Giza https://t.co/i1j6weDkhK",
-        "geo": {
-            "type": "Point",
-            "coordinates": [
-                30.053982,
-                31.201898
-            ]
-        },
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/i1j6weDkhK",
-                "expanded_url": "https://www.swarmapp.com/c/i62dzyMUppc",
-                "display_url": "swarmapp.com/c/i62dzyMUppc",
-                "indices": [
-                    38,
-                    61
-                ]
-            }
-        ],
-        "mentions": [
-            {
-                "screen_name": "Starbucks",
-                "name": "Starbucks Coffee",
-                "id": 30973,
-                "id_str": "30973",
-                "indices": [
-                    7,
-                    17
-                ]
-            }
-        ],
         "region": "Dokki"
     },
     {
@@ -1095,26 +1005,59 @@
         "region": "Dokki"
     },
     {
-        "id": 1146018845745995777,
-        "user": "enjyhussien",
-        "user_location": "",
-        "date": "Tue Jul 02 11:32:39 +0000 2019",
-        "text": "RT @AmiiraAyman: sometimes silence is better than any other reaction",
-        "geo": null,
+        "id": 1146020598449090560,
+        "user": "CairoTour",
+        "user_location": "Egypt",
+        "date": "Tue Jul 02 11:39:37 +0000 2019",
+        "text": "You Should Be Here \ud83d\udc47 You Should Be In Egypt \ud83c\uddea\ud83c\uddec\u2665\ufe0f\u2708\ufe0f\nLet's booking your trip with largest company services trip Egypt\u2026 https://t.co/JajYWhBcRd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05035583,
+                31.23218299
+            ]
+        },
         "lang": "en",
-        "urls": [],
-        "mentions": [
+        "urls": [
             {
-                "screen_name": "AmiiraAyman",
-                "name": "Mira",
-                "id": 1723825243,
-                "id_str": "1723825243",
+                "url": "https://t.co/JajYWhBcRd",
+                "expanded_url": "https://twitter.com/i/web/status/1146020598449090560",
+                "display_url": "twitter.com/i/web/status/1\u2026",
                 "indices": [
-                    3,
-                    15
+                    117,
+                    140
                 ]
             }
         ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1146019999842222082,
+        "user": "CairoTour",
+        "user_location": "Egypt",
+        "date": "Tue Jul 02 11:37:14 +0000 2019",
+        "text": "\ud83c\uddea\ud83c\uddecEgyptian \ud83c\udfdb\ufe0fmuseum Cairo. \nYou Should Be Here \ud83d\udc47 You Should Be In Egypt \ud83c\uddea\ud83c\uddec\u2665\ufe0f\u2708\ufe0f\nLet's booking your trip with largest\u2026 https://t.co/xGF62L2p2W",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.047778,
+                31.233333
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/xGF62L2p2W",
+                "expanded_url": "https://twitter.com/i/web/status/1146019999842222082",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
         "region": "Dokki"
     },
     {
@@ -1198,24 +1141,6 @@
                 ]
             }
         ],
-        "mentions": [],
-        "region": "Dokki"
-    },
-    {
-        "id": 1145997517168844800,
-        "user": "tmj_egy_jobs",
-        "user_location": "Egypt",
-        "date": "Tue Jul 02 10:07:54 +0000 2019",
-        "text": "If you're looking for work in #Cairo, check out this #CustomerService job via the link in our bio: Event Planner at CWT",
-        "geo": {
-            "type": "Point",
-            "coordinates": [
-                30.0594838,
-                31.223445
-            ]
-        },
-        "lang": "en",
-        "urls": [],
         "mentions": [],
         "region": "Dokki"
     },

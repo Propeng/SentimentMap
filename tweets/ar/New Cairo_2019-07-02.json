@@ -1,0 +1,1871 @@
+[
+    {
+        "id": 1146206745557180418,
+        "user": "ShadyEzzat74",
+        "user_location": "New cairo , Egypt",
+        "date": "Tue Jul 02 23:59:18 +0000 2019",
+        "text": "\u0631\u0628\u0646\u0627 \u062e\u0644\u0642\u0643 \u062f\u0645\u0643 \u062a\u0642\u064a\u0644 \u0645\u0641\u064a\u0634 \u0627\u064a \u0645\u0634\u0643\u0644\u0629 \u0628\u0633 \u0623\u062e\u0631\u0633 \u0628\u0642\u0649 \u064a\u0627 \u0627\u062e\u064a\u060c \u0645\u0634 \u062c\u0627\u064a\u0632 \u064a\u0628\u0642\u0649 \u062f\u0645\u0643 \u062e\u0641\u064a\u0641 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0623\u062d\u062f\u0647\u0645\u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146206578686791680,
+        "user": "ShadyEzzat74",
+        "user_location": "New cairo , Egypt",
+        "date": "Tue Jul 02 23:58:38 +0000 2019",
+        "text": "\u0627\u0646\u0627 \u0627\u0633\u062a\u062d\u0645\u0644 \u0627\u064a \u062d\u062f \u0627\u0634\u0637\u0627 \u0627\u0644\u0627 \u0644\u0648 \u062d\u062f \u062f\u0645\u0647 \u062a\u0642\u064a\u0644 \u0648 \u0647\u0648 \u0639\u0645\u0627\u0644 \u0639 \u0628\u0637\u0627\u0644 \u064a\u0633\u062a\u062e\u0641 \u062f\u0645\u0647.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146206577256538113,
+        "user": "mahmoudAballa",
+        "user_location": "   new cairo ",
+        "date": "Tue Jul 02 23:58:38 +0000 2019",
+        "text": "@_salmadel \u0627\u0644\u0645\u062c\u0647\u0648\u062f \u0627\u0644\u0630\u0647\u0646\u0649 \u0627\u0634\u062f \u0645\u0646 \u0627\u0644\u0645\u062c\u0647\u0648\u062f \u0627\u0644\u0628\u062f\u0646\u0649 \u0627\u0633\u062a\u0645\u0631\u0649 \u064a\u0627\u0628\u0646\u062a\u0649 \u0627\u0646\u062a\u0649 \u0635\u062d \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_salmadel",
+                "name": "\u2022",
+                "id": 2261663131,
+                "id_str": "2261663131",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146205427836903425,
+        "user": "abdulazizhashad",
+        "user_location": "Mukattam",
+        "date": "Tue Jul 02 23:54:04 +0000 2019",
+        "text": "\u0637\u0628 \u0645\u0627\u0645\u0627 \u0639\u0645\u0644\u062a \u0634\u0631\u0628\u0627\u062a \u0648 \u0644\u0627 \u0644\u0633\u0627 \u061f https://t.co/PlixN787Yx",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/PlixN787Yx",
+                "expanded_url": "https://twitter.com/roudiialaa/status/1145776773436706816",
+                "display_url": "twitter.com/roudiialaa/sta\u2026",
+                "indices": [
+                    30,
+                    53
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146205322966646785,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 23:53:39 +0000 2019",
+        "text": "@MayarAbdallah11 @FerjaniSassi \u0647\u0646\u0634\u062c\u0639\u0643 \u062d\u062a\u064a \u0644\u0648 \u0641\u0631\u0642\u062a\u0643 \u0632\u064a \u0627\u0644\u0632\u0641\u062a \u0628\u0631\u062f\u0648 \u2066\u2764\ufe0f\u2069\u2066\u2764\ufe0f\u2069\u2066\u2764\ufe0f\u2069",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MayarAbdallah11",
+                "name": "Mayar Abdallah",
+                "id": 1048143737291980800,
+                "id_str": "1048143737291980800",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "FerjaniSassi",
+                "name": "Ferjani Sassi",
+                "id": 3301628439,
+                "id_str": "3301628439",
+                "indices": [
+                    17,
+                    30
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146203901781319683,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 23:48:00 +0000 2019",
+        "text": "\u0645\u0631\u0628\u064a \u0639\u064a\u0627\u0644\u0647 \u0632\u064a \u0627\u0644\u0644\u064a \u0628\u064a\u0642\u0648\u0644 \u062a\u0641 \u0639\u0644\u064a \u0639\u0645\u0648 https://t.co/eA2pnKXkyt",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/eA2pnKXkyt",
+                "expanded_url": "https://twitter.com/FCBW_Med1a/status/1146201156953268224",
+                "display_url": "twitter.com/FCBW_Med1a/sta\u2026",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146203493386133505,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 23:46:22 +0000 2019",
+        "text": "@HeshZtv \u0627\u062f\u0647 \u0644\u0644\u0631\u0627\u062c\u0644 \u0642\u0644\u0645 \u0648\u0644\u0627 \u0627\u0643\u0646\u0647 \u0628\u064a\u0642\u0648\u0644 \u0627\u0646\u0627 \u0627\u0628\u0646 \u0645\u064a\u0633\u064a \u064a\u0644\u0627\u0627\u0627\u0627 \ud83d\ude02\ud83d\ude02\u2066\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f\u2069",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HeshZtv",
+                "name": "Hesham Abdel-Wahab",
+                "id": 411887031,
+                "id_str": "411887031",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146202195953688577,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 23:41:13 +0000 2019",
+        "text": "@Nohakhaled5 \u0627\u0644\u062d\u0644 \u0639\u0634\u0627\u0646 you have booked \u062a\u0631\u0648\u062d.. \u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631 \u0628\u0633 \n\u0648\u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0646\u0627\u0633 \u0627\u0644\u062a\u0627\u0646\u064a\u0629 \u0637\u0627\u0644\u0645\u0627 \u0641\u0648\u0642 16 \u0633\u0646\u0629 \u0644\u0627\u0632\u0645 \u0643\u0644 \u0648\u0627\u062d\u062f \u064a\u062d\u062c\u2026 https://t.co/9uUrCPj70Y",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/9uUrCPj70Y",
+                "expanded_url": "https://twitter.com/i/web/status/1146202195953688577",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Nohakhaled5",
+                "name": "Noha khaled",
+                "id": 627048561,
+                "id_str": "627048561",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146200466168188928,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:34:21 +0000 2019",
+        "text": "\u0627\u0643\u062a\u0628\u0648\u0627 \u0627\u0633\u0645 \u0627\u0643\u0648\u0646\u062a \u0627\u0644 instagram \u0647\u0646\u0627 \u0647\u0639\u0645\u0644 follow \u0644 \u0643\u0644\u0647 \u2764",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146200031223066626,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:32:37 +0000 2019",
+        "text": "@MAHMOUDAHHMMED \u0645\u0644\u0642\u062a\u0647\u0648\u0634 \u0647\u0646\u0627 \u0644\u0644\u0627\u0633\u0641 \ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MAHMOUDAHHMMED",
+                "name": "Mahmoud",
+                "id": 1119351572193005568,
+                "id_str": "1119351572193005568",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146198560532324356,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:26:46 +0000 2019",
+        "text": "@mido_elzeny \u0643\u0644 \u0633\u0646\u0647 \u0648\u0627\u0646\u062a \u0637\u064a\u0628 \u2764\u2764\ud83c\udf89",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mido_elzeny",
+                "name": "V.I.P\u2122\u26e3",
+                "id": 739196092798078976,
+                "id_str": "739196092798078976",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146198180947746817,
+        "user": "abdelrhmansla7",
+        "user_location": "\u062d\u0648\u0627\u0622\u0631\u064a \u0633\u064a\u0646\u0627\u0621 . . .\u25bd",
+        "date": "Tue Jul 02 23:25:16 +0000 2019",
+        "text": "RT @AssiellMustafa: \u0642\u0627\u0644 \u0628\u0639\u062f \u0645\u0627 \u0639\u0627\u0634 \u062d\u064a\u0627\u062a\u0647 \u0628\u064a\u0642\u0648\u0644\u064a \u0643\u0627\u0646 \u064a\u0627 \u0645\u0643\u0627\u0646 https://t.co/PvXZ9GLjkm",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/PvXZ9GLjkm",
+                "expanded_url": "https://twitter.com/abdelrhmansla7/status/1146174975751139329",
+                "display_url": "twitter.com/abdelrhmansla7\u2026",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AssiellMustafa",
+                "name": "\u0623\u0633\u064a\u0644\u0648\u0648 .",
+                "id": 1014152909393727488,
+                "id_str": "1014152909393727488",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146197819830820870,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:23:50 +0000 2019",
+        "text": "\u0642\u0627\u0644 \u0628\u0639\u062f \u0645\u0627 \u0639\u0627\u0634 \u062d\u064a\u0627\u062a\u0647 \u0628\u064a\u0642\u0648\u0644\u064a \u0643\u0627\u0646 \u064a\u0627 \u0645\u0643\u0627\u0646 https://t.co/PvXZ9GLjkm",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/PvXZ9GLjkm",
+                "expanded_url": "https://twitter.com/abdelrhmansla7/status/1146174975751139329",
+                "display_url": "twitter.com/abdelrhmansla7\u2026",
+                "indices": [
+                    40,
+                    63
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146197596811272195,
+        "user": "Rokiaali72",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 23:22:57 +0000 2019",
+        "text": "\u0627\u0646\u0627 \u0645\u0633\u062a\u0642\u0628\u0644\u064a \u0641\u064a \u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d \u0644\u0639\u0644\u0645\u0643\u0648",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146197395216224256,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 23:22:08 +0000 2019",
+        "text": "@aabdoallah \u0633\u0644\u0645\u0644\u064a \u0639\u0644\u064a \u0633\u0627\u062f\u064a\u0648",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "aabdoallah",
+                "name": "\u0623\u062d\u0645\u062f \u0639\u0628\u062f\u0627\u0644\u0644\u0647",
+                "id": 161912892,
+                "id_str": "161912892",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146197004168704000,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:20:35 +0000 2019",
+        "text": "\u0645\u0634 \u0639\u0627\u064a\u0632\u0629 \u0627\u0643\u0648\u0646 \u0644\u0648\u062d\u062f\u064a \u0628\u0633 \u062a\u0639\u0628\u062a \u0645\u0646 \u0627\u0644\u0646\u0627\u0633 .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146196847167508481,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 23:19:58 +0000 2019",
+        "text": "@aabdoallah \u062e\u0644\u064a \u0628\u0627\u0644\u0643 \u0627\u0644\u0644\u064a \u0628\u062a\u062d\u062c\u0632\u0647 \u062f\u0627 \u0627\u0648\u063a\u0646\u062f\u0627 \u0648\u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "aabdoallah",
+                "name": "\u0623\u062d\u0645\u062f \u0639\u0628\u062f\u0627\u0644\u0644\u0647",
+                "id": 161912892,
+                "id_str": "161912892",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146196345553936385,
+        "user": "omniasalemm",
+        "user_location": "\u0627\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629",
+        "date": "Tue Jul 02 23:17:58 +0000 2019",
+        "text": "RT @ahmeedmusttafa: \u0648\u0633\u0644\u0627\u0645\u0627 \u0639\u0644\u064a \u0635\u062f\u064a\u0642 \u0643\u0627\u0646 \u0627\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u0648\u0631\u064a\u062f \u0641\u062a\u063a\u064a\u0631.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ahmeedmusttafa",
+                "name": "AHMED",
+                "id": 732316509180207104,
+                "id_str": "732316509180207104",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146196025553641472,
+        "user": "ma7mdnabil",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 23:16:42 +0000 2019",
+        "text": "\u0648\u0628\u0639\u062f\u064a\u0646 \u0641\u064a \u062a\u0648\u0645\u0633 \u0634\u064a\u0644\u0628\u064a \u0627\u0644\u0644\u064a \u0643\u0644 \u0643\u0627\u0645 \u062d\u0644\u0642\u0629 \u0645\u0639 \u0628\u0646\u062a \u062d\u0644\u0648\u0629 \u062f\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146195913179914243,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:16:15 +0000 2019",
+        "text": "@NdaRgb \u064a\u0636\u0631\u0628\u0646\u064a \u0628\u062a\u0627\u0639 \u0627\u064a\u0647 \u062f\u0647 \u0643\u0645\u0627\u0646 \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "NdaRgb",
+                "name": "Nada Ragab",
+                "id": 951940211591786496,
+                "id_str": "951940211591786496",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146195659118321664,
+        "user": "MarwaTomas",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 23:15:15 +0000 2019",
+        "text": "\u0627\u0633\u062a\u063a\u0641\u0631 \u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u0638\u064a\u064a\u0645",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146194730923036673,
+        "user": "AssiellMustafa",
+        "user_location": "",
+        "date": "Tue Jul 02 23:11:33 +0000 2019",
+        "text": "\u062a\u062e\u064a\u0644\u062a \u0646\u0641\u0633\u064a \u0645\u0643\u0627\u0646\u0647\u0627 \u0648 \u0623\u0646\u0627 \u0628\u0644\u0641 \u0627\u064a\u062f\u064a \u0627\u0644\u062a\u0627\u0646\u064a\u0647 \u0639\u0644\u0649 \u0648\u0634\u0647 \u0628\u0627\u0644\u0643\u0641 \u0643\u062f\u0647 https://t.co/BsVIhdNkWm",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/BsVIhdNkWm",
+                "expanded_url": "https://twitter.com/_wifeyx_/status/1145938677597659137",
+                "display_url": "twitter.com/_wifeyx_/statu\u2026",
+                "indices": [
+                    59,
+                    82
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146194189664882688,
+        "user": "Rokiaali72",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 23:09:24 +0000 2019",
+        "text": "\u064a\u0627\u0631\u0628 \u0627\u0646\u0627 \u0639\u0627\u064a\u0632\u0647 \u0627\u0631\u0648\u062d \u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d \u0648\u062f\u0647\u0628 \u0628\u0642\u0649 \u064a\u0627\u0631\u0628",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146193398849769472,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 23:06:16 +0000 2019",
+        "text": "\u0627\u0644\u0644\u0647 \u064a\u062e\u0631\u0628\u064a\u062a \u0627\u0644\u0644\u064a \u064a\u0632\u0639\u0644\u0643 \u064a\u0627\u0628\u0646\u064a \u2066\u2764\ufe0f\u2069 https://t.co/L2tWEpjCOk",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146193045534248966,
+        "user": "ShadyEzzat74",
+        "user_location": "New cairo , Egypt",
+        "date": "Tue Jul 02 23:04:51 +0000 2019",
+        "text": "@ashrafm7274 \u0627\u0646\u062a \u062a\u0631\u062c\u0639 \u0643\u0633\u0645\u0643 \u062a\u0627\u0646\u064a \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ashrafm7274",
+                "name": "Mostafa Ashraf",
+                "id": 1723717801,
+                "id_str": "1723717801",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146192278014353408,
+        "user": "mernamohamad_",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 23:01:48 +0000 2019",
+        "text": "@mohamedfathy_99 \u0628\u062c\u0627\u0645\u0644\u0643 \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mohamedfathy_99",
+                "name": "\u0645\u064e\u062d\u0645\u062f \u0641\u064e\u062a\u062d\u064a",
+                "id": 3064715759,
+                "id_str": "3064715759",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146192196401553408,
+        "user": "AsMeruu",
+        "user_location": "New Cairo Egypt",
+        "date": "Tue Jul 02 23:01:29 +0000 2019",
+        "text": "\u0648\u0643\u0623\u0646 \u0634\u064a\u0626\u0627\u064b \u0644\u0645 \u064a\u0643\u0646...",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146191114417975298,
+        "user": "_SalmaMohsen",
+        "user_location": "New Cairo city",
+        "date": "Tue Jul 02 22:57:11 +0000 2019",
+        "text": "@NourHelsherief @_SMahmoud \u0647\u064a \u0634\u0627\u064a\u0644\u0647 \u0627\u0644\u0627\u0633\u0645 \u0639\u0634\u0627\u0646 \u0646\u0641\u062a\u0643\u0631 \u0623\u0646 \u062d\u062f \u0645\u0639\u0628\u0631\u0647\u0627 \u0648 \u0643\u062f\u0627 \u0628\u0633 \u0647\u064a \u064a\u0627 \u0644\u0648\u062d\u062f\u0647\u0627 \u0639\u0627\u062f\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "NourHelsherief",
+                "name": "\u0646\u0648\u064a\u0651\u0631\u0629\ud83c\udf3b",
+                "id": 439427220,
+                "id_str": "439427220",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "_SMahmoud",
+                "name": "\u0633\u0627\u0631\u0629",
+                "id": 333561152,
+                "id_str": "333561152",
+                "indices": [
+                    16,
+                    26
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146190739296194562,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 22:55:42 +0000 2019",
+        "text": "@Nohakhaled5 \u0639\u0627\u062f\u064a\u060c \u062d\u0635\u0644 \u0645\u0639\u0627\u064a\u0627 \u0646\u0641\u0633 \u0627\u0644\u0643\u0644\u0627\u0645 \u0648\u0641\u064a \u0645\u0627\u062a\u0634\u0627\u062a \u0641\u0627\u062a\u062a.. \u0628\u064a\u0639\u062f \u0633\u0627\u0639\u062a\u064a\u0646 \u0643\u062f\u0627 \u0639\u0644\u064a \u064a\u0627\u062e\u062f \u0628\u0627\u0644\u0647 \u0627\u0646 \u0627\u0644 id \u062f\u0627 \u0644\u0633\u0627 \u0645\u0639\u0647\u0648\u0634 \u062a\u0630\u0643\u0631\u0647 \u0648\u064a\u0641\u062a\u062d \u0639\u0634\u0627\u0646 \u062a\u0634\u062a\u0631\u064a \u062a\u0627\u0646\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Nohakhaled5",
+                "name": "Noha khaled",
+                "id": 627048561,
+                "id_str": "627048561",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146189436029456386,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 22:50:31 +0000 2019",
+        "text": "\u0647\u0648 \u0627\u0644\u0644\u064a\u0633\u0648\u0646 \u0645\u0627\u062f\u062e\u0644\u0634 \u0641\u064a \u062c\u0648\u0646 \u0645\u0646 \u0627\u0648\u0644 \u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0645\u0634 \u0643\u062f\u0647 \u061f\ud83e\udd14",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146187275459600385,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 22:41:56 +0000 2019",
+        "text": "@ishawky_ \u0628\u0631\u0636\u0648 200",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ishawky_",
+                "name": "\u0627\u0644\u062c\u064a\u0646\u064a\u0635",
+                "id": 304401592,
+                "id_str": "304401592",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146185665941581825,
+        "user": "MarwaTomas",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 22:35:32 +0000 2019",
+        "text": "\u0647\u064a\u064a\u064a\u064a\u062d .. \u0634\u0648\u064a\u0647 \u062a\u0631\u0643\u064a\u064a\u0632 \u0628\u0633 \u0648 \u0627\u0644\u062f\u0646\u064a\u0627 \u0647\u062a\u0628\u0642\u064a \u0641\u0644\u0644 \ud83d\ude4c\ud83d\ude4c",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146185595867291648,
+        "user": "Ahmed_yossef1",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 22:35:15 +0000 2019",
+        "text": "\"\u0633\u062a\u0634\u0639\u0631 \u0628\u0623\u0646\u0647 \u0627\u0633\u062a\u063a\u0646\u0649 \u0639\u0646\u0643 \u0641\u0642\u0637 \u0644\u0623\u0646\u0647 \u062a\u0648\u0642\u0641 \u0639\u0646 \u0642\u0648\u0644 \u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631 \u060c \u0647\u0630\u0627 \u0645\u0627 \u064a\u0641\u0639\u0644\u0647 \u0627\u0644\u062a\u0639\u0644\u0651\u0642 \u0628\u0627\u0644\u0625\u0646\u0633\u0627\u0646.\"",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146185240320323585,
+        "user": "Ahmed_yossef1",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 22:33:51 +0000 2019",
+        "text": "-\u0648\u0627\u062d\u062f\u0647 \u0628\u0633 \u0628\u062a\u062e\u0644\u064a\u0647 \u064a\u0639\u0634\u0642 \u0627\u0644\u062d\u064a\u0627\u0629 \u0645\u0627 \u0628\u0627\u0644\u0643 \u0628\u0642\u0649 \u0628\u0633\u0628\u0639\u0647 \u062a\u0645\u0627\u0646\u064a\u0629 !",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146185086582370305,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 22:33:14 +0000 2019",
+        "text": "@KhaledEssam74 \u0645\u0628\u0631\u0648\u0643 \u0639\u0644\u064a\u0643\u0648\u0627 \u062d\u0642\u064a\u0642\u064a \ud83d\ude02\n\u0627\u0646\u0627 \u0639\u0627\u0648\u0632\u0647 \u0627\u0631\u0648\u062d \u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0637\u0628\u0644 \u0648\u0647\u0648 \u0645\u0627\u0634\u064a \u0645\u0646 \u0627\u0644\u0641\u0631\u062d\u0629 \ud83d\udc83",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KhaledEssam74",
+                "name": "khaled Essam \ud83d\udd34\ud83e\udd85",
+                "id": 350929498,
+                "id_str": "350929498",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146184894122516481,
+        "user": "Ahmed_yossef1",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 22:32:28 +0000 2019",
+        "text": "\"\u0625\u0630\u0627 \u0643\u0646\u062a \u0639\u0644\u064a \u0648\u0634\u0643 \u0627\u0644\u063a\u0631\u0642 \u0648\u0643\u0627\u0646 \u0623\u062d\u062f\u0647\u0645 \u0647\u0648 \u0642\u0634\u062a\u0643 \u0627\u0644\u0648\u062d\u064a\u062f\u0629 \u061b \u0623\u063a\u0631\u0642 \u0648\u0644\u0627 \u062a\u062a\u0639\u0644\u0642 \u0628\u0623\u062d\u062f.\"",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146182978428649472,
+        "user": "ShadyEzzat74",
+        "user_location": "New cairo , Egypt",
+        "date": "Tue Jul 02 22:24:51 +0000 2019",
+        "text": "\u0644\u0648 \u062e\u062f\u0646\u0627 \u0628\u0627\u0644\u0646\u0627 \u0647\u0646\u0644\u0627\u0642\u064a \u0623\u0646 \u0627\u0646\u0627 \u0627\u0644\u0644\u064a \u062a\u062d\u062a \u062a\u062d\u062a \u0622\u0633\u0631 \u064a\u0627\u0633\u064a\u062a \u0648 \u062f\u0647 \u0625\u0646 \u062f\u0644 \u0639 \u0634\u0649\u0621 \u0641 \u064a\u062f\u0644 \u0627\u0646\u064a \u0639\u0638\u064a\u0645 \u0628\u0631\u0636\u0648 \u0628\u0633 \u0645\u0639\u0631\u0641\u0634 \u0647\u0648 \u0645\u062c\u0627\u0628\u0634 \u0633\u064a\u0631\u062a\u064a \u0644\u064a\u0647\u2026 https://t.co/acVbI0UrJG",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/acVbI0UrJG",
+                "expanded_url": "https://twitter.com/i/web/status/1146182978428649472",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146182091325022208,
+        "user": "EzzAhmmed",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 22:21:20 +0000 2019",
+        "text": "Sky full of stars \u0645\u0639 \u0627\u0644\u0628\u062d\u0631 \u0648\u0627\u0644\u0646\u062c\u0648\u0645 \u060c \u0647\u062a\u0641\u0636\u0644 \u0623\u062d\u0644\u064a \u0627\u0644\u062d\u0627\u062c\u0627\u062a \u0641\u064a \u0627\u0644\u062f\u0646\u064a\u0627.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146181491656933377,
+        "user": "aahmedsamirz",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 22:18:57 +0000 2019",
+        "text": "\u064a\u0639\u0646\u064a \u0643\u062f\u0627 \u062a\u0628\u0642\u064a \n\u0645\u0635\u0631 \u0648\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646 \n\u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0648\u0643\u0648\u062a \u062f\u0627\u064a\u0641\u0648\u0631 \n\u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u0648\u0627\u0644\u0645\u063a\u0631\u0628 \n\u063a\u0627\u0646\u0627 \u0648\u0645\u062f\u063a\u0634\u0642\u0631 \n\u0643\u0644\u0647\u0627 \u0645\u0627\u062a\u0634\u0627\u062a \u0645\u062f\u0627\u0639\u0643 \u062c\u0627\u0645\u062f\u0647 \u0627\u0648\u064a \u0628\u0627\u0644\u0630\u2026 https://t.co/UBDi20pawO",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/UBDi20pawO",
+                "expanded_url": "https://twitter.com/i/web/status/1146181491656933377",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146178447347257347,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 22:06:51 +0000 2019",
+        "text": "@OmarrShaker \u0634\u064a\u062a.. \u062f\u0627 \u0639\u0634\u0627\u0646 \u0645\u062a\u0627\u0643\u062f\u064a\u0646 \u0645\u0646 \u0628\u062f\u0631\u064a \u0627\u0646\u0646\u0627 \u0647\u0646\u0628\u0642\u064a 1A \u064a\u0639\u0646\u064a\n\u0639\u0645\u0648\u0645\u0627 \u0645\u0628\u0631\u0648\u0643 \u0627\u0644\u0631\u0627\u062d\u0629 \u0627\u0644\u0646\u0641\u0633\u064a\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "OmarrShaker",
+                "name": "Omar Shaker \u200f\u272a",
+                "id": 997132370150154240,
+                "id_str": "997132370150154240",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146178264353910784,
+        "user": "mahytabmohameed",
+        "user_location": "New cairo city",
+        "date": "Tue Jul 02 22:06:07 +0000 2019",
+        "text": "\u0635\u062d\u0648\u0627 \u0646\u0627\u0631 \u0627\u0644\u0634\u0648\u0642 \u0641\u0642\u0644\u0628\u064a  \u0648\u0641\u0649 \u0639\u064a\u0648\u0646\u0649\u2764\ufe0f\ud83d\udd25",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177681244983297,
+        "user": "kimodarwish66",
+        "user_location": "\u0627\u0644\u063a\u0631\u0628\u064a\u0629, \u0645\u0635\u0631",
+        "date": "Tue Jul 02 22:03:48 +0000 2019",
+        "text": "RT @BasantMemo: \u0645\u064a\u062a\u064a\u0646 \u0627\u0628\u0648 \u0643\u0647\u0631\u0628\u0627 \u0648\u0644\u0627 \u062a\u0632\u0639\u0644\u0648\u0627 \u0646\u0641\u0633\u0643\u0648\u0627 \u062e\u0627\u0644\u0635 \u064a\u0627 \u062c\u0645\u0627\u0639\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "BasantMemo",
+                "name": "BaSant\u2648",
+                "id": 473815236,
+                "id_str": "473815236",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177648516849669,
+        "user": "altarek_saad",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 22:03:41 +0000 2019",
+        "text": "@AJArabic \u0646\u0641\u0633 \u0627\u0644\u0633\u064a\u0646\u0627\u0631\u064a\u0648 \u0627\u0644\u0642\u0630\u0631\n\u0639\u0645\u0627\u0644\u064a\u0646 \u062a\u0637\u0628\u0644\u0648\u0627 \u0644\u0644\u0646\u0634\u0637\u0627\u0621 \u0648\u062a\u0633\u0645\u0648\u0646 \u0627\u0644\u062c\u064a\u0634!\u0648\u0627\u0644\u0634\u0631\u0637\u0629!\u0639\u0633\u0643\u0631\n\n\u0648\u0645\u0646\u062f\u0633\u064a\u0646 \u0631\u0627\u0639\u064a\u0643\u0645 \u0627\u0644\u0631\u0633\u0645\u064a \u0628\u064a\u0642\u062a\u0644\u0648\u0627 \u0641\u064a!\u0627\u0644\u0633\u2026 https://t.co/SYWUeJaUqI",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/SYWUeJaUqI",
+                "expanded_url": "https://twitter.com/i/web/status/1146177648516849669",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AJArabic",
+                "name": "\u0642\u0646\u0627\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629",
+                "id": 5536782,
+                "id_str": "5536782",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177331532353537,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 22:02:25 +0000 2019",
+        "text": "\u0645\u064a\u062a\u064a\u0646 \u0627\u0628\u0648 \u0643\u0647\u0631\u0628\u0627 \u0648\u0644\u0627 \u062a\u0632\u0639\u0644\u0648\u0627 \u0646\u0641\u0633\u0643\u0648\u0627 \u062e\u0627\u0644\u0635 \u064a\u0627 \u062c\u0645\u0627\u0639\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177235960967168,
+        "user": "MarwaTomas",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 22:02:02 +0000 2019",
+        "text": "\u064a\u0627\u0631\u0631\u0631\u0628 \ud83d\ude4c\ud83d\ude4c",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177158177611776,
+        "user": "halla_moh",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 22:01:44 +0000 2019",
+        "text": "RT @Mostafayaseerr: \u064a\u0648\u0645\u0627\u064b \u0645\u0627 \u0633\u062a\u0641\u0647\u0645 \u062c\u064a\u062f\u0627\u064b \u0625\u0646 \u0627\u0644\u0627\u0634\u064a\u0627\u0621 \u062a\u0631\u062d\u0644 \u0625\u0630\u0627 \u0644\u0645 \u062a\u062c\u062f \u0627\u0644\u0625\u062d\u062a\u0648\u0627\u0621 \u060c \u0648\u0625\u0646 \u0627\u0644\u0635\u0628\u0631 \u0648\u0627\u0646 \u0637\u0627\u0644 \u064a\u0646\u0641\u0630 \u060c \u0648\u0625\u0646 \u0627\u0644\u062d\u064a\u0627\u0647 \u0644\u0627 \u062a\u0642\u0641 \u0639\u0644\u0649 \u0639\u062a\u0628\u0629 \u0623\u062d\u062f .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mostafayaseerr",
+                "name": "MoStafa yasser",
+                "id": 3781280422,
+                "id_str": "3781280422",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146177021439074304,
+        "user": "halla_moh",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 22:01:11 +0000 2019",
+        "text": "RT @Mostafayaseerr: \"\u0643\u0646\u062a \u0623\u062e\u0634\u0649 \u062d\u062f\u0648\u062b \u0645\u0627\u064a\u062d\u062f\u062b \u0644\u064a \u0627\u0644\u0622\u0646\".",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mostafayaseerr",
+                "name": "MoStafa yasser",
+                "id": 3781280422,
+                "id_str": "3781280422",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146174622758514691,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 21:51:39 +0000 2019",
+        "text": "@OmarrShaker \u062d\u0627\u062c\u0632 \u0645\u0646 \u0632\u0645\u0627\u0646 \u0627\u0632\u0627\u064a\u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "OmarrShaker",
+                "name": "Omar Shaker \u200f\u272a",
+                "id": 997132370150154240,
+                "id_str": "997132370150154240",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146173491286282242,
+        "user": "basantashraf21",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 21:47:09 +0000 2019",
+        "text": "\u0627\u062d\u0645\u062f \u0631\u0632\u0642 \u0641\u064a \u0627\u0644\u0645\u0645\u0631 \u0645\u0634 \u0637\u0628\u064a\u0639\u064a \u0647\u064a\u0633\u062a\u064a\u0631\u064a\u0627 \u0636\u062d\u0643 \ud83d\ude0d",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146171423637016578,
+        "user": "aahmedsamirz",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 21:38:56 +0000 2019",
+        "text": "\u0627\u062e\u0631\u0646\u0627 \u0627\u0644\u062f\u0648\u0631 \u0628\u062a\u0627\u0639 \u062c\u0646\u0648\u0628 \u0627\u0641\u0631\u064a\u0642\u064a\u0627 \u062f\u0627 \u0648\u0633\u0643 \u0639\u0644\u064a \u0627\u0644\u0628\u0648\u0643",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146171414371852294,
+        "user": "Sahar_khalid30",
+        "user_location": "",
+        "date": "Tue Jul 02 21:38:54 +0000 2019",
+        "text": "RT @osama_ahmed7: \u0631\u0628\u0646\u0627 \u064a\u0643\u062a\u0631 \u0645\u0646 \u0623\u0645\u062b\u0627\u0644\u0647\u0645 \u064a\u0627 \u0631\u0628 https://t.co/JyZRm2cteC",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/JyZRm2cteC",
+                "expanded_url": "https://twitter.com/orendatide/status/1145827689229692935",
+                "display_url": "twitter.com/orendatide/sta\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "osama_ahmed7",
+                "name": "\u0647\u064f\u0648\u064a\u062f\u064a",
+                "id": 268466508,
+                "id_str": "268466508",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146170294891110401,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 21:34:27 +0000 2019",
+        "text": "\u0627\u0644\u0644\u0647\u0645 \u064a\u0627 \u062d\u064a \u064a\u0627 \u0642\u064a\u0648\u0645 \u0628\u0631\u062d\u0645\u062a\u0643 \u0627\u0633\u062a\u0639\u064a\u062b \u0627\u0635\u0644\u062d \u0644\u064a \u0634\u0623\u0646\u064a \u0643\u0644\u0647 \u0648\u0644\u0627 \u062a\u0643\u0644\u0646\u064a \u0627\u0644\u064a \u0646\u0641\u0633\u064a \u0637\u0631\u0641\u0629 \u0639\u064a\u0646\n\u0648\u0627\u062c\u0639\u0644 \u062d\u0627\u062c\u062a\u064a \u0644\u0643 \u0648\u062d\u062f\u0643 \u0648\u0644\u0627 \u062a\u062d\u0648\u062c\u0646\u064a \u0644\u0627\u062d\u062f \u0645\u0646 \u062e\u0644\u0642\u0643",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146170142348455939,
+        "user": "khaltunthenoise",
+        "user_location": "\u0647\u0627\u062f \u0627\u0644\u0643\u0648\u0646 \u0645\u0634 \u0625\u0644\u0646\u0627.",
+        "date": "Tue Jul 02 21:33:51 +0000 2019",
+        "text": "RT @fullofwritings: \u0643\u0633\u0645 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0644\u064a \u0628\u062a\u062d\u0628\u0637 \u0628\u062a\u0648\u0639 \u062b\u0627\u0646\u0648\u064a\u0629 \u0627\u0646\u0647\u0645 \u062e\u0644\u0635\u0648\u0627 \u0648 \u062f\u0627\u062e\u0644\u064a\u0646 \u0639\u0644\u0649 \u062d\u064a\u0627\u0629 \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0646\u0641\u0631 \u0646\u0641\u0631",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "fullofwritings",
+                "name": "String name = \u201cAhmed Abdelrahman\u201d;",
+                "id": 98472706,
+                "id_str": "98472706",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146170135755001856,
+        "user": "GaberJun",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 21:33:49 +0000 2019",
+        "text": "@RawanMohsen10 \u0645\u0646 \u062f\u0644\u0648\u0642\u062a\u064a \u0648\u0644\u062d\u062f \u0627\u0644\u0646\u0647\u0627\u0626\u064a \u0643\u0644 \u0627\u0644\u062a\u0630\u0627\u0643\u0631 \u0647\u062a\u062e\u0644\u0635 \u062e\u0644\u0627\u0644 \u0633\u0627\u0639\u0627\u062a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RawanMohsen10",
+                "name": "Rawan Mohsen",
+                "id": 971534505008877568,
+                "id_str": "971534505008877568",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146166669850611713,
+        "user": "Mustafayako",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 21:20:03 +0000 2019",
+        "text": "@khbondok4 \u0641\u064a\u0646 \u0628\u0642\u064a !!! \u0627\u064a \u0643\u0644\u0627\u0645 \u0648\u0647\u062c\u0635 \u0643\u0627\u0644\u0639\u0627\u062f\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "khbondok4",
+                "name": "Khaled El Ghandour",
+                "id": 1342032738,
+                "id_str": "1342032738",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146165786794516480,
+        "user": "osama_ahmed7",
+        "user_location": "New Cairo , Egypt",
+        "date": "Tue Jul 02 21:16:32 +0000 2019",
+        "text": "\u0631\u0628\u0646\u0627 \u064a\u0643\u062a\u0631 \u0645\u0646 \u0623\u0645\u062b\u0627\u0644\u0647\u0645 \u064a\u0627 \u0631\u0628 https://t.co/JyZRm2cteC",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/JyZRm2cteC",
+                "expanded_url": "https://twitter.com/orendatide/status/1145827689229692935",
+                "display_url": "twitter.com/orendatide/sta\u2026",
+                "indices": [
+                    27,
+                    50
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146165282005803009,
+        "user": "mohamedfathy_99",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 21:14:32 +0000 2019",
+        "text": "@mernamohamad_ \u0643\u062a\u064a\u0631 \u0648\u0627\u0644\u0644\u0647\ud83d\ude02\ud83d\ude02\u2764",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mernamohamad_",
+                "name": "\u0645\u0650\u064a\u0640\u0631\u0646\u064e\u0640\u0640\u0627",
+                "id": 2375258736,
+                "id_str": "2375258736",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146164969911795715,
+        "user": "osama_ahmed7",
+        "user_location": "New Cairo , Egypt",
+        "date": "Tue Jul 02 21:13:18 +0000 2019",
+        "text": "\u0633\u0648\u0621 \u0627\u0644\u0645\u0646\u0642\u0644\u0628 https://t.co/7hRyvXY4De",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/7hRyvXY4De",
+                "expanded_url": "https://twitter.com/KarimSaid/status/1146103454361882624",
+                "display_url": "twitter.com/KarimSaid/stat\u2026",
+                "indices": [
+                    12,
+                    35
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146164894737321984,
+        "user": "AsMeruu",
+        "user_location": "New Cairo Egypt",
+        "date": "Tue Jul 02 21:13:00 +0000 2019",
+        "text": "\u0647\u064a\u0627 \u0627\u064a\u0647 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0644\u064a \u0628\u062a\u062a\u0643\u0644\u0645 \u0639\u0644\u064a \u0627\u0633\u0631\u0627\u0626\u064a\u0644 \u062d\u0644\u0648 \u062f\u064a \u0645\u0639\u0644\u0634 !!!! \u0647\u0645\u0627 \u0646\u0627\u0633\u064a\u0646 \u0647\u0645\u0627 \u0627\u064a\u0647 !!!!!",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146164334353178624,
+        "user": "HETLAR_ATTORNEY",
+        "user_location": "NEW CAIRO",
+        "date": "Tue Jul 02 21:10:46 +0000 2019",
+        "text": "\" \u0633\u064a\u062f\u062e\u0644 \u0639\u0644\u064a\u0643\u0645 \u0627\u0644\u0622\u0646 \u0639\u0643\u0631\u0645\u0629 \u0628\u0646 \u0623\u0628\u064a \u062c\u0647\u0644 \u0645\u0633\u0644\u0645\u064b\u0627 \u060c \u0641\u0625\u064a\u0627\u0643\u0645 \u0623\u0646 \u062a\u0630\u0643\u0631\u0648\u0627 \u0623\u0628\u0627\u0647 \u0628\u0633\u0648\u0621\u064d \u0623\u0645\u0627\u0645\u0647 \"\n\n\u062f\u0631\u0633 \u0646\u0628\u0648\u064a \u0641\u064a \u0627\u0644\u062e\u064f\u0644\u0642 .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146164178262081536,
+        "user": "HETLAR_ATTORNEY",
+        "user_location": "NEW CAIRO",
+        "date": "Tue Jul 02 21:10:09 +0000 2019",
+        "text": "\u0644\u0648 \u0645\u0628\u0630\u0644\u062a\u0634 \u0623\u0642\u0635\u0649 \u0645\u062c\u0647\u0648\u062f \u0639\u0634\u0627\u0646 \u0648\u0636\u0639 \u0628\u062a\u062a\u0645\u0646\u0627\u0647 \u060c \u0647\u062a\u0628\u0630\u0644 \u0623\u0636\u0639\u0627\u0641\u0647 \u0639\u0634\u0627\u0646 \u062a\u062a\u0623\u0642\u0644\u0645 \u0645\u0639 \u0648\u0636\u0639 \u0627\u0646\u062a \u0645\u0634 \u0637\u0627\u064a\u0642\u0647 \u060c\u060c",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146163732801830913,
+        "user": "yasmine_189",
+        "user_location": "\u0627\u0644\u0627\u0647\u0644\u0649 \u062f\u0648\u0644\u062a\u064a \u2764",
+        "date": "Tue Jul 02 21:08:23 +0000 2019",
+        "text": "RT @Mostafayaseerr: \"\u0643\u0646\u062a \u0623\u062e\u0634\u0649 \u062d\u062f\u0648\u062b \u0645\u0627\u064a\u062d\u062f\u062b \u0644\u064a \u0627\u0644\u0622\u0646\".",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mostafayaseerr",
+                "name": "MoStafa yasser",
+                "id": 3781280422,
+                "id_str": "3781280422",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146163641907077126,
+        "user": "omsohyla",
+        "user_location": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+        "date": "Tue Jul 02 21:08:01 +0000 2019",
+        "text": "\u0639\u0646 \u0639\u0627\u0626\u0634\u0629  \u0642\u0627\u0644\u062a \u0643\u0646\u062a \u0623\u0637\u064a\u0628 \u0627\u0644\u0646\u0628\u064a \u0635\u0644\u0649 \u0627\u0644\u0644\u0647 \u0639\u0644\u064a\u0647 \u0648\u0633\u0644\u0645 \u0628\u0623\u0637\u064a\u0628 \u0645\u0627 \u064a\u062c\u062f \u062d\u062a\u0649 \u0623\u062c\u062f \u0648\u0628\u064a\u0635 \u0627\u0644\u0637\u064a\u0628 (\u0627\u064a: \u0628\u0631\u064a\u0642 \u0627\u0644\u0637\u064a\u0628 ) \u0641\u064a \u0631\u0623\u0633\u0647 \u0648\u0644\u062d\u064a\u062a\u0647-- \u0635\u062d\u064a\u062d \u0627\u0644\u0628\u062e\u0627\u0631\u0649 #\u0646\u0634\u0631_\u0633\u064a\u0631\u062a\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146163572520738817,
+        "user": "Marvoich",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 21:07:45 +0000 2019",
+        "text": "\u0645\u0635\u0631\u064a \u0648\u0642\u0627\u062f\u0631 \u0627\u063a\u0646\u064a\u0647 \u0645\u062f\u062d\u062a \u0635\u0627\u0644\u062d 2019 https://t.co/MViMPR5nHm via @YouTube\n#\u0628\u0637\u0648\u0644\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/MViMPR5nHm",
+                "expanded_url": "https://youtu.be/mBnYIg01HO8",
+                "display_url": "youtu.be/mBnYIg01HO8",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "YouTube",
+                "name": "YouTube",
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    60,
+                    68
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146163293897277440,
+        "user": "Tahaa_0000",
+        "user_location": "D A M I E T T A ",
+        "date": "Tue Jul 02 21:06:38 +0000 2019",
+        "text": "RT @Mostafayaseerr: \"\u0643\u0646\u062a \u0623\u062e\u0634\u0649 \u062d\u062f\u0648\u062b \u0645\u0627\u064a\u062d\u062f\u062b \u0644\u064a \u0627\u0644\u0622\u0646\".",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mostafayaseerr",
+                "name": "MoStafa yasser",
+                "id": 3781280422,
+                "id_str": "3781280422",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146163079715143680,
+        "user": "BOBO14z",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 21:05:47 +0000 2019",
+        "text": "\u0639\u0637\u0648\u0646\u0627 \u062f\u0648\u0631 \u0627\u0644 16\ud83d\udd25",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146162945052856320,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 21:05:15 +0000 2019",
+        "text": "\u064a\u0627 \u0631\u0628\ud83d\ude1e",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146162882415140864,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 21:05:00 +0000 2019",
+        "text": "\u0644\u0643\u0646\u0646\u064a \u0623\u062d\u062a\u0627\u062c \u062d\u0644\u0627... \u0633\u0623\u062e\u0628\u0631\u0643 \u0633\u0631\u064a \u0627\u0644\u0630\u064a \u062a\u0639\u0631\u0641\u0647 \u060c \u0623\u0646\u0627 \u062e\u0627\u0626\u0641\u0629 \u062c\u062f\u0627\u064b \u060c\u0627\u0633\u062a\u064a\u0642\u0638 \u0643\u0644 \u0644\u064a\u0644\u0629 \u0628\u0627\u0643\u064a\u0629 \u060c \u0623\u062a\u062e\u064a\u0644 \u0638\u0644\u0627\u0644\u0627\u064b \u0633\u0648\u062f\u0627\u0621 \u062a\u062d\u064a\u0637 \u0628\u064a \u062a\u0631\u064a\u062f \u062e\u2026 https://t.co/47IAen90Ge",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/47IAen90Ge",
+                "expanded_url": "https://twitter.com/i/web/status/1146162882415140864",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146162687841189888,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 21:04:14 +0000 2019",
+        "text": "\u0631\u0628\u064a \u0627\u0644\u0631\u062d\u064a\u0645.. \u0623\u0646\u0627 \u0645\u064f\u062a\u0639\u0628\u0629  \u0631\u0628\u0627\u0647.. \u0644\u0633\u062a \u0628\u062e\u064a\u0631 \u0645\u0637\u0644\u0642\u0627\u064b. \u0641\u064a \u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u0631\u0627\u062a \u0623\u062d\u0633\u0633\u062a \u0623\u0646\u0646\u064a \u062c\u0633\u062f \u0641\u0642\u0637 \u060c\u0643\u0627\u0646 \u0627\u0644\u0623\u0645\u0631 \u0645\u0624\u0644\u0645\u0627\u064b \u0644\u0644\u063a\u0627\u064a\u0629 \u060c\u0644\u0627\u2026 https://t.co/VMRSmGua6L",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/VMRSmGua6L",
+                "expanded_url": "https://twitter.com/i/web/status/1146162687841189888",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146162362308861952,
+        "user": "Mostafayaseerr",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 21:02:56 +0000 2019",
+        "text": "\"\u0643\u0646\u062a \u0623\u062e\u0634\u0649 \u062d\u062f\u0648\u062b \u0645\u0627\u064a\u062d\u062f\u062b \u0644\u064a \u0627\u0644\u0622\u0646\".",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146161802318962689,
+        "user": "_A_Hammad_",
+        "user_location": "New Cairo - Egypt",
+        "date": "Tue Jul 02 21:00:42 +0000 2019",
+        "text": "\u0627\u0631 \u064a\u0648 \u0645\u0637\u0644\u064a\u0634 \u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146161760795156480,
+        "user": "_A_Hammad_",
+        "user_location": "New Cairo - Egypt",
+        "date": "Tue Jul 02 21:00:33 +0000 2019",
+        "text": "\u0627\u0644\u0637\u0644\u064a\u0634\u0629 ... \u0627\u062d\u0644\u0629 \u062d\u0627\u062c\u0647 \u0641\u064a \u0627\u0644\u062f\u0646\u064a\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146161043078619137,
+        "user": "osama_ahmed7",
+        "user_location": "New Cairo , Egypt",
+        "date": "Tue Jul 02 20:57:41 +0000 2019",
+        "text": "\u0645\u062a\u0642\u0648\u0644\u0634 \u062a\u0639\u062f\u064a\u0644\u0629 \u0648\u0639\u062f\u062a \u0645\u0627 \u062e\u0644\u0627\u0635 \u062d\u064a\u0627\u062a\u064a \u0627\u062a\u0647\u062f\u062a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146161001462665216,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:57:32 +0000 2019",
+        "text": "\u0642\u0631\u0627\u0631\u0627\u062a \u0643\u062a\u064a\u0631\u0629 \u0641\u064a \u062d\u064a\u0627\u062a\u0646\u0627 \u0628\u0646\u062d\u062a\u0627\u0631 \u0634\u0647\u0648\u0631 \u0648\u0633\u0646\u064a\u0646 \u0648\u0627\u062d\u0646\u0627 \u0645\u0634 \u0639\u0627\u0631\u0641\u064a\u0646 \u0646\u0642\u0631\u0631\u0647\u0627\u060c \u0644\u0623\u0646\u0646\u0627 \u0645\u0634 \u0642\u0627\u062f\u0631\u064a\u0646 \u0646\u062a\u0623\u0643\u062f \"\u0627\u064a\u0647 \u0627\u0644\u0635\u062d \u0648\u0627\u064a\u0647 \u0627\u0644\u063a\u0644\u0637\u061f\" .. \n\u0645\u2026 https://t.co/pdf6dU8dCT",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/pdf6dU8dCT",
+                "expanded_url": "https://twitter.com/i/web/status/1146161001462665216",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146159762423328773,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 20:52:36 +0000 2019",
+        "text": "\u064a\u0627\u062f\u064a\u0646 \u0627\u0645\u064a \u0639\u0644\u0645\u0644\u0644 \ud83d\ude29\ud83d\ude29\ud83d\ude29 \u0627\u062e\u064a\u0631\u0627 \u0627\u0644\u0645\u0627\u062a\u0634 \u062e\u0644\u0635 \u2066\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f\u2069",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146159266769907713,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:50:38 +0000 2019",
+        "text": "\u062d\u0633\u0628\u064a \u0627\u0644\u0644\u0647 \u0648\u0646\u0639\u0645 \u0627\u0644\u0648\u0643\u064a\u0644\n\u062d\u0633\u0628\u064a \u0627\u0644\u0644\u0647 \u0648\u0646\u0639\u0645 \u0627\u0644\u0648\u0643\u064a\u0644\n\u062d\u0633\u0628\u064a \u0627\u0644\u0644\u0647 \u0648\u0646\u0639\u0645 \u0627\u0644\u0648\u0643\u064a\u0644\n\u062d\u0633\u0628\u064a \u0627\u0644\u0644\u0647 \u0648\u0646\u0639\u0645 \u0627\u0644\u0648\u0643\u064a\u0644\n\u062d\u0633\u0628\u064a \u0627\u0644\u0644\u0647 \u0648\u0646\u0639\u0645 \u0627\u0644\u0648\u0643\u064a\u0644\n\u062d\u0633\u0628\u064a\u2026 https://t.co/WJbt6piwoo",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/WJbt6piwoo",
+                "expanded_url": "https://twitter.com/i/web/status/1146159266769907713",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146158644691656709,
+        "user": "sarahhhemeda",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:48:10 +0000 2019",
+        "text": "\u00ab\u0627\u0644\u0644\u0647\u0645\u0651 \u0625\u0646\u064a \u0623\u0639\u0648\u0630 \u0628\u0631\u0636\u0627\u0643 \u0645\u0646 \u0633\u064e\u062e\u064e\u0637\u0643\u060c \u0648\u0628\u0645\u064f\u0639\u064e\u0627\u0641\u0627\u062a\u0643 \u0645\u0646 \u0639\u0642\u0648\u0628\u062a\u0643\u060c \u0648\u0623\u0639\u0648\u0630 \u0628\u0643 \u0645\u0646\u0643\u060c \u0644\u0627 \u0623\u062d\u0635\u0650\u064a \u062b\u0646\u0627\u0621\u064b \u0639\u0644\u064a\u0643\u060c \u0623\u0646\u062a \u0643\u0645\u0627 \u0623\u062b\u0646\u064a\u062a\u064e \u0639\u0644\u0649 \u0646\u0641\u0633\u0650\u0643\u00bb",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146157151066447873,
+        "user": "iAbdouuSalah",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 02 20:42:14 +0000 2019",
+        "text": "RT @AsMeruu: \u0644\u0648 \u0641\u0636\u0644\u062a\u064a \u0645\u062a\u0628\u0639\u062f\u064a\u0634 .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AsMeruu",
+                "name": "M.",
+                "id": 873262608949882881,
+                "id_str": "873262608949882881",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146157098205700097,
+        "user": "ma7mdnabil",
+        "user_location": "new cairo",
+        "date": "Tue Jul 02 20:42:01 +0000 2019",
+        "text": "\u0639\u0645\u0631\u064a \u0645\u0627 \u062d\u0628\u064a\u062a \u0627\u062e\u0633\u0631 \u0627\u064a \u0639\u0644\u0627\u0642\u0629 \u0641\u064a \u062d\u064a\u0627\u062a\u064a \u0645\u0647\u0645\u0627 \u0643\u0627\u0646 \u0628\u064a\u0646\u0627 \u0645\u0634\u0627\u0643\u0644\u060c \u0628\u0628\u0639\u062f \u0641\u062a\u0631\u0629 \u0648\u062e\u0644\u0627\u0635",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146156640082812934,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 20:40:12 +0000 2019",
+        "text": "\u064a\u0627\u0631\u0628 \u0627\u0646\u062c\u0648\u0644\u0627 \u062a\u062e\u0637\u0641 \u0646\u0642\u0637\u0629\n\u0627\u0633\u0647\u0644 \u0628\u0643\u062a\u064a\u0631 \u0645\u0646 \u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146156449200037894,
+        "user": "mernamohamad_",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 20:39:26 +0000 2019",
+        "text": "@mohamedfathy_99 \u064a\u0627 \u0628\u0627\u0634\u0627 \u062f\u0648\u0644 \u0644\u064a\u0647\u0645 \u0627\u0644\u0634\u0631\u0641",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mohamedfathy_99",
+                "name": "\u0645\u064e\u062d\u0645\u062f \u0641\u064e\u062a\u062d\u064a",
+                "id": 3064715759,
+                "id_str": "3064715759",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146155964661403649,
+        "user": "mernamohamad_",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 20:37:31 +0000 2019",
+        "text": "@ABN_Metwaly99 \u0627\u0644\u0645\u0647\u0645 \u0627\u0644\u062a\u0642\u062f\u064a\u0631 \u0627\u0644\u0639\u0627\u0645 \u064a\u0639\u0646\u064a \u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647..\n\u0627\u0644\u0644\u0647 \u064a\u0628\u0627\u0631\u0643 \u0641\u064a\u0643",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ABN_Metwaly99",
+                "name": "Mahmoud Metwaly",
+                "id": 1106885701520510976,
+                "id_str": "1106885701520510976",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146155496958812160,
+        "user": "AsMeruu",
+        "user_location": "New Cairo Egypt",
+        "date": "Tue Jul 02 20:35:39 +0000 2019",
+        "text": "\u0644\u0648 \u0641\u0636\u0644\u062a\u064a \u0645\u062a\u0628\u0639\u062f\u064a\u0634 .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146155322597412864,
+        "user": "roooqia",
+        "user_location": "new Cairo ",
+        "date": "Tue Jul 02 20:34:58 +0000 2019",
+        "text": "\u0648\u0628\u062f\u0648\u0646 \u0645\u0628\u0627\u0644\u063a\u0647 \u0648\u0627\u0644\u0644\u0647 \u064a\u0639\u0644\u0645\ud83d\udc9e",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146155144691798016,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 20:34:15 +0000 2019",
+        "text": "\u0627\u0643\u062a\u0631 \u0645\u0646\u062a\u062e\u0628\u064a\u0646 \u0644\u0627\u064a\u0642\u064a\u0646 \u0639\u0644\u064a \u0628\u0639\u0636 \u0645\u0645\u0643\u0646 \u064a\u062a\u0642\u0627\u0628\u0644\u0648\u0627 https://t.co/voIQ5TZUzK",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/voIQ5TZUzK",
+                "expanded_url": "https://twitter.com/eslammagdy/status/1146151623959490562",
+                "display_url": "twitter.com/eslammagdy/sta\u2026",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146154603987292161,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 20:32:06 +0000 2019",
+        "text": "@Ali_H_ElShazly \u062c\u064a\u0631\u0627\u0644\u062f\u0648 \u0648\u062d\u0634 \u0628\u0633 \u0628\u0631\u0636\u0629 \u0645\u0641\u064a\u0634 \u062d\u062f \u062d\u0644\u0648 \u062e\u0627\u0644\u0635\ud83d\ude05",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Ali_H_ElShazly",
+                "name": "Ali El Shazly",
+                "id": 93644487,
+                "id_str": "93644487",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146154435787313153,
+        "user": "MoOoHaNad",
+        "user_location": "New Cairo ",
+        "date": "Tue Jul 02 20:31:26 +0000 2019",
+        "text": "\u0643\u0644 \u0645\u0627 \u0648\u0627\u0641\u0642 \u0627\u0644\u0642\u0631\u0622\u0646 \u0639\u0644\u0645 \u0648\u062d\u0642 \u0648\u0643\u0644 \u0645\u0627 \u062e\u0627\u0644\u0641\u0647 \u062c\u0647\u0644 \u0648\u0647\u0648\u0649 (\u062b\u064f\u0645\u0651 \u062c\u064e\u0639\u0644\u0646\u0627\u0643\u064e \u0639\u0644\u0649 \u0634\u0631\u064a\u0639\u0629\u064d \u0645\u0646 \u0627\u0644\u0623\u0645\u0631 \u0641\u0627\u062a\u0651\u0628\u0639\u0647\u0627 \u0648\u0644\u0627 \u062a\u062a\u0651\u0628\u0639 \u0623\u0647\u0648\u0627\u0621 \u0627\u0644\u0630\u064a\u0646 \u0644\u2026 https://t.co/bRdIzTLmzI",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/bRdIzTLmzI",
+                "expanded_url": "https://twitter.com/i/web/status/1146154435787313153",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146154285413163009,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 20:30:50 +0000 2019",
+        "text": "@Ali_H_ElShazly \u0647\u0649 \u0627\u0644\u0641\u0643\u0631\u0629 \u064a\u062a\u0646\u064a\u0644\u0648\u0627 \u064a\u062c\u064a\u0628\u0648\u0627 \u062c\u0648\u0644 \u0627\u0644\u0627\u0648\u0644 \ud83d\ude05",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Ali_H_ElShazly",
+                "name": "Ali El Shazly",
+                "id": 93644487,
+                "id_str": "93644487",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146153667726368768,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 20:28:23 +0000 2019",
+        "text": "@Ali_H_ElShazly \u0627\u064a\u0648\u0629 \u062f\u0648\u0644 \u0645\u0634 \u062a\u0648\u0627\u0644\u062a \u062f\u0647 \u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u062a\u0627\u0646\u0649 \u0648\u0627\u0644\u062a\u0627\u0644\u062a \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Ali_H_ElShazly",
+                "name": "Ali El Shazly",
+                "id": 93644487,
+                "id_str": "93644487",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146153240653914122,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 20:26:41 +0000 2019",
+        "text": "\u0627\u064a\u0627\u0645 ps2 \u0627\u0644\u062c\u0645\u064a\u0644\u0629 https://t.co/4F6CgwjrG2",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/4F6CgwjrG2",
+                "expanded_url": "https://twitter.com/premierleague/status/1146078817527697409",
+                "display_url": "twitter.com/premierleague/\u2026",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146153228255580160,
+        "user": "10Hemdan",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:26:38 +0000 2019",
+        "text": "\u0627\u0644\u0645\u0639\u0632 \u062d\u0633\u0646 \u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u064a \u0627\u0644\u0645\u0646\u062a\u062e\u0628 \u0627\u0644\u062a\u0648\u0646\u0633\u064a \n\u0628\u064a\u062d\u0628 \u064a\u0642\u0641 \u062c\u0648\u0646 \u0628\u0633 \u0645\u0628\u064a\u0639\u0631\u0641\u0634 \ud83d\ude05\ud83e\udd14",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146152652750938113,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 20:24:21 +0000 2019",
+        "text": "@Ali_H_ElShazly \u0647\u064a\u0628\u0635\u0648\u0627 \u0644\u0644\u0627\u0646\u0630\u0627\u0631\u0627\u062a \u0627\u0644\u0627\u0648\u0644 \u0627\u0644\u0645\u0641\u0631\u0648\u0636 \u0648\u0644\u0627 \u0627\u064a\u0647\u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Ali_H_ElShazly",
+                "name": "Ali El Shazly",
+                "id": 93644487,
+                "id_str": "93644487",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146149819808931842,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:13:06 +0000 2019",
+        "text": "\u0627\u0646\u062a\u0648 \u0643\u062f\u0627 \u0645\u0634 \u0628\u062a\u0639\u0644\u0645\u0648\u0646\u0627 \u0627\u0644\u0627\u062f\u0628\n\u0627\u0646\u062a\u0648 \u0628\u062a\u0639\u0644\u0645\u0648\u0646\u0627 \u0627\u0644\u0642\u0633\u064a\u0629 \u0648 \u062c\u0641\u0627 \u0627\u0644\u0642\u0644\u0628 \u0645\u0647\u0645\u0627 \u0643\u0627\u0646 \u0628\u064a\u062a\u0642\u0637\u0639 \u0639\u0644\u064a\u0643\u0645\n\u0628\u0631\u0627\u0641\u0648\ud83e\udd1a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146149492716113920,
+        "user": "grouttott",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 20:11:48 +0000 2019",
+        "text": "\u0631\u0628\u0646\u0627 \u0645\u0634 \u0642\u0627\u0635\u062f \u064a\u0648\u062c\u0639 \u0642\u0644\u0628\u0643\n\u0647\u0648 \u0642\u0627\u0635\u062f \u0628\u0633 \u064a\u062f\u064a\u0643 \u0627\u0633\u0628\u0627\u0628 \u062a\u062a\u0642\u0648\u064a \u0628\u064a\u0647\u0627 \u0628\u0639\u062f \u0645\u0627 \u0627\u0644\u062d\u0628\u0644 \u0627\u0644\u0644\u064a \u0643\u0627\u0646 \u0647\u064a\u0642\u0637\u0639 \u0631\u0642\u0628\u062a\u0643 \u064a\u062a\u0641\u0643 \u0648 \u0645\u064a\u062a\u0628\u0642\u0627\u0634 \u0645\u0646\u0647 \u063a\u064a\u0631 \u0646\u0632\u2026 https://t.co/tDuXahjBXj",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/tDuXahjBXj",
+                "expanded_url": "https://twitter.com/i/web/status/1146149492716113920",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146148905870155776,
+        "user": "AsMeruu",
+        "user_location": "New Cairo Egypt",
+        "date": "Tue Jul 02 20:09:28 +0000 2019",
+        "text": "\u0648\u0627\u0646\u0627 \u0627\u062f\u0641\u0639 \u0633\u0646\u064a\u0646 \u062a\u0627\u0646\u064a\u0646 \u0648 \u0625\u062d\u0628\u0643 \u0641 \u0627\u0644\u0639\u064e\u0644\u0646.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146148810416148486,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 02 20:09:05 +0000 2019",
+        "text": "\u0639\u0627\u0645\u0644\u062a \u0641\u064a\u0646\u0627 \u0627\u064a\u0647 \u064a\u0627\u0633\u0627\u0633\u064a \u0639\u0634\u0627\u0646 \u062a\u062e\u0644\u064a\u0646\u0627 \u0646\u062a\u0641\u0631\u062c \u0639\u0644\u0645\u0627\u062a\u0634 \u0627\u0644\u0645\u0644\u0644 \u062f\u0647 \u0648\u0627\u0646\u062a \u0645\u0634 \u0628\u062a\u0644\u0639\u0628 \u0643\u0645\u0627\u0646 \ud83e\udd23 https://t.co/vs6lNdkIY5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/vs6lNdkIY5",
+                "expanded_url": "https://twitter.com/_SHIKA10/status/1146148399483428868",
+                "display_url": "twitter.com/_SHIKA10/statu\u2026",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145774004252673,
+        "user": "Mostafayaseerr",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 19:57:01 +0000 2019",
+        "text": "\u064a\u0648\u0645\u0627\u064b \u0645\u0627 \u0633\u062a\u0641\u0647\u0645 \u062c\u064a\u062f\u0627\u064b \u0625\u0646 \u0627\u0644\u0627\u0634\u064a\u0627\u0621 \u062a\u0631\u062d\u0644 \u0625\u0630\u0627 \u0644\u0645 \u062a\u062c\u062f \u0627\u0644\u0625\u062d\u062a\u0648\u0627\u0621 \u060c \u0648\u0625\u0646 \u0627\u0644\u0635\u0628\u0631 \u0648\u0627\u0646 \u0637\u0627\u0644 \u064a\u0646\u0641\u0630 \u060c \u0648\u0625\u0646 \u0627\u0644\u062d\u064a\u0627\u0647 \u0644\u0627 \u062a\u0642\u0641 \u0639\u0644\u0649 \u0639\u062a\u0628\u0629 \u0623\u062d\u062f .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145480197464064,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 19:55:51 +0000 2019",
+        "text": "\u0644\u0644\u0627\u0633\u0641 \u0627\u0644comeback \u0628\u062a\u0627\u0639 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0648\u0645\u0641\u0627\u062c\u0623\u0629 \u0627\u0646 \u0628\u0646\u064a\u0646 \u062a\u0627\u062e\u062f \u0646\u0642\u0637\u064a\u0646 \u0645\u0646 \u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646 \u0648\u063a\u0627\u0646\u0627 \u063a\u064a\u0631\u0648\u0627 \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u062e\u0627\u0644\u0635",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145057906548736,
+        "user": "mazen_moh_taha",
+        "user_location": "Al-Mukattam City",
+        "date": "Tue Jul 02 19:54:10 +0000 2019",
+        "text": "\u062a\u0648\u0646\u0633 \u0648\u0627\u0642\u0639\u0629 \u062e\u0627\u0644\u0635\n\u0628\u0633 \u0644\u0644\u0627\u0633\u0641 \u0639\u0644\u0634\u0627\u0646 \u062a\u064a\u062c\u0649 \u0641\u0649 \u0637\u0631\u064a\u0642\u0646\u0627 \u0644\u0627\u0632\u0645 \u0627\u0646\u062c\u0648\u0644\u0627 \u062a\u0643\u0633\u0628 \u0641\u0649 \u0627\u0644\u0634\u0648\u0637 \u0627\u0644\u062a\u0627\u0646\u0649 \u0648\u062a\u0648\u0646\u0633 \u062a\u0641\u0636\u0644 \u0645\u062a\u0639\u0627\u062f\u0644\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146145003829440512,
+        "user": "sarahhhemeda",
+        "user_location": "New cairo",
+        "date": "Tue Jul 02 19:53:57 +0000 2019",
+        "text": "@HendKo4ary \u0648\u064a\u0644\u0643\u0645 \u0647\u0646\u0627\u062f\u064a \ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc69\ud83d\udc98\ud83d\udc98\ud83d\udc98\ud83d\udc98",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HendKo4ary",
+                "name": "\u0643\u0634\u0631\u064a",
+                "id": 2988448864,
+                "id_str": "2988448864",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    }
+]

@@ -40,28 +40,6 @@
         "region": "Heliopolis"
     },
     {
-        "id": 1146195521981358088,
-        "user": "shehabirl",
-        "user_location": "Nasr City",
-        "date": "Tue Jul 02 23:14:42 +0000 2019",
-        "text": "Here\u2019s a song for you\u2026 Ain't No Mountain High Enough by Marvin Gaye\nhttps://t.co/E8br27jIux",
-        "geo": null,
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/E8br27jIux",
-                "expanded_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX?si=Mm_DLm7gQaOSgvFIzqqC8w",
-                "display_url": "open.spotify.com/track/7tqhbajS\u2026",
-                "indices": [
-                    68,
-                    91
-                ]
-            }
-        ],
-        "mentions": [],
-        "region": "Heliopolis"
-    },
-    {
         "id": 1146192443152502784,
         "user": "Marim_Soliman",
         "user_location": "Alexandria, Egypt",
@@ -82,28 +60,6 @@
                 ]
             }
         ],
-        "region": "Heliopolis"
-    },
-    {
-        "id": 1146191854205095938,
-        "user": "gehadsediek5",
-        "user_location": "Nasr city",
-        "date": "Tue Jul 02 23:00:07 +0000 2019",
-        "text": "Baby blue  \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d https://t.co/Wh94zs84xl",
-        "geo": null,
-        "lang": "en",
-        "urls": [
-            {
-                "url": "https://t.co/Wh94zs84xl",
-                "expanded_url": "https://www.facebook.com/100024054247239/posts/477682009710270/",
-                "display_url": "facebook.com/10002405424723\u2026",
-                "indices": [
-                    15,
-                    38
-                ]
-            }
-        ],
-        "mentions": [],
         "region": "Heliopolis"
     },
     {
@@ -2246,6 +2202,52 @@
         "user_location": "East Ham, London",
         "date": "Tue Jul 02 19:31:56 +0000 2019",
         "text": "RT @KingTutNews: Karnak. Propylon of the temple of Khonsu built by Ptolemy III. https://t.co/uqpCiSYy8Z",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139454480011264,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:31:54 +0000 2019",
+        "text": "RT @KingTutNews: The God Thoth depicted as a baboon, statue, vestibule of the sanctuary, Temple of Khonsu, Karnak temple complex. https://t\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KingTutNews",
+                "name": "king Tut News",
+                "id": 777417334915002368,
+                "id_str": "777417334915002368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1146139441171456002,
+        "user": "Mis_SLS",
+        "user_location": "East Ham, London",
+        "date": "Tue Jul 02 19:31:51 +0000 2019",
+        "text": "RT @KingTutNews: Kneeling figure of Necho II making a divine offering. https://t.co/bjDPxTCTAV",
         "geo": null,
         "lang": "en",
         "urls": [],

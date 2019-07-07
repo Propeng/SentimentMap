@@ -1,0 +1,697 @@
+[
+    {
+        "id": 1147655578560450562,
+        "user": "MennaMahmoud97",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 06 23:56:26 +0000 2019",
+        "text": "Life feels so complete when you are around \ud83c\udf52",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147651985501544448,
+        "user": "zAndru_",
+        "user_location": "Colombia",
+        "date": "Sat Jul 06 23:42:10 +0000 2019",
+        "text": "RT @MindCap: what i think i look like when i reach the toxin lab 2 drop https://t.co/YAeSPqG6h1",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147649328745472002,
+        "user": "Xaro_GD",
+        "user_location": "\u00d6sterreich",
+        "date": "Sat Jul 06 23:31:36 +0000 2019",
+        "text": "RT @MindCap: what i think i look like when i reach the toxin lab 2 drop https://t.co/YAeSPqG6h1",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147648551650041858,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Sat Jul 06 23:28:31 +0000 2019",
+        "text": "\u266b #NowPlaying \u201cDayret El Rehla\u201d by @Mounirofficial on #Anghami https://t.co/n5rViAMcIU  https://t.co/n5rViAMcIU",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/n5rViAMcIU",
+                "expanded_url": "https://play.anghami.com/song/117199?bid=/ulMD2CY86X",
+                "display_url": "play.anghami.com/song/117199?bi\u2026",
+                "indices": [
+                    63,
+                    86
+                ]
+            },
+            {
+                "url": "https://t.co/n5rViAMcIU",
+                "expanded_url": "https://play.anghami.com/song/117199?bid=/ulMD2CY86X",
+                "display_url": "play.anghami.com/song/117199?bi\u2026",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Mounirofficial",
+                "name": "Mohamed Mounir",
+                "id": 4567346655,
+                "id_str": "4567346655",
+                "indices": [
+                    35,
+                    50
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147641387057385472,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 23:00:03 +0000 2019",
+        "text": "@Feeeeff Needs to be taught in history class of every high school",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Feeeeff",
+                "name": "feefi",
+                "id": 3261602353,
+                "id_str": "3261602353",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147635334378864640,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 22:36:00 +0000 2019",
+        "text": "You sometimes meet people that remind you of the important things in life. \n\nNot by them pointing them out but by h\u2026 https://t.co/fl4bg6ypLR",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fl4bg6ypLR",
+                "expanded_url": "https://twitter.com/i/web/status/1147635334378864640",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147631181132906498,
+        "user": "OmarSam71214125",
+        "user_location": "nasr city ",
+        "date": "Sat Jul 06 22:19:30 +0000 2019",
+        "text": "@ubod1412 W ba3den b2a fl 2amar da b2aaa \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude44",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ubod1412",
+                "name": "AbDallaH",
+                "id": 877346335363649537,
+                "id_str": "877346335363649537",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147629861198082048,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Sat Jul 06 22:14:15 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/t7eyceCme1",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/t7eyceCme1",
+                "expanded_url": "https://www.swarmapp.com/c/go3DXQIFseB",
+                "display_url": "swarmapp.com/c/go3DXQIFseB",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147625154564042752,
+        "user": "Menna_Medhat_36",
+        "user_location": "Nasr city",
+        "date": "Sat Jul 06 21:55:33 +0000 2019",
+        "text": "a lot awe awe ya3ne https://t.co/WLxpwCCH8h",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WLxpwCCH8h",
+                "expanded_url": "https://twitter.com/arjmxrell/status/1147150113112043522",
+                "display_url": "twitter.com/arjmxrell/stat\u2026",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147621462662160387,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 21:40:53 +0000 2019",
+        "text": "@Feeeeff Where in cairo?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Feeeeff",
+                "name": "feefi",
+                "id": 3261602353,
+                "id_str": "3261602353",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147620061701709824,
+        "user": "Macushla_C",
+        "user_location": "cairo stadium",
+        "date": "Sat Jul 06 21:35:19 +0000 2019",
+        "text": "Go toilet https://t.co/DhhoeLk06p",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147617402978471937,
+        "user": "ABZ_Alsarheed",
+        "user_location": "Kuwait \u2665 | koc\ud83d\udccd",
+        "date": "Sat Jul 06 21:24:45 +0000 2019",
+        "text": "I'm at Cairo International Airport - @cairoairport in Heliopolis, Cairo https://t.co/rAbUYGUufd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.11702992,
+                31.3989687
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rAbUYGUufd",
+                "expanded_url": "https://www.swarmapp.com/c/8zvxfNKK9sO",
+                "display_url": "swarmapp.com/c/8zvxfNKK9sO",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CairoAirport",
+                "name": "CairoAirport",
+                "id": 260113029,
+                "id_str": "260113029",
+                "indices": [
+                    37,
+                    50
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147617172665065473,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 21:23:50 +0000 2019",
+        "text": "@Feeeeff Ive heard of a couple of places zaman bas never checked them out. Cant remember the name",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Feeeeff",
+                "name": "feefi",
+                "id": 3261602353,
+                "id_str": "3261602353",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147616257480564736,
+        "user": "virus_nemer",
+        "user_location": "",
+        "date": "Sat Jul 06 21:20:12 +0000 2019",
+        "text": "Just posted a photo @ Cairo International Airport https://t.co/bM6eVmh53s",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.12194444,
+                31.40555556
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bM6eVmh53s",
+                "expanded_url": "https://www.instagram.com/p/BzlxUIpAsJQ/?igshid=ijh60u3unwy7",
+                "display_url": "instagram.com/p/BzlxUIpAsJQ/\u2026",
+                "indices": [
+                    50,
+                    73
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147613398122803200,
+        "user": "hhazzeem",
+        "user_location": "Heliopolis ,Egypt",
+        "date": "Sat Jul 06 21:08:50 +0000 2019",
+        "text": "CAN2019 EGYPT https://t.co/RB3SRNfkXF",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147608595816730624,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 20:49:45 +0000 2019",
+        "text": "@NotNihal You have no idea how happy this makes me. Some form of cosmic justice",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "NotNihal",
+                "name": "living in a society \ud83c\udf10",
+                "id": 131950438,
+                "id_str": "131950438",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147608266438037505,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 20:48:26 +0000 2019",
+        "text": "YAAZZZZ SOUTH AFRICAAAA \ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147605442014720000,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 20:37:13 +0000 2019",
+        "text": "@NotNihal For now youve got wimbledon",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "NotNihal",
+                "name": "living in a society \ud83c\udf10",
+                "id": 131950438,
+                "id_str": "131950438",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147605310141534211,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 20:36:42 +0000 2019",
+        "text": "If the ball had boobs he would have harassed it #AmrWarda",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147604160961011712,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 06 20:32:08 +0000 2019",
+        "text": "What did i tell you. Warda will be subbed in a cheered like nothing happened. FUCK THIS COUNTRY",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147603928474902535,
+        "user": "Eltagpharmhotm3",
+        "user_location": "Nasr city ",
+        "date": "Sat Jul 06 20:31:12 +0000 2019",
+        "text": "\ud83d\uddfaHESHAM\ud83c\uddea\ud83c\uddec\nFOR\nEGYPT\nONCE https://t.co/5mCpTGBT0s",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147598586198265856,
+        "user": "Yarareda121",
+        "user_location": " nasr city",
+        "date": "Sat Jul 06 20:09:58 +0000 2019",
+        "text": "Same \ud83e\udd1d https://t.co/oU03zr2WZu",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/oU03zr2WZu",
+                "expanded_url": "https://twitter.com/seifdiab96/status/1147502352468992001",
+                "display_url": "twitter.com/seifdiab96/sta\u2026",
+                "indices": [
+                    7,
+                    30
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147592694367236097,
+        "user": "Lorenz_KO",
+        "user_location": "South Africa",
+        "date": "Sat Jul 06 19:46:34 +0000 2019",
+        "text": "HT: #EGY\ud83c\uddea\ud83c\uddec 0-0 #RSA\n\n#BafanaBafana have silenced the home crowd, frustrated faces all round with the media zone fro\u2026 https://t.co/WTe2F1avKI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06931659,
+                31.31263493
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WTe2F1avKI",
+                "expanded_url": "https://twitter.com/i/web/status/1147592694367236097",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147587376904134656,
+        "user": "ohosny10",
+        "user_location": "Cairo, Egypt. ",
+        "date": "Sat Jul 06 19:25:26 +0000 2019",
+        "text": "Egyptian fireflies #afcon2019 @ Cairo International Stadium https://t.co/AHlVwPpJ2j",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.069111,
+                31.312333
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AHlVwPpJ2j",
+                "expanded_url": "https://www.instagram.com/p/BzlkJWwB7Ce/?igshid=1s5xluc465v82",
+                "display_url": "instagram.com/p/BzlkJWwB7Ce/\u2026",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147585412141129728,
+        "user": "GDNewT",
+        "user_location": "San Jos\u00e9, Costa Rica.",
+        "date": "Sat Jul 06 19:17:38 +0000 2019",
+        "text": "RT @MindCap: what i think i look like when i reach the toxin lab 2 drop https://t.co/YAeSPqG6h1",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147582262902513666,
+        "user": "nevr_on",
+        "user_location": "wouldn't you like to know",
+        "date": "Sat Jul 06 19:05:07 +0000 2019",
+        "text": "RT @MindCap: the xylophone is just a gay drum",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147578011153125376,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 06 18:48:13 +0000 2019",
+        "text": "@Lucarinon @exyndotmp3 nah you're just edgy",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Lucarinon",
+                "name": "Rin",
+                "id": 949552674822852608,
+                "id_str": "949552674822852608",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "exyndotmp3",
+                "name": ":+'Exyen_; \ud83d\udda4 999",
+                "id": 902690963021324289,
+                "id_str": "902690963021324289",
+                "indices": [
+                    11,
+                    22
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147572193573953536,
+        "user": "CAF_Online",
+        "user_location": "Egypt",
+        "date": "Sat Jul 06 18:25:06 +0000 2019",
+        "text": "The two sides conclude their preparations ahead of #EGYRSA.\n#TotalAFCON2019 https://t.co/fejQ4bNjGn",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06935303,
+                31.31176068
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fejQ4bNjGn",
+                "expanded_url": "https://www.pscp.tv/w/b_De_jFXZ0tnYWxXcnFrRXZ8MWdxeHZWbk9OZ2x4QnQofwbin0Hu0n6swLYqcYDU0rYifPW9OTXSDTQfw8CU",
+                "display_url": "pscp.tv/w/b_De_jFXZ0tn\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147571154107949056,
+        "user": "3igez",
+        "user_location": "Cairo",
+        "date": "Sat Jul 06 18:20:58 +0000 2019",
+        "text": "One family not just friends \ud83d\ude0e @ The Smokery Heliopolis https://t.co/i07ReBLlwT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.09277442,
+                31.328231
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/i07ReBLlwT",
+                "expanded_url": "https://www.instagram.com/p/BzlczXDAdZ3/?igshid=15y7wlzqwkqkz",
+                "display_url": "instagram.com/p/BzlczXDAdZ3/\u2026",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1147569833564938240,
+        "user": "OOCMindCap",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 06 18:15:43 +0000 2019",
+        "text": "@Lucarinon @TheRealGDColon \"plenty of context rin\" coming soon",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Lucarinon",
+                "name": "Rin",
+                "id": 949552674822852608,
+                "id_str": "949552674822852608",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "TheRealGDColon",
+                "name": "Colon",
+                "id": 833838358996611073,
+                "id_str": "833838358996611073",
+                "indices": [
+                    11,
+                    26
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    }
+]

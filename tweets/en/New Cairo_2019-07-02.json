@@ -14,7 +14,7 @@
     {
         "id": 1146204904341594112,
         "user": "AssiellMustafa",
-        "user_location": "New cairo",
+        "user_location": "",
         "date": "Tue Jul 02 23:51:59 +0000 2019",
         "text": "Never love sweetie . https://t.co/qCTaUQ920l",
         "geo": null,
@@ -58,7 +58,7 @@
     },
     {
         "id": 1146202841553371136,
-        "user": "CastroCompton",
+        "user": "monike_comp",
         "user_location": "",
         "date": "Tue Jul 02 23:43:47 +0000 2019",
         "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
@@ -218,32 +218,9 @@
     },
     {
         "id": 1146177331637182465,
-        "user": "letsgoheroes",
+        "user": "madamejustice_",
         "user_location": "London, United Kingdom",
         "date": "Tue Jul 02 22:02:25 +0000 2019",
-        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
-        "geo": null,
-        "lang": "en",
-        "urls": [],
-        "mentions": [
-            {
-                "screen_name": "_Mysterygirl_P",
-                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
-                "id": 3374285397,
-                "id_str": "3374285397",
-                "indices": [
-                    3,
-                    18
-                ]
-            }
-        ],
-        "region": "New Cairo"
-    },
-    {
-        "id": 1146176817830739968,
-        "user": "NoHopeFound",
-        "user_location": "\ud835\udd88\ud835\udd86\ud835\udd98\ud835\udd99\ud835\udd91\ud835\udd8a \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-        "date": "Tue Jul 02 22:00:22 +0000 2019",
         "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
         "geo": null,
         "lang": "en",
@@ -997,29 +974,6 @@
         "region": "New Cairo"
     },
     {
-        "id": 1146135468406390784,
-        "user": "__shewinefine",
-        "user_location": "",
-        "date": "Tue Jul 02 19:16:04 +0000 2019",
-        "text": "RT @_Mysterygirl_P: Never let the same person waste your time twice.",
-        "geo": null,
-        "lang": "en",
-        "urls": [],
-        "mentions": [
-            {
-                "screen_name": "_Mysterygirl_P",
-                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
-                "id": 3374285397,
-                "id_str": "3374285397",
-                "indices": [
-                    3,
-                    18
-                ]
-            }
-        ],
-        "region": "New Cairo"
-    },
-    {
         "id": 1146135178538029057,
         "user": "kidd_leek",
         "user_location": "",
@@ -1234,29 +1188,6 @@
             }
         ],
         "mentions": [],
-        "region": "New Cairo"
-    },
-    {
-        "id": 1146131720967786502,
-        "user": "NoHopeFound",
-        "user_location": "\ud835\udd88\ud835\udd86\ud835\udd98\ud835\udd99\ud835\udd91\ud835\udd8a \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-        "date": "Tue Jul 02 19:01:11 +0000 2019",
-        "text": "RT @_Mysterygirl_P: It's better to have your heart broken once by walking away than to break it daily waiting for things to get better.",
-        "geo": null,
-        "lang": "en",
-        "urls": [],
-        "mentions": [
-            {
-                "screen_name": "_Mysterygirl_P",
-                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
-                "id": 3374285397,
-                "id_str": "3374285397",
-                "indices": [
-                    3,
-                    18
-                ]
-            }
-        ],
         "region": "New Cairo"
     },
     {
@@ -2089,29 +2020,6 @@
         "region": "New Cairo"
     },
     {
-        "id": 1146020824484372480,
-        "user": "LexiconRoad",
-        "user_location": "",
-        "date": "Tue Jul 02 11:40:31 +0000 2019",
-        "text": "RT @AUC_RBSCL: On July 3rd the opening of the exhibit \"Princess Fawzia: The Duality of Egyptian Womanhood through Western and Egyptian Eyes\u2026",
-        "geo": null,
-        "lang": "en",
-        "urls": [],
-        "mentions": [
-            {
-                "screen_name": "AUC_RBSCL",
-                "name": "AUC Rare Books Lib",
-                "id": 140441304,
-                "id_str": "140441304",
-                "indices": [
-                    3,
-                    13
-                ]
-            }
-        ],
-        "region": "New Cairo"
-    },
-    {
         "id": 1146020477837725696,
         "user": "AUC_Library",
         "user_location": "New Cairo, Egypt",
@@ -2166,6 +2074,73 @@
         "geo": null,
         "lang": "en",
         "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146013773167247360,
+        "user": "teltarshouby",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 02 11:12:30 +0000 2019",
+        "text": "True https://t.co/JgELnPXqRj",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JgELnPXqRj",
+                "expanded_url": "https://twitter.com/albatraozdee/status/1145764989820477440",
+                "display_url": "twitter.com/albatraozdee/s\u2026",
+                "indices": [
+                    5,
+                    28
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1146010442323513345,
+        "user": "4ktSlime",
+        "user_location": "",
+        "date": "Tue Jul 02 10:59:15 +0000 2019",
+        "text": "RT @_Mysterygirl_P: You ever been so mad texting someone that you misspell every damn word\ud83d\ude2d\ud83d\ude2d\ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_Mysterygirl_P",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1145998073476239360,
+        "user": "Marvoich",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 02 10:10:06 +0000 2019",
+        "text": "You can easily sink deeply into your work and allow your own n... More for Aquarius https://t.co/vqgUNOc4mM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vqgUNOc4mM",
+                "expanded_url": "http://bit.ly/whBNNw",
+                "display_url": "bit.ly/whBNNw",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
         "mentions": [],
         "region": "New Cairo"
     }
