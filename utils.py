@@ -15,8 +15,12 @@ def process(tweet):
     i += 1
 
     text = tweet['text']
-    mentions = tweet['mentions']
-    urls = tweet['urls']
+    try:
+        mentions = tweet['mentions']
+        urls = tweet['urls']
+    except KeyError:
+        mentions = []
+        urls = []
 
     text = filter_tweet(text, mentions, urls)
     text = separate_emojis(text)
@@ -40,13 +44,10 @@ def separate_emojis(text):
     return text
 
 def filter_tweet(text, mentions, urls):
-    try:
-        for item in mentions + urls:
-            start = item['indices'][0]
-            end = item['indices'][1]
-            text = text[0:start] + ' '*(end-start) + text[end:len(text)]
-    except KeyError:
-        pass
+    for item in mentions + urls:
+        start = item['indices'][0]
+        end = item['indices'][1]
+        text = text[0:start] + ' '*(end-start) + text[end:len(text)]
 
     #remove extra urls
     split = filter(lambda word: not word.startswith('http://') and not word.startswith('https://'), text.split())
