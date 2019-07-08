@@ -38,27 +38,57 @@ if __name__ == "__main__":
         feature = create_word_features(word_tokenize(tweet))
         print(feature)
         pos_reviews.append((feature, "positive"))
-        
+
     print(len(neg_reviews))
     print(len(pos_reviews))
     print(neg_reviews[:5])
     
-    train_set = neg_reviews[:4000] + pos_reviews[:4000]
-    test_set =  neg_reviews[0:1000] + pos_reviews[0:1000]
-    print(len(train_set),  len(test_set))
+
+
+    arabic_neg = []
+    arabic_pos = []
+    lines = open('arabic_training.txt', 'r', encoding='utf-8').read().split('\n')
+    for line in lines:
+        fields = line.split('\t')
+        if len(fields) >= 2:
+            if fields[1] == "POS":
+                feature = create_word_features(word_tokenize(fields[0]))
+                print(feature)
+                arabic_pos.append((feature, 'positive'))
+            elif fields[1] == "NEG":
+                feature = create_word_features(word_tokenize(fields[0]))
+                print(feature)
+                arabic_neg.append((feature, 'negative'))
+    
+    print(len(arabic_neg))
+    print(len(arabic_pos))  
+    print(arabic_pos[:5])
+
+    
+    train_set_en = neg_reviews[:4000] + pos_reviews[:4000]
+    test_set_en =  neg_reviews[0:1000] + pos_reviews[0:1000] 
+    
+    train_set_ar = arabic_neg[:int(len(arabic_neg)*0.8)] + arabic_pos[:int(len(arabic_pos)*0.8)]
+    test_set_ar = arabic_neg[0:int(len(arabic_neg)*0.2)] + arabic_pos[0:int(len(arabic_pos)*0.2)]
+    
+    print(len(train_set_en),  len(test_set_en))
+    
+    english_classifier = NaiveBayesClassifier.train(train_set_en)
+    arabic_classifier = NaiveBayesClassifier.train(train_set_ar)
+    
+    accuracy_en = nltk.classify.util.accuracy(english_classifier, test_set_en)
+    accuracy_ar = nltk.classify.util.accuracy(arabic_classifier, test_set_ar)
+    print(accuracy_en)
+    print(accuracy_ar)
     
     
-    
-    classifier = NaiveBayesClassifier.train(train_set)
-    accuracy = nltk.classify.util.accuracy(classifier, test_set)
-    print(accuracy)
-    
-    
-    for tweet in test_set:
-        print((tweet,classifier.classify(tweet[0])))
+    for tweet in test_set_en:
+        print((tweet,english_classifier.classify(tweet[0])))
         
-    with open('second_classifier.pkl', 'wb') as classifier_file:
-        pickle.dump(classifier, classifier_file)
+    with open('second_classifier_en.pkl', 'wb') as classifier_file:
+        pickle.dump(english_classifier, classifier_file)
+    with open('second_classifier_ar.pkl', 'wb') as classifier_file:
+        pickle.dump(arabic_classifier, classifier_file)
 
 
 
