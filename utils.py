@@ -6,15 +6,19 @@ from unicodedata import category
 
 from contractions import contractions
 
+arabic_stopword = ['في','من','علي' ,'على', 'أن', 'الى','التي', 'عن', 'لا','ما', 'او',
+'هذا', 'هذه', 'الذي', 'كان', 'مع', 'و', 'ذلك', 'في', 'الله', 'بين', 'كل', 'هو',
+'كما', 'لم', 'بعد', 'ان', 'ازاى', 'ليه', 'ازاي', 'عشان', 'علشان' ]
+
 i = 1
-#punct = '.,;():-\'"'  + '️' + '\u200d'  + '’'
 
 def process(tweet):
     global i
     print(i)
     i += 1
 
-    text = tweet['text']
+    text = tweet['text'].lower()
+    lang = tweet['lang']
     try:
         mentions = tweet['mentions']
         urls = tweet['urls']
@@ -24,8 +28,9 @@ def process(tweet):
 
     text = filter_tweet(text, mentions, urls)
     text = separate_emojis(text)
-    text = expand_contractions(text)
-    text = remove_stopwords(text)
+    if(lang == 'en'):
+        text = expand_contractions(text)
+    text = remove_stopwords(text, lang)
     text = mark_negation(text)
     text = remove_punct(text)
     return text
@@ -61,7 +66,7 @@ def filter_tweet(text, mentions, urls):
     return ' '.join(split)
 
 def expand_contractions(text):
-    words = text.lower().split()
+    words = text.split()
     new_words = []
     for word in words:
         if word in contractions:
@@ -70,10 +75,14 @@ def expand_contractions(text):
             new_words.append(word)
     return ' '.join(new_words).lower()
 
-def remove_stopwords(text):
-    list = (stopwords.words('english') + ['rt'])
-    for word in ['not', 'no']:
-        list.remove(word)
+def remove_stopwords(text, lang):
+    if(lang == 'en'):
+        list = stopwords.words('english') + ['rt']
+        for word in ['not', 'no']:
+            list.remove(word)
+    else:
+        list = stopwords.words('arabic') + ['rt'] + arabic_stopword
+        list += ['و' + x if not x.startswith('و') else x for x in list]
     stop_words = set(list)
     tokenized = word_tokenize(text)
     filtered_sentence = [w for w in tokenized if not w in stop_words] 
