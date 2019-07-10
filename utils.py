@@ -1,8 +1,9 @@
-from nltk.corpus import stopwords 
+from nltk.corpus import stopwords, words
 from nltk.tokenize import word_tokenize 
 from emoji import UNICODE_EMOJI
 from nltk.sentiment.util import mark_negation
 from unicodedata import category
+import re
 
 from contractions import contractions
 
@@ -25,14 +26,23 @@ def process(tweet):
     except KeyError:
         mentions = []
         urls = []
-
+    
     text = filter_tweet(text, mentions, urls)
+    if lang == 'ar':
+        text = remove_arabic_variants(text)
     text = separate_emojis(text)
     if(lang == 'en'):
         text = expand_contractions(text)
     text = remove_stopwords(text, lang)
     text = mark_negation(text)
     text = remove_punct(text)
+    text = normalize_repititions(text, lang)
+    return text
+
+def remove_arabic_variants(text):
+    variants = [('أ', 'ا'), ('آ', 'ا'), ('إ', 'ا'), ('ى', 'ي'), ('ة', 'ه')]
+    for variant in variants:
+        text = text.replace(variant[0], variant[1])
     return text
 
 def separate_emojis(text):
@@ -104,3 +114,44 @@ def remove_punct(text):
             filtered_text.append(word)
     filtered_text = filter(lambda x: x != '' , filtered_text)
     return list(filtered_text)
+
+def normalize_repititions(text, lang):
+    if lang == 'ar':
+        text = [normalize_token_ar(token) for token in text]
+    elif lang == 'en':
+        text = [normalize_token_en(token) for token in text]
+    
+    return text
+
+def normalize_token_ar(text):
+    i = 1
+    while i < len(text):
+        if (text[i] == 'ا' or text[i] == ',') and text[i] == text[i-1]:
+            text = text[0:i] + text[i+1:len(text)]
+            i -= 1
+        if text[i] == 'ي' and text[i] == text[i-1] and (i < len(text)-2 or not text.endswith('يين')):
+            text = text[0:i] + text[i+1:len(text)]
+            i -= 1
+        i += 1
+    return text
+
+def normalize_token_en(text):
+    while True:
+        match = re.search('(\w)\\1{2,}', text)
+        if match == None:
+            break
+        span = match.span()
+        char = match.group(1)
+        single = text[0:span[0]] + char + text[span[1]:len(text)]
+        double = text[0:span[0]] + char + char + text[span[1]:len(text)]
+        if double in words.words():
+            text = double
+        elif single in words.words():
+            text = single
+        else:
+            if char in ['a', 'e', 'i', 'o', 'u']:
+                text = double
+            else:
+                text = single
+    
+    return text
