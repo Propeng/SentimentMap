@@ -3,15 +3,18 @@ from nltk.tokenize import word_tokenize
 from emoji import UNICODE_EMOJI
 from nltk.sentiment.util import mark_negation
 from unicodedata import category
+from nltk.stem import PorterStemmer
 import re
 
 from contractions import contractions
+
+i = 1
 
 arabic_stopword = ['في','من','علي' ,'على', 'أن', 'الى','التي', 'عن', 'لا','ما', 'او',
 'هذا', 'هذه', 'الذي', 'كان', 'مع', 'و', 'ذلك', 'في', 'الله', 'بين', 'كل', 'هو',
 'كما', 'لم', 'بعد', 'ان', 'ازاى', 'ليه', 'ازاي', 'عشان', 'علشان' ]
 
-i = 1
+porter = PorterStemmer()
 
 def process(tweet):
     global i
@@ -36,7 +39,12 @@ def process(tweet):
     text = remove_stopwords(text, lang)
     text = mark_negation(text)
     text = remove_punct(text)
+    # old_text = text
     text = normalize_repititions(text, lang)
+    if(lang == 'en'):
+        text = stem_words(text)
+    # if(old_text != text):
+    #     print('old text: %s, new text: %s' %(tweet['text'], ' '.join(text)))
     return text
 
 def remove_arabic_variants(text):
@@ -153,5 +161,11 @@ def normalize_token_en(text):
                 text = double
             else:
                 text = single
-    
+
     return text
+
+def stem_words(text):
+    new_text = []
+    for word in text:
+        new_text.append(porter.stem(word))
+    return new_text
