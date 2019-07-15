@@ -85,8 +85,8 @@ from regions import regions
 
 fig, ax = plt.subplots(figsize=(10,10))
 
-map = gpd.read_file('egypt_highway\\egypt_highway.shp')
-map.plot(ax=ax, linewidth=0.2)
+highway = gpd.read_file('egypt_highway')
+highway.plot(ax=ax, linewidth=0.3, color=(0.7, 0.7, 0.7))
 
 plt.scatter(plot_x, plot_y, s=10, c=plot_c)
 
