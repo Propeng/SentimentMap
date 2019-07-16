@@ -1,0 +1,3746 @@
+[
+    {
+        "id": 1149822359488094210,
+        "user": "yourfavmesso",
+        "user_location": "",
+        "date": "Fri Jul 12 23:26:27 +0000 2019",
+        "text": "RT @emaanaymann: Mood https://t.co/ActWm0jiiu",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149816336647884800,
+        "user": "Ehab3yad",
+        "user_location": "cairo , egypt",
+        "date": "Fri Jul 12 23:02:31 +0000 2019",
+        "text": "RT @RaafatNevine: My costumes design king lear https://t.co/YhvvRTI60W",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149810753333071872,
+        "user": "jeii55",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 22:40:20 +0000 2019",
+        "text": "I'm at Location in Mohandesin, Giza https://t.co/BkFJNdzxZ4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BkFJNdzxZ4",
+                "expanded_url": "https://www.swarmapp.com/c/cZQWj0QQKph",
+                "display_url": "swarmapp.com/c/cZQWj0QQKph",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149808498584084481,
+        "user": "BaheyaZeitoun",
+        "user_location": "Cairo",
+        "date": "Fri Jul 12 22:31:23 +0000 2019",
+        "text": "Reality \n\n#instapoet #femalepoet #femalewriter #thedarkerside #darkpoetry #femaleblogger #contemporarypoet\u2026 https://t.co/0DEJPmAUD2",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0DEJPmAUD2",
+                "expanded_url": "https://twitter.com/i/web/status/1149808498584084481",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149807839155826690,
+        "user": "emaanaymann",
+        "user_location": "zamalek",
+        "date": "Fri Jul 12 22:28:45 +0000 2019",
+        "text": "Okay https://t.co/JfBN9E7PUL",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149806546328702977,
+        "user": "shopary_el",
+        "user_location": "\u0643\u0648\u0628\u0631\u064a \u0645\u0628\u0627\u0631\u0643 .\u0642\u062f\u0627\u0645 \u0627\u0644\u0643\u0644\u064a\u0647 \u062d\u0627\u0644\u064a\u0627",
+        "date": "Fri Jul 12 22:23:37 +0000 2019",
+        "text": "RT @emaanaymann: Mood https://t.co/ActWm0jiiu",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149805983247605760,
+        "user": "emaanaymann",
+        "user_location": "zamalek",
+        "date": "Fri Jul 12 22:21:23 +0000 2019",
+        "text": "Mood https://t.co/ActWm0jiiu",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149801876642238464,
+        "user": "ghalyaaa6",
+        "user_location": "",
+        "date": "Fri Jul 12 22:05:04 +0000 2019",
+        "text": "I'm at Pottery Cafe in Zamalek, Cairo https://t.co/T9rl9MvED0",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06458034,
+                31.21563973
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/T9rl9MvED0",
+                "expanded_url": "https://www.swarmapp.com/c/8Dpe7jwGL5t",
+                "display_url": "swarmapp.com/c/8Dpe7jwGL5t",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149799943416307712,
+        "user": "RaafatNevine",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 21:57:23 +0000 2019",
+        "text": "@iambaderkhalaf So funny",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "iambaderkhalaf",
+                "name": "bader khalaf | \u0628\u062f\u0631 \u062e\u0644\u0641",
+                "id": 1132969810478940160,
+                "id_str": "1132969810478940160",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149796449921769472,
+        "user": "ielnemr",
+        "user_location": "CAIRO, EGYPT",
+        "date": "Fri Jul 12 21:43:30 +0000 2019",
+        "text": "RT @RaafatNevine: My costumes design king lear https://t.co/YhvvRTI60W",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149775837081800704,
+        "user": "AhmedAdelA",
+        "user_location": "Egypt",
+        "date": "Fri Jul 12 20:21:36 +0000 2019",
+        "text": "All the beauty of life is made up of light and shadow\n#art #shadow @ Zamalek https://t.co/SNwa6y9dw2",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06504898,
+                31.21608917
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/SNwa6y9dw2",
+                "expanded_url": "https://www.instagram.com/p/Bz1HX_TJ75q/?igshid=1rvzh1hlqv6wv",
+                "display_url": "instagram.com/p/Bz1HX_TJ75q/\u2026",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149772697490075648,
+        "user": "rashidatowe",
+        "user_location": "Chicago",
+        "date": "Fri Jul 12 20:09:07 +0000 2019",
+        "text": "Wow! What a dinner I had on the Nile River. \nWhirling dervishes perform this dance called the sema. \ud83d\udc83\ud83c\udffe So Nice \nIt\u2026 https://t.co/NxZqZ2Oi0L",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02353143,
+                31.21874571
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NxZqZ2Oi0L",
+                "expanded_url": "https://twitter.com/i/web/status/1149772697490075648",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149771804745056256,
+        "user": "rashidatowe",
+        "user_location": "Chicago",
+        "date": "Fri Jul 12 20:05:34 +0000 2019",
+        "text": "Wow! What a dinner I had on the Nile River. \nWhirling dervishes perform this dance called the sema.  \ud83d\udc83\ud83c\udffe \nIt is a re\u2026 https://t.co/Ak79j85cSH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02353143,
+                31.21874571
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Ak79j85cSH",
+                "expanded_url": "https://twitter.com/i/web/status/1149771804745056256",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149770731166883840,
+        "user": "TheGrand3abasy",
+        "user_location": "",
+        "date": "Fri Jul 12 20:01:18 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/0IWybPyItC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149769709174370309,
+        "user": "hassanAtty5",
+        "user_location": "",
+        "date": "Fri Jul 12 19:57:15 +0000 2019",
+        "text": "RT @RaafatNevine: King Lear costumes by nevine raafat https://t.co/zsSJC6cGDv",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149769645345464320,
+        "user": "hassanAtty5",
+        "user_location": "",
+        "date": "Fri Jul 12 19:56:59 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/0IWybPyItC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149768469602344960,
+        "user": "EslamSalheen",
+        "user_location": "alexandria egypt",
+        "date": "Fri Jul 12 19:52:19 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/0IWybPyItC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767653663432710,
+        "user": "nina_raafat",
+        "user_location": "Ontario, Canada",
+        "date": "Fri Jul 12 19:49:04 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/0IWybPyItC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767558301659138,
+        "user": "EslamSalheen",
+        "user_location": "alexandria egypt",
+        "date": "Fri Jul 12 19:48:42 +0000 2019",
+        "text": "RT @RaafatNevine: King Lear costumes by nevine raafat https://t.co/zsSJC6cGDv",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767548658958336,
+        "user": "EslamSalheen",
+        "user_location": "alexandria egypt",
+        "date": "Fri Jul 12 19:48:39 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/gSlnZGF43i",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767299362152448,
+        "user": "RaafatNevine",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 19:47:40 +0000 2019",
+        "text": "King lear https://t.co/0IWybPyItC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767195410489345,
+        "user": "MMdNabil03",
+        "user_location": "",
+        "date": "Fri Jul 12 19:47:15 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/gSlnZGF43i",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767151168962561,
+        "user": "nina_raafat",
+        "user_location": "Ontario, Canada",
+        "date": "Fri Jul 12 19:47:05 +0000 2019",
+        "text": "RT @RaafatNevine: King lear https://t.co/gSlnZGF43i",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149767117211938816,
+        "user": "nina_raafat",
+        "user_location": "Ontario, Canada",
+        "date": "Fri Jul 12 19:46:57 +0000 2019",
+        "text": "RT @RaafatNevine: King Lear costumes by nevine raafat https://t.co/zsSJC6cGDv",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149766994453045248,
+        "user": "RaafatNevine",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 19:46:27 +0000 2019",
+        "text": "King Lear costumes by nevine raafat https://t.co/zsSJC6cGDv",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149766808100122625,
+        "user": "RaafatNevine",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 19:45:43 +0000 2019",
+        "text": "King lear https://t.co/gSlnZGF43i",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149766549756088320,
+        "user": "onyji10",
+        "user_location": "",
+        "date": "Fri Jul 12 19:44:41 +0000 2019",
+        "text": "RT @RaafatNevine: My costumes design king lear https://t.co/YhvvRTI60W",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149765341184233472,
+        "user": "EslamSalheen",
+        "user_location": "alexandria egypt",
+        "date": "Fri Jul 12 19:39:53 +0000 2019",
+        "text": "RT @RaafatNevine: My costumes design king lear https://t.co/YhvvRTI60W",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149764763951538179,
+        "user": "nina_raafat",
+        "user_location": "Ontario, Canada",
+        "date": "Fri Jul 12 19:37:35 +0000 2019",
+        "text": "RT @RaafatNevine: My costumes design king lear https://t.co/YhvvRTI60W",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "RaafatNevine",
+                "name": "Nevine Raafat",
+                "id": 1149746782886400000,
+                "id_str": "1149746782886400000",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149764060055052288,
+        "user": "RaafatNevine",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 19:34:48 +0000 2019",
+        "text": "My costumes design king lear https://t.co/YhvvRTI60W",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149758102339817473,
+        "user": "RaafatNevine",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 19:11:07 +0000 2019",
+        "text": "@nina_raafat hello",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "nina_raafat",
+                "name": "\ud83c\udde8\ud83c\udde6\ud83c\uddea\ud83c\uddec\u0627\u0644\u0645\u0648\u0627\u0637\u0646\u0629 X",
+                "id": 261744157,
+                "id_str": "261744157",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149755315946213376,
+        "user": "ilovethisbot",
+        "user_location": "A souvenir stand near you",
+        "date": "Fri Jul 12 19:00:03 +0000 2019",
+        "text": "I \ud83d\udd15 Cairo https://t.co/toemAnFoHP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.217
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149752689888301056,
+        "user": "suliman74a",
+        "user_location": "",
+        "date": "Fri Jul 12 18:49:37 +0000 2019",
+        "text": "I'm at Four Seasons Hotel Cairo at Nile Plaza in Garden City, Cairo https://t.co/f8YVk0kECu",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.036237,
+                31.229551
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/f8YVk0kECu",
+                "expanded_url": "https://www.swarmapp.com/c/lxkVnVgVyaw",
+                "display_url": "swarmapp.com/c/lxkVnVgVyaw",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149743621769445381,
+        "user": "glennmctaggart",
+        "user_location": "Dubai",
+        "date": "Fri Jul 12 18:13:35 +0000 2019",
+        "text": "Egypt! Visiting the Giza pyramids was awesome. It\u2019s quite surreal as you drive out of Cairo city and they are just\u2026 https://t.co/FBWAAF6G9r",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05035583,
+                31.23218299
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FBWAAF6G9r",
+                "expanded_url": "https://twitter.com/i/web/status/1149743621769445381",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149732315700088834,
+        "user": "HANIYASSIN",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 17:28:39 +0000 2019",
+        "text": "Artist HOSSAM DIRAR (1978)\nHossam-027 \nOil on Canvas\n50x65 cm\nhossamdirar \n\u201cDirar is an Egyptian contemporary artis\u2026 https://t.co/3RaPMOdAW8",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06133514,
+                31.22278951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/3RaPMOdAW8",
+                "expanded_url": "https://twitter.com/i/web/status/1149732315700088834",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149731447051210754,
+        "user": "ZAMALEKGALLERY",
+        "user_location": "11 Brazil St, Zamalek, Cairo",
+        "date": "Fri Jul 12 17:25:12 +0000 2019",
+        "text": "Artist MOSTAFA ABDEL MOITY (1938)\nMoity-2019-060\nMixed Media On Canvas \n250x150cm\n2018\n\u201cMoity have lately been preo\u2026 https://t.co/wlFPmVCcwt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06133514,
+                31.22278951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/wlFPmVCcwt",
+                "expanded_url": "https://twitter.com/i/web/status/1149731447051210754",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149717791911665664,
+        "user": "OmarKhalifa84",
+        "user_location": "Zamalek, Egypt",
+        "date": "Fri Jul 12 16:30:56 +0000 2019",
+        "text": "Any comparison to Messi https://t.co/3oCEzbXxlU",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/3oCEzbXxlU",
+                "expanded_url": "https://twitter.com/goal/status/1149715440685453312",
+                "display_url": "twitter.com/goal/status/11\u2026",
+                "indices": [
+                    24,
+                    47
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149714448925507587,
+        "user": "ahmednaguib",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 16:17:39 +0000 2019",
+        "text": "Day 1 at @smdayegypt talking @knkfanyeen (a elmasna3 brand). Can't wait till tomorrow's session. 11:30 am we talk h\u2026 https://t.co/xkIKL9MnYl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04457861,
+                31.23932362
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/xkIKL9MnYl",
+                "expanded_url": "https://twitter.com/i/web/status/1149714448925507587",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "SMDayEgypt",
+                "name": "SMDay Egypt",
+                "id": 1533799976,
+                "id_str": "1533799976",
+                "indices": [
+                    9,
+                    20
+                ]
+            },
+            {
+                "screen_name": "KNKfanyeen",
+                "name": "\u062e\u0644\u0648\u0646\u0627 \u0646\u062a\u0643\u0644\u0645 \u0643\u0641\u0646\u064a\u064a\u0646",
+                "id": 972212431639412737,
+                "id_str": "972212431639412737",
+                "indices": [
+                    29,
+                    40
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149691621262295040,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Fri Jul 12 14:46:57 +0000 2019",
+        "text": "Career tip for landing jobs like \"Services Specialist - On Site Services\" in Cairo, Cairo Governorate, Egypt. Go on\u2026 https://t.co/F92k8JdJcD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/F92k8JdJcD",
+                "expanded_url": "https://twitter.com/i/web/status/1149691621262295040",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149686620137906176,
+        "user": "EsmailMOmar",
+        "user_location": "Egypt, Cairo",
+        "date": "Fri Jul 12 14:27:05 +0000 2019",
+        "text": "Found Ya #TGIF Nausea!!! @ Cairo, Egypt https://t.co/5eFUrjs9Uy",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5eFUrjs9Uy",
+                "expanded_url": "https://www.instagram.com/p/Bz0ezh3g9fRLB0QTmHAX_tatx6vdZgiHsQlnPs0/?igshid=vya3mnqtyq81",
+                "display_url": "instagram.com/p/Bz0ezh3g9fRL\u2026",
+                "indices": [
+                    40,
+                    63
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149676091738611712,
+        "user": "rashidatowe",
+        "user_location": "Chicago",
+        "date": "Fri Jul 12 13:45:14 +0000 2019",
+        "text": "The only thing that change is my time zone. \ud83d\udc4a\ud83c\udffe #lifestyle \n\u2022\n\u2022\n\u2022\n\u2022\nCompleted my goal of 1hr of cardio a day while I\u2026 https://t.co/5Lp3oKbuKH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5Lp3oKbuKH",
+                "expanded_url": "https://twitter.com/i/web/status/1149676091738611712",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149672761041678342,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Fri Jul 12 13:32:00 +0000 2019",
+        "text": "Want to land a job like \"Solution Architect IP/PC\" at Ericsson? Applicant tracking systems look for specific keywor\u2026 https://t.co/SlszrZgPXu",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/SlszrZgPXu",
+                "expanded_url": "https://twitter.com/i/web/status/1149672761041678342",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149670233579253763,
+        "user": "OmarKhalifa84",
+        "user_location": "Zamalek, Egypt",
+        "date": "Fri Jul 12 13:21:58 +0000 2019",
+        "text": "Great player, welcome aboard @AntoGriezmann \ud83d\udcaa\ud83d\udd35\ud83d\udd34 https://t.co/JzQf4ArK6J",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JzQf4ArK6J",
+                "expanded_url": "https://twitter.com/FCBarcelona/status/1149668935299563520",
+                "display_url": "twitter.com/FCBarcelona/st\u2026",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AntoGriezmann",
+                "name": "Antoine Griezmann",
+                "id": 950341134,
+                "id_str": "950341134",
+                "indices": [
+                    29,
+                    43
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149668982749708288,
+        "user": "AmazingArchi",
+        "user_location": "Mexico",
+        "date": "Fri Jul 12 13:16:59 +0000 2019",
+        "text": "Crystal city residential compound designed by NR Elhadedy Architects. \n\nThe crystal city is the a conceptual idea f\u2026 https://t.co/Q1ypdx9Bai",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Q1ypdx9Bai",
+                "expanded_url": "https://twitter.com/i/web/status/1149668982749708288",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149653906097463298,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Fri Jul 12 12:17:05 +0000 2019",
+        "text": "Can you recommend anyone for this job in #Cairo? https://t.co/aWeKCxkHDJ #Sales",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aWeKCxkHDJ",
+                "expanded_url": "http://bit.ly/32p7phG",
+                "display_url": "bit.ly/32p7phG",
+                "indices": [
+                    49,
+                    72
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149653351501484034,
+        "user": "MenaFayekGayed",
+        "user_location": "Cairo - Egypt",
+        "date": "Fri Jul 12 12:14:53 +0000 2019",
+        "text": "#happening #now #SocialMediaDay #TheSummit #US_Embassy #event #Facebook #YouTube #twitter #thegreekcampus @ The Gre\u2026 https://t.co/WcBqqwLeCl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04457861,
+                31.23932362
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WcBqqwLeCl",
+                "expanded_url": "https://twitter.com/i/web/status/1149653351501484034",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149652935485214720,
+        "user": "ahqader1",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 12:13:13 +0000 2019",
+        "text": "influence for goods at #smd #SMDay #SocialMedia #digitalmarketing #marketing #ecommerce @ The Greek Campus https://t.co/Q9RBGg1Whp",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04457861,
+                31.23932362
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Q9RBGg1Whp",
+                "expanded_url": "https://www.instagram.com/p/Bz0PcCVhOel/?igshid=26o5l42kv128",
+                "display_url": "instagram.com/p/Bz0PcCVhOel/\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149627437522702337,
+        "user": "JagrutiMistry",
+        "user_location": "",
+        "date": "Fri Jul 12 10:31:54 +0000 2019",
+        "text": "Such a rewarding experience to be able to help share the unstoppable stories of these inspiring kiddies from all ov\u2026 https://t.co/AnTlHCXNK6",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AnTlHCXNK6",
+                "expanded_url": "https://twitter.com/i/web/status/1149627437522702337",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149624743143698438,
+        "user": "BaheyaZeitoun",
+        "user_location": "Cairo",
+        "date": "Fri Jul 12 10:21:12 +0000 2019",
+        "text": "Glimmer of Light\n\n#instapoet #femalepoet #femalewriter #thedarkerside #darkpoetry #femaleblogger #contemporarypoet\u2026 https://t.co/CmgV236r9E",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CmgV236r9E",
+                "expanded_url": "https://twitter.com/i/web/status/1149624743143698438",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149604072946749441,
+        "user": "Eslamfawzy72",
+        "user_location": "",
+        "date": "Fri Jul 12 08:59:04 +0000 2019",
+        "text": "RT @AmiiraAyman: tell me about your Mother",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149593599702491136,
+        "user": "Neri_Egypt",
+        "user_location": "Alexandria,Egypt",
+        "date": "Fri Jul 12 08:17:27 +0000 2019",
+        "text": "Reflection mood @ Museum of Islamic Art, Cairo https://t.co/j8o0xeIkhM",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04496094,
+                31.25288267
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/j8o0xeIkhM",
+                "expanded_url": "https://www.instagram.com/p/BzyWm15HhYX/?igshid=atlyf3y9bd8g",
+                "display_url": "instagram.com/p/BzyWm15HhYX/\u2026",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149593591607508992,
+        "user": "Neri_Egypt",
+        "user_location": "Alexandria,Egypt",
+        "date": "Fri Jul 12 08:17:25 +0000 2019",
+        "text": "Everything has a shadow..even our souls @ Museum of Islamic Art, Cairo https://t.co/hSOGsgSG6P",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04496094,
+                31.25288267
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hSOGsgSG6P",
+                "expanded_url": "https://www.instagram.com/p/BzyWGWTnY7a/?igshid=18j1wxd0w7d8g",
+                "display_url": "instagram.com/p/BzyWGWTnY7a/\u2026",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149593540827025408,
+        "user": "Neri_Egypt",
+        "user_location": "Alexandria,Egypt",
+        "date": "Fri Jul 12 08:17:13 +0000 2019",
+        "text": "The beauty of symmetry @ Museum of Islamic Art, Cairo https://t.co/DmKDG1nUC1",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04496094,
+                31.25288267
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DmKDG1nUC1",
+                "expanded_url": "https://www.instagram.com/p/BzyWTuJn42y/?igshid=14yuyfo2s14hr",
+                "display_url": "instagram.com/p/BzyWTuJn42y/\u2026",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149578760930246656,
+        "user": "dominicmarial",
+        "user_location": "",
+        "date": "Fri Jul 12 07:18:29 +0000 2019",
+        "text": "@cyntoya_ak good morning",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0143467,
+                31.1909717
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "cyntoya_ak",
+                "name": "Cynthia Erickson",
+                "id": 958554814677331968,
+                "id_str": "958554814677331968",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149578611357184000,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Fri Jul 12 07:17:53 +0000 2019",
+        "text": "Can you recommend anyone for this job? Customer Project Manager - https://t.co/I5qsqxuOWm Governorate #Cairo, Cairo #ProjectMgmt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/I5qsqxuOWm",
+                "expanded_url": "http://bit.ly/2XIu8Sz",
+                "display_url": "bit.ly/2XIu8Sz",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149564595104731136,
+        "user": "kisusulola1",
+        "user_location": "Right Infront of You!",
+        "date": "Fri Jul 12 06:22:12 +0000 2019",
+        "text": "Truly, ALLAH is full of kindness and the most merciful towards mankind.\" Q2:143 May we and our families enjoy HIS K\u2026 https://t.co/UIquBaic3l",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/UIquBaic3l",
+                "expanded_url": "https://twitter.com/i/web/status/1149564595104731136",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149560588126707712,
+        "user": "jeii55",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 06:06:16 +0000 2019",
+        "text": "I'm at Echo Club in Mohandesin, Muhafazat al Jizah https://t.co/rygom2EVgl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05874533,
+                31.20750725
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rygom2EVgl",
+                "expanded_url": "https://www.swarmapp.com/c/8sHMHc5SD8s",
+                "display_url": "swarmapp.com/c/8sHMHc5SD8s",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149557998722830336,
+        "user": "Qussai_Danyal1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Fri Jul 12 05:55:59 +0000 2019",
+        "text": "I'm at Location in Mohandesin, Giza https://t.co/wTaB1vvwSI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05483373,
+                31.20263769
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/wTaB1vvwSI",
+                "expanded_url": "https://www.swarmapp.com/c/bvjJaoOB78p",
+                "display_url": "swarmapp.com/c/bvjJaoOB78p",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149527376037941255,
+        "user": "mmhalha",
+        "user_location": "Beach",
+        "date": "Fri Jul 12 03:54:18 +0000 2019",
+        "text": "I'm at Four Seasons Hotel Cairo at First Residence in Cairo, Mu\u1e29\u0101faz\u0327at al J\u012bzah https://t.co/71x9F7c61e",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.023935,
+                31.217282
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/71x9F7c61e",
+                "expanded_url": "https://www.swarmapp.com/c/hgsQTG4Uacb",
+                "display_url": "swarmapp.com/c/hgsQTG4Uacb",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149510186131836933,
+        "user": "ColeLRichards",
+        "user_location": "Mooresville, NC",
+        "date": "Fri Jul 12 02:45:59 +0000 2019",
+        "text": "It\u2019s so cool to be able to travel around the \ud83c\udf0e and capture people\u2019s story &amp; experience different cultures. I wish I\u2026 https://t.co/j9Fbk5ZojO",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0581,
+                31.2289
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/j9Fbk5ZojO",
+                "expanded_url": "https://twitter.com/i/web/status/1149510186131836933",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149509528192339968,
+        "user": "mahdx5",
+        "user_location": "\ud83c\uddf0\ud83c\uddfcKuw|Cairo\ud83c\uddea\ud83c\uddec",
+        "date": "Fri Jul 12 02:43:23 +0000 2019",
+        "text": "I'm at Pottery Cafe in Zamalek, Cairo https://t.co/eGEU5Kw9uL",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06458034,
+                31.21563973
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/eGEU5Kw9uL",
+                "expanded_url": "https://www.swarmapp.com/c/980ltFSbxiB",
+                "display_url": "swarmapp.com/c/980ltFSbxiB",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149497961316929536,
+        "user": "alajme2x_",
+        "user_location": "",
+        "date": "Fri Jul 12 01:57:25 +0000 2019",
+        "text": "I'm at Sheraton Cairo Hotel &amp; Casino in Cairo, EG-C https://t.co/AgrfVlv5ZF https://t.co/93DGp3PW8O",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03919471,
+                31.22031619
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AgrfVlv5ZF",
+                "expanded_url": "https://www.swarmapp.com/c/jhikZVgLXQ3",
+                "display_url": "swarmapp.com/c/jhikZVgLXQ3",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149496095833124866,
+        "user": "davidtalks772",
+        "user_location": "Cairo, Egypt ",
+        "date": "Fri Jul 12 01:50:00 +0000 2019",
+        "text": "Algeria football lovers cheering on like craze...in the streets of Marthel..\nThey really believe in the team.\u2026 https://t.co/zoOhMaoD8f",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04763,
+                31.23494
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zoOhMaoD8f",
+                "expanded_url": "https://twitter.com/i/web/status/1149496095833124866",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149476976186408962,
+        "user": "alajme2x_",
+        "user_location": "",
+        "date": "Fri Jul 12 00:34:02 +0000 2019",
+        "text": "I'm at The Nile River in Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah, Cairo https://t.co/NlQ34Ztpve",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04599027,
+                31.22996807
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NlQ34Ztpve",
+                "expanded_url": "https://www.swarmapp.com/c/eqyfZbsUqGv",
+                "display_url": "swarmapp.com/c/eqyfZbsUqGv",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149830449952374784,
+        "user": "Marmar97126",
+        "user_location": "Mahalla",
+        "date": "Fri Jul 12 23:58:36 +0000 2019",
+        "text": "RT @emaanaymann: \u0627\u0644\u062d\u0628\u064a\u0628 \u062d\u0628\u064a\u0628 \u0645\u0634 \u0639\u0644\u0634\u0627\u0646 \u0643\u0631\u064a\u0645 \u0648\u0644\u0627 \u062c\u0645\u064a\u0644 \u0648\u0644\u0627 \u0644\u0637\u064a\u0641\n\u062d\u0628\u064a\u0628 \u0648\u0628\u0633 \u062d\u062a\u064a \u0644\u0648 \u0645\u0646\u0639 \u0627\u0648 \u0628\u0639\u062f \u0627\u0648 \u063a\u0627\u0628 https://t.co/UJOYrnUgid",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149829440232415232,
+        "user": "ranaelmokabaty",
+        "user_location": "elmansoura",
+        "date": "Fri Jul 12 23:54:36 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149829248288460800,
+        "user": "mennaemaadd",
+        "user_location": "North Sinai, Egypt",
+        "date": "Fri Jul 12 23:53:50 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149828541783126016,
+        "user": "isefoo",
+        "user_location": "Cairo,  Egypt",
+        "date": "Fri Jul 12 23:51:01 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149828498971877376,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 23:50:51 +0000 2019",
+        "text": "@moeezzat88 \u0644\u0627 \u0646\u0627\u064a\u0645 \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "moeezzat88",
+                "name": "MOHMAED EZZAT",
+                "id": 2747846627,
+                "id_str": "2747846627",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149828466562469888,
+        "user": "ayasaad33141997",
+        "user_location": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629, \u0645\u0635\u0631",
+        "date": "Fri Jul 12 23:50:43 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149828440234835979,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 23:50:37 +0000 2019",
+        "text": "@mimoo14455 \u0645\u0627\u0647\u0648 \u0627\u0644\u0644\u064a \u064a\u0632\u0639\u0644 \u0623\u0646 \u0645\u0634 \u0627\u062d\u0646\u0627 \u0627\u0644\u0644\u064a \u0628\u0646\u062a\u0641\u0627\u0648\u0636 \u0645\u0639 \u0627\u0644\u0644\u0639\u064a\u0628\u0647\n\u0648\u0644\u0627 \u0627\u062d\u0646\u0627 \u0623\u0635\u062d\u0627\u0628 \u0642\u0631\u0627\u0631 \u0641\u064a \u0627\u064a \u062d\u0627\u062c\u0647\n\u0625\u0644\u0644\u064a \u0628\u064a\u062a\u0641\u0627\u0648\u0636 \u0646\u0627\u0633 \u0645\u0634 \u0642\u0644\u2026 https://t.co/DYv6pz3ezB",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/DYv6pz3ezB",
+                "expanded_url": "https://twitter.com/i/web/status/1149828440234835979",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "mimoo14455",
+                "name": "\u26bdMimooooooo14\ud83c\udde6\ud83c\uddf9",
+                "id": 966772833174085632,
+                "id_str": "966772833174085632",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149828366591303680,
+        "user": "xm211_",
+        "user_location": "",
+        "date": "Fri Jul 12 23:50:20 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149827942706495488,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:48:38 +0000 2019",
+        "text": "\u0648\u0627\u0644\u0644\u0647 \u0645\u0627\u0641\u064a \u062d\u062f \u0631\u062e\u064a\u0635 \u063a\u064a\u0631\u0647 https://t.co/atHlIHfFn4",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149827792890146816,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 23:48:03 +0000 2019",
+        "text": "@moeezzat88 \u064a\u0627\u0633\u0644\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0645 \u0639\u0644\u064a\u0643\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "moeezzat88",
+                "name": "MOHMAED EZZAT",
+                "id": 2747846627,
+                "id_str": "2747846627",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149827443349434368,
+        "user": "ibrahim_shreen",
+        "user_location": "\u0645\u0635\u0631 \u0627\u0645 \u0627\u0644\u062f\u0646\u064a\u0627  ",
+        "date": "Fri Jul 12 23:46:39 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149827414983397376,
+        "user": "norhanelgioshii",
+        "user_location": "Benha  ",
+        "date": "Fri Jul 12 23:46:33 +0000 2019",
+        "text": "RT @emaanaymann: \u0627\u0644\u062d\u0628\u064a\u0628 \u062d\u0628\u064a\u0628 \u0645\u0634 \u0639\u0644\u0634\u0627\u0646 \u0643\u0631\u064a\u0645 \u0648\u0644\u0627 \u062c\u0645\u064a\u0644 \u0648\u0644\u0627 \u0644\u0637\u064a\u0641\n\u062d\u0628\u064a\u0628 \u0648\u0628\u0633 \u062d\u062a\u064a \u0644\u0648 \u0645\u0646\u0639 \u0627\u0648 \u0628\u0639\u062f \u0627\u0648 \u063a\u0627\u0628 https://t.co/UJOYrnUgid",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149827009822023680,
+        "user": "BTaha1907",
+        "user_location": "Suez, Egypt",
+        "date": "Fri Jul 12 23:44:56 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149826934492336128,
+        "user": "SaraEls92849604",
+        "user_location": "Domiat, Egypt",
+        "date": "Fri Jul 12 23:44:38 +0000 2019",
+        "text": "RT @emaanaymann: \u0627\u0644\u062d\u0628\u064a\u0628 \u062d\u0628\u064a\u0628 \u0645\u0634 \u0639\u0644\u0634\u0627\u0646 \u0643\u0631\u064a\u0645 \u0648\u0644\u0627 \u062c\u0645\u064a\u0644 \u0648\u0644\u0627 \u0644\u0637\u064a\u0641\n\u062d\u0628\u064a\u0628 \u0648\u0628\u0633 \u062d\u062a\u064a \u0644\u0648 \u0645\u0646\u0639 \u0627\u0648 \u0628\u0639\u062f \u0627\u0648 \u063a\u0627\u0628 https://t.co/UJOYrnUgid",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149826447881756673,
+        "user": "emaanaymann",
+        "user_location": "zamalek",
+        "date": "Fri Jul 12 23:42:42 +0000 2019",
+        "text": "\u0627\u0644\u062d\u0628\u064a\u0628 \u062d\u0628\u064a\u0628 \u0645\u0634 \u0639\u0644\u0634\u0627\u0646 \u0643\u0631\u064a\u0645 \u0648\u0644\u0627 \u062c\u0645\u064a\u0644 \u0648\u0644\u0627 \u0644\u0637\u064a\u0641\n\u062d\u0628\u064a\u0628 \u0648\u0628\u0633 \u062d\u062a\u064a \u0644\u0648 \u0645\u0646\u0639 \u0627\u0648 \u0628\u0639\u062f \u0627\u0648 \u063a\u0627\u0628 https://t.co/UJOYrnUgid",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149825686909128704,
+        "user": "dana16656577",
+        "user_location": "",
+        "date": "Fri Jul 12 23:39:41 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0628\u0631\u062c \u0627\u0644\u0639\u0642\u0631\u0628 \u062f\u0647 \u0648\u0644\u0627 \u0625\u064a\u0647 https://t.co/BLYEY7eVNz",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149824942185361408,
+        "user": "Hussienezz77",
+        "user_location": "",
+        "date": "Fri Jul 12 23:36:43 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0627\u0644\u0644\u0647 \u064a\u0631\u062d\u0645\u0647\u0627 \u0648\u064a\u0635\u0628\u0631\u0643 https://t.co/DkcbYVhIBR",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149824482590302214,
+        "user": "Amr_arafa96",
+        "user_location": "Alexandria,Egypt / Doha,Qatar ",
+        "date": "Fri Jul 12 23:34:54 +0000 2019",
+        "text": "RT @emaanaymann: \u0639\u0634\u0627\u0646\u0643 \u0623\u0646\u0627 \u0642\u0627\u062f\u0631 \u0623\u0643\u0645\u0644 https://t.co/iXJ8wCWrc5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149823103696084997,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:29:25 +0000 2019",
+        "text": "\u0627\u0644\u0644\u0647 \u064a\u0631\u062d\u0645\u0647\u0627 \u0648\u064a\u0635\u0628\u0631\u0643 https://t.co/DkcbYVhIBR",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149822255897239553,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:26:03 +0000 2019",
+        "text": "\u0628\u0631\u062c \u0627\u0644\u0639\u0642\u0631\u0628 \u062f\u0647 \u0648\u0644\u0627 \u0625\u064a\u0647 https://t.co/BLYEY7eVNz",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149822044307185665,
+        "user": "EngAhmedMedo2",
+        "user_location": "Assiot, Egypt",
+        "date": "Fri Jul 12 23:25:12 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149820083805577217,
+        "user": "Taghreed265",
+        "user_location": "\u0627\u0644\u0645\u0646\u064a\u0627, \u0645\u0635\u0631",
+        "date": "Fri Jul 12 23:17:25 +0000 2019",
+        "text": "RT @emaanaymann: \u0639\u0634\u0627\u0646\u0643 \u0623\u0646\u0627 \u0642\u0627\u062f\u0631 \u0623\u0643\u0645\u0644 https://t.co/iXJ8wCWrc5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149819694729351168,
+        "user": "Maaaad_0",
+        "user_location": "Faisal\ud83c\udf0d.",
+        "date": "Fri Jul 12 23:15:52 +0000 2019",
+        "text": "\u0643\u0623\u0646 \u0627\u0644\u062d\u064a\u0627\u0647 \u062a\u0623\u062a\u064a \u0645\u0646 \u062c\u0647\u062a\u0643.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149819192398569474,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:13:52 +0000 2019",
+        "text": "\u064a\u0641\u0631\u0642 \u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u062f\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149819145808175105,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:13:41 +0000 2019",
+        "text": "\u0627\u0644\u0647\u0632\u0627\u0631 \u062c\u062f \u0648\u0644\u0627 \u0627\u0644\u062c\u062f \u0647\u0632\u0627\u0631",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149819007924654080,
+        "user": "Maaaad_0",
+        "user_location": "Faisal\ud83c\udf0d.",
+        "date": "Fri Jul 12 23:13:08 +0000 2019",
+        "text": "\u0623\u0646\u062a \u0627\u0644\u0623\u0648\u0644 \u0628\u0642\u0644\u0628\u064a \u0648\u0644\u0627 \u064a\u062a\u0628\u0639\u0643 \u0625\u0644\u0627 \u0623\u0634\u064a\u0627\u0626\u0643.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149818824788762624,
+        "user": "ShahdSayed6646",
+        "user_location": "",
+        "date": "Fri Jul 12 23:12:25 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149818662381113344,
+        "user": "AshrakatAyman3",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 23:11:46 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149818436178108417,
+        "user": "_letmego___",
+        "user_location": "Don't have location",
+        "date": "Fri Jul 12 23:10:52 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0627\u0641\u0647\u0645 \u0627\u0644\u0643\u0644\u0627\u0645 \u0643\u0648\u064a\u0633 \u0648\u0631\u0643\u0632 \u0642\u0628\u0644 \u0645\u0627\u062a\u0631\u062f \u0623\u0648 \u062a\u0642\u0648\u0644 \u0631\u0623\u064a\u0643 \u0639\u0644\u0634\u0627\u0646 \u0628\u064a\u0628\u0642\u0649 \u0634\u0643\u0644\u0643 \u0648\u062d\u0634 \u062c\u062f\u0627\u064b \u0648\u0627\u0646\u062a \u063a\u0628\u064a \u0643\u062f\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149817879375884294,
+        "user": "Hagersa12302540",
+        "user_location": "\u0628\u0646\u0647\u0627",
+        "date": "Fri Jul 12 23:08:39 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149817823457402882,
+        "user": "Aml85384818",
+        "user_location": "zagazig",
+        "date": "Fri Jul 12 23:08:26 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149817518644744193,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:07:13 +0000 2019",
+        "text": "\u0645\u0639\u0644\u0648\u0645\u0647 \u0628\u0633",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149817482464694273,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:07:05 +0000 2019",
+        "text": "\u0627\u0641\u0647\u0645 \u0627\u0644\u0643\u0644\u0627\u0645 \u0643\u0648\u064a\u0633 \u0648\u0631\u0643\u0632 \u0642\u0628\u0644 \u0645\u0627\u062a\u0631\u062f \u0623\u0648 \u062a\u0642\u0648\u0644 \u0631\u0623\u064a\u0643 \u0639\u0644\u0634\u0627\u0646 \u0628\u064a\u0628\u0642\u0649 \u0634\u0643\u0644\u0643 \u0648\u062d\u0634 \u062c\u062f\u0627\u064b \u0648\u0627\u0646\u062a \u063a\u0628\u064a \u0643\u062f\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149816484899840001,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 23:03:07 +0000 2019",
+        "text": "\u064a\u0627\u062d\u0628\u064a\u0628\u064a \u0623\u0646\u0627 \u0645\u0634 \u0647\u0646\u0633\u0627\u0643 \u0644\u0623 \u0644\u0623 \u0644\u0623 \u0644\u0623",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149816106305110017,
+        "user": "NourHas78700954",
+        "user_location": "Tanta",
+        "date": "Fri Jul 12 23:01:36 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0645\u062d\u062f\u0634 \u0647\u064a\u062c\u064a\u0628\u0644\u064a \u0648\u0631\u062f \u0628\u0642\u0649 \u0648\u064a\u0642\u0648\u0644\u064a \u064a\u0627\u0628\u064a\u0628\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149816099309072384,
+        "user": "zakarya_bhery",
+        "user_location": "\u062f\u0645\u064a\u0627\u0637, \u0645\u0635\u0631",
+        "date": "Fri Jul 12 23:01:35 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0645\u062d\u062f\u0634 \u0647\u064a\u062c\u064a\u0628\u0644\u064a \u0648\u0631\u062f \u0628\u0642\u0649 \u0648\u064a\u0642\u0648\u0644\u064a \u064a\u0627\u0628\u064a\u0628\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149816060096516103,
+        "user": "HodaAwad9",
+        "user_location": "\u0645\u0642\u0627\u0628\u0631 :) ",
+        "date": "Fri Jul 12 23:01:25 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149815700413960192,
+        "user": "CUClock",
+        "user_location": "Cairo University, Cairo",
+        "date": "Fri Jul 12 23:00:00 +0000 2019",
+        "text": "\u062a\u0646",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028,
+                31.209
+            ]
+        },
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149815685540958208,
+        "user": "Dariinee_",
+        "user_location": "",
+        "date": "Fri Jul 12 22:59:56 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149815681149493248,
+        "user": "ayaaeldawody",
+        "user_location": "there ..",
+        "date": "Fri Jul 12 22:59:55 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0645\u062d\u062f\u0634 \u0647\u064a\u062c\u064a\u0628\u0644\u064a \u0648\u0631\u062f \u0628\u0642\u0649 \u0648\u064a\u0642\u0648\u0644\u064a \u064a\u0627\u0628\u064a\u0628\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149815280706760706,
+        "user": "koko___magdy",
+        "user_location": "",
+        "date": "Fri Jul 12 22:58:20 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149814246173270016,
+        "user": "rawan_wahba",
+        "user_location": "Kuwait/ Egypt\u2708\ufe0f",
+        "date": "Fri Jul 12 22:54:13 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0645\u062d\u062f\u0634 \u0647\u064a\u062c\u064a\u0628\u0644\u064a \u0648\u0631\u062f \u0628\u0642\u0649 \u0648\u064a\u0642\u0648\u0644\u064a \u064a\u0627\u0628\u064a\u0628\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149814012231786496,
+        "user": "mariam42407124",
+        "user_location": "Fuck u bitch",
+        "date": "Fri Jul 12 22:53:17 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149813987791593477,
+        "user": "Renadibrahim9",
+        "user_location": "\u0645\u062c\u0631\u0647 \u062f\u0631\u0628 \u0627\u0644\u062a\u0628\u0627\u0646\u0647",
+        "date": "Fri Jul 12 22:53:11 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149813827351044099,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 22:52:33 +0000 2019",
+        "text": "\u0645\u062d\u062f\u0634 \u0647\u064a\u062c\u064a\u0628\u0644\u064a \u0648\u0631\u062f \u0628\u0642\u0649 \u0648\u064a\u0642\u0648\u0644\u064a \u064a\u0627\u0628\u064a\u0628\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149813505891213313,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 22:51:16 +0000 2019",
+        "text": "@Arch_Mansour83 \u0628\u0635\u0631\u0627\u062d\u0647 \u0644\u0627\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Arch_Mansour83",
+                "name": "\u2066\ud83c\udde6\ud83c\uddf9\ud83c\udd70\ufe0fhmad \ud83c\udff9\u24c2\ufe0fansour\ud83c\udde6\ud83c\uddf9",
+                "id": 1458083118,
+                "id_str": "1458083118",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149813198192873474,
+        "user": "xoaykaaa",
+        "user_location": "Destination unkown ",
+        "date": "Fri Jul 12 22:50:03 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149813011026259969,
+        "user": "UssamaMustafa",
+        "user_location": "Dubai, United Arab Emirates",
+        "date": "Fri Jul 12 22:49:18 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149812910203555841,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 22:48:54 +0000 2019",
+        "text": "\u0631\u0628\u0646\u0627 \u064a\u0635\u0628\u0631\u0643 \u0639\u0644\u0649 \u0627\u0644\u062a\u062e\u0644\u0641 \u0627\u0644\u0644\u064a \u0627\u0646\u062a \u0641\u064a\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149812876376444929,
+        "user": "nairaaboarab",
+        "user_location": "Mansoura",
+        "date": "Fri Jul 12 22:48:46 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149812571874222081,
+        "user": "mayar293",
+        "user_location": "qanater ",
+        "date": "Fri Jul 12 22:47:34 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149812158110326784,
+        "user": "MohamedGamalka6",
+        "user_location": "El Daqahlia, Egypt",
+        "date": "Fri Jul 12 22:45:55 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149812143367294978,
+        "user": "mohamedshrief58",
+        "user_location": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+        "date": "Fri Jul 12 22:45:52 +0000 2019",
+        "text": "\u0627\u0644\u0627\u062d\u062a\u0641\u0627\u0644 \u0628\u0639\u064a\u062f \u0645\u064a\u0644\u0627\u062f\u0649 @ Nile Lounge https://t.co/ryK9QOcTX5",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01622986,
+                31.22199063
+            ]
+        },
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/ryK9QOcTX5",
+                "expanded_url": "https://www.instagram.com/p/Bz1X4tpng1K/?igshid=ncltkl98z05z",
+                "display_url": "instagram.com/p/Bz1X4tpng1K/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149811989025316864,
+        "user": "FatmaMo44527957",
+        "user_location": "",
+        "date": "Fri Jul 12 22:45:15 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149811961288376320,
+        "user": "DinaTar62427217",
+        "user_location": "",
+        "date": "Fri Jul 12 22:45:08 +0000 2019",
+        "text": "RT @emaanaymann: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u0643 \u0645\u0641\u064a\u0634\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149811750541365250,
+        "user": "emaanaymann",
+        "user_location": "zamalek",
+        "date": "Fri Jul 12 22:44:18 +0000 2019",
+        "text": "\u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0644\u064a \u0641\u064a\u0647\u0627 \u062a\u0647\u062f\u064a\u062f \u0632\u064a \u0644\u0648 \u0639\u0645\u0644\u062a \u062f\u0627 \u0647\u0633\u064a\u0628\u0643 \u0644\u0648 \u0645\u0627\u0628\u0637\u0644\u062a\u0634 \u0647\u0627\u0628\u0639\u062f \u0639\u0646\u0643 \u0648\u0637\u0648\u0644 \u0627\u0644\u0648\u0642\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645 \u0645\u0647\u062f\u062f\u0647 \u064a\u0627 \u0643\u062f\u0627 \u064a\u0627 \u0647\u0633\u064a\u0628\u2026 https://t.co/nUPWSFvxYy",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/nUPWSFvxYy",
+                "expanded_url": "https://twitter.com/i/web/status/1149811750541365250",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149811712360689670,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 22:44:09 +0000 2019",
+        "text": "@Arch_Mansour83 \u064a\u0627\u0642\u0644\u064a\u0644 \u0627\u0644\u0627\u062f\u0628\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Arch_Mansour83",
+                "name": "\u2066\ud83c\udde6\ud83c\uddf9\ud83c\udd70\ufe0fhmad \ud83c\udff9\u24c2\ufe0fansour\ud83c\udde6\ud83c\uddf9",
+                "id": 1458083118,
+                "id_str": "1458083118",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149811361108713472,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 22:42:45 +0000 2019",
+        "text": "@Arch_Mansour83 \u0648\u0639\u0644\u0649 \u0631\u0623\u064a \u0627\u0644\u0645\u062b\u0644 \u0627\u0644\u0644\u064a \u0645\u0627\u062a\u062d\u062a\u0627\u062c\u0634 \u0648\u0634\u0647 \u0627\u0644\u0646\u0647\u0627\u0631\u062f\u0647 \u0628\u0643\u0631\u0647 \u062a\u062d\u062a\u0627\u062c \u0644 \u0642\u0641\u0627\u0647\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Arch_Mansour83",
+                "name": "\u2066\ud83c\udde6\ud83c\uddf9\ud83c\udd70\ufe0fhmad \ud83c\udff9\u24c2\ufe0fansour\ud83c\udde6\ud83c\uddf9",
+                "id": 1458083118,
+                "id_str": "1458083118",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149811162839732224,
+        "user": "masry_rania",
+        "user_location": "mansoura ",
+        "date": "Fri Jul 12 22:41:58 +0000 2019",
+        "text": "RT @emaanaymann: \u0639\u0634\u0627\u0646\u0643 \u0623\u0646\u0627 \u0642\u0627\u062f\u0631 \u0623\u0643\u0645\u0644 https://t.co/iXJ8wCWrc5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149810907729539072,
+        "user": "yasmenashraf78",
+        "user_location": "Egypt",
+        "date": "Fri Jul 12 22:40:57 +0000 2019",
+        "text": "RT @emaanaymann: \u0639\u0634\u0627\u0646\u0643 \u0623\u0646\u0627 \u0642\u0627\u062f\u0631 \u0623\u0643\u0645\u0644 https://t.co/iXJ8wCWrc5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149810390349561863,
+        "user": "Amalelkassas2",
+        "user_location": "North Sinai, Egypt",
+        "date": "Fri Jul 12 22:38:54 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0623\u0632\u0639\u0644 \u062d\u062f \u0628\u0633 \u0627\u0646\u062a\u0648\u0627 \u0627\u0644\u0644\u064a \u0645\u0634 \u0645\u062a\u0631\u0628\u064a\u064a\u0646 \u064a\u0627\u062c\u0645\u0627\u0639\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149810349941637121,
+        "user": "nouraanatef",
+        "user_location": "",
+        "date": "Fri Jul 12 22:38:44 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0623\u0632\u0639\u0644 \u062d\u062f \u0628\u0633 \u0627\u0646\u062a\u0648\u0627 \u0627\u0644\u0644\u064a \u0645\u0634 \u0645\u062a\u0631\u0628\u064a\u064a\u0646 \u064a\u0627\u062c\u0645\u0627\u0639\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149810290986573825,
+        "user": "ShahdTal3t",
+        "user_location": "",
+        "date": "Fri Jul 12 22:38:30 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0623\u0632\u0639\u0644 \u062d\u062f \u0628\u0633 \u0627\u0646\u062a\u0648\u0627 \u0627\u0644\u0644\u064a \u0645\u0634 \u0645\u062a\u0631\u0628\u064a\u064a\u0646 \u064a\u0627\u062c\u0645\u0627\u0639\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149810187466878981,
+        "user": "ZARA_AO",
+        "user_location": "\u0641\u0642\u0627\u0639 \u0627\u0644\u0647\u0627\u0645\u0648\u0631 ",
+        "date": "Fri Jul 12 22:38:05 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0623\u0632\u0639\u0644 \u062d\u062f \u0628\u0633 \u0627\u0646\u062a\u0648\u0627 \u0627\u0644\u0644\u064a \u0645\u0634 \u0645\u062a\u0631\u0628\u064a\u064a\u0646 \u064a\u0627\u062c\u0645\u0627\u0639\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149809999616647170,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 22:37:21 +0000 2019",
+        "text": "\u0623\u0646\u0627 \u0645\u0628\u062d\u0628\u0634 \u0623\u0632\u0639\u0644 \u062d\u062f \u0628\u0633 \u0627\u0646\u062a\u0648\u0627 \u0627\u0644\u0644\u064a \u0645\u0634 \u0645\u062a\u0631\u0628\u064a\u064a\u0646 \u064a\u0627\u062c\u0645\u0627\u0639\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149809343912693760,
+        "user": "hamsamouhamed3",
+        "user_location": "El Mansoura",
+        "date": "Fri Jul 12 22:34:44 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149808297958084609,
+        "user": "Marieem73723246",
+        "user_location": "",
+        "date": "Fri Jul 12 22:30:35 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149807947456925698,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 22:29:11 +0000 2019",
+        "text": "@MaiMdridist1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0648\u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MaiMdridist1",
+                "name": "Mai M\u00e2dridist\u00e2\u26bd",
+                "id": 721007336370892800,
+                "id_str": "721007336370892800",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149807771094794240,
+        "user": "sabahosama11",
+        "user_location": "",
+        "date": "Fri Jul 12 22:28:29 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149805075088494594,
+        "user": "Esraa_M_Badr",
+        "user_location": "Mansoura",
+        "date": "Fri Jul 12 22:17:46 +0000 2019",
+        "text": "RT @emaanaymann: \u0627\u0644\u062d\u0628 \u0628\u0627\u0644\u0646\u0633\u0628\u0627\u0644\u064a \u063a\u064a\u0631 \u0627\u0644\u0644\u064a \u0628\u0634\u0648\u0641\u0647\n\u0627\u0644\u062d\u0628 \u0628\u0627\u0644\u0646\u0633\u0628\u0627\u0644\u064a \u064a\u0639\u0646\u064a \u0634\u062e\u0635 \u0645\u0627\u0642\u062f\u0631\u0634 \u0623\u0639\u064a\u0634 \u0645\u0646 \u063a\u064a\u0631\u0647 \u0644\u0645\u0627 \u064a\u062a\u0639\u0628 \u0627\u062a\u0639\u0628 \u0644\u0645\u0627 \u064a\u062e\u0641 \u0623\u062e\u0641 \u0644\u0645\u0627 \u064a\u062d\u0635\u0644\u0647 \u062d\u0627\u062c\u0647 \u0627\u062d\u0633\u0646 \u0628\u064a\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149804322936557568,
+        "user": "farahabdelazziz",
+        "user_location": "Damanhour",
+        "date": "Fri Jul 12 22:14:47 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149803938578931713,
+        "user": "yourfavmesso",
+        "user_location": "",
+        "date": "Fri Jul 12 22:13:15 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149803157352062976,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 22:10:09 +0000 2019",
+        "text": "@ahmedyehia___ \u0627\u0644\u0646\u0633\u062e\u0647 \u0627\u0644\u0645\u0643\u0631\u0631\u0647 \u0645\u0646 \u064a\u0627\u0633\u0631 \u0627\u0628\u0631\u0627\u0647\u064a\u0645",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ahmedyehia___",
+                "name": "Ahmed",
+                "id": 978375203393888258,
+                "id_str": "978375203393888258",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149802090920914950,
+        "user": "el_lala",
+        "user_location": "Port Said, Egypt",
+        "date": "Fri Jul 12 22:05:55 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149801234473324547,
+        "user": "Mahmoud_f_o",
+        "user_location": "\ud83c\udde6\ud83c\uddf9zamalek\ud83c\udde6\ud83c\uddf9",
+        "date": "Fri Jul 12 22:02:31 +0000 2019",
+        "text": "RT @Mahmoud_f_o: \u0627\u0633\u062a\u0645\u0631 \u0641\u064a \u0625\u0635\u062f\u0627\u0631 \u0623\u062d\u0643\u0627\u0645\u0643 \u0627\u0644\u062e\u0627\u0637\u0626\u0647\n\u0627\u0633\u062a\u0645\u0631 \u0641\u064a  \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0644\u0641\u0627\u0638 \u063a\u064a\u0631 \u0645\u0646\u0636\u0628\u0637\u0647 \u0641\u064a \u0648\u0635\u0641 \u0623\u0634\u062e\u0627\u0635 \u0644\u0627 \u064a\u0633\u062a\u062d\u0642\u0648\u0646\u0647\u0627\n\u0627\u0633\u062a\u0645\u0631 \u0641\u064a \u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u0623\u0645\u0648\u0631 \u062d\u0633\u0628 \u0648\u062c\u0647 \u0646\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mahmoud_f_o",
+                "name": "\ud83c\udde6\ud83c\uddf9mahmoud\ud83c\udde6\ud83c\uddf9",
+                "id": 3048198099,
+                "id_str": "3048198099",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149800683304099840,
+        "user": "haidyy_adel",
+        "user_location": "Domiat, Egypt",
+        "date": "Fri Jul 12 22:00:19 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149800601062203398,
+        "user": "CUClock",
+        "user_location": "Cairo University, Cairo",
+        "date": "Fri Jul 12 22:00:00 +0000 2019",
+        "text": "\u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646 \u062a\u0646\n#\u0634\u0631\u0648\u0642: 5:03:13 \u0635\n#\u063a\u0631\u0648\u0628: 6:58:41 \u0645\n\n#\u0639\u064a\u062f_\u0645\u064a\u0644\u0627\u062f_\u0633\u0639\u064a\u062f \ud83c\udf82:\n@salmahanafy1\u2026 https://t.co/tDoPLb0RWs",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.028,
+                31.209
+            ]
+        },
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/tDoPLb0RWs",
+                "expanded_url": "https://twitter.com/i/web/status/1149800601062203398",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "salmahanafy1",
+                "name": "\u0627\u0644\u0627\u0646\u0633\u0629 \u062d\u0646\u0641\u064a \ud83d\ude0e",
+                "id": 2622731116,
+                "id_str": "2622731116",
+                "indices": [
+                    90,
+                    103
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149799581846331393,
+        "user": "aya_anas_81572",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 12 21:55:57 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149799351813844994,
+        "user": "nadziin__",
+        "user_location": "mansoura",
+        "date": "Fri Jul 12 21:55:02 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149799108649127937,
+        "user": "sozilka",
+        "user_location": "",
+        "date": "Fri Jul 12 21:54:04 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149798931158720513,
+        "user": "emaanaymann",
+        "user_location": "zamalek",
+        "date": "Fri Jul 12 21:53:22 +0000 2019",
+        "text": "\u0644\u0645\u0627 \u0642\u0648\u0644\u062a\u064a\u0644\u0647 \u0645\u062a\u0642\u062f\u0645\u0644\u064a \u0639\u0631\u064a\u0633 \u0642\u0627\u0644\u0643 \u0627\u064a\u0647 \u061f \u0648\u0627\u0646\u062a \u0644\u0645\u0627 \u0642\u0627\u0644\u062a\u0644\u0643 \u0643\u062f\u0627 \u0642\u0648\u0644\u062a\u0644\u0647\u0627 \u0627\u064a\u0647 \u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149798833779613702,
+        "user": "Urfavdinah",
+        "user_location": "Mansourah",
+        "date": "Fri Jul 12 21:52:58 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149798793770147840,
+        "user": "nadamahdy2",
+        "user_location": "",
+        "date": "Fri Jul 12 21:52:49 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149798644880728066,
+        "user": "s_s_o__",
+        "user_location": "El Faioum, Egypt",
+        "date": "Fri Jul 12 21:52:13 +0000 2019",
+        "text": "RT @emaanaymann: \u0633\u0624\u0627\u0644 \u0628\u062a\u0633\u0623\u0644\u0647 \u0644\u0646\u0641\u0633\u0643 \u0643\u0644 \u064a\u0648\u0645 \u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149798373668655104,
+        "user": "yomna_M_osama",
+        "user_location": "Domiat, Egypt",
+        "date": "Fri Jul 12 21:51:09 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149798247105531910,
+        "user": "Mena3tman1",
+        "user_location": "\u0639\u0646\u062f \u0645\u064a\u0633\u064a :-)",
+        "date": "Fri Jul 12 21:50:38 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149797843277889537,
+        "user": "daliahmansour",
+        "user_location": "Alexandria, Egypt",
+        "date": "Fri Jul 12 21:49:02 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149797741343793152,
+        "user": "KAREEMFATHII",
+        "user_location": "#JFT20",
+        "date": "Fri Jul 12 21:48:38 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149797157714767872,
+        "user": "YaZamalek",
+        "user_location": "Zamalek Egypt",
+        "date": "Fri Jul 12 21:46:19 +0000 2019",
+        "text": "\u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648| \u0647\u062f\u0641 \u0631\u0627\u0626\u0639 \u0644\u0623\u064a\u0645\u0646 \u062d\u0641\u0646\u0649 \u0645\u0639 \u0627\u0644\u0632\u0645\u0627\u0644\u0643 \u0641\u0649 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u0648\u0645\u0648\u0646\u064a\u0627 \u0627\u0644\u0642\u0628\u0631\u0635\u064a \u0627\u0644\u0648\u062f\u064a\u0629 #\u0627\u062e\u0628\u0627\u0631 #\u0627\u0644\u0632\u0645\u0627\u0644\u0643 https://t.co/BHyKeTCs9G\n#\u0623\u0648\u0645\u0648\u0646\u064a\u0627 #\u0627\u0644\u0632\u0645\u0627\u0644\u0643 #\u0627\u0644\u0642\u0628\u0631\u0635\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/BHyKeTCs9G",
+                "expanded_url": "http://bit.ly/2l6fPJN",
+                "display_url": "bit.ly/2l6fPJN",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149795849217687553,
+        "user": "AishaElmokadem",
+        "user_location": "Mansoura",
+        "date": "Fri Jul 12 21:41:07 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149795789025284096,
+        "user": "habibahossam66",
+        "user_location": "Banha \u2764",
+        "date": "Fri Jul 12 21:40:52 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149794311606886401,
+        "user": "_Maryamakram",
+        "user_location": "",
+        "date": "Fri Jul 12 21:35:00 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149793134584508416,
+        "user": "nurhankh2led",
+        "user_location": "cairo,egypt",
+        "date": "Fri Jul 12 21:30:20 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149791550030909447,
+        "user": "Saraahhfathii",
+        "user_location": "Suez, Egypt",
+        "date": "Fri Jul 12 21:24:02 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149790173867237376,
+        "user": "AyaAdel_09",
+        "user_location": "",
+        "date": "Fri Jul 12 21:18:34 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149789912943726593,
+        "user": "donyaadelhassan",
+        "user_location": "",
+        "date": "Fri Jul 12 21:17:31 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149788411391369218,
+        "user": "Juhaiinaa_",
+        "user_location": "El Gharbia, Egypt",
+        "date": "Fri Jul 12 21:11:33 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149788373755842566,
+        "user": "rania_ahmed000",
+        "user_location": "",
+        "date": "Fri Jul 12 21:11:24 +0000 2019",
+        "text": "RT @AmiiraAyman: \u0644\u0645\u0627 \u0623\u0643\u0648\u0646 \u0645\u062a\u0636\u0627\u064a\u0642\u0647 \u0645\u0646 \u062d\u062f \u0648\u064a\u064a\u062c\u064a \u064a\u0643\u0644\u0645\u0646\u064a https://t.co/Fwx4ML7O6G",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AmiiraAyman",
+                "name": "Mira",
+                "id": 1723825243,
+                "id_str": "1723825243",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149788246454542336,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 21:10:54 +0000 2019",
+        "text": "\u0644\u0627\u0644\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1149787672724017153,
+        "user": "AmiiraAyman",
+        "user_location": "Zamalek",
+        "date": "Fri Jul 12 21:08:37 +0000 2019",
+        "text": "\u0627\u0644\u0644\u064a \u0647\u0648 \u0645\u0634 \u0647\u062a\u0639\u0631\u0641\u0648\u0627 \u062a\u062c\u0627\u0648\u0628\u0648\u0627 \u0644\u0648 \u0646\u0632\u0644\u062a\u0647 \u0633\u0624\u0627\u0644 \u062c\u0627\u0648\u0628\u0648\u0627 \u0647\u0646\u0627 \u0628\u0642\u0649 \ud83d\udc81",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    }
+]

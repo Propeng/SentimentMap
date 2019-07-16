@@ -1,0 +1,1384 @@
+[
+    {
+        "id": 1150191747957428229,
+        "user": "victorteg",
+        "user_location": "Testing",
+        "date": "Sat Jul 13 23:54:16 +0000 2019",
+        "text": "Day 798: Karaoke https://t.co/NTsV0TwZhl https://t.co/x7E43Gidex",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NTsV0TwZhl",
+                "expanded_url": "https://ift.tt/2O3qPG2",
+                "display_url": "ift.tt/2O3qPG2",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150187858864562177,
+        "user": "Nouraan_Hassan",
+        "user_location": "Nasr city ",
+        "date": "Sat Jul 13 23:38:49 +0000 2019",
+        "text": "If you don\u2019t belong, don\u2019t be long \ud83d\udc4c\ud83c\udffc\ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f https://t.co/pzWvQbC2vI",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pzWvQbC2vI",
+                "expanded_url": "https://twitter.com/tamerabdoamin/status/1150101470961983489",
+                "display_url": "twitter.com/tamerabdoamin/\u2026",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150187548418957312,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 13 23:37:35 +0000 2019",
+        "text": "I dare u ro find a more adorable video https://t.co/fcUQMefhEN",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fcUQMefhEN",
+                "expanded_url": "https://twitter.com/Arpwel/status/1149831589255401473",
+                "display_url": "twitter.com/Arpwel/status/\u2026",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150176311366868994,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 22:52:56 +0000 2019",
+        "text": "@arthohos can't be more proud wallhy\ud83d\ude2d\u2764",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "arthohos",
+                "name": "Aya",
+                "id": 704042484679188480,
+                "id_str": "704042484679188480",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150169212775649280,
+        "user": "uncertia_",
+        "user_location": "London, England",
+        "date": "Sat Jul 13 22:24:44 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150166626802839552,
+        "user": "rehamfoudaa",
+        "user_location": "Nasr city,egypt",
+        "date": "Sat Jul 13 22:14:27 +0000 2019",
+        "text": "@IntThings Prison break\ud83d\udc96",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "IntThings",
+                "name": "Billionaire Mindset",
+                "id": 131102007,
+                "id_str": "131102007",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150159721808191493,
+        "user": "eslamziko21",
+        "user_location": "\u0639\u064a\u0646 \u0634\u0645\u0633 ",
+        "date": "Sat Jul 13 21:47:01 +0000 2019",
+        "text": "Sometimes we don't need advice, we just need someone to listen",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150156991802691584,
+        "user": "AbdulRahmanMou3",
+        "user_location": "Giza, Greater Cairo, Egypt",
+        "date": "Sat Jul 13 21:36:10 +0000 2019",
+        "text": "\"The shout\" as it has to be \ud83d\udce3\nI was nearly flying off the ground \u2728 as it's done with love and spirit \u2764\ufe0f\u2026 https://t.co/7LG2Nv6ygt",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07245828,
+                31.3478955
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/7LG2Nv6ygt",
+                "expanded_url": "https://twitter.com/i/web/status/1150156991802691584",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150146616906719240,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 20:54:56 +0000 2019",
+        "text": "I\u2019m pretty sure I will be there one day, sooner or later I will reach this destination on my own :)",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150145243565760514,
+        "user": "eslamziko21",
+        "user_location": "\u0639\u064a\u0646 \u0634\u0645\u0633 ",
+        "date": "Sat Jul 13 20:49:29 +0000 2019",
+        "text": "Mood: https://t.co/rh3gjJ8FOd",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150140586017656833,
+        "user": "_MA7AMED_",
+        "user_location": "Nasr city/ Egypt",
+        "date": "Sat Jul 13 20:30:58 +0000 2019",
+        "text": "What ever it takes \ud83d\udcaa",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150131780080545792,
+        "user": "Luums9",
+        "user_location": "Jeddah",
+        "date": "Sat Jul 13 19:55:59 +0000 2019",
+        "text": "I'm at Stars Cinema - @citystarscinema in Heliopolis, Cairo https://t.co/P9mHKvj3Ba",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07328658,
+                31.34661154
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/P9mHKvj3Ba",
+                "expanded_url": "https://www.swarmapp.com/c/7e2XwHPOczK",
+                "display_url": "swarmapp.com/c/7e2XwHPOczK",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CityStarsCinema",
+                "name": "City Stars Cinema",
+                "id": 4249061201,
+                "id_str": "4249061201",
+                "indices": [
+                    22,
+                    38
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150129896838127616,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Sat Jul 13 19:48:30 +0000 2019",
+        "text": "Who said I cant be calm &amp; Romantic? \ud83d\ude02\ud83d\ude48\ud83d\ude4a\ud83d\ude49\ud83d\ude0b\nI can when I want to.. \n\n #randaeissa #livesinging #egyptiansinger\u2026 https://t.co/vfKDeXcKHm",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07875616,
+                31.31764106
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vfKDeXcKHm",
+                "expanded_url": "https://twitter.com/i/web/status/1150129896838127616",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150123138765721601,
+        "user": "JohnMaherM",
+        "user_location": "Egypt,cairo,ain shams",
+        "date": "Sat Jul 13 19:21:39 +0000 2019",
+        "text": "DMS-CRM  is all your company needs to Build loyal customers relationships, save  time and money, Improve decision M\u2026 https://t.co/EGODqoD3Uw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/EGODqoD3Uw",
+                "expanded_url": "https://twitter.com/i/web/status/1150123138765721601",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150122922830368769,
+        "user": "JohnMaherM",
+        "user_location": "Egypt,cairo,ain shams",
+        "date": "Sat Jul 13 19:20:47 +0000 2019",
+        "text": "Visit Chamber of Information Technology and Telecommunications-CIT  on 5th March 2019\n For More Information and Reg\u2026 https://t.co/6Pbz0fzXgZ",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6Pbz0fzXgZ",
+                "expanded_url": "https://twitter.com/i/web/status/1150122922830368769",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150122684266795009,
+        "user": "JohnMaherM",
+        "user_location": "Egypt,cairo,ain shams",
+        "date": "Sat Jul 13 19:19:50 +0000 2019",
+        "text": "IDMS  is a leading industrial package that effectively handles all  requirements of businesses and industrial corpo\u2026 https://t.co/ohC6bm9OGN",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ohC6bm9OGN",
+                "expanded_url": "https://twitter.com/i/web/status/1150122684266795009",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150122371921141760,
+        "user": "JohnMaherM",
+        "user_location": "Egypt,cairo,ain shams",
+        "date": "Sat Jul 13 19:18:36 +0000 2019",
+        "text": "IDMS Maintenance Management gives the information needed at the right time about the current status of all equipmen\u2026 https://t.co/dmv1mSEOfG",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dmv1mSEOfG",
+                "expanded_url": "https://twitter.com/i/web/status/1150122371921141760",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150122213301002241,
+        "user": "JohnMaherM",
+        "user_location": "Egypt,cairo,ain shams",
+        "date": "Sat Jul 13 19:17:58 +0000 2019",
+        "text": "IDMS  Retail is a powerful program for Point of Sale, Merchandising, and  Inventory Control. Its hundreds of featur\u2026 https://t.co/chtuynKA8t",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/chtuynKA8t",
+                "expanded_url": "https://twitter.com/i/web/status/1150122213301002241",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150121595421306880,
+        "user": "rehamfoudaa",
+        "user_location": "Nasr city,egypt",
+        "date": "Sat Jul 13 19:15:31 +0000 2019",
+        "text": "Omar Khayrat-Take care of your mind https://t.co/vAs9FbdWx6 via @YouTube\n\ud83d\udc96",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vAs9FbdWx6",
+                "expanded_url": "https://youtu.be/UM1I-QF5UyI",
+                "display_url": "youtu.be/UM1I-QF5UyI",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "YouTube",
+                "name": "YouTube",
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    64,
+                    72
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150119580540518401,
+        "user": "Macushla_C",
+        "user_location": "cairo stadium",
+        "date": "Sat Jul 13 19:07:30 +0000 2019",
+        "text": "This is so cute \ud83d\ude0d https://t.co/w2o6lvveNb",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/w2o6lvveNb",
+                "expanded_url": "https://twitter.com/Eyaaaad/status/1150110644038844416",
+                "display_url": "twitter.com/Eyaaaad/status\u2026",
+                "indices": [
+                    18,
+                    41
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150110470222811136,
+        "user": "pyronthe3rd",
+        "user_location": "",
+        "date": "Sat Jul 13 18:31:18 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150099037040861184,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Sat Jul 13 17:45:52 +0000 2019",
+        "text": "We Still Party making a little After Party cuz we never get enough \ud83d\udc83\ud83c\udfb5\ud83c\udfa4 #randaeissa #livesinging #egyptiansinger\u2026 https://t.co/QR0TebCf1V",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07875616,
+                31.31764106
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/QR0TebCf1V",
+                "expanded_url": "https://twitter.com/i/web/status/1150099037040861184",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150097325194452992,
+        "user": "JackR252",
+        "user_location": "My House",
+        "date": "Sat Jul 13 17:39:04 +0000 2019",
+        "text": "RT @HYPEX: The Event is Happening in 7 days!!! :O \ud83d\udd25\ud83d\udd25\n\n\ud83d\udcf8: @HeyStani https://t.co/WYxIXsRN8a",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HYPEX",
+                "name": "HYPEX",
+                "id": 2210485170,
+                "id_str": "2210485170",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "HeyStani",
+                "name": "Hey Stan",
+                "id": 22949828,
+                "id_str": "22949828",
+                "indices": [
+                    57,
+                    66
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150089755650088960,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 13 17:09:00 +0000 2019",
+        "text": "@KenXyro @NEBU_KURO No Kentaro Miura??? Berserk is one of the most beautifully drawn Mangas EVER",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KenXyro",
+                "name": "Ken Xyro | \u1555( \u141b )\u1557",
+                "id": 1108750975,
+                "id_str": "1108750975",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "NEBU_KURO",
+                "name": "\u6751\u7530\u96c4\u4ecb",
+                "id": 101823594,
+                "id_str": "101823594",
+                "indices": [
+                    9,
+                    19
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150089323552944130,
+        "user": "eentijger",
+        "user_location": "",
+        "date": "Sat Jul 13 17:07:17 +0000 2019",
+        "text": "RT @HYPEX: So what me &amp; @MakksBR said a month ago is right, Trios is now in the game, after that we should see Squads! i don't know when bu\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HYPEX",
+                "name": "HYPEX",
+                "id": 2210485170,
+                "id_str": "2210485170",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "MakksBR",
+                "name": "Makks - Fortnite Leaks",
+                "id": 1011341844985339904,
+                "id_str": "1011341844985339904",
+                "indices": [
+                    28,
+                    36
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150089106623516672,
+        "user": "eentijger",
+        "user_location": "",
+        "date": "Sat Jul 13 17:06:25 +0000 2019",
+        "text": "RT @HYPEX: Here's how the robot will look like, next patch we should see the head!\n\nRender via: @FNLeaksAndInfo https://t.co/3HOgcPfS5u",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HYPEX",
+                "name": "HYPEX",
+                "id": 2210485170,
+                "id_str": "2210485170",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "FNLeaksAndInfo",
+                "name": "Fortnite Leaks And Info",
+                "id": 1073380821128470528,
+                "id_str": "1073380821128470528",
+                "indices": [
+                    96,
+                    111
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150084546890817536,
+        "user": "yt_billz",
+        "user_location": "Toronto, Ontario",
+        "date": "Sat Jul 13 16:48:18 +0000 2019",
+        "text": "RT @HYPEX: Possible Upcoming PS4 Bundle! 2k VBUCKS ? :O\n\nvia: @OMGitsAliA's video https://t.co/2d2QdnppbT",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HYPEX",
+                "name": "HYPEX",
+                "id": 2210485170,
+                "id_str": "2210485170",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "OMGitsAliA",
+                "name": "Ali-A",
+                "id": 155620461,
+                "id_str": "155620461",
+                "indices": [
+                    62,
+                    73
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150084278174330880,
+        "user": "JBeezyx13",
+        "user_location": "Suffolk, VA/757",
+        "date": "Sat Jul 13 16:47:14 +0000 2019",
+        "text": "RT @HYPEX: The Event is Happening in 7 days!!! :O \ud83d\udd25\ud83d\udd25\n\n\ud83d\udcf8: @HeyStani https://t.co/WYxIXsRN8a",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HYPEX",
+                "name": "HYPEX",
+                "id": 2210485170,
+                "id_str": "2210485170",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "HeyStani",
+                "name": "Hey Stan",
+                "id": 22949828,
+                "id_str": "22949828",
+                "indices": [
+                    57,
+                    66
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150083881078525953,
+        "user": "SeifXero",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 16:45:39 +0000 2019",
+        "text": "@GronKy_ Fortnite announce something new ..\nA couple of moment later \nWe are aware of bla bla bla causing bla bla to bla bla",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "GronKy_",
+                "name": "GronKy",
+                "id": 1594432027,
+                "id_str": "1594432027",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150083595161264128,
+        "user": "SeifXero",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 16:44:31 +0000 2019",
+        "text": "@GronKy_ Sup gronky",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "GronKy_",
+                "name": "GronKy",
+                "id": 1594432027,
+                "id_str": "1594432027",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150082286391635970,
+        "user": "soldanoangelo54",
+        "user_location": "Charency-Vezin, Lorraine ",
+        "date": "Sat Jul 13 16:39:19 +0000 2019",
+        "text": "RT @HYPEX: The Event is Happening in 7 days!!! :O \ud83d\udd25\ud83d\udd25\n\n\ud83d\udcf8: @HeyStani https://t.co/WYxIXsRN8a",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "HYPEX",
+                "name": "HYPEX",
+                "id": 2210485170,
+                "id_str": "2210485170",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "HeyStani",
+                "name": "Hey Stan",
+                "id": 22949828,
+                "id_str": "22949828",
+                "indices": [
+                    57,
+                    66
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150068242146369537,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 15:43:30 +0000 2019",
+        "text": "*le me seeing Remember Me last scene* https://t.co/fB9adCMXVy",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150067838792740866,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 15:41:54 +0000 2019",
+        "text": "Close Enough .. https://t.co/ETIJukvj7o",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150057755782389760,
+        "user": "bunnyy_____",
+        "user_location": "",
+        "date": "Sat Jul 13 15:01:50 +0000 2019",
+        "text": "Wayang luuuuu weekend guys (at @CityStarsMall in Heliopolis, Heliopolis, Cairo - Egypt) https://t.co/Zj2bAIq8CI https://t.co/Z19aqUUkYT",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0736388,
+                31.34620824
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Zj2bAIq8CI",
+                "expanded_url": "https://www.swarmapp.com/c/c01rQ3xQZNK",
+                "display_url": "swarmapp.com/c/c01rQ3xQZNK",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CitystarsMall",
+                "name": "Citystars",
+                "id": 2960087559,
+                "id_str": "2960087559",
+                "indices": [
+                    31,
+                    45
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150044327281930240,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Sat Jul 13 14:08:29 +0000 2019",
+        "text": "We Still Party making a little After Party cuz we never get enough \ud83d\udc83\ud83c\udfb5\ud83c\udfa4\n\n#randaeissa #livesinging #egyptiansinger\u2026 https://t.co/M4iEsbvrd2",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07875616,
+                31.31764106
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/M4iEsbvrd2",
+                "expanded_url": "https://twitter.com/i/web/status/1150044327281930240",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150035882549944320,
+        "user": "NourhanHisham6",
+        "user_location": "Heliopolis, Al Qahirah, Egypt ",
+        "date": "Sat Jul 13 13:34:55 +0000 2019",
+        "text": "In love with the black and white \ud83e\udd29\u2764\ufe0f https://t.co/W0vSSgYMkl",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/W0vSSgYMkl",
+                "expanded_url": "https://www.instagram.com/p/Bz29oYGBbMimOc_R9nmXxs6QSAvNJ_sINWY3cg0/?igshid=110qyb0seiozn",
+                "display_url": "instagram.com/p/Bz29oYGBbMim\u2026",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150030325768175616,
+        "user": "TheAlteen",
+        "user_location": "Campania, Italia",
+        "date": "Sat Jul 13 13:12:50 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150026238519644161,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Sat Jul 13 12:56:36 +0000 2019",
+        "text": "I just need only one constant in my life",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150022223891259394,
+        "user": "BabaGol_",
+        "user_location": "Worldwide",
+        "date": "Sat Jul 13 12:40:39 +0000 2019",
+        "text": "#AFCON 2019: \n@Levyninho was LIVE from #Cairo International speaking with @MezahiMaher &amp; @Lorenz_KO prior the semif\u2026 https://t.co/ynTkbRt0Qn",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06947699,
+                31.31316302
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ynTkbRt0Qn",
+                "expanded_url": "https://twitter.com/i/web/status/1150022223891259394",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Levyninho",
+                "name": "Uri Levy",
+                "id": 3190010498,
+                "id_str": "3190010498",
+                "indices": [
+                    14,
+                    24
+                ]
+            },
+            {
+                "screen_name": "MezahiMaher",
+                "name": "Maher Mezahi",
+                "id": 361659011,
+                "id_str": "361659011",
+                "indices": [
+                    74,
+                    86
+                ]
+            },
+            {
+                "screen_name": "Lorenz_KO",
+                "name": "Lorenz K\u00f6hler",
+                "id": 275959966,
+                "id_str": "275959966",
+                "indices": [
+                    93,
+                    103
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1150001283811684353,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Sat Jul 13 11:17:26 +0000 2019",
+        "text": "@themennaartist Don't you worry.. i can manage \ud83d\ude0e\ud83d\udcaa\ud83c\udffb https://t.co/vIELnmQjUl",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "themennaartist",
+                "name": "MENNATULLAH\ud83c\udf49",
+                "id": 1713308257,
+                "id_str": "1713308257",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149985706116358145,
+        "user": "daliakhalidd",
+        "user_location": "jeddah",
+        "date": "Sat Jul 13 10:15:32 +0000 2019",
+        "text": "I'm at Cairo International Airport in Heliopolis, Cairo https://t.co/eOKsNj5MdG",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.11702992,
+                31.3989687
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/eOKsNj5MdG",
+                "expanded_url": "https://www.swarmapp.com/c/h0RizjbrUmj",
+                "display_url": "swarmapp.com/c/h0RizjbrUmj",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149984062674755585,
+        "user": "mokka3330",
+        "user_location": "Nasr city",
+        "date": "Sat Jul 13 10:09:00 +0000 2019",
+        "text": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/iEFCASgbc9",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149979816692768768,
+        "user": "aseeel_ash",
+        "user_location": "Jeddah",
+        "date": "Sat Jul 13 09:52:08 +0000 2019",
+        "text": "I'm at Tree Trunk in Heliopolis, Cairo https://t.co/BrnTP3hNKy",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.090691,
+                31.325482
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BrnTP3hNKy",
+                "expanded_url": "https://www.swarmapp.com/c/jPLjQooC5IW",
+                "display_url": "swarmapp.com/c/jPLjQooC5IW",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149974616028438528,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Sat Jul 13 09:31:28 +0000 2019",
+        "text": "That booty https://t.co/dtklPFTTNJ",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dtklPFTTNJ",
+                "expanded_url": "https://twitter.com/XavsFutbol/status/1149659605867171840",
+                "display_url": "twitter.com/XavsFutbol/sta\u2026",
+                "indices": [
+                    11,
+                    34
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149964093685686272,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 08:49:39 +0000 2019",
+        "text": "@miniteenager Thanks ya sarah\ud83d\ude18\u2764",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "miniteenager",
+                "name": "sarah",
+                "id": 882921594716381184,
+                "id_str": "882921594716381184",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149964008658808832,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 08:49:19 +0000 2019",
+        "text": "@nadunkel_ Thank you \ud83d\udc95\ud83d\udc95",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "nadunkel_",
+                "name": "N",
+                "id": 794894887707639808,
+                "id_str": "794894887707639808",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149960727177965568,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 08:36:17 +0000 2019",
+        "text": "A thing that you wanted to learn the most? \u2014 Playing Violin \ud83c\udfbb\u2665\ufe0f https://t.co/fV8sMkrB7J",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fV8sMkrB7J",
+                "expanded_url": "https://curiouscat.me/Hassaan_Hossam/post/926604256?t=1563006977",
+                "display_url": "curiouscat.me/Hassaan_Hossam\u2026",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149957756847382528,
+        "user": "SamaHesham3",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 08:24:29 +0000 2019",
+        "text": "The best thing in life is finding someone who knows all your flaws , mistakes , and weakness and still thinks you\u2019re completely amazing .",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149956411272679425,
+        "user": "teryptal",
+        "user_location": "Finland",
+        "date": "Sat Jul 13 08:19:08 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149956241411719169,
+        "user": "eveladiescenter",
+        "user_location": "Nasr City",
+        "date": "Sat Jul 13 08:18:27 +0000 2019",
+        "text": "Cigarettes After Sex - Affection Her Movie Mix https://t.co/hQ2u6WhY9s",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hQ2u6WhY9s",
+                "expanded_url": "https://www.youtube.com/attribution_link?a=7Q-QbxwIl4c&u=%2Fwatch%3Fv%3DbzQNNzxbLrw%26feature%3Dshare",
+                "display_url": "youtube.com/attribution_li\u2026",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149949767847481344,
+        "user": "PythaVanGoras",
+        "user_location": "lost in Ikea",
+        "date": "Sat Jul 13 07:52:44 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149944323133399042,
+        "user": "k_nm29",
+        "user_location": "    _kuwait,",
+        "date": "Sat Jul 13 07:31:06 +0000 2019",
+        "text": "I'm at EgyptAir Check-in in Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah https://t.co/dv1VfZn4kZ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.11205182,
+                31.39658124
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dv1VfZn4kZ",
+                "expanded_url": "https://www.swarmapp.com/c/cee7n3zz0gY",
+                "display_url": "swarmapp.com/c/cee7n3zz0gY",
+                "indices": [
+                    57,
+                    80
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149920147458707457,
+        "user": "farahelgohary12",
+        "user_location": "nasr city",
+        "date": "Sat Jul 13 05:55:02 +0000 2019",
+        "text": "\u201cSabr is when your heart burns but you remain silent.\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149896922343149568,
+        "user": "choccymilk15",
+        "user_location": "New Zealand",
+        "date": "Sat Jul 13 04:22:44 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149884616817422341,
+        "user": "nirmenmohamed",
+        "user_location": "nasr city",
+        "date": "Sat Jul 13 03:33:51 +0000 2019",
+        "text": "Yes plez \ud83d\ude22 https://t.co/ZAfZ7nFKgq",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ZAfZ7nFKgq",
+                "expanded_url": "https://twitter.com/yourfavjuju_/status/1149677501305774080",
+                "display_url": "twitter.com/yourfavjuju_/s\u2026",
+                "indices": [
+                    11,
+                    34
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149845754212732928,
+        "user": "4akloof",
+        "user_location": "Cairo, Egypt",
+        "date": "Sat Jul 13 00:59:25 +0000 2019",
+        "text": "RT @MennaElHoshy: If we just can take a glimpse at the future.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MennaElHoshy",
+                "name": "\u0645\u0650\u0646\u0651\u0629\u064f \u0627\u0644\u0644\u0647\ud83c\udfbc\ud83c\udf38",
+                "id": 249391838,
+                "id_str": "249391838",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149839285639700480,
+        "user": "HuwaidaAs",
+        "user_location": "Muscat, Oman",
+        "date": "Sat Jul 13 00:33:43 +0000 2019",
+        "text": "RT @rehamfoudaa: \u201cI hope there are days when your coffee tastes like magic, your playlist makes you dance, strangers make you smile, and th\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "rehamfoudaa",
+                "name": "Reham Fouda",
+                "id": 3495117568,
+                "id_str": "3495117568",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1149838730666139649,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Sat Jul 13 00:31:31 +0000 2019",
+        "text": "If we just can take a glimpse at the future.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    }
+]

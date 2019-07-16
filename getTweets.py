@@ -27,7 +27,7 @@ for lang in ['en', 'ar']:
 
     # Search tweets
     #dict_ = {'user': [], 'date': [], 'text': [], 'region': []}
-    for day_i in range(5):
+    for day_i in range(7):
         for region in regions:
             query['geocode'] = region['geocode']
             query['until'] = str(date.today() - timedelta(days=day_i))
@@ -35,7 +35,7 @@ for lang in ['en', 'ar']:
             print(query)
             print()
             query_result = python_tweets.search(**query)
-
+            print('Found %d tweets' %len(query_result['statuses']))
             for status in query_result['statuses']:
                 tweet = {}
                 tweet['id'] = status['id']
@@ -72,7 +72,5 @@ for lang in ['en', 'ar']:
 #df = pd.DataFrame(dict_)
 #df.sort_values(by='favorite_count', inplace=True, ascending=False)
 #df.head(5)
-
-import json
 
 print('done')
