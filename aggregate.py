@@ -16,7 +16,7 @@ df = pd.read_pickle('tweets.pkl')
 sentiments = {}
 for index, tweet in df.iterrows():
     region = tweet['region']
-    sentiment = tweet['sentiment']
+    sentiment = tweet['sentiment2']
 
     try:
         sentiments[region].append(sentiment)
@@ -100,7 +100,7 @@ def sentiment_color(sentiment):
 
 for tweet in precise:
     coords = tweet['geo']['coordinates']
-    sentiment = tweet['sentiment']
+    sentiment = tweet['sentiment2']
 
     plot_x.append(coords[1])
     plot_y.append(coords[0])
