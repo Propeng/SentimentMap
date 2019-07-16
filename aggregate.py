@@ -83,10 +83,19 @@ from shapely.geometry import Point, Polygon
 import math
 from regions import regions
 
+highway = gpd.read_file('Shape Files/egypt_highway')
+natural =  gpd.read_file('Shape Files/egypt_natural')
+water = gpd.read_file('Shape Files/egypt_water')
+coastline = gpd.read_file('Shape Files/egypt_coastline')
+waterways_cairo = gpd.read_file("Shape Files/Kawkab el go3'rafya/planet_29.859,29.115_32.4,30.631-shp/shape/waterways.shp")
+
 fig, ax = plt.subplots(figsize=(10,10))
 
-highway = gpd.read_file('egypt_highway')
 highway.plot(ax=ax, linewidth=0.3, color=(0.7, 0.7, 0.7))
+natural.plot(ax = ax)
+water.plot(ax = ax)
+coastline.plot(ax = ax)
+waterways_cairo.plot(ax = ax)
 
 plt.scatter(plot_x, plot_y, s=10, c=plot_c)
 
