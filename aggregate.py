@@ -1,4 +1,13 @@
+import math
 import pandas as pd
+import shapefile as shp
+import matplotlib.pyplot as plt
+import geopandas as gpd
+from shapely.geometry import Point, Polygon
+
+from regions import regions
+
+KM_PER_LAT = 110.574
 
 df = pd.read_pickle('tweets.pkl')
 
@@ -23,31 +32,56 @@ for region in sentiments.keys():
     print(region, avg)
 print()
 
-#Get coord bounds
+#Find tweets with geocode inside the region
 
 precise = []
 for index, tweet in df.iterrows():
     if tweet['geo'] != None:
-        precise.append(tweet)
+        region = list(filter(lambda r: r['name'] == tweet['region'], regions))[0]
+
+        coords = tweet['geo']['coordinates']
+        lat = coords[0]
+        lng = coords[1]
+
+        geo = region['geocode'].split(',')
+        region_lat = float(geo[0])
+        region_long = float(geo[1])
+        region_radius = float(geo[2].strip("km")) / KM_PER_LAT
+
+        dist = math.sqrt((lat-region_lat)**2 + (lng-region_long)**2)
+
+        if dist <= region_radius:
+            precise.append(tweet)
 
 print("Tweets with coords", len(precise))
 print("All tweets", len(df['geo']))
+
+#Get plot bounds
 
 min_lat = None
 max_lat = None
 min_long = None
 max_long = None
 
-for tweet in precise:
-    coords = tweet['geo']['coordinates']
-    if min_lat == None or coords[0] < min_lat:
-        min_lat = coords[0]
-    if max_lat == None or coords[0] > max_lat:
-        max_lat = coords[0]
-    if min_long == None or coords[1] < min_long:
-        min_long = coords[1]
-    if max_long == None or coords[1] > max_long:
-        max_long = coords[1]
+for region in regions:
+    geo = region['geocode'].split(',')
+    region_lat = float(geo[0])
+    region_long = float(geo[1])
+    region_radius = float(geo[2].strip("km")) / KM_PER_LAT
+
+    region_min_lat = region_lat-region_radius
+    region_max_lat = region_lat+region_radius
+    region_min_long = region_long-region_radius
+    region_max_long = region_long+region_radius
+
+    if min_lat == None or region_min_lat < min_lat:
+        min_lat = region_min_lat
+    if min_long == None or region_min_long < min_long:
+        min_long = region_min_long
+    if max_lat == None or region_max_lat > max_lat:
+        max_lat = region_max_lat
+    if max_long == None or region_max_long > max_long:
+        max_long = region_max_long
 
 print("Min coords", min_lat, min_long)
 print("Max coords", max_lat, max_long)
@@ -76,13 +110,6 @@ for tweet in precise:
 
 #Plot map
 
-import shapefile as shp
-import matplotlib.pyplot as plt
-import geopandas as gpd
-from shapely.geometry import Point, Polygon
-import math
-from regions import regions
-
 highway = gpd.read_file('Shape Files/egypt_highway')
 natural =  gpd.read_file('Shape Files/egypt_natural')
 water = gpd.read_file('Shape Files/egypt_water')
@@ -105,13 +132,16 @@ for region in regions:
     lat = float(geo[0])
     lng = float(geo[1])
     radius = float(geo[2].strip("km"))
-    radius_lat = radius / 110.574
+    radius_lat = radius / KM_PER_LAT
 
     color = sentiment_color(avgs[region['name']])
 
-    ax.add_artist(plt.Circle((lng, lat), radius_lat, color=color, fill=False, linewidth=2))
+    ax.add_artist(plt.Circle((lng, lat), radius_lat, color=color+(0.2,), linewidth=2))
+    ax.text(lng, lat + radius_lat + 0.003, region['name'], horizontalalignment='center', verticalalignment='center',
+        color=(0, 0, 0, 0.6), fontsize=14)
 
 border = 0.01
+
 plt.xlim(min_long-border, max_long+border)
 plt.ylim(min_lat-border, max_lat+border)
 
