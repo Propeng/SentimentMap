@@ -2,6 +2,8 @@ import math
 import pandas as pd
 import shapefile as shp
 import matplotlib.pyplot as plt
+from matplotlib.colors import *
+from mpl_toolkits.axes_grid1 import make_axes_locatable
 import geopandas as gpd
 from shapely.geometry import Point, Polygon
 
@@ -105,8 +107,8 @@ for tweet in precise:
     plot_x.append(coords[1])
     plot_y.append(coords[0])
     
-    color = sentiment_color(sentiment)
-    plot_c.append(color)
+    #color = sentiment_color(sentiment)
+    plot_c.append(sentiment)
 
 #Plot map
 
@@ -124,7 +126,8 @@ water.plot(ax = ax)
 coastline.plot(ax = ax)
 waterways_cairo.plot(ax = ax)
 
-plt.scatter(plot_x, plot_y, s=10, c=plot_c)
+cmap = LinearSegmentedColormap.from_list('red-green', ['red', 'yellow', 'green'])
+plt.scatter(plot_x, plot_y, s=10, c=plot_c, cmap=cmap, vmin=0, vmax=1)
 
 for region in regions:
     geo = region['geocode'].split(',')
@@ -134,9 +137,10 @@ for region in regions:
     radius = float(geo[2].strip("km"))
     radius_lat = radius / KM_PER_LAT
 
-    color = sentiment_color(avgs[region['name']])
+    color = cmap(avgs[region['name']])
+    color = (color[0], color[1], color[2], 0.2)
 
-    ax.add_artist(plt.Circle((lng, lat), radius_lat, color=color+(0.2,), linewidth=2))
+    ax.add_artist(plt.Circle((lng, lat), radius_lat, color=color, linewidth=2))
     ax.text(lng, lat + radius_lat + 0.003, region['name'], horizontalalignment='center', verticalalignment='center',
         color=(0, 0, 0, 0.6), fontsize=14)
 
@@ -144,5 +148,10 @@ border = 0.01
 
 plt.xlim(min_long-border, max_long+border)
 plt.ylim(min_lat-border, max_lat+border)
+
+divider = make_axes_locatable(ax)
+cax = divider.append_axes('right', size='2%', pad=0.05)
+cbar = plt.colorbar(cax=cax, ticks=[0, 0.5, 1])
+cbar.ax.set_yticklabels(['Negative', 'Neutral', 'Positive'])
 
 plt.show()
