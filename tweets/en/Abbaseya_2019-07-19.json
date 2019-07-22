@@ -1,0 +1,349 @@
+[
+    {
+        "id": 1152362530075029505,
+        "user": "hajarr47",
+        "user_location": "\u2741",
+        "date": "Fri Jul 19 23:40:11 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/MvF5dR9Pgo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/MvF5dR9Pgo",
+                "expanded_url": "https://www.swarmapp.com/c/ccplemf2R8F",
+                "display_url": "swarmapp.com/c/ccplemf2R8F",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152361974489059330,
+        "user": "calvinbecerra",
+        "user_location": "Everywhere",
+        "date": "Fri Jul 19 23:37:59 +0000 2019",
+        "text": "The leaders who work most effectively, it seems to me, never say \"I.\" And that's not because they have trained them\u2026 https://t.co/CKLEUFWIot",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CKLEUFWIot",
+                "expanded_url": "https://twitter.com/i/web/status/1152361974489059330",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152360557779070982,
+        "user": "AsuraHu",
+        "user_location": "Beijing,China",
+        "date": "Fri Jul 19 23:32:21 +0000 2019",
+        "text": "Dance in the desert. \ud83d\udc6f\u200d\u2640\ufe0f @ Black &amp; White Desert https://t.co/LnN1yYNgmY",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0469379,
+                31.2403548
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/LnN1yYNgmY",
+                "expanded_url": "https://www.instagram.com/p/B0HexaWhuTk/?igshid=1xmst7ya580vj",
+                "display_url": "instagram.com/p/B0HexaWhuTk/\u2026",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152359995415113733,
+        "user": "Alit5_",
+        "user_location": "Kuwait",
+        "date": "Fri Jul 19 23:30:07 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/AR93WJCStF",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AR93WJCStF",
+                "expanded_url": "https://www.swarmapp.com/c/3ZQzmsV1iao",
+                "display_url": "swarmapp.com/c/3ZQzmsV1iao",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152359832302829568,
+        "user": "k_nm29",
+        "user_location": "    _kuwait,",
+        "date": "Fri Jul 19 23:29:28 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/6CDaerOqNX",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/6CDaerOqNX",
+                "expanded_url": "https://www.swarmapp.com/c/hEnyr7ABqzM",
+                "display_url": "swarmapp.com/c/hEnyr7ABqzM",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152357429935583233,
+        "user": "CapKorkor",
+        "user_location": "El Gharbia, Egypt",
+        "date": "Fri Jul 19 23:19:55 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/R1LPBfl092",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/R1LPBfl092",
+                "expanded_url": "https://www.instagram.com/p/B0HdWeEHDm9/?igshid=1sxd2vmmffyv4",
+                "display_url": "instagram.com/p/B0HdWeEHDm9/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152345903791034370,
+        "user": "rwelkh",
+        "user_location": "Kuwait",
+        "date": "Fri Jul 19 22:34:07 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/0o6z2fDinq",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0o6z2fDinq",
+                "expanded_url": "https://www.swarmapp.com/c/gblsr44daUo",
+                "display_url": "swarmapp.com/c/gblsr44daUo",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152342777633673218,
+        "user": "timmytimothy007",
+        "user_location": "lagos Nigeria",
+        "date": "Fri Jul 19 22:21:42 +0000 2019",
+        "text": "The pain behind this smile \ud83d\ude0a... @ Cairo, Egypt https://t.co/XtEuVpUW2k",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/XtEuVpUW2k",
+                "expanded_url": "https://www.instagram.com/p/B0HWrhYHHpS/?igshid=1wol8tos77scv",
+                "display_url": "instagram.com/p/B0HWrhYHHpS/\u2026",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152341346218233861,
+        "user": "NouraJoesph",
+        "user_location": "London, England",
+        "date": "Fri Jul 19 22:16:01 +0000 2019",
+        "text": "The truth is, when you\u2019re in love with someone staying loyal and staying committed to them is never an option. They\u2026 https://t.co/ItzrqxtXR9",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0656585,
+                31.22794188
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ItzrqxtXR9",
+                "expanded_url": "https://twitter.com/i/web/status/1152341346218233861",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152338191753498624,
+        "user": "Brighten007",
+        "user_location": "",
+        "date": "Fri Jul 19 22:03:28 +0000 2019",
+        "text": "Egypt imbued the view with a heavy sense of mystery and foreboding - M. Crichton \n.\n.\n#egyptian #history #pyramids\u2026 https://t.co/muialj1lXI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/muialj1lXI",
+                "expanded_url": "https://twitter.com/i/web/status/1152338191753498624",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152335293246246913,
+        "user": "WElmancey",
+        "user_location": "cairo-egypt",
+        "date": "Fri Jul 19 21:51:57 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/0vJf3FWMXo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0vJf3FWMXo",
+                "expanded_url": "https://www.instagram.com/p/B0HTSNXH9DE/?igshid=1wifpjq2r7qxd",
+                "display_url": "instagram.com/p/B0HTSNXH9DE/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1152334697659293696,
+        "user": "Fahxd14",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Fri Jul 19 21:49:35 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/jxrg8Xm6VM",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/jxrg8Xm6VM",
+                "expanded_url": "https://www.swarmapp.com/c/6rp08HPHHqc",
+                "display_url": "swarmapp.com/c/6rp08HPHHqc",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    }
+]

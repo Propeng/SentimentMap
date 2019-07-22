@@ -1,0 +1,1064 @@
+[
+    {
+        "id": 1152000816221265920,
+        "user": "AliiCFC",
+        "user_location": "Nasr City",
+        "date": "Thu Jul 18 23:42:52 +0000 2019",
+        "text": "My manager. https://t.co/79z89rPo2d",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/79z89rPo2d",
+                "expanded_url": "https://twitter.com/cfcsaudifans/status/1151978711064993797",
+                "display_url": "twitter.com/cfcsaudifans/s\u2026",
+                "indices": [
+                    12,
+                    35
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151997259187290112,
+        "user": "NadaNassuhy",
+        "user_location": "Cairo",
+        "date": "Thu Jul 18 23:28:44 +0000 2019",
+        "text": "RT @ezzosama: Better than u* https://t.co/BYLhUQBXHx",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BYLhUQBXHx",
+                "expanded_url": "https://twitter.com/nadanassuhy/status/1151996478384041984",
+                "display_url": "twitter.com/nadanassuhy/st\u2026",
+                "indices": [
+                    29,
+                    52
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "ezzosama",
+                "name": "3ezzzz",
+                "id": 315839545,
+                "id_str": "315839545",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151997118984290304,
+        "user": "ezzosama",
+        "user_location": "Nasr city",
+        "date": "Thu Jul 18 23:28:10 +0000 2019",
+        "text": "Better than u* https://t.co/BYLhUQBXHx",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BYLhUQBXHx",
+                "expanded_url": "https://twitter.com/nadanassuhy/status/1151996478384041984",
+                "display_url": "twitter.com/nadanassuhy/st\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151995390679384065,
+        "user": "202010_salma",
+        "user_location": "nasr city",
+        "date": "Thu Jul 18 23:21:18 +0000 2019",
+        "text": "You need someone who wants to be there when it\u2019s messy and when it\u2019s hard, not just when it\u2019s fun and when it\u2019s con\u2026 https://t.co/oYeYBqehiE",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/oYeYBqehiE",
+                "expanded_url": "https://twitter.com/i/web/status/1151995390679384065",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151987259639357440,
+        "user": "Mahmd_LFC",
+        "user_location": "Nasr City, Egypt",
+        "date": "Thu Jul 18 22:49:00 +0000 2019",
+        "text": "Switch my wibe, come back in black and start'n say'n \"rest in peace to pon Scott.\"",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151986263274090496,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Thu Jul 18 22:45:02 +0000 2019",
+        "text": "Heavy little bag of boredom to anyone",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151982911748550660,
+        "user": "3T97x",
+        "user_location": "KWT\ud83c\uddf0\ud83c\uddfc' GAIRO\ud83c\uddea\ud83c\uddec",
+        "date": "Thu Jul 18 22:31:43 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo w/ @ai97x https://t.co/ci9CtWBvfy",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ci9CtWBvfy",
+                "expanded_url": "https://www.swarmapp.com/c/h4s2PK7qYY6",
+                "display_url": "swarmapp.com/c/h4s2PK7qYY6",
+                "indices": [
+                    63,
+                    86
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            },
+            {
+                "screen_name": "ai97x",
+                "name": "\u0628\u0648\u0639\u064a\u062f.",
+                "id": 1915354292,
+                "id_str": "1915354292",
+                "indices": [
+                    56,
+                    62
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151972002691002369,
+        "user": "AlSaeed94_",
+        "user_location": "Kuwait - Cairo",
+        "date": "Thu Jul 18 21:48:22 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo w/ @a2m6l1 https://t.co/IfGsSP0AK9",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/IfGsSP0AK9",
+                "expanded_url": "https://www.swarmapp.com/c/kuLvX0xkjRi",
+                "display_url": "swarmapp.com/c/kuLvX0xkjRi",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            },
+            {
+                "screen_name": "A2M6L1",
+                "name": "A2M6L",
+                "id": 1146548778419281920,
+                "id_str": "1146548778419281920",
+                "indices": [
+                    56,
+                    63
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151970981059186689,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Thu Jul 18 21:44:19 +0000 2019",
+        "text": "@mohammedsh912 Same",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mohammedsh912",
+                "name": "mohammedsh91",
+                "id": 1094231602308280321,
+                "id_str": "1094231602308280321",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151970301590290432,
+        "user": "topcardeals2019",
+        "user_location": "Kano, Nigeria",
+        "date": "Thu Jul 18 21:41:37 +0000 2019",
+        "text": "RT @Shmos_Net: Download Blocky Cars - Online Shooting Game v 7.1.7 Hack MOD APK   - https://t.co/uSMAS58tS4\n\n    Top Gun Tom Cruise John Mc\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/uSMAS58tS4",
+                "expanded_url": "https://blog.shmosnet.com/2019/06/download-blocky-cars-online-shooting.html",
+                "display_url": "blog.shmosnet.com/2019/06/downlo\u2026",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Shmos_Net",
+                "name": "\u0634\u0645\u0648\u0633 \u0646\u062a \ud83d\udc99",
+                "id": 839863254482579458,
+                "id_str": "839863254482579458",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151969619575488513,
+        "user": "WalMe7dar",
+        "user_location": "Jeddah, Makkah Al Mukarrama",
+        "date": "Thu Jul 18 21:38:54 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/aJQTl5D2lD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aJQTl5D2lD",
+                "expanded_url": "https://www.swarmapp.com/c/crNvfIkc7YN",
+                "display_url": "swarmapp.com/c/crNvfIkc7YN",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151969558200295429,
+        "user": "WalMe7dar",
+        "user_location": "Jeddah, Makkah Al Mukarrama",
+        "date": "Thu Jul 18 21:38:39 +0000 2019",
+        "text": "I'm at Bab El Nil - @fairmonthotels in Cairo https://t.co/OoEpPzgEqL",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07221713,
+                31.22778863
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/OoEpPzgEqL",
+                "expanded_url": "https://www.swarmapp.com/c/lkjypW8YYhy",
+                "display_url": "swarmapp.com/c/lkjypW8YYhy",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    20,
+                    35
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151964664307310608,
+        "user": "mido2001ahmed",
+        "user_location": "NASR CITY ",
+        "date": "Thu Jul 18 21:19:13 +0000 2019",
+        "text": "Ahmed Hammad \ud83e\udd24 https://t.co/bTfMDysZ0v",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bTfMDysZ0v",
+                "expanded_url": "https://www.facebook.com/story.php?story_fbid=2847158798691564&id=100001924158461",
+                "display_url": "facebook.com/story.php?stor\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151963819624796161,
+        "user": "Shmos_Net",
+        "user_location": "Nasr City egypt",
+        "date": "Thu Jul 18 21:15:51 +0000 2019",
+        "text": "Download Zero City: Zombie Shelter Survival v 0.9.0 apk   hack mod   - https://t.co/hrkxYSK8Fs\n\n    Top Gun Tom Cru\u2026 https://t.co/TC4EJImoll",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hrkxYSK8Fs",
+                "expanded_url": "https://blog.shmosnet.com/2019/05/download-zero-city-zombie-shelter.html",
+                "display_url": "blog.shmosnet.com/2019/05/downlo\u2026",
+                "indices": [
+                    71,
+                    94
+                ]
+            },
+            {
+                "url": "https://t.co/TC4EJImoll",
+                "expanded_url": "https://twitter.com/i/web/status/1151963819624796161",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151963698749169671,
+        "user": "Shmos_Net",
+        "user_location": "Nasr City egypt",
+        "date": "Thu Jul 18 21:15:22 +0000 2019",
+        "text": "Download Blocky Cars - Online Shooting Game v 7.1.7 Hack MOD APK   - https://t.co/uSMAS58tS4\n\n    Top Gun Tom Cruis\u2026 https://t.co/vjONZ5GyW4",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/uSMAS58tS4",
+                "expanded_url": "https://blog.shmosnet.com/2019/06/download-blocky-cars-online-shooting.html",
+                "display_url": "blog.shmosnet.com/2019/06/downlo\u2026",
+                "indices": [
+                    69,
+                    92
+                ]
+            },
+            {
+                "url": "https://t.co/vjONZ5GyW4",
+                "expanded_url": "https://twitter.com/i/web/status/1151963698749169671",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151963647431860236,
+        "user": "Shmos_Net",
+        "user_location": "Nasr City egypt",
+        "date": "Thu Jul 18 21:15:10 +0000 2019",
+        "text": "Download Ailment v 1.4.5 apk   hack mod (Unlimited P points)   - https://t.co/DwPB8YGXmY\n\n    Top Gun Tom Cruise Jo\u2026 https://t.co/3guLXMQSf8",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/DwPB8YGXmY",
+                "expanded_url": "https://blog.shmosnet.com/2019/07/download-ailment-v-145-apk-hack-mod.html",
+                "display_url": "blog.shmosnet.com/2019/07/downlo\u2026",
+                "indices": [
+                    65,
+                    88
+                ]
+            },
+            {
+                "url": "https://t.co/3guLXMQSf8",
+                "expanded_url": "https://twitter.com/i/web/status/1151963647431860236",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151963604897423387,
+        "user": "Shmos_Net",
+        "user_location": "Nasr City egypt",
+        "date": "Thu Jul 18 21:15:00 +0000 2019",
+        "text": "Download Dino Battle v 10.57 hack mod apk   - https://t.co/FG1cgWNiIN\n\n    Top Gun Tom Cruise John McCain\u2026 https://t.co/JJY1fEY79S",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FG1cgWNiIN",
+                "expanded_url": "https://blog.shmosnet.com/2019/07/download-dino-battle-v-1057-hack-mod-apk.html",
+                "display_url": "blog.shmosnet.com/2019/07/downlo\u2026",
+                "indices": [
+                    46,
+                    69
+                ]
+            },
+            {
+                "url": "https://t.co/JJY1fEY79S",
+                "expanded_url": "https://twitter.com/i/web/status/1151963604897423387",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151963497867173892,
+        "user": "Shmos_Net",
+        "user_location": "Nasr City egypt",
+        "date": "Thu Jul 18 21:14:34 +0000 2019",
+        "text": "Easy Ways to raise profit at Forex  - https://t.co/uDOfCmyTk3\n\n    Top Gun Tom Cruise John McCain #RickyDictador\u2026 https://t.co/WnYW92jax6",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/uDOfCmyTk3",
+                "expanded_url": "https://blog.shmosnet.com/2017/09/easy-ways-to-raise-profit-at-forex.html",
+                "display_url": "blog.shmosnet.com/2017/09/easy-w\u2026",
+                "indices": [
+                    38,
+                    61
+                ]
+            },
+            {
+                "url": "https://t.co/WnYW92jax6",
+                "expanded_url": "https://twitter.com/i/web/status/1151963497867173892",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151961256359673857,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jul 18 21:05:40 +0000 2019",
+        "text": "scattered clouds -&gt; clear sky\ntemperature down 32\u00b0C -&gt; 28\u00b0C\nhumidity up 49% -&gt; 65%\nwind 6kmh -&gt; 5kmh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151956499712892948,
+        "user": "rehamfoudaa",
+        "user_location": "Nasr city,egypt",
+        "date": "Thu Jul 18 20:46:46 +0000 2019",
+        "text": "I\u2019m such a good girl and I\u2019m not happy:\u201dD https://t.co/HDyXvB6AQw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/HDyXvB6AQw",
+                "expanded_url": "https://twitter.com/abdulgaderbaka/status/1151452506305835008",
+                "display_url": "twitter.com/abdulgaderbaka\u2026",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151955299814793219,
+        "user": "iiEmadd",
+        "user_location": "Nasr city ",
+        "date": "Thu Jul 18 20:42:00 +0000 2019",
+        "text": "missing your Ex? \u2014 My ex meen https://t.co/hKVxGOKBS3",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hKVxGOKBS3",
+                "expanded_url": "https://curiouscat.me/iiEmadd/post/931957189?t=1563482520",
+                "display_url": "curiouscat.me/iiEmadd/post/9\u2026",
+                "indices": [
+                    30,
+                    53
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151938243388235776,
+        "user": "Malhussinan62",
+        "user_location": "Abdullah Al Mubarak",
+        "date": "Thu Jul 18 19:34:13 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo w/ @alhussinan_ https://t.co/IQQNx345BZ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/IQQNx345BZ",
+                "expanded_url": "https://www.swarmapp.com/c/ePXdxo8yqgX",
+                "display_url": "swarmapp.com/c/ePXdxo8yqgX",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            },
+            {
+                "screen_name": "Alhussinan_",
+                "name": "AH.",
+                "id": 588121585,
+                "id_str": "588121585",
+                "indices": [
+                    56,
+                    68
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151937315155128320,
+        "user": "rehamfoudaa",
+        "user_location": "Nasr city,egypt",
+        "date": "Thu Jul 18 19:30:32 +0000 2019",
+        "text": "@pouny18 Yes i know\ud83d\ude0d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "pouny18",
+                "name": "Miss Fussy",
+                "id": 1136394255990173696,
+                "id_str": "1136394255990173696",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151935951360462848,
+        "user": "rodolphosanttos",
+        "user_location": "Dublin City, Ireland",
+        "date": "Thu Jul 18 19:25:07 +0000 2019",
+        "text": "Street art Egypt. \u2063\n\u2063\n\u2063Do you appreciate Street art /graffiti?\n\nParticularly, I love it and when I am traveling I a\u2026 https://t.co/Mz7htjIulQ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Mz7htjIulQ",
+                "expanded_url": "https://twitter.com/i/web/status/1151935951360462848",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151934727760293888,
+        "user": "Alhussinan_",
+        "user_location": "Kuwait",
+        "date": "Thu Jul 18 19:20:15 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/1IXKUTof0h",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/1IXKUTof0h",
+                "expanded_url": "https://www.swarmapp.com/c/5Up1RdTkM9s",
+                "display_url": "swarmapp.com/c/5Up1RdTkM9s",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151934585065943040,
+        "user": "Brighten007",
+        "user_location": "",
+        "date": "Thu Jul 18 19:19:41 +0000 2019",
+        "text": "The great pyramids..still a present wonder from the past... \n.\n.\n#giza #pyramids #pyramidscheme #saqqarapyramid\u2026 https://t.co/ozbU40QVy9",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ozbU40QVy9",
+                "expanded_url": "https://twitter.com/i/web/status/1151934585065943040",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151926615263391745,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Thu Jul 18 18:48:01 +0000 2019",
+        "text": "@ItsArnit shut the fuck up",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ItsArnit",
+                "name": "and less",
+                "id": 1101929223474896897,
+                "id_str": "1101929223474896897",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151926280302092296,
+        "user": "Justammartian",
+        "user_location": "Houston, TX",
+        "date": "Thu Jul 18 18:46:41 +0000 2019",
+        "text": "Summers in Egypt are something else \ud83d\ude0d\u2764\ufe0f @ Cairo, Egypt https://t.co/z9UlJ608AY",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/z9UlJ608AY",
+                "expanded_url": "https://www.instagram.com/p/B0EZSExB_iF/?igshid=2vsm207zsmbz",
+                "display_url": "instagram.com/p/B0EZSExB_iF/\u2026",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151921573097627649,
+        "user": "Eltagpharmhotm3",
+        "user_location": "Nasr city ",
+        "date": "Thu Jul 18 18:27:59 +0000 2019",
+        "text": "\ud83d\ude04\nSOON https://t.co/vIQ5AC3ige",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151899688599093249,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jul 18 17:01:01 +0000 2019",
+        "text": "current weather in Cairo: scattered clouds, 32\u00b0C\n49% humidity, wind 6kmh, pressure 1008mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151899094618705920,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Thu Jul 18 16:58:40 +0000 2019",
+        "text": "Will you ever miss me",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151898604392419328,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Thu Jul 18 16:56:43 +0000 2019",
+        "text": "Cairo: 7:56pm: sunset",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151898239039205376,
+        "user": "keymUuo",
+        "user_location": "Luxor, Egypt",
+        "date": "Thu Jul 18 16:55:16 +0000 2019",
+        "text": "inside everyone dark zone don't try to enter to it @ Cairo Governorate https://t.co/Eq4AYKjar3",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0465,
+                31.2437
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Eq4AYKjar3",
+                "expanded_url": "https://www.instagram.com/p/B0EMiE9BO9U/?igshid=1gtwhxhcn59go",
+                "display_url": "instagram.com/p/B0EMiE9BO9U/\u2026",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151896742482202624,
+        "user": "alinuhu",
+        "user_location": "10.52672,7.430597",
+        "date": "Thu Jul 18 16:49:19 +0000 2019",
+        "text": "Enjoy the journey and try to get better every day. And don't lose the passion and the love for what you do. @ Cairo\u2026 https://t.co/mHN3M0URqz",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mHN3M0URqz",
+                "expanded_url": "https://twitter.com/i/web/status/1151896742482202624",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151885605565083649,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Thu Jul 18 16:05:04 +0000 2019",
+        "text": "This smile is so creepy! https://t.co/MBIzfrKIo3",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/MBIzfrKIo3",
+                "expanded_url": "https://twitter.com/mskkhader/status/1151582204075618304",
+                "display_url": "twitter.com/mskkhader/stat\u2026",
+                "indices": [
+                    25,
+                    48
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151874542433783808,
+        "user": "roy_susmita7",
+        "user_location": "Kolkata, India",
+        "date": "Thu Jul 18 15:21:06 +0000 2019",
+        "text": "No photo frame in dis world is big enough 2 fit d beautiful memories of our marriage @tiwarymanoj . Happy 6th anniv\u2026 https://t.co/nlsDcMhJUz",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nlsDcMhJUz",
+                "expanded_url": "https://twitter.com/i/web/status/1151874542433783808",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "tiwarymanoj",
+                "name": "MANOJ TIWARY",
+                "id": 233924133,
+                "id_str": "233924133",
+                "indices": [
+                    85,
+                    97
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151868444192718848,
+        "user": "wearetravelgays",
+        "user_location": "",
+        "date": "Thu Jul 18 14:56:52 +0000 2019",
+        "text": "Pyramids in Egypt \ud83d\ude0d\ud83d\ude0dthanks for sharing feefee_123_ and hopefully we can welcome you soon as our newest follower \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\u2026 https://t.co/vMGnXyPJ9G",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vMGnXyPJ9G",
+                "expanded_url": "https://twitter.com/i/web/status/1151868444192718848",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151866292065964033,
+        "user": "AbdelrhmanFikri",
+        "user_location": "Nasr City",
+        "date": "Thu Jul 18 14:48:19 +0000 2019",
+        "text": "There's always some truth behind \"just kidding\",\nKnowledge behind \"I don't know\",\nEmotion behind \"I don't care\",\nan\u2026 https://t.co/nIoFBQFZGA",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/nIoFBQFZGA",
+                "expanded_url": "https://twitter.com/i/web/status/1151866292065964033",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1151859861015224320,
+        "user": "ezzosama",
+        "user_location": "Nasr city",
+        "date": "Thu Jul 18 14:22:46 +0000 2019",
+        "text": "@nour_tharwat25 Happy birthday \ud83d\udd25\ud83d\udd25\ud83c\udf88\ud83c\udf88\ud83c\udf89\ud83c\udf8a",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "nour_tharwat25",
+                "name": "\u0646\u0648\u0631\u0647\u0627\u0646\ud83c\udf38",
+                "id": 3003810102,
+                "id_str": "3003810102",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    }
+]

@@ -1,0 +1,1253 @@
+[
+    {
+        "id": 1151252742469406720,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 16 22:10:17 +0000 2019",
+        "text": "temperature down 38\u00b0C -&gt; 35\u00b0C\nhumidity up 21% -&gt; 28%\nwind 3kmh -&gt; 2kmh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151250417633898497,
+        "user": "jeii55",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 16 22:01:03 +0000 2019",
+        "text": "I'm at Grand Cafe in Giza https://t.co/4aGsKIjqZP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.025475,
+                31.21838075
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/4aGsKIjqZP",
+                "expanded_url": "https://www.swarmapp.com/c/15e44ZbT2GP",
+                "display_url": "swarmapp.com/c/15e44ZbT2GP",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151249737263116288,
+        "user": "aya_elborgy",
+        "user_location": "Almahalla Al-kobra",
+        "date": "Tue Jul 16 21:58:21 +0000 2019",
+        "text": "M i X E D   M E T A L S\n   - N E W  T R E N D -\nCopper, gold and rose gold... \nIf you die of love for all of them b\u2026 https://t.co/yA3grPwoNr",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/yA3grPwoNr",
+                "expanded_url": "https://twitter.com/i/web/status/1151249737263116288",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151241911396655110,
+        "user": "Alhussinan_",
+        "user_location": "Kuwait",
+        "date": "Tue Jul 16 21:27:15 +0000 2019",
+        "text": "I'm at Giza in Giza https://t.co/8h0opM1cLK",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01701017,
+                31.21353149
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/8h0opM1cLK",
+                "expanded_url": "https://www.swarmapp.com/c/gBLyxAQq9mz",
+                "display_url": "swarmapp.com/c/gBLyxAQq9mz",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151239239109152768,
+        "user": "day_cairo",
+        "user_location": "New York, USA",
+        "date": "Tue Jul 16 21:16:38 +0000 2019",
+        "text": "Valley Kings Luxor\nBooking your trip&amp; its invaluable vacations and most tourists prefer to spend their time relaxin\u2026 https://t.co/hlY5tVmBlz",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.03852313,
+                31.24554634
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hlY5tVmBlz",
+                "expanded_url": "https://twitter.com/i/web/status/1151239239109152768",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151232310181679104,
+        "user": "ziadaly",
+        "user_location": "Tahrir - Egypt",
+        "date": "Tue Jul 16 20:49:06 +0000 2019",
+        "text": "Now in Cairo ... lunar  #eclipse !!\n#lunar #lunareclipse #moon #fullmoon #nature @ Cairo, Egypt https://t.co/I942Be5IVX",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/I942Be5IVX",
+                "expanded_url": "https://www.instagram.com/p/Bz_dtAtnPEg/?igshid=rz8k9393ynew",
+                "display_url": "instagram.com/p/Bz_dtAtnPEg/\u2026",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151230676126953477,
+        "user": "MOHAMED3NASR",
+        "user_location": "6th of october, Egypt",
+        "date": "Tue Jul 16 20:42:36 +0000 2019",
+        "text": "thedoodlefactoryegypt these people are doing sth meaningful and inspiring. They made me happy with their creative i\u2026 https://t.co/rYc5hGuu0I",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06504898,
+                31.21608917
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/rYc5hGuu0I",
+                "expanded_url": "https://twitter.com/i/web/status/1151230676126953477",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151224396079439872,
+        "user": "athmar98",
+        "user_location": "\u0648\u0637\u0646 \u0627\u0644\u0646\u0647\u0627\u0631 \ud83c\uddf0\ud83c\uddfc \u2665\ufe0f",
+        "date": "Tue Jul 16 20:17:39 +0000 2019",
+        "text": "I'm at Bait Ward in Mohandesin, Giza https://t.co/W9nWyaZUyN",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.048519,
+                31.203651
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/W9nWyaZUyN",
+                "expanded_url": "https://www.swarmapp.com/c/ke524OZmoof",
+                "display_url": "swarmapp.com/c/ke524OZmoof",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151219277732700160,
+        "user": "badria5755",
+        "user_location": "",
+        "date": "Tue Jul 16 19:57:19 +0000 2019",
+        "text": "RT @wss_atar_yahooc: @USAbilAraby @USAinKSA A cry to the whole world .. refugees with disabilities and their children are being killed in S\u2026",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "wss_atar_yahooc",
+                "name": "wesam alatar",
+                "id": 1852398692,
+                "id_str": "1852398692",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "USAbilAraby",
+                "name": "\u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+                "id": 249409411,
+                "id_str": "249409411",
+                "indices": [
+                    21,
+                    33
+                ]
+            },
+            {
+                "screen_name": "USAinKSA",
+                "name": "U.S. Mission to KSA",
+                "id": 226596397,
+                "id_str": "226596397",
+                "indices": [
+                    34,
+                    43
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151218394701713414,
+        "user": "WalMe7dar",
+        "user_location": "Jeddah, Makkah Al Mukarrama",
+        "date": "Tue Jul 16 19:53:48 +0000 2019",
+        "text": "I'm at OYA Lounge in Mohandiseen, Giza https://t.co/tLIKHyGDMy",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05167178,
+                31.20262572
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tLIKHyGDMy",
+                "expanded_url": "https://www.swarmapp.com/c/25C9kpwOE5J",
+                "display_url": "swarmapp.com/c/25C9kpwOE5J",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151199507243311104,
+        "user": "k_nm29",
+        "user_location": "    _kuwait,",
+        "date": "Tue Jul 16 18:38:45 +0000 2019",
+        "text": "I'm at Four Seasons Hotel Cairo at First Residence in Cairo, Mu\u1e29\u0101faz\u0327at al J\u012bzah https://t.co/dutKaO6Jq0",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.023935,
+                31.217282
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dutKaO6Jq0",
+                "expanded_url": "https://www.swarmapp.com/c/lO3su3PExP3",
+                "display_url": "swarmapp.com/c/lO3su3PExP3",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151187176513626112,
+        "user": "davidtalks772",
+        "user_location": "Cairo, Egypt ",
+        "date": "Tue Jul 16 17:49:45 +0000 2019",
+        "text": "Evening thoughts...best alone. @ Nile River Cairo Egyt https://t.co/qexd0JMHoi",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0432305,
+                31.23154667
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/qexd0JMHoi",
+                "expanded_url": "https://www.instagram.com/p/Bz_JLR5l-eL/?igshid=s0ezjswuqeqs",
+                "display_url": "instagram.com/p/Bz_JLR5l-eL/\u2026",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151176340726403072,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 16 17:06:42 +0000 2019",
+        "text": "current weather in Cairo: clear sky, 38\u00b0C\n21% humidity, wind 3kmh, pressure 1005mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151175106393067520,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 16 17:01:47 +0000 2019",
+        "text": "Cairo: 7:57pm: sunset",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151163124491444225,
+        "user": "abbeyliveradio",
+        "user_location": "London",
+        "date": "Tue Jul 16 16:14:11 +0000 2019",
+        "text": "With my new friend taking me to my next stop. @ Cairo, Egypt https://t.co/NKgUHWuotB",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NKgUHWuotB",
+                "expanded_url": "https://www.instagram.com/p/Bz--Pg2n87C/?igshid=w18h3tjmcss7",
+                "display_url": "instagram.com/p/Bz--Pg2n87C/\u2026",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151147880914309120,
+        "user": "wss_atar_yahooc",
+        "user_location": "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628 ",
+        "date": "Tue Jul 16 15:13:36 +0000 2019",
+        "text": "@realDonaldTrump Dear Trump. Refugees with disabilities.  They die.  Daily.  Because of the siege imposed on Syria,\u2026 https://t.co/yku3o1RORd",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/yku3o1RORd",
+                "expanded_url": "https://twitter.com/i/web/status/1151147880914309120",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151147853089316867,
+        "user": "wss_atar_yahooc",
+        "user_location": "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628 ",
+        "date": "Tue Jul 16 15:13:30 +0000 2019",
+        "text": "@realDonaldTrump Dear Trump. Refugees with disabilities.  They die.  Daily.  Because of the siege imposed on Syria,\u2026 https://t.co/598PYsJuT8",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/598PYsJuT8",
+                "expanded_url": "https://twitter.com/i/web/status/1151147853089316867",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151142547848228865,
+        "user": "bakarpuppet",
+        "user_location": "Cairo, Egypt  ",
+        "date": "Tue Jul 16 14:52:25 +0000 2019",
+        "text": "@bakarpuppet\n\nLearn, design, make and move. We design and manufacture puppets upon request. We provide whatever nee\u2026 https://t.co/KT134PkjGD",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0586134,
+                31.225183
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/KT134PkjGD",
+                "expanded_url": "https://twitter.com/i/web/status/1151142547848228865",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "bakarpuppet",
+                "name": "Mohamed Fawzy Bakkar",
+                "id": 2365942755,
+                "id_str": "2365942755",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151123922894479360,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Tue Jul 16 13:38:24 +0000 2019",
+        "text": "See our latest Cairo, Cairo Governorate, Egypt job opportunity and click the link in our bio to apply: Territory Sa\u2026 https://t.co/LmWmvhi5Y9",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/LmWmvhi5Y9",
+                "expanded_url": "https://twitter.com/i/web/status/1151123922894479360",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151119972774686720,
+        "user": "kably_",
+        "user_location": "",
+        "date": "Tue Jul 16 13:22:42 +0000 2019",
+        "text": "I'm at Giza in Giza https://t.co/okEAE9vTjm",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01701017,
+                31.21353149
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/okEAE9vTjm",
+                "expanded_url": "https://www.swarmapp.com/c/8q94bHqfTuM",
+                "display_url": "swarmapp.com/c/8q94bHqfTuM",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151118647898734592,
+        "user": "HANIYASSIN",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 16 13:17:27 +0000 2019",
+        "text": "Artist MOHAMED AL FAYOUMI (1963)\nMF016\nThe Quail II\n2014\nBronze \n38X45X30 cm\n\n\u201cEl Fayoumi's orginal art earned him\u2026 https://t.co/50oakqaLUH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06133514,
+                31.22278951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/50oakqaLUH",
+                "expanded_url": "https://twitter.com/i/web/status/1151118647898734592",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151102638030761984,
+        "user": "Alkandarii98",
+        "user_location": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+        "date": "Tue Jul 16 12:13:50 +0000 2019",
+        "text": "I'm at Kuwaiti Cultural Office in Dokki, Giza - Egypt https://t.co/s79EaBgOFW",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04065407,
+                31.21686332
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/s79EaBgOFW",
+                "expanded_url": "https://www.swarmapp.com/c/dj9O9b1Xr67",
+                "display_url": "swarmapp.com/c/dj9O9b1Xr67",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151101390053396481,
+        "user": "abbeyliveradio",
+        "user_location": "London",
+        "date": "Tue Jul 16 12:08:52 +0000 2019",
+        "text": "Nacimento want Ahmad out now. @ Cairo, Egypt https://t.co/hXxo48EUWx",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hXxo48EUWx",
+                "expanded_url": "https://www.instagram.com/p/Bz-iHE8n-8Y/?igshid=hi99qmff4ncv",
+                "display_url": "instagram.com/p/Bz-iHE8n-8Y/\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151088815819415552,
+        "user": "wss_atar_yahooc",
+        "user_location": "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628 ",
+        "date": "Tue Jul 16 11:18:54 +0000 2019",
+        "text": "@USAbilAraby @USAinKSA A cry to the whole world .. refugees with disabilities and their children are being killed i\u2026 https://t.co/Phnnb5eDJH",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Phnnb5eDJH",
+                "expanded_url": "https://twitter.com/i/web/status/1151088815819415552",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "USAbilAraby",
+                "name": "\u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+                "id": 249409411,
+                "id_str": "249409411",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "USAinKSA",
+                "name": "U.S. Mission to KSA",
+                "id": 226596397,
+                "id_str": "226596397",
+                "indices": [
+                    13,
+                    22
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151088779622526976,
+        "user": "wss_atar_yahooc",
+        "user_location": "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628 ",
+        "date": "Tue Jul 16 11:18:45 +0000 2019",
+        "text": "@IraqiPresidency @BarhamSalih A cry to the whole world .. refugees with disabilities and their children are being k\u2026 https://t.co/z8DadLeKMl",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/z8DadLeKMl",
+                "expanded_url": "https://twitter.com/i/web/status/1151088779622526976",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "IraqiPresidency",
+                "name": "\u0627\u0644\u0645\u0643\u062a\u0628 \u0627\u0644\u0627\u0639\u0644\u0627\u0645\u064a \u0644\u0631\u0626\u0627\u0633\u0629 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629",
+                "id": 1072152146563489793,
+                "id_str": "1072152146563489793",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "BarhamSalih",
+                "name": "Barham Salih",
+                "id": 34364681,
+                "id_str": "34364681",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151082868103237633,
+        "user": "abbeyliveradio",
+        "user_location": "London",
+        "date": "Tue Jul 16 10:55:16 +0000 2019",
+        "text": "Deliscious akara and bread meal in Cairo. Incredible.. @ Cairo, Egypt https://t.co/a0flgAygKn",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/a0flgAygKn",
+                "expanded_url": "https://www.instagram.com/p/Bz-ZvWZnN9B/?igshid=145ngtqv9rtg2",
+                "display_url": "instagram.com/p/Bz-ZvWZnN9B/\u2026",
+                "indices": [
+                    70,
+                    93
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151082833001115648,
+        "user": "tmj_egy_jobs",
+        "user_location": "Egypt",
+        "date": "Tue Jul 16 10:55:08 +0000 2019",
+        "text": "Want to work at IQVIA? We're hiring in #Cairo, Cairo Governorate! Click the link in our bio for details on this job\u2026 https://t.co/VYopsH3Sfd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/VYopsH3Sfd",
+                "expanded_url": "https://twitter.com/i/web/status/1151082833001115648",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151080487898746880,
+        "user": "OmarKhalifa84",
+        "user_location": "Zamalek, Egypt",
+        "date": "Tue Jul 16 10:45:49 +0000 2019",
+        "text": "Tell me about it, but by time you choose to deal with clients that you know will pay on time and stay away from the\u2026 https://t.co/IibqD4eSw8",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/IibqD4eSw8",
+                "expanded_url": "https://twitter.com/i/web/status/1151080487898746880",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151074464278491138,
+        "user": "aussiedave",
+        "user_location": "Atlanta, Georgia",
+        "date": "Tue Jul 16 10:21:52 +0000 2019",
+        "text": "\u2800\u2800\u2800 \u2800\u2800\nToday\u2019s devotion is very specifically aimed at some of you.\u2800\n\u2800\nThere\u2019s a story in the Bible when God tells A\u2026 https://t.co/KsqIVboZWC",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/KsqIVboZWC",
+                "expanded_url": "https://twitter.com/i/web/status/1151074464278491138",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151072146489257984,
+        "user": "YazeedBa45",
+        "user_location": "Jeddah",
+        "date": "Tue Jul 16 10:12:40 +0000 2019",
+        "text": "I'm at Hammer Strength Training Center https://t.co/JQMiR7C3Uh",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05964058,
+                31.2084558
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/JQMiR7C3Uh",
+                "expanded_url": "https://www.swarmapp.com/c/2QQHmggB0TX",
+                "display_url": "swarmapp.com/c/2QQHmggB0TX",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151053579844837377,
+        "user": "alinuhu",
+        "user_location": "10.52672,7.430597",
+        "date": "Tue Jul 16 08:58:53 +0000 2019",
+        "text": "Before you are a leader, success is all about growing yourself. When you become a leader, success is all about grow\u2026 https://t.co/URrDj9LjIn",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/URrDj9LjIn",
+                "expanded_url": "https://twitter.com/i/web/status/1151053579844837377",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151047120792817664,
+        "user": "BaheyaZeitoun",
+        "user_location": "Cairo",
+        "date": "Tue Jul 16 08:33:13 +0000 2019",
+        "text": "Her Anger\n\n#instapoet #femalepoet #femalewriter #thedarkerside #darkpoetry #femaleblogger #contemporarypoet\u2026 https://t.co/KCKrqFcVzH",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/KCKrqFcVzH",
+                "expanded_url": "https://twitter.com/i/web/status/1151047120792817664",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151029583518547968,
+        "user": "Duzi_Mdunge",
+        "user_location": "Joburg RSA-AFRICA",
+        "date": "Tue Jul 16 07:23:32 +0000 2019",
+        "text": "Saze sahlukumezeka\ud83c\udf3b Forecast of our last days in Cairo. @ Cairo, Egypt https://t.co/66VQP216G5",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/66VQP216G5",
+                "expanded_url": "https://www.instagram.com/p/Bz-BgVUjBCz/?igshid=3j4t0aqrqnhd",
+                "display_url": "instagram.com/p/Bz-BgVUjBCz/\u2026",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151027756198551553,
+        "user": "IQVIAcareers",
+        "user_location": "Global",
+        "date": "Tue Jul 16 07:16:16 +0000 2019",
+        "text": "Can you recommend anyone for this job in #Cairo, Cairo Governorate? https://t.co/bjDPFSGGiM #Finance",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0444196,
+                31.2357116
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/bjDPFSGGiM",
+                "expanded_url": "http://bit.ly/32vWrao",
+                "display_url": "bit.ly/32vWrao",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151024362184695808,
+        "user": "k_nm29",
+        "user_location": "    _kuwait,",
+        "date": "Tue Jul 16 07:02:47 +0000 2019",
+        "text": "I'm at Four Seasons Hotel Cairo at First Residence in Cairo, Mu\u1e29\u0101faz\u0327at al J\u012bzah https://t.co/ApeFu3zRbB",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.023935,
+                31.217282
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ApeFu3zRbB",
+                "expanded_url": "https://www.swarmapp.com/c/2x9kTHDD5ZN",
+                "display_url": "swarmapp.com/c/2x9kTHDD5ZN",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151009336627552256,
+        "user": "thejudahite",
+        "user_location": "In the Spirit",
+        "date": "Tue Jul 16 06:03:05 +0000 2019",
+        "text": "Facts you need to accept! @ Cairo, Egypt https://t.co/e3anXX33AX",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/e3anXX33AX",
+                "expanded_url": "https://www.instagram.com/p/Bz94Tqrnbmc/?igshid=1dtb0pcaw38id",
+                "display_url": "instagram.com/p/Bz94Tqrnbmc/\u2026",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151008747143258117,
+        "user": "HANIYASSIN",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 16 06:00:44 +0000 2019",
+        "text": "ARTIST SAMEH ISMAIL (1974)\nSA-REMINI-017 \n100x120 CM\nAcrylic on canvas \n2018\nsamehitawfik \n\n\u201cThe Arabic alphabet ha\u2026 https://t.co/jAHOLQcXj6",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06133514,
+                31.22278951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/jAHOLQcXj6",
+                "expanded_url": "https://twitter.com/i/web/status/1151008747143258117",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151007308349968384,
+        "user": "ZAMALEKGALLERY",
+        "user_location": "11 Brazil St, Zamalek, Cairo",
+        "date": "Tue Jul 16 05:55:01 +0000 2019",
+        "text": "Artist WAEL ABDEL SABOUR (1971)\n2016\nMixed Media - 60x90 cm\n\u201cWael Abdel Sabour, nature in its abstract context, has\u2026 https://t.co/T3oWC0Hrcj",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06133514,
+                31.22278951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/T3oWC0Hrcj",
+                "expanded_url": "https://twitter.com/i/web/status/1151007308349968384",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1151006216941985792,
+        "user": "_khaledbinmhed",
+        "user_location": "kuwait \\ cairo",
+        "date": "Tue Jul 16 05:50:41 +0000 2019",
+        "text": "Morning \ud83d\udc4f\ud83c\udffb (@ Hammer Strength Training Center) https://t.co/ZyrXsgRRjd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05964058,
+                31.2084558
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ZyrXsgRRjd",
+                "expanded_url": "https://www.swarmapp.com/c/dtUzhEZzeSu",
+                "display_url": "swarmapp.com/c/dtUzhEZzeSu",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1150991092541808641,
+        "user": "demakhalid1",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Tue Jul 16 04:50:35 +0000 2019",
+        "text": "I'm at Opal in Giza https://t.co/XYcIM522Pd",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02299759,
+                31.21866814
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/XYcIM522Pd",
+                "expanded_url": "https://www.swarmapp.com/c/l85nmdS6Lvr",
+                "display_url": "swarmapp.com/c/l85nmdS6Lvr",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1150951389209780224,
+        "user": "Ghz_ab",
+        "user_location": "",
+        "date": "Tue Jul 16 02:12:49 +0000 2019",
+        "text": "I'm at El-Sultana in Giza https://t.co/AogCKEnn4M",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06113733,
+                31.20711882
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/AogCKEnn4M",
+                "expanded_url": "https://www.swarmapp.com/c/4axItWDhJpK",
+                "display_url": "swarmapp.com/c/4axItWDhJpK",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1150939891573952512,
+        "user": "DVZ6Ik1GUFQ9pwK",
+        "user_location": "zamalek ",
+        "date": "Tue Jul 16 01:27:08 +0000 2019",
+        "text": "oh\u2026\nTokyo Olympic\u2026 https://t.co/inYKqwrJao",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/inYKqwrJao",
+                "expanded_url": "https://twitter.com/lolo_oro/status/1150901628951597056",
+                "display_url": "twitter.com/lolo_oro/statu\u2026",
+                "indices": [
+                    19,
+                    42
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1150938737540550656,
+        "user": "ghalyaaa6",
+        "user_location": "",
+        "date": "Tue Jul 16 01:22:33 +0000 2019",
+        "text": "I'm at Cortago https://t.co/sPw4vaWyzc",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05157089,
+                31.20876884
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sPw4vaWyzc",
+                "expanded_url": "https://www.swarmapp.com/c/0wEtdE5Offx",
+                "display_url": "swarmapp.com/c/0wEtdE5Offx",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Dokki"
+    },
+    {
+        "id": 1150937149451247616,
+        "user": "Bushraeldeeb_",
+        "user_location": " Mansoura                  ",
+        "date": "Tue Jul 16 01:16:14 +0000 2019",
+        "text": "RT @emaanaymann: Mood https://t.co/2VVqg3EuYU",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "emaanaymann",
+                "name": "Emi",
+                "id": 2283763901,
+                "id_str": "2283763901",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Dokki"
+    }
+]

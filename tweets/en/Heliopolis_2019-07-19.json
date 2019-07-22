@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1152358905072279557,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Fri Jul 19 23:25:47 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/sXIiLDeslU",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sXIiLDeslU",
+                "expanded_url": "https://www.swarmapp.com/c/8EcCYZ1lXcA",
+                "display_url": "swarmapp.com/c/8EcCYZ1lXcA",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1152342421335937024,
+        "user": "timmytimothy007",
+        "user_location": "lagos Nigeria",
+        "date": "Fri Jul 19 22:20:17 +0000 2019",
+        "text": "Few more days leave @ Holiday Inn Cairo Citystars https://t.co/ToysL89Cfw",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07414336,
+                31.34383283
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ToysL89Cfw",
+                "expanded_url": "https://www.instagram.com/p/B0HWhnAHhtO/?igshid=1a47ixun8nnw6",
+                "display_url": "instagram.com/p/B0HWhnAHhtO/\u2026",
+                "indices": [
+                    50,
+                    73
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1152338222518812672,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Fri Jul 19 22:03:36 +0000 2019",
+        "text": "@umnaamr I dont get what u mean by copyright",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "umnaamr",
+                "name": "Youms",
+                "id": 802287895511961601,
+                "id_str": "802287895511961601",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    }
+]
