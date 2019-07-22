@@ -5,6 +5,7 @@ from nltk.sentiment.util import mark_negation
 from unicodedata import category
 from nltk.stem import PorterStemmer
 import re
+import farasa
 
 from contractions import contractions
 
@@ -31,9 +32,12 @@ def process(tweet):
         urls = []
     
     text = filter_tweet(text, mentions, urls)
+    [text, emoji_text] = separate_emojis(text)
+
     if lang == 'ar':
+        farasa.lemmatize(text)
         text = remove_arabic_variants(text)
-    text = separate_emojis(text)
+        text = text + " " + " ".join(emoji_text)
     if(lang == 'en'):
         text = expand_contractions(text)
     text = remove_stopwords(text, lang)
@@ -45,6 +49,7 @@ def process(tweet):
         text = stem_words(text)
     # if(old_text != text):
     #     print('old text: %s, new text: %s' %(tweet['text'], ' '.join(text)))
+    print(text)
     return text
 
 def remove_arabic_variants(text):
@@ -54,6 +59,8 @@ def remove_arabic_variants(text):
     return text
 
 def separate_emojis(text):
+
+    emoji_text = []
     for emoji in UNICODE_EMOJI.keys():
         last_index = 0
         while True:
@@ -61,10 +68,12 @@ def separate_emojis(text):
                 next_index = text.index(emoji, last_index)
                 last_index = next_index + len(emoji) + 3
                 text = text[0:next_index] + ' ' + emoji + ' ' + text[next_index+len(emoji):len(text)]
+                emoji_text.append(emoji)
             except ValueError:
                 break
-    
-    return text
+    for emoji in emoji_text:
+        text = text.replace(emoji, "")
+    return [text, emoji_text]
 
 def filter_tweet(text, mentions, urls):
     for item in mentions + urls:

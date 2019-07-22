@@ -54,9 +54,9 @@ def add_new_tweets(new_tweets):
     df.to_pickle('./tweets.pkl')
 
 
-dates = ["2019-07-16", "2019-07-20"]
-new_tweets = run_specific_date(dates)
-df = pd.read_pickle('./tweets.pkl')
-df2 = pd.read_pickle('./new_tweets_added.pkl')
+#dates = ["2019-07-16", "2019-07-20"]
+#new_tweets = run_specific_date(dates)
+#df = pd.read_pickle('./tweets.pkl')
+#df2 = pd.read_pickle('./new_tweets_added.pkl')
 
-classify_one('i like burger', 'en')
+x = classify_one("RT @AssiellMustafa: +1 والله ، أنا بشكركوا جدا أنا من غيركو نثينج ربنا يخليكوا ليا 😂😂❤❤❤ https://t.co/m6AkXM0n6k", 'ar')
