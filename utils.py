@@ -31,24 +31,39 @@ def process(tweet):
         mentions = []
         urls = []
     
+    # remove mentions and urls from tweets
     text = filter_tweet(text, mentions, urls)
+
+    # seperate emojis and text
     [text, emoji_text] = separate_emojis(text)
 
-    if lang == 'ar':
-        farasa.lemmatize(text)
-        text = remove_arabic_variants(text)
-        text = text + " " + " ".join(emoji_text)
-    if(lang == 'en'):
+    # remove English contractions
+    if lang == 'en':
         text = expand_contractions(text)
+    
+    if lang == 'ar':   
+        text = remove_arabic_variants(text)
+    
+    #remove stop words
     text = remove_stopwords(text, lang)
-    text = mark_negation(text)
+
+    # mark negations and remove punctuation from text
+    if lang == 'en':
+        text = mark_negation(text)
     text = remove_punct(text)
+
+    # normalize text by removing repetions and steming
     # old_text = text
     text = normalize_repititions(text, lang)
-    if(lang == 'en'):
+    if lang == 'ar':
+        text = farasa.lemmatize(text)
+    if lang == 'en':
         text = stem_words(text)
     # if(old_text != text):
     #     print('old text: %s, new text: %s' %(tweet['text'], ' '.join(text)))
+    
+    text += emoji_text
+
     print(text)
     return text
 
@@ -120,7 +135,7 @@ def remove_punct(text):
     for word in text:
         original_word = word
         for c in word:
-            if (category(c).startswith('P') or category(c) in ['Cf', 'Mn'] )and c not in ['?','!']:
+            if (category(c).startswith('P') or category(c).startswith('C') or category(c).startswith('M') or category(c).startswith('S')) and c not in ['?','!']:
                 word = word.replace(c,'')
 
         # removing odd punctuation

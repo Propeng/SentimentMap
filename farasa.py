@@ -17,9 +17,10 @@ f1 = JClass('com.qcri.farasa.segmenter.Farasa')
 farasa = f1()
 
 def lemmatize(sentence):
-    x = farasa.lemmatizeLine(sentence)
-    print(x)
-    lemmatized = " ".join(x)
+    sentence = " ".join(sentence)
+    print(sentence)
+    lemmatized = farasa.lemmatizeLine(sentence)
+    lemmatized = list(lemmatized)
     return lemmatized
 
 def shutdown():
