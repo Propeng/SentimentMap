@@ -6,7 +6,7 @@ from matplotlib.colors import *
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 import geopandas as gpd
 from shapely.geometry import Point, Polygon
-from regions import regions
+from regions import regions as r
 
 KM_PER_LAT = 110.574
 pos_color = (0,1,0)
@@ -47,7 +47,7 @@ def filter_precise_location(df):
     precise = []
     for index, tweet in df.iterrows():
         if tweet['geo'] != None:
-            region = list(filter(lambda r: r['name'] == tweet['region'], regions))[0]
+            region = list(filter(lambda r: r['name'] == tweet['region'], r))[0]
 
             coords = tweet['geo']['coordinates']
             lat = coords[0]
@@ -64,7 +64,7 @@ def filter_precise_location(df):
                 precise.append(tweet)
 
     print("Tweets with coords", len(precise))
-    print("All tweets", len(df['geo']))
+    #print("All tweets", len(df['geo']))
     return precise
 
 #Get plot bounds
@@ -74,8 +74,15 @@ def get_plot_bounds(regions):
     max_lat = None
     min_long = None
     max_long = None
-
+    
+    temp = []
+    for reg in r:
+        if reg['name'] in regions:
+            temp.append(reg)
+    regions = temp
+    
     for region in regions:
+       
         geo = region['geocode'].split(',')
         region_lat = float(geo[0])
         region_long = float(geo[1])
@@ -108,6 +115,12 @@ def plot(new_tweets, regions):
     precise = filter_precise_location(new_tweets)
     bounds = get_plot_bounds(regions)
     
+    temp = []
+    for reg in r:
+        if reg['name'] in regions:
+            temp.append(reg)
+    regions = temp
+    
     #Load plot arrays
     plot_x = []
     plot_y = []
@@ -139,6 +152,7 @@ def plot(new_tweets, regions):
     plt.scatter(plot_x, plot_y, s=10, c=plot_c, cmap=cmap, vmin=0, vmax=1)
 
     for region in regions:
+        print(region)
         geo = region['geocode'].split(',')
         
         lat = float(geo[0])
@@ -167,7 +181,7 @@ def plot(new_tweets, regions):
 
 if __name__ == "__main__":
     df = pd.read_pickle('tweets.pkl')
-    avgs = get_avg(df)
-    precise = filter_precise_location(df)
-    bounds = get_plot_bounds(regions)
-    plot(avgs, precise, bounds)
+    regions = ["New Cairo", "Dokki", "Heliopolis", "Abbaseya"]
+    plot(df, regions)
+    
+

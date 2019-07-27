@@ -3,8 +3,6 @@ from twython import Twython
 import json
 import pandas as pd
 from datetime import date, timedelta
-
-import utils
 from regions import regions
 
 print("Tweets will be fetched for the days", str(date.today() - timedelta(days=7)),
@@ -70,13 +68,15 @@ def collect(days, languages):
                     json.dump(region['tweets'][day], tweets_file, indent=4)
 
 
-days = 6
-languages = ['en', 'ar']
-collect(days, languages)
-
-# Structure data in a pandas DataFrame for easier manipulation
-#df = pd.DataFrame(dict_)
-#df.sort_values(by='favorite_count', inplace=True, ascending=False)
-#df.head(5)
-
-print('done')
+if __name__ == "__main__":
+    # Collect tweets from last 7 days
+    days = 7
+    languages = ['en', 'ar']
+    collect(days, languages)
+    
+    # Structure data in a pandas DataFrame for easier manipulation
+    #df = pd.DataFrame(dict_)
+    #df.sort_values(by='favorite_count', inplace=True, ascending=False)
+    #df.head(5)
+    
+    print('done')
