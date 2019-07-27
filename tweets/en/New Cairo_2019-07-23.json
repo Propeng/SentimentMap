@@ -1,0 +1,1842 @@
+[
+    {
+        "id": 1153816334116913152,
+        "user": "mburinestrad",
+        "user_location": "",
+        "date": "Tue Jul 23 23:57:05 +0000 2019",
+        "text": "RT @sha3rwy: Pain was there for me when everybody else wasn't.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "sha3rwy",
+                "name": "KHALED SHARAWY,",
+                "id": 2679693630,
+                "id_str": "2679693630",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153816185193955328,
+        "user": "VII_LXII_LI",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 23:56:30 +0000 2019",
+        "text": "True  https://t.co/dkUdVQoKob",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dkUdVQoKob",
+                "expanded_url": "https://twitter.com/urfavnadine/status/1153815458576920577",
+                "display_url": "twitter.com/urfavnadine/st\u2026",
+                "indices": [
+                    6,
+                    29
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153812813170659328,
+        "user": "ahmedhosam74",
+        "user_location": "mahalla",
+        "date": "Tue Jul 23 23:43:06 +0000 2019",
+        "text": "RT @AsMeruu: @ahmedhosam74 Look who\u2019s talking\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2728",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AsMeruu",
+                "name": "M.",
+                "id": 873262608949882881,
+                "id_str": "873262608949882881",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "ahmedhosam74",
+                "name": "ahmed hosam",
+                "id": 702112389660024832,
+                "id_str": "702112389660024832",
+                "indices": [
+                    13,
+                    26
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153812030282878979,
+        "user": "AsMeruu",
+        "user_location": "New Cairo Egypt",
+        "date": "Tue Jul 23 23:39:59 +0000 2019",
+        "text": "@ahmedhosam74 Look who\u2019s talking\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2728",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ahmedhosam74",
+                "name": "ahmed hosam",
+                "id": 702112389660024832,
+                "id_str": "702112389660024832",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153811172639956992,
+        "user": "QveenNayyy__",
+        "user_location": "Deerfield Beach, FL",
+        "date": "Tue Jul 23 23:36:34 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153810610494169089,
+        "user": "DineroChick_",
+        "user_location": "",
+        "date": "Tue Jul 23 23:34:20 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153794354449772551,
+        "user": "carol_osn",
+        "user_location": "New York, USA",
+        "date": "Tue Jul 23 22:29:45 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153794022760075265,
+        "user": "abbykibbe",
+        "user_location": "",
+        "date": "Tue Jul 23 22:28:26 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153784704513953793,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 23 21:51:24 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/mZgQKp1fa5",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/mZgQKp1fa5",
+                "expanded_url": "https://www.swarmapp.com/c/lR69Nyea5vp",
+                "display_url": "swarmapp.com/c/lR69Nyea5vp",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153775945528086529,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 21:16:36 +0000 2019",
+        "text": "Y\u2019all \ud83d\udc80\ud83d\udc80\ud83d\udc80 https://t.co/dRdktGdBz8",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dRdktGdBz8",
+                "expanded_url": "https://twitter.com/3brahmanism/status/1153662079318089728",
+                "display_url": "twitter.com/3brahmanism/st\u2026",
+                "indices": [
+                    10,
+                    33
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153769430469545984,
+        "user": "xosantos7",
+        "user_location": "North Carolina, USA",
+        "date": "Tue Jul 23 20:50:42 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153753561857241088,
+        "user": "Mamiana_92",
+        "user_location": "",
+        "date": "Tue Jul 23 19:47:39 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153749468581433349,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 23 19:31:23 +0000 2019",
+        "text": "I'm at Shocks Burger in New Cairo, Cairo https://t.co/aXXeYcuINm",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0421134,
+                31.47528895
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aXXeYcuINm",
+                "expanded_url": "https://www.swarmapp.com/c/5xlSMi3CqjC",
+                "display_url": "swarmapp.com/c/5xlSMi3CqjC",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153749415510892546,
+        "user": "DavidJordan_23",
+        "user_location": "",
+        "date": "Tue Jul 23 19:31:10 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153746186936864768,
+        "user": "chill_itsapril",
+        "user_location": "",
+        "date": "Tue Jul 23 19:18:21 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153746022495133698,
+        "user": "NourHesham7",
+        "user_location": "New cairo, Egypt. ",
+        "date": "Tue Jul 23 19:17:41 +0000 2019",
+        "text": "Are for revenge https://t.co/lM8e4tttW7",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/lM8e4tttW7",
+                "expanded_url": "https://twitter.com/memennaps/status/1153444636377178112",
+                "display_url": "twitter.com/memennaps/stat\u2026",
+                "indices": [
+                    16,
+                    39
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153744460167176193,
+        "user": "ovoxoboy6",
+        "user_location": "FLIP THE SWITCH",
+        "date": "Tue Jul 23 19:11:29 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153744222375305216,
+        "user": "moodyunited",
+        "user_location": "new cairo",
+        "date": "Tue Jul 23 19:10:32 +0000 2019",
+        "text": "@CinemaGuide rest in peace",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "CinemaGuide",
+                "name": "Cinema Guide",
+                "id": 372236876,
+                "id_str": "372236876",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153740722174078977,
+        "user": "nurhans3eed",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 18:56:38 +0000 2019",
+        "text": "I just got Curious Cat, ask me anything! https://t.co/wIKLz6o1ox",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/wIKLz6o1ox",
+                "expanded_url": "https://curiouscat.me/nurhans3eed?t=1563908198",
+                "display_url": "curiouscat.me/nurhans3eed?t=\u2026",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153739706854772736,
+        "user": "sh244Random",
+        "user_location": "\u0627\u0647\u0648 \u0645\u0643\u0627\u0646 ",
+        "date": "Tue Jul 23 18:52:36 +0000 2019",
+        "text": "RT @FaDyPhilip2: @sh244Random Queens NYC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "FaDyPhilip2",
+                "name": "Fady",
+                "id": 429356578,
+                "id_str": "429356578",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "sh244Random",
+                "name": "Random!",
+                "id": 262688974,
+                "id_str": "262688974",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153739586608291844,
+        "user": "FaDyPhilip2",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 18:52:07 +0000 2019",
+        "text": "@sh244Random Queens NYC",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "sh244Random",
+                "name": "Random!",
+                "id": 262688974,
+                "id_str": "262688974",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153738728948600832,
+        "user": "_thoughtlessq",
+        "user_location": "THE LITTLE VOICE YOUR HEAD",
+        "date": "Tue Jul 23 18:48:43 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153738614616068097,
+        "user": "sweetashoneyy3",
+        "user_location": "North Carolina, USA",
+        "date": "Tue Jul 23 18:48:15 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153728167770673152,
+        "user": "ElMonosh",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 23 18:06:45 +0000 2019",
+        "text": "Ex-Midrange Reunion \ud83d\udc9e\n#DellEMC #VMware #OCB @ Citystars https://t.co/tVmSvQ20Av",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07325354,
+                31.34573221
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tVmSvQ20Av",
+                "expanded_url": "https://www.instagram.com/p/B0RMsBpnu3B/?igshid=nuo8w1fzd1pz",
+                "display_url": "instagram.com/p/B0RMsBpnu3B/\u2026",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153726546068291584,
+        "user": "zeiny10",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 18:00:18 +0000 2019",
+        "text": "My week on Twitter \ud83c\udf89: 3 Mentions, 3 Likes, 7 Retweets, 13.4K Retweet Reach, 1 New Follower. See yours with\u2026 https://t.co/pDzcNYeNO0",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pDzcNYeNO0",
+                "expanded_url": "https://twitter.com/i/web/status/1153726546068291584",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153725105803075585,
+        "user": "AsMeruu",
+        "user_location": "New Cairo Egypt",
+        "date": "Tue Jul 23 17:54:35 +0000 2019",
+        "text": "Its too late to care",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153720479565406208,
+        "user": "Rahma_mousa11",
+        "user_location": "Damita,Egypt",
+        "date": "Tue Jul 23 17:36:12 +0000 2019",
+        "text": "RT @yasminessamsh98: My dad deserves the whole world, I really don\u2019t deserve him :( https://t.co/cLDIScoJKb",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cLDIScoJKb",
+                "expanded_url": "https://twitter.com/rahma_mousa11/status/1153096486080716801",
+                "display_url": "twitter.com/rahma_mousa11/\u2026",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "yasminessamsh98",
+                "name": "YasminEssam",
+                "id": 626746528,
+                "id_str": "626746528",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153715984206913536,
+        "user": "MarwanUsif",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 17:18:20 +0000 2019",
+        "text": "What would happen if the whole world dropped MDMA at the same time, an exciting what iff",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153713856247750658,
+        "user": "MarwanUsif",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 17:09:52 +0000 2019",
+        "text": "Let's build a AI that mimics your favorite dj and plays music like him/her whenever you wantt.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153713335285817344,
+        "user": "MarwanUsif",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 17:07:48 +0000 2019",
+        "text": "Qatari people know how much their former king and the present king are doing to make Qatar a better place, we just blinded by nationalism...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153712769574854657,
+        "user": "MarwanUsif",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 17:05:33 +0000 2019",
+        "text": "Trending in Egypt #\u0645\u0628\u0627\u0634\u0631_\u0642\u0637\u0631_\u062a\u0637\u0644\u0628_\u0645\u062d\u0627\u0643\u0645\u0647_\u062a\u0645\u064a\u0645 , its quiete funny; people from all over the middle east are tweeting except Qatari people.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153712569745584128,
+        "user": "Saraaah177",
+        "user_location": "+966",
+        "date": "Tue Jul 23 17:04:46 +0000 2019",
+        "text": "I'm at New Cairo Club in New Cairo https://t.co/9l4CK9XPPI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.01197021,
+                31.52446352
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9l4CK9XPPI",
+                "expanded_url": "https://www.swarmapp.com/c/2wWvqyQk6sK",
+                "display_url": "swarmapp.com/c/2wWvqyQk6sK",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153712233656004609,
+        "user": "moodyunited",
+        "user_location": "new cairo",
+        "date": "Tue Jul 23 17:03:26 +0000 2019",
+        "text": "@itsTheShosha that's finally an entertainment way to spend your time",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "itsTheShosha",
+                "name": "Shimaa.",
+                "id": 444727663,
+                "id_str": "444727663",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153710848814268417,
+        "user": "M_Lagunas11",
+        "user_location": "",
+        "date": "Tue Jul 23 16:57:55 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153710141847605250,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 16:55:07 +0000 2019",
+        "text": "The only man I claim tho lol",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153709768940412928,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 16:53:38 +0000 2019",
+        "text": "My dad deserves the whole world, I really don\u2019t deserve him :( https://t.co/cLDIScoJKb",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/cLDIScoJKb",
+                "expanded_url": "https://twitter.com/rahma_mousa11/status/1153096486080716801",
+                "display_url": "twitter.com/rahma_mousa11/\u2026",
+                "indices": [
+                    63,
+                    86
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153707376127729664,
+        "user": "kayehia",
+        "user_location": "Egypt",
+        "date": "Tue Jul 23 16:44:07 +0000 2019",
+        "text": "I'm at Dr. Ahmed Abdel Azim Clinic in Al Moqattam, Cairo https://t.co/9zo7upZGsS",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.010401,
+                31.303807
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/9zo7upZGsS",
+                "expanded_url": "https://www.swarmapp.com/c/2aLr7kTpy1W",
+                "display_url": "swarmapp.com/c/2aLr7kTpy1W",
+                "indices": [
+                    57,
+                    80
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153705417677189120,
+        "user": "yasminessamsh98",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 16:36:21 +0000 2019",
+        "text": "@Amiraa3laa @AbuYoshi AHHZHSBSHSH yoo this is literally meee\ud83d\udc80\ud83d\udc80",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Amiraa3laa",
+                "name": "Amiraaaa",
+                "id": 253186591,
+                "id_str": "253186591",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "AbuYoshi",
+                "name": "\ud83c\uddf5\ud83c\uddf8 Maleek Eid \ud83c\uddf5\ud83c\uddf8",
+                "id": 3861501734,
+                "id_str": "3861501734",
+                "indices": [
+                    12,
+                    21
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153705209799028741,
+        "user": "meyamcKinley",
+        "user_location": "Milwaukee, WI",
+        "date": "Tue Jul 23 16:35:31 +0000 2019",
+        "text": "RT @PrettyHurrt: The come back is always stronger than the setback.\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153704270644043776,
+        "user": "ErrequeT",
+        "user_location": "",
+        "date": "Tue Jul 23 16:31:47 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153704213949669377,
+        "user": "ErrequeT",
+        "user_location": "",
+        "date": "Tue Jul 23 16:31:34 +0000 2019",
+        "text": "RT @PrettyHurrt: The come back is always stronger than the setback.\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153702179548647424,
+        "user": "QuotePagesss",
+        "user_location": "",
+        "date": "Tue Jul 23 16:23:29 +0000 2019",
+        "text": "RT @PrettyHurrt: The come back is always stronger than the setback.\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153702165589954561,
+        "user": "QuotePagesss",
+        "user_location": "",
+        "date": "Tue Jul 23 16:23:25 +0000 2019",
+        "text": "RT @PrettyHurrt: I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153699099537022977,
+        "user": "PrettyHurrt",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 16:11:14 +0000 2019",
+        "text": "I respect people with real intentions who tell me the truth.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153692805367304195,
+        "user": "inais__",
+        "user_location": "Philadelphia, PA",
+        "date": "Tue Jul 23 15:46:14 +0000 2019",
+        "text": "RT @PrettyHurrt: People get so upset when you don't let them use you.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "P\ud83c\udf3b",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153692121049784323,
+        "user": "babykayrob",
+        "user_location": "",
+        "date": "Tue Jul 23 15:43:30 +0000 2019",
+        "text": "RT @PrettyHurrt: People get so upset when you don't let them use you.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "P\ud83c\udf3b",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153691932146708481,
+        "user": "PrettyHurrt",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 15:42:45 +0000 2019",
+        "text": "RT @PrettyHurrt: People get so upset when you don't let them use you.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153691772591202304,
+        "user": "mahytabmohameed",
+        "user_location": "New cairo city",
+        "date": "Tue Jul 23 15:42:07 +0000 2019",
+        "text": "Current mood: https://t.co/uZJJPyPh3P",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153688799999864832,
+        "user": "boody2411",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 15:30:19 +0000 2019",
+        "text": "@YasmenAtif Cartoon ezay y3ny\ud83d\ude02\ud83d\udc18",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "YasmenAtif",
+                "name": "yasmen atif",
+                "id": 3046609840,
+                "id_str": "3046609840",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153686762235019264,
+        "user": "WafaaMH",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 15:22:13 +0000 2019",
+        "text": "Hallo Friends,\n\nMy brother is just graduated from faculty of Computer Science Al-Sherouk Academy.\nHis grade is Very\u2026 https://t.co/C1qh1dktSm",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/C1qh1dktSm",
+                "expanded_url": "https://twitter.com/i/web/status/1153686762235019264",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153683530695827456,
+        "user": "_LanaeDaBoss",
+        "user_location": "",
+        "date": "Tue Jul 23 15:09:22 +0000 2019",
+        "text": "RT @PrettyHurrt: The come back is always stronger than the setback.\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153681698141429760,
+        "user": "carol_osn",
+        "user_location": "New York, USA",
+        "date": "Tue Jul 23 15:02:05 +0000 2019",
+        "text": "RT @PrettyHurrt: The come back is always stronger than the setback.\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153680365413904386,
+        "user": "emanashmawi96",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 14:56:48 +0000 2019",
+        "text": "@zahraayman9 Welcome back ya gamil \u2665\ufe0f",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "zahraayman9",
+                "name": "Heroin\ud83c\udf38\ud83c\udf0e",
+                "id": 3045986865,
+                "id_str": "3045986865",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153674856187269121,
+        "user": "BasantMemo",
+        "user_location": "al mukattam city ",
+        "date": "Tue Jul 23 14:34:54 +0000 2019",
+        "text": "\"i don't care how close you are ,In the end your friends are gonna let you down\"\n\u2013Tony Soprano https://t.co/PiXbYP9hwc",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/PiXbYP9hwc",
+                "expanded_url": "https://twitter.com/HosamOsman44/status/1153085818925387782",
+                "display_url": "twitter.com/HosamOsman44/s\u2026",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153671612899692545,
+        "user": "FaDyPhilip2",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 14:22:01 +0000 2019",
+        "text": "@Jerrypleasure tell me who is a good boy? https://t.co/JGOhk3XPDX",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Jerrypleasure",
+                "name": "Jerry",
+                "id": 3177913382,
+                "id_str": "3177913382",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153665129868857344,
+        "user": "_Reaamj",
+        "user_location": "Jeddah",
+        "date": "Tue Jul 23 13:56:15 +0000 2019",
+        "text": "I'm at @CityStarsMall in Heliopolis, Heliopolis, Cairo - Egypt w/ @wehadj https://t.co/m08VyxP9ji",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07386553,
+                31.34607421
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/m08VyxP9ji",
+                "expanded_url": "https://www.swarmapp.com/c/5cBmNvfMG6E",
+                "display_url": "swarmapp.com/c/5cBmNvfMG6E",
+                "indices": [
+                    74,
+                    97
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CitystarsMall",
+                "name": "Citystars",
+                "id": 2960087559,
+                "id_str": "2960087559",
+                "indices": [
+                    7,
+                    21
+                ]
+            },
+            {
+                "screen_name": "Wehadj",
+                "name": "\u0648\u0650\u0647\u0627\u062f\ud83c\udf88",
+                "id": 955259365,
+                "id_str": "955259365",
+                "indices": [
+                    66,
+                    73
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153663604652220416,
+        "user": "PrettyHurrt",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 13:50:12 +0000 2019",
+        "text": "The come back is always stronger than the setback.\u203c",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153658059492909056,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 23 13:28:09 +0000 2019",
+        "text": "I'm at Costa Coffee in New Cairo, Mu\u1e29\u0101faz\u0327at al Q\u0101hirah https://t.co/H1duYqdQU9",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05464545,
+                31.49233269
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/H1duYqdQU9",
+                "expanded_url": "https://www.swarmapp.com/c/kG2A5okd8fb",
+                "display_url": "swarmapp.com/c/kG2A5okd8fb",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153657945521098752,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 23 13:27:42 +0000 2019",
+        "text": "I'm at City Square in New Cairo, Cairo https://t.co/O6E3qU79F8",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05469475,
+                31.49228316
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/O6E3qU79F8",
+                "expanded_url": "https://www.swarmapp.com/c/9sQzscQmGk9",
+                "display_url": "swarmapp.com/c/9sQzscQmGk9",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153657693548306433,
+        "user": "hoda_abuagam",
+        "user_location": "New Cairo, Egypt.",
+        "date": "Tue Jul 23 13:26:42 +0000 2019",
+        "text": "\u201cIf it costs you your peace, it\u2019s too expensive.\u201d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153657624874934272,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Tue Jul 23 13:26:26 +0000 2019",
+        "text": "I'm at Al-Rehab City in Cairo https://t.co/sxx2IZ9K8G",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0698739,
+                31.48342609
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sxx2IZ9K8G",
+                "expanded_url": "https://www.swarmapp.com/c/lhGVCBPXnv3",
+                "display_url": "swarmapp.com/c/lhGVCBPXnv3",
+                "indices": [
+                    30,
+                    53
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153653989193293824,
+        "user": "MahinazAhmed",
+        "user_location": "",
+        "date": "Tue Jul 23 13:11:59 +0000 2019",
+        "text": "Just posted a photo @ Andiamo Pizza Garden &amp; Club https://t.co/pAUfD1KkSi",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02445106,
+                31.45452261
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/pAUfD1KkSi",
+                "expanded_url": "https://www.instagram.com/p/B0Qq7OphgW_QVw_WmFXD9b6wsgsPu1ToU5vopo0/?igshid=1wt47itrqetpe",
+                "display_url": "instagram.com/p/B0Qq7OphgW_Q\u2026",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153635509505351680,
+        "user": "abdulazizhashad",
+        "user_location": "Mukattam",
+        "date": "Tue Jul 23 11:58:33 +0000 2019",
+        "text": "@DaliaSelim77 You know im not good at arabic",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "DaliaSelim77",
+                "name": "Dalia Selim \ud83c\udf38",
+                "id": 900076473763205121,
+                "id_str": "900076473763205121",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153631271383425024,
+        "user": "shopcakesbakes",
+        "user_location": "new cairo ",
+        "date": "Tue Jul 23 11:41:43 +0000 2019",
+        "text": "A special offer for alexandria citizens tomorrow...ask for it \nWhatsapp 01146910860\n\n#cinnamonrolls #cinnamoroll\u2026 https://t.co/Fq4r8Enyew",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Fq4r8Enyew",
+                "expanded_url": "https://twitter.com/i/web/status/1153631271383425024",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153627247598682112,
+        "user": "MahinazAhmed",
+        "user_location": "",
+        "date": "Tue Jul 23 11:25:43 +0000 2019",
+        "text": "My bestest bestfriend \ud83d\udc6f\u200d\u2640\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f @ Andiamo Pizza Garden &amp; Club https://t.co/dBLbIJHcCv",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02445106,
+                31.45452261
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dBLbIJHcCv",
+                "expanded_url": "https://www.instagram.com/p/B0QexYUhgq6ZspF9osc1zyeNvWVZxIaPxZ-iU00/?igshid=1tcha33gw046h",
+                "display_url": "instagram.com/p/B0QexYUhgq6Z\u2026",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153625585647792128,
+        "user": "BdellrahmanA",
+        "user_location": "Al-mukattam city ",
+        "date": "Tue Jul 23 11:19:07 +0000 2019",
+        "text": "@Mohammedmgdyi Id yakbeer must \ud83d\ude02",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mohammedmgdyi",
+                "name": "\u0645\u0627\u0627\u0627\u0627\u062c\u062f\u0649.",
+                "id": 3369183790,
+                "id_str": "3369183790",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153608095500603397,
+        "user": "Marvoich",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 10:09:37 +0000 2019",
+        "text": "Acquiring knowledge is more than just memorization. You need t... More for Aquarius https://t.co/vqgUNOc4mM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/vqgUNOc4mM",
+                "expanded_url": "http://bit.ly/whBNNw",
+                "display_url": "bit.ly/whBNNw",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153605875627646976,
+        "user": "DanielYousri",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 10:00:48 +0000 2019",
+        "text": "@Adirafff Good morning Ya basha",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Adirafff",
+                "name": "Farida",
+                "id": 395803164,
+                "id_str": "395803164",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153601588864458753,
+        "user": "amiiashraf1",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 09:43:46 +0000 2019",
+        "text": "And big tasty sauce https://t.co/577zH5JmYU",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/577zH5JmYU",
+                "expanded_url": "https://twitter.com/eldissou/status/1153292568366583809",
+                "display_url": "twitter.com/eldissou/statu\u2026",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153601289839943681,
+        "user": "amiiashraf1",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 09:42:35 +0000 2019",
+        "text": "@EtisalatMisr check ur dm please",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "EtisalatMisr",
+                "name": "Etisalat Misr",
+                "id": 137270270,
+                "id_str": "137270270",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153596780476432385,
+        "user": "timmytimothy007",
+        "user_location": "lagos Nigeria",
+        "date": "Tue Jul 23 09:24:39 +0000 2019",
+        "text": "Time to go home \ud83c\udfe0...  Chai that country wey no get light. \ud83d\ude15 @ Cairo Festival City https://t.co/Du4TVnS6lI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.02796804,
+                31.40841951
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/Du4TVnS6lI",
+                "expanded_url": "https://www.instagram.com/p/B0QQ8K1n-ja/?igshid=nnk6mfdpb5hr",
+                "display_url": "instagram.com/p/B0QQ8K1n-ja/\u2026",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153591334365728768,
+        "user": "Mr_A7medSayed",
+        "user_location": "new cairo",
+        "date": "Tue Jul 23 09:03:01 +0000 2019",
+        "text": "@Cars_Pickett16 \nI am Egyptian Journalist, and i want to communicate with you for the image that spread in the soci\u2026 https://t.co/aYrisGoJde",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aYrisGoJde",
+                "expanded_url": "https://twitter.com/i/web/status/1153591334365728768",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Cars_Pickett16",
+                "name": "Carson Pickett",
+                "id": 633121248,
+                "id_str": "633121248",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153560958142484480,
+        "user": "zeiny10",
+        "user_location": "New Cairo",
+        "date": "Tue Jul 23 07:02:19 +0000 2019",
+        "text": "Our biggest fans this week: RwanMFahmey, faridamuhamed_, Mahynasser2. Thank you! via https://t.co/HV62zRXg5H https://t.co/lvqM6OJzhf",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/HV62zRXg5H",
+                "expanded_url": "https://sumall.com/thankyou?utm_source=twitter&utm_medium=publishing&utm_campaign=thank_you_tweet&utm_content=text_and_media&utm_term=ea4bebf8eb8f4a6a62b90ba8",
+                "display_url": "sumall.com/thankyou?utm_s\u2026",
+                "indices": [
+                    85,
+                    108
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153534862936219648,
+        "user": "RubaAbuzeid",
+        "user_location": "New Cairo, Egypt",
+        "date": "Tue Jul 23 05:18:37 +0000 2019",
+        "text": "@Omarmohameid Happy birthdaaay \ud83c\udf89\ud83c\udf89\ud83d\ude07",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Omarmohameid",
+                "name": "\u0639\u0645\u0631",
+                "id": 1232703835,
+                "id_str": "1232703835",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153528140792246272,
+        "user": "lexxlol_",
+        "user_location": "Coral Springs, FL",
+        "date": "Tue Jul 23 04:51:54 +0000 2019",
+        "text": "RT @PrettyHurrt: A bitch hate different when she used to be your friend.",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "PrettyHurrt",
+                "name": "\ud83d\udda4\ud83d\udc51Princess\ud83d\udc51\ud83d\udda4",
+                "id": 3374285397,
+                "id_str": "3374285397",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153506460741054465,
+        "user": "sheriff_99_yt",
+        "user_location": "new cairo ",
+        "date": "Tue Jul 23 03:25:46 +0000 2019",
+        "text": "@TeamEgyptOW Well i love how the dev aren't afraid to try new thing, i like how they give it their best shot and ge\u2026 https://t.co/NVELMl9Lor",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/NVELMl9Lor",
+                "expanded_url": "https://twitter.com/i/web/status/1153506460741054465",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "TeamEgyptOW",
+                "name": "Overwatch Egypt \ud83c\uddea\ud83c\uddec",
+                "id": 1139520402420654080,
+                "id_str": "1139520402420654080",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153504704648876032,
+        "user": "sheriff_99_yt",
+        "user_location": "new cairo ",
+        "date": "Tue Jul 23 03:18:47 +0000 2019",
+        "text": "20 years ago,\n@elonmusk would have been put in an asylum and called crazy for his innovation,\nYou really can't argu\u2026 https://t.co/FWDwr4tK23",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FWDwr4tK23",
+                "expanded_url": "https://twitter.com/i/web/status/1153504704648876032",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "elonmusk",
+                "name": "Elon Musk",
+                "id": 44196397,
+                "id_str": "44196397",
+                "indices": [
+                    14,
+                    23
+                ]
+            }
+        ],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153501332478840832,
+        "user": "nohii_sh",
+        "user_location": "+965",
+        "date": "Tue Jul 23 03:05:23 +0000 2019",
+        "text": "I'm at holidayinn Citystars https://t.co/zt1OQyIBAW",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07467942,
+                31.34397572
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zt1OQyIBAW",
+                "expanded_url": "https://www.swarmapp.com/c/3vaHhepKNmF",
+                "display_url": "swarmapp.com/c/3vaHhepKNmF",
+                "indices": [
+                    28,
+                    51
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "New Cairo"
+    },
+    {
+        "id": 1153461556774080512,
+        "user": "engykhaled96",
+        "user_location": "Mukattam",
+        "date": "Tue Jul 23 00:27:20 +0000 2019",
+        "text": "Everything you want  is on the other side  of fear ...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "New Cairo"
+    }
+]

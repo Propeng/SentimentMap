@@ -1,0 +1,3229 @@
+[
+    {
+        "id": 1154179005391810560,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:58:13 +0000 2019",
+        "text": "I hate you as much as i love and miss every single detail of you!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154177494939029504,
+        "user": "jeii55",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 23:52:13 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/dutL78t0ct",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dutL78t0ct",
+                "expanded_url": "https://www.swarmapp.com/c/aevz6pKEKwU",
+                "display_url": "swarmapp.com/c/aevz6pKEKwU",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154169769270153216,
+        "user": "moostafaelsa3ed",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:21:31 +0000 2019",
+        "text": "Just posted a photo https://t.co/YZmCEe2Slw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/YZmCEe2Slw",
+                "expanded_url": "https://www.instagram.com/p/B0UT7UKhq_M/?igshid=bdvt0aubictx",
+                "display_url": "instagram.com/p/B0UT7UKhq_M/\u2026",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154164434425778181,
+        "user": "nirmenmohamed",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:00:19 +0000 2019",
+        "text": "what ever u feel ..\n           dance it ...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154152919878569985,
+        "user": "Abdulmaiyadi",
+        "user_location": "Manila Philippines",
+        "date": "Wed Jul 24 22:14:33 +0000 2019",
+        "text": "Just posted a photo @ Cairo, Egypt https://t.co/oIgS6iSHmq",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/oIgS6iSHmq",
+                "expanded_url": "https://www.instagram.com/p/B0UN1o5APvj/?igshid=1ionr8gxmwf5",
+                "display_url": "instagram.com/p/B0UN1o5APvj/\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154147926492549122,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:54:43 +0000 2019",
+        "text": "@gooeyhere thank you gooey more fanart of clubette please",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "gooeyhere",
+                "name": "pocket medic gf",
+                "id": 932633567045222401,
+                "id_str": "932633567045222401",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154147482080821248,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:52:57 +0000 2019",
+        "text": "@kurisurlin who is this https://t.co/mISbpgI4tE",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "kurisurlin",
+                "name": "Akira Kurisu",
+                "id": 816080489849257984,
+                "id_str": "816080489849257984",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154140645340123138,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:25:47 +0000 2019",
+        "text": "@Prototype_6197 @where_win shut the fuck up",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Prototype_6197",
+                "name": "I| Prototype |I",
+                "id": 740760222642409473,
+                "id_str": "740760222642409473",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "where_win",
+                "name": "WHErwin",
+                "id": 972799928840880128,
+                "id_str": "972799928840880128",
+                "indices": [
+                    16,
+                    26
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154139394548404226,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:20:49 +0000 2019",
+        "text": "@WaifuAlert @_Juixe @Lucarinon wtf youre good at drawing",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "WaifuAlert",
+                "name": "Waifu Alert",
+                "id": 793942473341079554,
+                "id_str": "793942473341079554",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "_Juixe",
+                "name": "Juixe",
+                "id": 3279223964,
+                "id_str": "3279223964",
+                "indices": [
+                    12,
+                    19
+                ]
+            },
+            {
+                "screen_name": "Lucarinon",
+                "name": "Rin",
+                "id": 949552674822852608,
+                "id_str": "949552674822852608",
+                "indices": [
+                    20,
+                    30
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154119453262700544,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:01:34 +0000 2019",
+        "text": "@01Jacobward Jacob and Ward",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "01Jacobward",
+                "name": "jacob \u2604\ufe0f",
+                "id": 996431879724257280,
+                "id_str": "996431879724257280",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154105194315206657,
+        "user": "m7senbu",
+        "user_location": "",
+        "date": "Wed Jul 24 19:04:55 +0000 2019",
+        "text": "I'm at The Roof in Bulaq, Cairo https://t.co/BsCFeXRQF8",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06729809,
+                31.22643311
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BsCFeXRQF8",
+                "expanded_url": "https://www.swarmapp.com/c/hVs8uMKrgfe",
+                "display_url": "swarmapp.com/c/hVs8uMKrgfe",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154099647683559426,
+        "user": "FlyingChink_",
+        "user_location": "i entered my birthday wrong ",
+        "date": "Wed Jul 24 18:42:52 +0000 2019",
+        "text": "RT @MindCap: i am going to wear this at school everyday until i die https://t.co/2TPs1sPGaM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2TPs1sPGaM",
+                "expanded_url": "https://twitter.com/JuniperGD/status/1153637836316430341",
+                "display_url": "twitter.com/JuniperGD/stat\u2026",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154096784123355136,
+        "user": "MayAbdElAziz",
+        "user_location": "Cairo Egypt",
+        "date": "Wed Jul 24 18:31:30 +0000 2019",
+        "text": "One of my favorite makeup looks ever by makeupbyalaasherif\n\nAlso missing my long hair \n\nFrom #hareb #\u062d\u0627\u0631\u0628 shoot @ C\u2026 https://t.co/sOF67GkNlp",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/sOF67GkNlp",
+                "expanded_url": "https://twitter.com/i/web/status/1154096784123355136",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154095913670991872,
+        "user": "AliiCFC",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 18:28:02 +0000 2019",
+        "text": "Gooooaaaallll",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154087688796028928,
+        "user": "RandaEissaMusic",
+        "user_location": "Egypt, Cairo",
+        "date": "Wed Jul 24 17:55:21 +0000 2019",
+        "text": "Leave The History Behind U &amp; Never Look Back.. \nHair By @ellia81304813\n\n#randaeissa #hairstyle #hair #fashionista\u2026 https://t.co/5XrZQ6qWRJ",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/5XrZQ6qWRJ",
+                "expanded_url": "https://twitter.com/i/web/status/1154087688796028928",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    119,
+                    142
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "ellia81304813",
+                "name": "ellia",
+                "id": 1136726583887237120,
+                "id_str": "1136726583887237120",
+                "indices": [
+                    60,
+                    74
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154080456054312960,
+        "user": "CRUMMIEBEATS",
+        "user_location": "#OnDrugs!! somewhere",
+        "date": "Wed Jul 24 17:26:37 +0000 2019",
+        "text": "#crummiebeats #humpday #wutang #sinusinfection #\ud83e\udd14 #snowboard #frosty #bugarsugar #nosecandy #oneoneone #beats #wtf\u2026 https://t.co/fadrhB6iuo",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/fadrhB6iuo",
+                "expanded_url": "https://twitter.com/i/web/status/1154080456054312960",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154074749670047744,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 17:03:56 +0000 2019",
+        "text": "current weather in Cairo: clear sky, 33\u00b0C\n41% humidity, wind 6kmh, pressure 1007mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154074138409099265,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 17:01:30 +0000 2019",
+        "text": "@_zolga_ i fucking love you",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_zolga_",
+                "name": "zolga",
+                "id": 821490157232726016,
+                "id_str": "821490157232726016",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154073746258501637,
+        "user": "athmar98",
+        "user_location": "\u0648\u0637\u0646 \u0627\u0644\u0646\u0647\u0627\u0631 \ud83c\uddf0\ud83c\uddfc \u2665\ufe0f",
+        "date": "Wed Jul 24 16:59:57 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/v4LFz6jQZY",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/v4LFz6jQZY",
+                "expanded_url": "https://www.swarmapp.com/c/feULZYZ6nJQ",
+                "display_url": "swarmapp.com/c/feULZYZ6nJQ",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154073682911932416,
+        "user": "orefiih",
+        "user_location": "\ud83c\uddf0\ud83c\uddfc",
+        "date": "Wed Jul 24 16:59:42 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo w/ @ndooy52 https://t.co/lrIvo3U3F4",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/lrIvo3U3F4",
+                "expanded_url": "https://www.swarmapp.com/c/28RdhkDbTVm",
+                "display_url": "swarmapp.com/c/28RdhkDbTVm",
+                "indices": [
+                    65,
+                    88
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            },
+            {
+                "screen_name": "ndooy52",
+                "name": "\ud83d\udc3c\ud83d\udc99",
+                "id": 865384943077273600,
+                "id_str": "865384943077273600",
+                "indices": [
+                    56,
+                    64
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154072848064868352,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 16:56:23 +0000 2019",
+        "text": "Cairo: 7:53pm: sunset",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154071455006638080,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 16:50:51 +0000 2019",
+        "text": "@_sunaisx ok sunix",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_sunaisx",
+                "name": "\ud83c\udf46",
+                "id": 927423870117621760,
+                "id_str": "927423870117621760",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154071246436540418,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 16:50:01 +0000 2019",
+        "text": "i am going to wear this at school everyday until i die https://t.co/2TPs1sPGaM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2TPs1sPGaM",
+                "expanded_url": "https://twitter.com/JuniperGD/status/1153637836316430341",
+                "display_url": "twitter.com/JuniperGD/stat\u2026",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154070845804953607,
+        "user": "AsarNH",
+        "user_location": "Dubai - Cairo ",
+        "date": "Wed Jul 24 16:48:25 +0000 2019",
+        "text": "When you and your brother having the same filter \ud83d\ude02\ud83e\udd23 @ Cairo, Egypt https://t.co/zopCb9rfJK",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/zopCb9rfJK",
+                "expanded_url": "https://www.instagram.com/p/B0ToZ1jhkh0/?igshid=p2571keohrs6",
+                "display_url": "instagram.com/p/B0ToZ1jhkh0/\u2026",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154056025269506051,
+        "user": "Amrr_Essam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 15:49:32 +0000 2019",
+        "text": "Summer \ud83c\udfd6 https://t.co/2ZWI6uBOJl",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154034558418837504,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Wed Jul 24 14:24:14 +0000 2019",
+        "text": "Perhaps it is good to have a beautiful mind, but an even greater gift is to discover a beautiful heart\u2665\ufe0f https://t.co/9mgczwgbMa",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154032873990549504,
+        "user": "_xKusa98UM",
+        "user_location": "Former Yugoslav Republic of Ma",
+        "date": "Wed Jul 24 14:17:32 +0000 2019",
+        "text": "RT @MindCap: i have finally found the funny https://t.co/oTzepORvzM",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154018058140360705,
+        "user": "T305x_",
+        "user_location": "",
+        "date": "Wed Jul 24 13:18:40 +0000 2019",
+        "text": "I'm at Fairmont Nile City - @fairmonthotels in Cairo https://t.co/dnwlgHXFJb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07202333,
+                31.22770965
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/dnwlgHXFJb",
+                "expanded_url": "https://www.swarmapp.com/c/lc20sTVo0dw",
+                "display_url": "swarmapp.com/c/lc20sTVo0dw",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "FairmontHotels",
+                "name": "Fairmont Hotels & Resorts",
+                "id": 15894470,
+                "id_str": "15894470",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154010606510452736,
+        "user": "glennmctaggart",
+        "user_location": "Dubai",
+        "date": "Wed Jul 24 12:49:03 +0000 2019",
+        "text": "This ancient mosque is all; you, me and the light. \n.\nSwipe \ud83d\udc49\ud83d\udc48\n. @ Cairo, Egypt https://t.co/aC1o9ZTjxm",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/aC1o9ZTjxm",
+                "expanded_url": "https://www.instagram.com/p/B0TNHcuBzBH/?igshid=20422cytb14y",
+                "display_url": "instagram.com/p/B0TNHcuBzBH/\u2026",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154006880567644160,
+        "user": "ma__aldossary",
+        "user_location": "Dammam, Kingdom of Saudi Arabia",
+        "date": "Wed Jul 24 12:34:15 +0000 2019",
+        "text": "I'm at Khan Al-Khalili in Cairo, Islamic Cairo - Cairo, Egypt w/ @maryamalammari https://t.co/2G9jyQRjT5",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04725515,
+                31.26263044
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2G9jyQRjT5",
+                "expanded_url": "https://www.swarmapp.com/c/6Rr3ABtp5al",
+                "display_url": "swarmapp.com/c/6Rr3ABtp5al",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "Maryamalammari",
+                "name": "Maryam",
+                "id": 1313471851,
+                "id_str": "1313471851",
+                "indices": [
+                    65,
+                    80
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153999096648048641,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Wed Jul 24 12:03:19 +0000 2019",
+        "text": "@KenziTarek Go bus more safe y kenzo",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KenziTarek",
+                "name": "KONOZ ..",
+                "id": 870609973,
+                "id_str": "870609973",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153987862192435200,
+        "user": "Yarareda121",
+        "user_location": " nasr city",
+        "date": "Wed Jul 24 11:18:41 +0000 2019",
+        "text": "Birthdays are getting sadder every year \ud83d\ude42 https://t.co/ZB4Myn4DPq",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ZB4Myn4DPq",
+                "expanded_url": "https://twitter.com/hollyangeel/status/1153471441238671360",
+                "display_url": "twitter.com/hollyangeel/st\u2026",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153979360187211776,
+        "user": "abdallaabdelba2",
+        "user_location": "nasr city   ",
+        "date": "Wed Jul 24 10:44:54 +0000 2019",
+        "text": "Today is another chance to get better..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153972511304036353,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Wed Jul 24 10:17:41 +0000 2019",
+        "text": "6 years* ago \ud83d\ude05 https://t.co/0FR1J2EL1n",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0FR1J2EL1n",
+                "expanded_url": "https://twitter.com/dead_inside_bot/status/1153877483558756352",
+                "display_url": "twitter.com/dead_inside_bo\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153970745833164800,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 10:10:40 +0000 2019",
+        "text": "current weather in Cairo: clear sky, 33\u00b0C\n33% humidity, wind 2kmh, pressure 1007mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153958800866648064,
+        "user": "AhmedSayedMo",
+        "user_location": "Egypt",
+        "date": "Wed Jul 24 09:23:12 +0000 2019",
+        "text": "Finally I\u2019ve seen her .. we became friends\ud83d\udda4\nThe best poto I\u2019ve ever shot \ud83d\ude48\nMy \u201cDarling Beetle\u201d \ud83d\udc1e @ Waterway Compound https://t.co/BcRkT9MQZ8",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/BcRkT9MQZ8",
+                "expanded_url": "https://www.instagram.com/p/B0S1kSJgC6M/?igshid=p4a6vtfu4jel",
+                "display_url": "instagram.com/p/B0S1kSJgC6M/\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153954336176844800,
+        "user": "abbeyliveradio",
+        "user_location": "London",
+        "date": "Wed Jul 24 09:05:27 +0000 2019",
+        "text": "Still wonder why the General Assembly of CAF members abd executives approved the $17m financial loss of CAF without\u2026 https://t.co/86DeugAZKP",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/86DeugAZKP",
+                "expanded_url": "https://twitter.com/i/web/status/1153954336176844800",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153918361924849665,
+        "user": "Sky_n3t",
+        "user_location": "Lutterworth, England",
+        "date": "Wed Jul 24 06:42:30 +0000 2019",
+        "text": "Arriving to Cairo! #Cairo #egypt @ Cairo, Egypt https://t.co/hsTtFQSWFI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.0571,
+                31.2387
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/hsTtFQSWFI",
+                "expanded_url": "https://www.instagram.com/p/B0SilGjFsac/?igshid=135jpkm4gp57d",
+                "display_url": "instagram.com/p/B0SilGjFsac/\u2026",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153915621601632256,
+        "user": "Aliwael26",
+        "user_location": "Nasr city ",
+        "date": "Wed Jul 24 06:31:37 +0000 2019",
+        "text": "Any free invitations for yanni\u2019s concert? \ud83d\ude44",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153896955107368960,
+        "user": "Doctor_Mafuze",
+        "user_location": "Durban",
+        "date": "Wed Jul 24 05:17:27 +0000 2019",
+        "text": "The closest one could get to mosalah ! The great Pharaoh was watching over us! \ud83d\ude4f\ud83c\udffd \n\n#wcw #morning #landpeople\u2026 https://t.co/jsF8TozSgI",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.04706757,
+                31.23934507
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/jsF8TozSgI",
+                "expanded_url": "https://twitter.com/i/web/status/1153896955107368960",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153884391371943937,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 04:27:31 +0000 2019",
+        "text": "@Griim06 @ramoalt @RoiMousti it's something you need to stop",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Griim06",
+                "name": "GriimYT",
+                "id": 745414370923003904,
+                "id_str": "745414370923003904",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "ramoalt",
+                "name": "Ramo",
+                "id": 844204011653947397,
+                "id_str": "844204011653947397",
+                "indices": [
+                    9,
+                    17
+                ]
+            },
+            {
+                "screen_name": "RoiMousti",
+                "name": "RoiMousti \ud83d\udd1c Dream Nation Festival",
+                "id": 889965419125231616,
+                "id_str": "889965419125231616",
+                "indices": [
+                    18,
+                    28
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153884251252756480,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 04:26:58 +0000 2019",
+        "text": "@SEA_yt_ @gooeyhere i wanna know more about the SCP",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "SEA_yt_",
+                "name": "Sam\ud83d\udc80",
+                "id": 1117474932622077953,
+                "id_str": "1117474932622077953",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "gooeyhere",
+                "name": "pocket medic gf",
+                "id": 932633567045222401,
+                "id_str": "932633567045222401",
+                "indices": [
+                    9,
+                    19
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153884202233995264,
+        "user": "EnderGD_Plays",
+        "user_location": "Florida, USA",
+        "date": "Wed Jul 24 04:26:46 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153883591358763009,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 04:24:20 +0000 2019",
+        "text": "i have finally found the funny https://t.co/oTzepORvzM",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153876837996617730,
+        "user": "eslam_m_lotfy",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 03:57:30 +0000 2019",
+        "text": "@asmaaelmallah Whatever I said it won\u2019t be enough \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\ud83d\ude2d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "asmaaelmallah",
+                "name": "Asmaa",
+                "id": 783639318,
+                "id_str": "783639318",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153869322709716993,
+        "user": "CairoEG",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 03:27:39 +0000 2019",
+        "text": "current weather in Cairo: mist, 25\u00b0C\n83% humidity, wind 2kmh, pressure 1007mb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.05,
+                31.25
+            ]
+        },
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153830551742058496,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 00:53:35 +0000 2019",
+        "text": "@EbraHim_SamYa Samya feels like: \ud83d\ude02 https://t.co/F1dVeErjYA",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "EbraHim_SamYa",
+                "name": "\u0160 \u00eb K \u00f8 \u00d8 \ud83c\udfa7\ud83e\udd89\ud83d\ude08",
+                "id": 928331396803854336,
+                "id_str": "928331396803854336",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153827434921439232,
+        "user": "teo_b0",
+        "user_location": "Colombia",
+        "date": "Wed Jul 24 00:41:12 +0000 2019",
+        "text": "RT @MindCap: @PokeChatt i mean",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "PokeChatt",
+                "name": "Useless God \ud83c\udff5\ufe0f",
+                "id": 841426770339459072,
+                "id_str": "841426770339459072",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1153824543321944066,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 00:29:42 +0000 2019",
+        "text": "@Anas_She3sha3y Context?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Anas_She3sha3y",
+                "name": "Anas She3sha3y",
+                "id": 1862137760,
+                "id_str": "1862137760",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154179445370097664,
+        "user": "marwanelshabat",
+        "user_location": "Nasr City , Egypt",
+        "date": "Wed Jul 24 23:59:58 +0000 2019",
+        "text": "\u0639\u0627\u0645\u0644 \u0641\u064a\u0647\u0627 \u0628\u0637\u0644 \u0648\u0647\u0648 \u0628\u062a\u0627\u0639 \u0628\u0644\u064a\u0644\u0629 \ud83d\ude02\ud83d\ude02 .. \u0643\u062f\u0629 \u0643\u062f\u0629 \u064a\u0627 \u0632\u0645\u0627\u0644\u0643 \u0627\u0644\u062f\u0648\u0631\u064a \u0641\u064a \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \ud83d\udcaa\ud83d\udcaa",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154179419684188162,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:59:51 +0000 2019",
+        "text": "@tohamyAF \u0627\u0644\u0627 \u0627\u0644\u062c\u0628\u0646\u0629 \u0627\u0644\u0631\u0648\u0645\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "tohamyAF",
+                "name": "Playboi Carti fan account",
+                "id": 904916436463833088,
+                "id_str": "904916436463833088",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154179198170349568,
+        "user": "esraaelhenawy",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:58:59 +0000 2019",
+        "text": "@MahmoudOrton2 \u0644\u0627 \u0627\u0646\u0627 \u0639\u0627\u064a\u0632\u0647 \u0645\u0637\u0631\u062d \u0632\u064a \u0628\u062a\u0627\u0639 \u0627\u0644\u064a \u0627\u0633\u0645\u0647\u0627 \u0645\u064a \u062f\u064a \n\u062d\u0627\u062c\u0647 \u0627\u062d\u0644\u064a \u0645\u0646 \u0627\u0644\u0633\u0631\u064a\u0631",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MahmoudOrton2",
+                "name": "\u251c \u0627\u0633\u0640\u062a\u0640\u0646\u0649 \u064a\u0627 \u0644\u0637\u0641\u0640\u0649 \u2524",
+                "id": 410960557,
+                "id_str": "410960557",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154178825787514880,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:57:30 +0000 2019",
+        "text": "@tohamyAF \u0639\u0645\u0631 \u0645\u0627 \u0641\u064a \u062d\u062f \u0647\u064a\u062d\u0628\u0643 \u0628\u062c\u062f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "tohamyAF",
+                "name": "Playboi Carti fan account",
+                "id": 904916436463833088,
+                "id_str": "904916436463833088",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154178606303776770,
+        "user": "esraaelhenawy",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:56:38 +0000 2019",
+        "text": "\u0637\u0628 \u062e\u0644\u064a\u0646\u0627 \u0641\u0649 \u0627\u0644\u0641\u064a\u0631\u0633\u062a kiss \u0628\u0644\u0627\u0634 \u0627\u0644\u062a\u0627\u0646\u0649 ! \u2014 \u0645\u0628\u0633\u062a\u0634 \u0628\u0633 \u0646\u0641\u0633\u064a https://t.co/I1XF84fHYo",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/I1XF84fHYo",
+                "expanded_url": "https://curiouscat.me/esraaelhenawy/post/937735677?t=1564012597",
+                "display_url": "curiouscat.me/esraaelhenawy/\u2026",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154178018090336256,
+        "user": "esraaelhenawy",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:54:17 +0000 2019",
+        "text": "@MahmoudOrton2 \u0627\u0646\u0627 \u0645\u0644\u064a\u0634 \u0645\u0637\u0631\u062d \u064a\u0628\u064a\u0634\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MahmoudOrton2",
+                "name": "\u251c \u0627\u0633\u0640\u062a\u0640\u0646\u0649 \u064a\u0627 \u0644\u0637\u0641\u0640\u0649 \u2524",
+                "id": 410960557,
+                "id_str": "410960557",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154177222338633731,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:51:08 +0000 2019",
+        "text": "@tohamyAF \u0627\u062e\u0631\u0633 \u0634\u0648\u064a\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "tohamyAF",
+                "name": "Playboi Carti fan account",
+                "id": 904916436463833088,
+                "id_str": "904916436463833088",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154174575275663367,
+        "user": "EgyChampagne",
+        "user_location": "\u25b2\u25b2\u25b2 \u200f\ud80c\udc80\ud80c\udda3\ud80c\udd3f\ud80c\udc67\ud80c\udd83",
+        "date": "Wed Jul 24 23:40:36 +0000 2019",
+        "text": "RT @Kindness_of_god: \u0633\u062a\u062f\u0631\u0643 \u0641\u064a \u0648\u0642\u062a \u0645\u062a\u0623\u062e\u0631 \u0645\u0646 \u0627\u0644\u062d\u064a\u0627\u0629 \u0623\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u062a\u064a \u062e\u0636\u062a\u0647\u0627 \u0644\u0645 \u062a\u0643\u0646 \u0633\u0648\u0649 \u0623\u062d\u062f\u0627\u062b \u0647\u0627\u0645\u0634\u064a\u0629 \u0623\u0634\u063a\u0644\u062a\u0643 \u0639\u0646 \u062d\u064a\u0627\u062a\u0643 \u0627\u0644\u062d\u0642\u064a\u0642\u064a\u0629.\n\n- \u063a\u0627\u0632\u064a \u0627\u0644\u0642\u0635\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Kindness_of_god",
+                "name": "Menna Mohamed \ud83c\udff9",
+                "id": 117892589,
+                "id_str": "117892589",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154174382119489536,
+        "user": "fatma121995",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:39:50 +0000 2019",
+        "text": "\u0630\u0646\u0628\u064a \u0627\u064a\u0647 \u0627\u0646\u0627 \u0627\u0646\u0627\u0645 \u0641 \u0627\u0644\u0635\u0627\u0644\u0629 \u0648\u0627\u0637\u0641\u0634 \u0645\u0646 \u0633\u0631\u064a\u0631\u064a \u060c \u0645\u0634 \u0639\u0627\u0631\u0641\u0629 \u0627\u0646\u0627\u0627\u0627\u0627\u0627\u0627\u0645",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154174377484791809,
+        "user": "fatma121995",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:39:49 +0000 2019",
+        "text": "\u0627\u0645\u064a \u0648\u0634\u0631\u0648\u0642 \u0627\u0643\u062a\u0631 \u0627\u062a\u0646\u064a\u0646 \u0645\u0628\u0639\u0631\u0641\u0634 \u0627\u0646\u0627\u0645 \u062c\u0646\u0628\u0647\u0645 \u0645\u0646 \u0643\u062a\u0631 \u0645\u0627 \u0628\u064a\u062a\u0642\u0644\u0628\u0648\u0627 \u0648\u0627\u0646\u0627 \u0646\u0648\u0645\u064a \u062e\u0641\u064a\u0641 \u062c\u062f\u0627\u0627\u0627\u0627\u0627\u064b \u0641 \u0645\u0639 \u0643\u0644 \u062d\u0631\u0643\u0629 \u0628\u0641\u062a\u062d \u0639\u064a\u0646\u064a \u0648\u0628\u0642\u0644\u0642",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154172728213233664,
+        "user": "AHMEDMABROUK5",
+        "user_location": "NASR CITY",
+        "date": "Wed Jul 24 23:33:16 +0000 2019",
+        "text": "\u0644\u0627 \u062c\u062f\u064a\u062f \u064a\u0630\u0643\u0631 \ud83e\udd14 \u0648\u0644\u0627 \u0642\u062f\u064a\u0645 \u064a\u0639\u0627\u062f \ud83e\udd14\n\u0627\u0644\u0627\u0647\u0644\u064a \u0628\u0637\u0644\u0627 \u0644\u0644\u062f\u0648\u0631\u064a \ud83d\ude1c",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154172291997143041,
+        "user": "AbdelrahmanAlk9",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 23:31:32 +0000 2019",
+        "text": "@Omar11Elgamal \u0628\u062a\u062a\u0647\u0631\u0628 \u0627\u0647\u0648 \u064a\u0627\u0627\u0628\u0648 \u0627\u0644\u0643\u0628\u0627\u062a\u0646",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Omar11Elgamal",
+                "name": "Omar Elgamal",
+                "id": 373621245,
+                "id_str": "373621245",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154172094361546753,
+        "user": "esraaelhenawy",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:30:45 +0000 2019",
+        "text": "@MahmoudOrton2 \u0648\u0644\u0648 \u0645\u0646\u062f\u0645\u0634",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MahmoudOrton2",
+                "name": "\u251c \u0627\u0633\u0640\u062a\u0640\u0646\u0649 \u064a\u0627 \u0644\u0637\u0641\u0640\u0649 \u2524",
+                "id": 410960557,
+                "id_str": "410960557",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154172054503088128,
+        "user": "AbdelrahmanAlk9",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 23:30:35 +0000 2019",
+        "text": "RT @AbdelrahmanAlk9: \u0631\u0626\u064a\u0633 \u0627\u0644\u0627\u0647\u0644\u064a \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644\u064a #\u0634\u0643\u0631\u0627_\u0643\u0627\u0628\u064a\u062a\u0627\u0646\u0648 https://t.co/2qzUxQE2hd",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AbdelrahmanAlk9",
+                "name": "\u0628\u0644\u062f\u0648\u0632\u0631 \u0627\u0644\u0637\u064a\u0627\u0631\u0647 \u0627\u0644\u062d\u0632\u064a\u0646 \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+                "id": 780476672063762436,
+                "id_str": "780476672063762436",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154169376293212168,
+        "user": "AbdelrahmanAlk9",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 23:19:57 +0000 2019",
+        "text": "@Omar11Elgamal \u0627\u0645\u062a\u0627 \u0628\u0633 \u064a \u0647\u0646\u062f\u0633\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Omar11Elgamal",
+                "name": "Omar Elgamal",
+                "id": 373621245,
+                "id_str": "373621245",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154169244504002560,
+        "user": "DGalilio",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 23:19:25 +0000 2019",
+        "text": "\u0627\u0646\u062a \u0627\u062a\u063a\u064a\u0631\u062a\u064a \u0627\u0648\u064a \u064a\u0627\u0633\u062a \u0645\u0646 \u064a\u0648\u0645 \u0645\u0627 \u0645\u0648\u062a\u064a https://t.co/sy4gpQuMd0",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/sy4gpQuMd0",
+                "expanded_url": "https://twitter.com/om__Kulthum/status/1154018429365604352",
+                "display_url": "twitter.com/om__Kulthum/st\u2026",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154168991268691968,
+        "user": "abdallaabdelba2",
+        "user_location": "nasr city   ",
+        "date": "Wed Jul 24 23:18:25 +0000 2019",
+        "text": "\u062e\u0627\u0644\u0649 \u0644\u0633\u0647 \u0631\u0627\u062c\u0639 \u0645\u0646 \u0627\u0644\u0633\u0641\u0631 \u0648 \u0642\u0627\u0639\u062f \u064a\u062d\u0643\u0649 \u0639\u0646 \u0627\u0644\u0645\u0639\u0627\u0645\u0644\u0629 \u0628\u0631\u0627 \u0645\u0635\u0631 \u0648 lifestyle \u0648 \u0627\u0644\u0641\u0644\u0648\u0633 \u0648 \u0627\u0644\u0643\u0644\u0627\u0645 \u062f\u0647 \u0643\u0644\u0647 \u0648 \u0642\u0627\u0639\u062f \u064a\u0642\u0627\u0631\u0646 \u0628\u064a\u0646 \u0627\u0644\u0645\u0627\u0646\u064a\u0627 \u0648 \u0645\u0635\u0631 ..",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154168644135464967,
+        "user": "Kindness_of_god",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:17:02 +0000 2019",
+        "text": "@JakobArildsen \u062d\u0636\u0631\u062a\u0643 \u062d\u062a\u0649 \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0625\u0644\u0649 \u0642\u0627\u0626\u0645\u0647 \u0645\u0627\u0628\u062a\u062a\u0637\u0628\u0642\u0634 \u0648 \u0625\u062c\u0631\u0627\u0621\u0627\u062a\u0647\u0627 \u0637\u0648\u064a\u0644\u0647 \u0648 \u064a\u0631\u0645\u064a\u0647\u0627 \u0645\u0647\u064a\u0646\u0647 \u0628\u0633 \u062f\u0647 \u062d\u0631\u0641\u064a\u0627 \u0625\u0644\u0649 \u0628\u064a\u062d\u0635\u0644 \u0641\u0649 \u0628\u0639\u0636\u2026 https://t.co/PDXRXzLcXW",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/PDXRXzLcXW",
+                "expanded_url": "https://twitter.com/i/web/status/1154168644135464967",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "JakobArildsen",
+                "name": "Jakob Arildsen",
+                "id": 289518132,
+                "id_str": "289518132",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154167559324864513,
+        "user": "mohamed_3omdawy",
+        "user_location": "Nasr city , Egypt",
+        "date": "Wed Jul 24 23:12:44 +0000 2019",
+        "text": "\u0644\u062d\u0638\u0627\u062a \u0641\u0636\u0644\u062a \u0645\u062a\u0646\u062d \u0645\u0634 \u0639\u0627\u0631\u0641 \u0627\u0642\u0648\u0644 \u0627\u064a\u0647!!!!\n\n\u0627\u0644\u0644\u064a \u0647\u0648 \u0643\u0627\u0646 \u0647\u0627\u064a\u0646 \u0639\u0644\u064a\u0627 \u0627\u0631\u0648\u062d \u0623\u0642\u0648\u0644\u0647\u0645 .. \u0627\u0646\u062a\u0648 \u0628\u062a\u0642\u0648\u0644\u0648 \u0627\u064a\u064a\u064a\u064a\u0647!\n\u0637\u0628 \u0627\u0628\u062d\u062b \u0641 \u0627\u0644\u062d\u062f\u064a\u062b \u062f\u0627! \n\u062f\u0648\u0651\u0631 \u0639\u0644\u0649 \u062a\u0641\u0633\u064a\u0631\u0647 \u062d\u062a\u0649!",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154167042779623432,
+        "user": "mohamed_3omdawy",
+        "user_location": "Nasr city , Egypt",
+        "date": "Wed Jul 24 23:10:41 +0000 2019",
+        "text": "* \u0648\u0627\u062d\u062f\u0647 \u0628\u062a\u0643\u0644\u0645 \u0627\u0628\u0648\u0647\u0627 \"\u0628\u0635\u0648\u062a \u0645\u0633\u0645\u0648\u0639\" *\n\n- \u0628\u0633 \u0627\u0646\u0627 \u0642\u0631\u0623\u062a \u062d\u062f\u064a\u062b \u0644\u0644\u0628\u062e\u0627\u0631\u064a \u0648 \u0645\u0634 \u0645\u0642\u062a\u0646\u0639\u0647 \u0628\u064a\u0647\n= \u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a \u0645\u0627 \u0647\u0648 \u0645\u0634 \u0643\u0644 \u062d\u062f\u064a\u062b \u064a\u062a\u0642\u0627\u0644 \u0646\u0635\u062f\u0642\u0647!",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154166699631009792,
+        "user": "AbdelrahmanAlk9",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 23:09:19 +0000 2019",
+        "text": "@Omar11Elgamal \u064a\u0627\u0635\u0627\u062d\u0628\u064a \u0627\u062d\u062c\u0632\u0644\u0643 \u0645\u0644\u0639\u0628 \u0646\u0627\u0648\u0648\u0648\u0648\u0648 \u062d\u062a\u064a \u064a\u062a\u0628\u062f\u0644 \u0627\u0644\u0648\u0636\u0639",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Omar11Elgamal",
+                "name": "Omar Elgamal",
+                "id": 373621245,
+                "id_str": "373621245",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154166344922931201,
+        "user": "elkosomeyat",
+        "user_location": "",
+        "date": "Wed Jul 24 23:07:54 +0000 2019",
+        "text": "RT @islamwahhab: \u0643\u0633\u0645 \u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0644\u0623\u0647\u0644\u064a \u0628\u062a\u0627\u0639\u0643\u0645 \ud83d\udc95\ud83d\udc95\n\u0628\u062a\u063a\u0633\u0644\u0646\u064a \u0645\u0646 \u062c\u0648\u0647 :*\n\u0648 \u0628\u0627\u0644\u0645\u0631\u0629 \u0643\u0633\u0645 \u0627\u0644\u0645\u062e\u062a\u0644 \u0627\u0644\u0642\u0627\u062a\u0644 https://t.co/vFFcB5HiXC",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/vFFcB5HiXC",
+                "expanded_url": "https://www.facebook.com/islam.mostafa.965/posts/10213603076020523",
+                "display_url": "facebook.com/islam.mostafa.\u2026",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "islamwahhab",
+                "name": "\u0627\u0644\u0633\u062a\u0645\u0648\u0646\u064a",
+                "id": 394528665,
+                "id_str": "394528665",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154166058745548805,
+        "user": "Kindness_of_god",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:06:46 +0000 2019",
+        "text": "@JakobArildsen \u0648 \u062f\u0647 \u0633\u0628\u0628 \u0623\u0642\u0648\u0649 \u064a\u062e\u0644\u064a\u0647\u0627 \u062a\u062d\u0627\u0648\u0644 \u062a\u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u062d\u0642\u0648\u0642\u0647\u0627 \u0628\u0623\u0628\u0633\u0637 \u0627\u0644\u0637\u0631\u0642.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "JakobArildsen",
+                "name": "Jakob Arildsen",
+                "id": 289518132,
+                "id_str": "289518132",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154165347471302658,
+        "user": "Kindness_of_god",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:03:56 +0000 2019",
+        "text": "@JakobArildsen \u0627\u0644\u0645\u0641\u0631\u0648\u0636 \u0627\u0644\u0646\u0627\u0633 \u0628\u062a\u0628\u062f\u0623 \u0628\u062b\u0642\u0647 \u0648 \u0646\u064a\u0647 \u0637\u064a\u0628\u0647.\n\u0628\u0633 \u0641\u064a\u0647 \u0646\u0627\u0633 \u0644\u0644\u0623\u0633\u0641 \u0641\u0649 \u062d\u0627\u0644\u0647 \u0627\u0644\u0627\u0646\u0641\u0635\u0627\u0644 \u0628\u062a\u0628\u0642\u0649 \u0633\u064a\u0626\u0647 \u062c\u062f\u0627 \u0648 \u0645\u0627 \u0628\u062a\u0631\u0627\u0639\u064a\u0634 \u0631\u2026 https://t.co/d09JgQWvgS",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/d09JgQWvgS",
+                "expanded_url": "https://twitter.com/i/web/status/1154165347471302658",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "JakobArildsen",
+                "name": "Jakob Arildsen",
+                "id": 289518132,
+                "id_str": "289518132",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154164720297005056,
+        "user": "islamwahhab",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:01:27 +0000 2019",
+        "text": "\u0645\u0631\u0629 \u0631\u0626\u064a\u0633 \u0646\u0627\u062f\u064a \u0639\u0628\u064a\u0637 \u062d\u0628 \u064a\u0628\u0642\u0627 \u0646\u0627\u0635\u062d \u0648 \u064a\u0645\u0634\u064a \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0641\u0646\u064a \u0642\u0628\u0644 \u0645\u0627 \u064a\u062e\u0644\u0635 \u0627\u0644\u062f\u0648\u0631\u064a \u0639\u0634\u0627\u0646 \u0645\u0633\u062a\u062e\u0633\u0631 \u0641\u064a\u0647 \u0645\u0643\u0623\u0641\u0627\u0629 \u0627\u0644\u0641\u0648\u0632 \u0628\u0627\u0644\u062f\u0648\u0631\u064a \u0631\u0627\u062d \u0627\u0644\u062f\u0648\u0631\u064a \u0631\u0627\u062d \u064a \u0627\u0628\u0646 \u0627\u0644\u0639\u0628\u064a\u0637\u0629",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154164572896604160,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:00:52 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0641\u064a\u0647 \u0634\u062e\u0635 \u0641\u064a \u062d\u064a\u0627\u062a\u0643 \u0645\u0628\u062a\u0645\u0634\u064a\u0634 \u0639\u0644\u064a\u0647 \u0642\u0648\u0627\u0646\u064a\u0646\u0643 \u0645\u0639 \u0628\u0627\u0642\u064a \u0627\u0644\u0646\u0627\u0633 \u060c \u064a\u0632\u0639\u0644 \u0645\u0646\u0643 \u0641\u062a\u0631\u0627\u0636\u064a\u0647 \u060c \u064a\u063a\u064a\u0628 \u0641\u062a\u0633\u062a\u0646\u0627\u0647 \u064a\u0631\u062c\u0639 \u060c \u064a\u0642\u0648\u0644\u0643 \u062d\u062c\u062c \u0645\u0634 \u0645\u0642\u0646\u0639\u0647 \u0641 \u062a\u0639\u062f\u064a\u0647\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154164528378208258,
+        "user": "YasoFlowers",
+        "user_location": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629, \u0645\u0635\u0631",
+        "date": "Wed Jul 24 23:00:41 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0641\u064a\u0647 \u0634\u062e\u0635 \u0641\u064a \u062d\u064a\u0627\u062a\u0643 \u0645\u0628\u062a\u0645\u0634\u064a\u0634 \u0639\u0644\u064a\u0647 \u0642\u0648\u0627\u0646\u064a\u0646\u0643 \u0645\u0639 \u0628\u0627\u0642\u064a \u0627\u0644\u0646\u0627\u0633 \u060c \u064a\u0632\u0639\u0644 \u0645\u0646\u0643 \u0641\u062a\u0631\u0627\u0636\u064a\u0647 \u060c \u064a\u063a\u064a\u0628 \u0641\u062a\u0633\u062a\u0646\u0627\u0647 \u064a\u0631\u062c\u0639 \u060c \u064a\u0642\u0648\u0644\u0643 \u062d\u062c\u062c \u0645\u0634 \u0645\u0642\u0646\u0639\u0647 \u0641 \u062a\u0639\u062f\u064a\u0647\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154164441077952512,
+        "user": "yasoso551",
+        "user_location": "\u062a\u062d\u062a \u0634\u062c\u0631\u0647 \u0627\u0644\u0645\u0648\u0632 \ud83d\udc38\ud83d\udeac",
+        "date": "Wed Jul 24 23:00:20 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154163184913276928,
+        "user": "OMAR_14th",
+        "user_location": "Your Mind ",
+        "date": "Wed Jul 24 22:55:21 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0625\u0630\u0627 \u062f\u062e\u0644 \u0631\u062c\u0644 \u0639\u0627\u0631\u064a \u0625\u0644\u0649 \u062d\u0645\u0627\u0645 \u0644\u0644\u0646\u0633\u0627\u0621 \u062a\u0633\u062a\u0642\u0628\u0644\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0628\u0627\u0644\u0634\u062a\u0645 \u0648\u0627\u0644\u0636\u0631\u0628 \u0628\u0627\u0644\u0623\u062d\u0630\u064a\u0629 \u060c\u060c \u0623\u0645\u0627 \u0625\u0630\u0627 \u062f\u062e\u0644\u062a \u0625\u0645\u0631\u0623\u0629 \u0639\u0627\u0631\u064a\u0629 \u0627\u0644\u0649 \u062d\u0645\u0627\u0645 \u0631\u062c\u0627\u0644 \u064a\u0633\u062a\u0642\u0628\u0644\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154162107383984128,
+        "user": "Kindness_of_god",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 22:51:04 +0000 2019",
+        "text": "\u0627\u0648\u0644\u0627 \u0634\u0631\u0639\u0627 \u062d\u0644\u0627\u0644 \u0648 \u062b\u0627\u0646\u064a\u0627 \u0647\u0648 \u0639\u0642\u062f \u064a\u062d\u0641\u0638 \u062d\u0642 \u0627\u0644\u0632\u0648\u062c\u0647 \u0648\u0644\u0627 \u064a\u0636\u0631 \u0627\u0644\u0632\u0648\u062c\n\u0641\u0649 \u0627\u0644\u0645\u0642\u0627\u0628\u0644 \u0644\u0648 \u0632\u0648\u062c \u0627\u0644\u0628\u0646\u062a \u0628\u0639\u062f \u0645\u0627 \u0647\u0649 \u062f\u0641\u0639\u062a \u0627\u0644\u0645\u0647\u0631 \u0628\u062a\u0627\u0639\u0647\u0627 \u0641\u0649 \u0627\u2026 https://t.co/uorNHcrsmg",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/uorNHcrsmg",
+                "expanded_url": "https://twitter.com/i/web/status/1154162107383984128",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154161731117228034,
+        "user": "queenfarida2006",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 22:49:34 +0000 2019",
+        "text": "@nona4nona_nona7 \u0627\u0644\u0627\u062a\u0646\u064a\u0646 \u0644\u0648 \u0645\u0634 \u0645\u0642\u0627\u0633\u0643 \u062d\u062a\u0639\u0631\u062c\u064a \u0637\u0648\u0644 \u0639\u0645\u0631\u0643",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "nona4nona_nona7",
+                "name": "\u200f* \u0646\u0648\u0646\u0627 \u0627\u0644\u0628\u062d\u064a\u0631\u064a * \ud83c\uddea\ud83c\uddec",
+                "id": 932461105221439488,
+                "id_str": "932461105221439488",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154160697313550337,
+        "user": "islamwahhab",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 22:45:28 +0000 2019",
+        "text": "\u0643\u0633\u0645 \u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0644\u0623\u0647\u0644\u064a \u0628\u062a\u0627\u0639\u0643\u0645 \ud83d\udc95\ud83d\udc95\n\u0628\u062a\u063a\u0633\u0644\u0646\u064a \u0645\u0646 \u062c\u0648\u0647 :*\n\u0648 \u0628\u0627\u0644\u0645\u0631\u0629 \u0643\u0633\u0645 \u0627\u0644\u0645\u062e\u062a\u0644 \u0627\u0644\u0642\u0627\u062a\u0644 https://t.co/vFFcB5HiXC",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/vFFcB5HiXC",
+                "expanded_url": "https://www.facebook.com/islam.mostafa.965/posts/10213603076020523",
+                "display_url": "facebook.com/islam.mostafa.\u2026",
+                "indices": [
+                    73,
+                    96
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154160302709268480,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:43:54 +0000 2019",
+        "text": "@Marwa_Mhammed92 \u0645\u064a\u0631\u0633\u064a \u0643\u062a\u064a\u0631\ud83d\ude02\u2066\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f\u2069",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Marwa_Mhammed92",
+                "name": "\u264d\u043c\u03b1\u044f\u03c9\u03b1\ud83d\udd49",
+                "id": 962113742229180416,
+                "id_str": "962113742229180416",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154159814089613314,
+        "user": "Amira96698603",
+        "user_location": "",
+        "date": "Wed Jul 24 22:41:57 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154159741905637380,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:41:40 +0000 2019",
+        "text": "@Marwa_Mhammed92 \u0627\u0646\u0627 \u0639\u0627\u064a\u0632 \u0627\u0631\u062c\u0639 \u0627\u0644\u0627\u0643\u0648\u0646\u062a 200 \u0628\u0633 \u0648 \u0627\u0628\u062f\u0627 \u0645\u0646 \u0627\u0644\u0627\u0648\u0644 \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Marwa_Mhammed92",
+                "name": "\u264d\u043c\u03b1\u044f\u03c9\u03b1\ud83d\udd49",
+                "id": 962113742229180416,
+                "id_str": "962113742229180416",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154159680928829442,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:41:25 +0000 2019",
+        "text": "@Marwa_Mhammed92 \u0627\u0647 \u0648\u0627\u0644\u0644\u0647 \u062e\u0631\u0627 \u0627\u0648\u064a \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Marwa_Mhammed92",
+                "name": "\u264d\u043c\u03b1\u044f\u03c9\u03b1\ud83d\udd49",
+                "id": 962113742229180416,
+                "id_str": "962113742229180416",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154159330113007619,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:40:02 +0000 2019",
+        "text": "@Marwa_Mhammed92 \u0627\u0646\u0627 \u0648\u0627\u0644\u0644\u0647 \u0628\u0639\u062f \u0645\u0627 \u0646\u0632\u0644\u062a\u0647\u0627 \u0642\u0648\u0644\u062a \u0648\u0634 \u0647\u0644\u0627\u0642\u064a\u0647\u0645 \u0646\u0632\u0644\u0648\u0627 300 \u0648 \u0645\u062d\u062f\u0634 \u0647\u064a\u0627\u062e\u062f\u0647\u0627 \u0647\u0632\u0627\u0631 \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Marwa_Mhammed92",
+                "name": "\u264d\u043c\u03b1\u044f\u03c9\u03b1\ud83d\udd49",
+                "id": 962113742229180416,
+                "id_str": "962113742229180416",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154158412206346241,
+        "user": "Taha54165266",
+        "user_location": "Nasr City\n",
+        "date": "Wed Jul 24 22:36:23 +0000 2019",
+        "text": "@Nada209200 \u062a\u0639\u0627\u0644\u064a \u0641\u0647\u0645\u064a\u0647\u0645 \u0628\u0642\u064a \u0627\u0644\u0643\u0644\u0627\u0645 \u062f\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Nada209200",
+                "name": "\u0646\u0640\u0640\u062f\u06cd\ud83d\udc99\ud83d\ude4a",
+                "id": 1093743779159384064,
+                "id_str": "1093743779159384064",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154158062707646464,
+        "user": "Taha54165266",
+        "user_location": "Nasr City\n",
+        "date": "Wed Jul 24 22:35:00 +0000 2019",
+        "text": "@b8e73f2683d342c \u0627\u0645\u064a\u0646",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "b8e73f2683d342c",
+                "name": "Nada Fouad",
+                "id": 2940248883,
+                "id_str": "2940248883",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154157990683074560,
+        "user": "abdallaabdelba2",
+        "user_location": "nasr city   ",
+        "date": "Wed Jul 24 22:34:42 +0000 2019",
+        "text": "\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647 ..",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154157935515316224,
+        "user": "HelmyAtta2",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:34:29 +0000 2019",
+        "text": "@hopehand18 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 \u0627\u0644\u062e\u0644\u0627\u0635\u0629 \u0639\u0644\u064a \u0631\u0623\u064a \u062f\u0643\u062a\u0648\u0631 \u0645\u0648\u0627\u0641\u064a \u0644\u062d\u0633\u0646 \u0648\u0644\u0637\u0641 \u0627\u0644\u0623\u0642\u062f\u0627\u0631 \u0628\u064a\u0646\u0627 \u0645\u0627\u0641\u064a\u0634 \u062d\u062f \u0643\u0627\u0645\u0644 \u0628\u0633 \u0643\u062f\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "hopehand18",
+                "name": "Hope Hand",
+                "id": 3580789875,
+                "id_str": "3580789875",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154157727335288833,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:33:40 +0000 2019",
+        "text": "\u0623\u0646\u0627 \u0646\u0641\u0633\u064a \u0623\u0642\u0648\u0645 \u0623\u0631\u0645\u064a \u0646\u0641\u0633\u064a \u0645\u0646 \u0627\u0644\u0634\u0628\u0627\u0643 \u062d\u0627\u0644\u0627\u064b.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154157247209136128,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:31:45 +0000 2019",
+        "text": "\u064a\u0627\u0647 \u0639\u0644\u064a \u0627\u0644\u062a\u0644\u0642\u064a\u062d \u0648 \u0627\u0644\u0634\u063a\u0644 \u0627\u0644\u0636\u064a\u0642",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154157175226413056,
+        "user": "Kindness_of_god",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 22:31:28 +0000 2019",
+        "text": "@EgyChampagne \u0628\u0631\u0627\u0641\u0648 \u062d\u0646\u0648\u0646 \u0627\u0644\u0645\u0632\u0627\u0631\u0639 \u0627\u0644\u0635\u063a\u064a\u0631 \ud83d\udc4f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "EgyChampagne",
+                "name": "\u272cHa\u043fa\u043f  H\ud80c\udc80 \u0404zza\u0442\u272c",
+                "id": 242206071,
+                "id_str": "242206071",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154156403348725760,
+        "user": "obibo71",
+        "user_location": "Nasr City \u060c New cairo ",
+        "date": "Wed Jul 24 22:28:24 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0625\u0630\u0627 \u062f\u062e\u0644 \u0631\u062c\u0644 \u0639\u0627\u0631\u064a \u0625\u0644\u0649 \u062d\u0645\u0627\u0645 \u0644\u0644\u0646\u0633\u0627\u0621 \u062a\u0633\u062a\u0642\u0628\u0644\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0628\u0627\u0644\u0634\u062a\u0645 \u0648\u0627\u0644\u0636\u0631\u0628 \u0628\u0627\u0644\u0623\u062d\u0630\u064a\u0629 \u060c\u060c \u0623\u0645\u0627 \u0625\u0630\u0627 \u062f\u062e\u0644\u062a \u0625\u0645\u0631\u0623\u0629 \u0639\u0627\u0631\u064a\u0629 \u0627\u0644\u0649 \u062d\u0645\u0627\u0645 \u0631\u062c\u0627\u0644 \u064a\u0633\u062a\u0642\u0628\u0644\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154154137296281610,
+        "user": "eslamsa88149532",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:19:24 +0000 2019",
+        "text": "\"\u064a\u0639\u064a\u0634 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0648\u0647\u0648 \u0643\u0627\u062a\u0645 \u0628\u0642\u0644\u0628\u0647 \u062b\u0644\u0627\u062b\u0629 \u0627\u0631\u0628\u0627\u0639 \u062e\u064a\u0628\u0627\u062a\u0647 \u0648\u062d\u0632\u0646\u0647 \u0648\u0628\u0624\u0633\u0647 \u0648\u064a\u0623\u0633\u0647 \u0648\u0645\u0623\u0633\u0627\u062a\u0647 \u0648\u064a\u0646\u0641\u062c\u0631 \u0627\u0630\u0627 \u0648\u0642\u0639\u062a \u0642\u0647\u0648\u062a\u0647 \u0645\u0646 \u064a\u062f\u0647.\"",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154153884593590272,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:18:23 +0000 2019",
+        "text": "@Mero51940575 \u062d\u0643\u0645\u0647",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Mero51940575",
+                "name": "Amira\ud83d\udc51\ud83c\udf80",
+                "id": 1136812840378142723,
+                "id_str": "1136812840378142723",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154152849611341824,
+        "user": "veeeeka",
+        "user_location": "Fujairah, United Arab Emirates",
+        "date": "Wed Jul 24 22:14:17 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0625\u0630\u0627 \u062f\u062e\u0644 \u0631\u062c\u0644 \u0639\u0627\u0631\u064a \u0625\u0644\u0649 \u062d\u0645\u0627\u0645 \u0644\u0644\u0646\u0633\u0627\u0621 \u062a\u0633\u062a\u0642\u0628\u0644\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0628\u0627\u0644\u0634\u062a\u0645 \u0648\u0627\u0644\u0636\u0631\u0628 \u0628\u0627\u0644\u0623\u062d\u0630\u064a\u0629 \u060c\u060c \u0623\u0645\u0627 \u0625\u0630\u0627 \u062f\u062e\u0644\u062a \u0625\u0645\u0631\u0623\u0629 \u0639\u0627\u0631\u064a\u0629 \u0627\u0644\u0649 \u062d\u0645\u0627\u0645 \u0631\u062c\u0627\u0644 \u064a\u0633\u062a\u0642\u0628\u0644\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154152149825273856,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:11:30 +0000 2019",
+        "text": "@Bsmalla6 \u0627\u062d\u0646\u0627 \u0645\u0628\u0646\u0645\u062f\u0634 \u0627\u064a\u062f\u0646\u0627 \u0639 \u062d\u062f \u0639\u0634\u0627\u0646 \u0645\u062a\u0631\u0628\u064a\u0628\u0628\u064a\u064a\u0646",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Bsmalla6",
+                "name": "Bsmalla",
+                "id": 998618132934746117,
+                "id_str": "998618132934746117",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154152052370681857,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:11:07 +0000 2019",
+        "text": "@Marwa_Mhammed92 \u0647\u062a\u0642\u0639\u062f\u064a \u062a\u062d\u0648\u0644\u064a \u0641\u064a \u0643\u0644 \u062a\u0648\u064a\u062a \u0643\u062f\u0647\u061f \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Marwa_Mhammed92",
+                "name": "\u264d\u043c\u03b1\u044f\u03c9\u03b1\ud83d\udd49",
+                "id": 962113742229180416,
+                "id_str": "962113742229180416",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154150957657333762,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:06:46 +0000 2019",
+        "text": "\u0625\u0630\u0627 \u062f\u062e\u0644 \u0631\u062c\u0644 \u0639\u0627\u0631\u064a \u0625\u0644\u0649 \u062d\u0645\u0627\u0645 \u0644\u0644\u0646\u0633\u0627\u0621 \u062a\u0633\u062a\u0642\u0628\u0644\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0628\u0627\u0644\u0634\u062a\u0645 \u0648\u0627\u0644\u0636\u0631\u0628 \u0628\u0627\u0644\u0623\u062d\u0630\u064a\u0629 \u060c\u060c \u0623\u0645\u0627 \u0625\u0630\u0627 \u062f\u062e\u0644\u062a \u0625\u0645\u0631\u0623\u0629 \u0639\u0627\u0631\u064a\u0629 \u0627\u0644\u0649 \u062d\u0645\u0627\u0645 \u0631\u062c\u0627\u0644 \u064a\u0633\u2026 https://t.co/5asFyXR1mI",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/5asFyXR1mI",
+                "expanded_url": "https://twitter.com/i/web/status/1154150957657333762",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154150883548192769,
+        "user": "yomnaaah_",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 22:06:28 +0000 2019",
+        "text": "\u064a\u0627 \u062f\u064a\u0646\u064a \u0639\u0644\u064a \u0627\u0644\u062d\u0631\u0642\u0627\u0646 \u0627\u0644\u0644\u064a \u0645\u062e\u0644\u064a\u0647\u0645 \u0639\u0627\u0645\u0644\u064a\u0646  save \u0644\u0628\u0648\u0633\u062a\u0627\u062a \u0643\u0646\u062a \u0645\u0646\u0632\u0644\u0647\u0627 \u0639\u0644\u064a \u0627\u0644\u0641\u064a\u0633 \u0628\u0648\u0643 \u0645\u0646 \u0648\u0642\u062a \u062c\u0631\u0648\u0633 \u0648\u062c\u0627\u064a\u064a\u0646 \u062f\u0644\u0648\u0642\u062a\u064a \u064a\u0643\u062a\u0628\u0648\u0627 \u0641\u064a \u0643\u0648\u0645\u0646\u062a\u0627\u062a \u0639\u0644\u064a\u0647\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154150195640356864,
+        "user": "MOHAMMEDADEL774",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 22:03:44 +0000 2019",
+        "text": "@AhmedEssamEldi2 \u0645\u0634 \u0639\u0634\u0627\u0646 \u0633\u0648\u0627\u062f \u0639\u0646\u064a\u0643\u0648\u0627 \n\u0628\u0633 \u0639\u0634\u0627\u0646 \u0645\u0643\u0627\u0646\u0647 \u0641\u0627\u0636\u064a \u0639\u0646\u062f\u0643\u0648\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AhmedEssamEldi2",
+                "name": "Ahmed Essam",
+                "id": 441846555,
+                "id_str": "441846555",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154149484546416641,
+        "user": "MoneerNaiem",
+        "user_location": "",
+        "date": "Wed Jul 24 22:00:54 +0000 2019",
+        "text": "RT @mosaeed76: \u0631\u064a\u062a\u0648\u064a\u062a \u0648\u0647\u0633\u0623\u0644 \u062d\u062f \u0645\u0646 \u0627\u0644\u0641\u0648\u0644\u0648\u0631\u0632 \u064a\u0643\u0631\u0627\u0634 \u0639\u0644\u064a\u0643 \u0628\u0646\u0633\u0628\u0629 \u0623\u062f \u0627\u064a\u0647 \u2764",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mosaeed76",
+                "name": "mohamed",
+                "id": 985445782991106049,
+                "id_str": "985445782991106049",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154148729206820866,
+        "user": "MOHAMMEDADEL774",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:57:54 +0000 2019",
+        "text": "\u0643\u0646\u062a \u0645\u0633\u062a\u0646\u064a \u0627\u0644\u062a\u0631\u064a\u0646\u062f \u062f\u0627 \u0639\u0634\u0627\u0646 \u0627\u0636\u062d\u0643 \ud83d\ude02\ud83d\ude02\n#\u0628\u062a\u0627\u0639_\u0627\u0644\u0628\u0644\u064a\u0644\u0647_\u0628\u0631\u0627_\u0627\u0644\u0644\u064a\u0644\u0647 https://t.co/Ch2VJwSif2",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154148656645386240,
+        "user": "2hmad_Hassan",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:57:37 +0000 2019",
+        "text": "\u0627\u0644\u0644\u0647 \u064a\u0628\u0627\u0631\u0643\u0644\u0643 \ud83d\ude18\ud83d\ude0d https://t.co/9wXnovXBs2",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/9wXnovXBs2",
+                "expanded_url": "https://twitter.com/AhmedYRayyan/status/1154120390899306496",
+                "display_url": "twitter.com/AhmedYRayyan/s\u2026",
+                "indices": [
+                    16,
+                    39
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154148498536902657,
+        "user": "shahira119",
+        "user_location": "\u0645\u0635\u0631",
+        "date": "Wed Jul 24 21:56:59 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154148259667034112,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:56:02 +0000 2019",
+        "text": "@nour_elhadary \u0645\u0634 \u0627\u062e\u0644\u0627\u0642\u064a\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "nour_elhadary",
+                "name": "\u0646\u0648\u064c\u0631~\u0627\u0644\u0656\u0639\u064a\u064f\u064f\u0648\u064b\u0646\ud83d\ude0c",
+                "id": 2576816760,
+                "id_str": "2576816760",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154148089013460998,
+        "user": "ashraktkazem",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 21:55:22 +0000 2019",
+        "text": "\u0623\u0646\u062a \u0644\u0627 \u062a\u0639\u0644\u0645 \u0625\u0644\u0649 \u0623\u064a \u062f\u0631\u062c\u0629 \u0627\u0644\u0644\u0647 \u0628\u0650\u0643 \u0631\u062d\u064a\u0645 \u060c  \u0644\u0627 \u062a\u0639\u0644\u0645 \u0643\u064a\u0641 \u064a\u0635\u0631\u0641 \u0639\u0646\u0643 \u0645\u0627 \u062a\u064f\u062d\u0628 \u0644\u0634\u0631 \u0644\u0627 \u062a\u0639\u0644\u0645\u0647 .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154147511122190338,
+        "user": "2hmad_Hassan",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:53:04 +0000 2019",
+        "text": "@ZSCOfficial  \u0643\u0644\u0645 \ud83d\ude02\ud83d\ude02 https://t.co/rGu0xHAhNo",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/rGu0xHAhNo",
+                "expanded_url": "https://twitter.com/ElwatanNews/status/1154140622426652673",
+                "display_url": "twitter.com/ElwatanNews/st\u2026",
+                "indices": [
+                    21,
+                    44
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "ZSCOfficial",
+                "name": "Zamalek SC",
+                "id": 304754319,
+                "id_str": "304754319",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154146968588947456,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:50:54 +0000 2019",
+        "text": "\u0644\u0648 \u062d\u062f \u064a\u0639\u0631\u0641 \u0645\u062d\u0644 \u0645\u062c\u0648\u0647\u0631\u0627\u062a \u0645\u062d\u062a\u0627\u062c \u062d\u062f \u064a\u0634\u062a\u063a\u0644 \u064a\u0642\u0648\u0644\u064a \u0644\u0627\u0646 \u0627\u0646\u0627 \u0628\u0639\u0631\u0641 \u0627\u0639\u0645\u0644 \u0645\u0646 \u0627\u0644\u062e\u0631\u0627 \u062c\u0648\u0647\u0631\u0647 \u2066\u2764\ufe0f\u2069",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154146582486573061,
+        "user": "Noorhaa59705500",
+        "user_location": "Eygpt",
+        "date": "Wed Jul 24 21:49:22 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154146532461076481,
+        "user": "HelmyAtta2",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:49:11 +0000 2019",
+        "text": "\u0632\u0648\u062f \u064a \u0628\u0646\u064a \u0643\u0627\u062a\u0634\u0628 \u0643\u0645\u0627\u0646 \u0627\u0644\u062f\u0648\u0631\u064a \u062d\u0631\u0627\u0642 \ud83d\udd25\u26bd https://t.co/jS3U8czfzd",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154146317515575298,
+        "user": "HelmyAtta2",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:48:19 +0000 2019",
+        "text": "@hopehand18 \u0641\u064a\u0647 \u0639\u0635\u0628\u064a\u0647 \u0645\u0642\u0628\u0648\u0644\u0647 \u0648\u0639\u0635\u0628\u064a\u0647 \u0645\u0634 \u0645\u0642\u0628\u0648\u0644\u0647 \u0648\u0628\u0639\u062f\u064a\u0646 \u0644\u0648 \u0647\u0645\u0627 \u0628\u064a\u062d\u0628\u0648 \u0628\u0639\u0636 \u0645\u0645\u0643\u0646 \u0627\u0635\u0644\u0627 \u064a\u0634\u0648\u0641\u0648 \u0627\u0644\u0639\u0635\u0628\u064a\u0647 \u062f\u064a \u0645\u064a\u0632\u0647 \u0645\u0634 \u0639\u064a\u0628 \ud83d\ude4f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "hopehand18",
+                "name": "Hope Hand",
+                "id": 3580789875,
+                "id_str": "3580789875",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154146311232528384,
+        "user": "alazab98",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:48:18 +0000 2019",
+        "text": "@ahmedn_ibrahim \u0627\u0644\u0646\u0648\u0646\u0648\u0648 \u0627\u0644\u062e\u062c\u0648\u0644 \ud83d\ude02\ud83d\udd95\ud83c\udffb https://t.co/E8YCeymcL5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/E8YCeymcL5",
+                "expanded_url": "https://twitter.com/gonwans/status/1154060638290882560",
+                "display_url": "twitter.com/gonwans/status\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "ahmedn_ibrahim",
+                "name": "L O S T",
+                "id": 719215749068361731,
+                "id_str": "719215749068361731",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154146251040014336,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:48:03 +0000 2019",
+        "text": "@AHm3DMeGa \u0646\u064a\u0641\u0631 \u0645\u0627\u064a\u0646\u062f\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AHm3DMeGa",
+                "name": "Me\u062cZ\ud83d\udc6e\u200d\u2642\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+                "id": 1825396158,
+                "id_str": "1825396158",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154145975306477575,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:46:58 +0000 2019",
+        "text": "@AHm3DMeGa \u0645\u064a\u0632\u0627\u0646",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "AHm3DMeGa",
+                "name": "Me\u062cZ\ud83d\udc6e\u200d\u2642\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+                "id": 1825396158,
+                "id_str": "1825396158",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154145774630068224,
+        "user": "_f657_",
+        "user_location": "",
+        "date": "Wed Jul 24 21:46:10 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154145689082970112,
+        "user": "esraa_Mhmd20",
+        "user_location": "Kafr El Shikh, Egypt",
+        "date": "Wed Jul 24 21:45:49 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154145318205890563,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:44:21 +0000 2019",
+        "text": "\u0627\u0646\u0627 \u0644\u0648 \u0631\u0648\u062d\u062a \u0644\u062f\u0643\u062a\u0648\u0631 \u0646\u0641\u0633\u064a \u0647\u064a\u0633\u0628\u0644\u064a \u0627\u0644\u062f\u064a\u0646 .",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154144815640133633,
+        "user": "ranafarid__",
+        "user_location": "Suez, Egypt",
+        "date": "Wed Jul 24 21:42:21 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154144642990039041,
+        "user": "taha3012000",
+        "user_location": "mansourah",
+        "date": "Wed Jul 24 21:41:40 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154144370020536320,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:40:35 +0000 2019",
+        "text": "\u0623\u0642\u0646\u0639\u0647\u0645 \u0627\u0632\u0627\u064a \u0627\u0646\u064a \u0645\u0645\u0643\u0646 \u0627\u0643\u0648\u0646 \u0633\u0639\u064a\u062f \u0648\u0645\u0643\u062a\u0626\u0628 \u0648\u0631\u0627\u064a\u0642 \u0648\u0645\u062e\u0646\u0648\u0642 \u0648\u0645\u062a\u062d\u0645\u0633 \u0648\u0641\u0627\u0642\u062f \u0627\u0644\u0634\u063a\u0641 \u0648\u0639\u0627\u064a\u0632 \u0627\u0646\u0627\u0645 \u0648\u0645\u0644\u064a\u0634 \u062e\u0644\u0642 \u0644\u0644\u0646\u0648\u0645 \u0648\u062f\u0627 \u0643\u0644\u0647 \u0628\u064a\u062d\u0635\u0644 \u0641\u064a \u064a\u0648\u0645 \u0648\u0627\u062d\u062f \u061f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154143616580890624,
+        "user": "saraelsrogy476",
+        "user_location": "Ismalia, Egypt",
+        "date": "Wed Jul 24 21:37:35 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0627\u0644\u0644\u0649 \u0628\u064a\u0628\u062f\u0623 \u0627\u0644\u0643\u0644\u0627\u0645 \u0645\u0639\u0627\u0643 \u0627\u0644\u0627\u0648\u0644 \u0645\u0628\u064a\u0643\u0648\u0646\u0634 \u0645\u062f\u0644\u0648\u0642 \u0644\u0627 \u062f\u0647 \u0645\u0647\u062a\u0645 \u060c \u0648\u0627\u0646\u062a \u0627\u0644\u0644\u0649 \u062d\u0644\u0648\u0641 ..",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154143471852228608,
+        "user": "Ayahelaly_97",
+        "user_location": "El mansoura",
+        "date": "Wed Jul 24 21:37:01 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0627\u0644\u0644\u0649 \u0628\u064a\u0628\u062f\u0623 \u0627\u0644\u0643\u0644\u0627\u0645 \u0645\u0639\u0627\u0643 \u0627\u0644\u0627\u0648\u0644 \u0645\u0628\u064a\u0643\u0648\u0646\u0634 \u0645\u062f\u0644\u0648\u0642 \u0644\u0627 \u062f\u0647 \u0645\u0647\u062a\u0645 \u060c \u0648\u0627\u0646\u062a \u0627\u0644\u0644\u0649 \u062d\u0644\u0648\u0641 ..",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154142622925099009,
+        "user": "fatma121995",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 21:33:38 +0000 2019",
+        "text": "\u0633\u0648\u0631\u064a \u064a\u0627 \u062c\u0645\u0627\u0639\u0629 \u0628\u0633 \u0628\u0634\u0648\u0641 \u0643\u0645 \u0643\u0648\u0645\u0646\u062a\u0627\u062a \u0641 \u0645\u0646\u062a\u0647\u0649 \u0627\u0644\u0648\u0642\u0627\u062d\u0629 \u0648\u0642\u0644\u0629 \u0627\u0644\u0627\u062f\u0628 \u0648\u0639\u062f\u0645 \u0645\u0631\u0627\u0639\u0627\u0629 \u0634\u0639\u0648\u0631 \u0627\u0644\u063a\u064a\u0631",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154142567535206405,
+        "user": "fatma121995",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 21:33:25 +0000 2019",
+        "text": "\u062c\u0631\u0648\u0628\u0627\u062a \u0627\u0644\u0628\u0646\u0627\u062a \u0641\u064a\u0647\u0627 \u0634\u0648\u064a\u0629 \u0646\u0633\u0627\u0648\u064a\u0646 \u0639\u0627\u064a\u0632\u0629 \u0627\u0644\u062d\u0631\u0642",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154141971998490625,
+        "user": "AhmedWa03263027",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 21:31:03 +0000 2019",
+        "text": "\u062a\u0642\u0637\u0639 \u0622\u0644\u0627\u0641 \u0627\u0644\u0627\u0645\u064a\u0627\u0644 \u0645\u0646 \u0627\u0644\u0646\u0633\u064a\u0627\u0646 \u0648\u062a\u0639\u064a\u062f\u0643 \u0643\u0644\u0645\u0629.",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154140821614206976,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:26:29 +0000 2019",
+        "text": "\u0627\u0644\u0644\u0649 \u0628\u064a\u0628\u062f\u0623 \u0627\u0644\u0643\u0644\u0627\u0645 \u0645\u0639\u0627\u0643 \u0627\u0644\u0627\u0648\u0644 \u0645\u0628\u064a\u0643\u0648\u0646\u0634 \u0645\u062f\u0644\u0648\u0642 \u0644\u0627 \u062f\u0647 \u0645\u0647\u062a\u0645 \u060c \u0648\u0627\u0646\u062a \u0627\u0644\u0644\u0649 \u062d\u0644\u0648\u0641 ..",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154137348332036098,
+        "user": "Hossam1221997",
+        "user_location": "\u0627\u0644\u0641\u064a\u0648\u0645, \u0645\u0635\u0631",
+        "date": "Wed Jul 24 21:12:41 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0641\u064a\u0647 \u0634\u062e\u0635 \u0641\u064a \u062d\u064a\u0627\u062a\u0643 \u0645\u0628\u062a\u0645\u0634\u064a\u0634 \u0639\u0644\u064a\u0647 \u0642\u0648\u0627\u0646\u064a\u0646\u0643 \u0645\u0639 \u0628\u0627\u0642\u064a \u0627\u0644\u0646\u0627\u0633 \u060c \u064a\u0632\u0639\u0644 \u0645\u0646\u0643 \u0641\u062a\u0631\u0627\u0636\u064a\u0647 \u060c \u064a\u063a\u064a\u0628 \u0641\u062a\u0633\u062a\u0646\u0627\u0647 \u064a\u0631\u062c\u0639 \u060c \u064a\u0642\u0648\u0644\u0643 \u062d\u062c\u062c \u0645\u0634 \u0645\u0642\u0646\u0639\u0647 \u0641 \u062a\u0639\u062f\u064a\u0647\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154135804438036480,
+        "user": "AhmedWa03263027",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 21:06:33 +0000 2019",
+        "text": "\u0645\u0648\u0628\u0627\u064a\u0644\u064a \u0645\u0641\u0647\u0648\u0634 \u062d\u0627\u062c\u0647 \u0628\u0633 \u0645\u0628\u062d\u0628\u0634 \u062d\u062f \u064a\u0645\u0633\u0643\u0648\u0627...",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154134423740264455,
+        "user": "muLrSd72q5UxJdr",
+        "user_location": "",
+        "date": "Wed Jul 24 21:01:04 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0641\u064a\u0647 \u0634\u062e\u0635 \u0641\u064a \u062d\u064a\u0627\u062a\u0643 \u0645\u0628\u062a\u0645\u0634\u064a\u0634 \u0639\u0644\u064a\u0647 \u0642\u0648\u0627\u0646\u064a\u0646\u0643 \u0645\u0639 \u0628\u0627\u0642\u064a \u0627\u0644\u0646\u0627\u0633 \u060c \u064a\u0632\u0639\u0644 \u0645\u0646\u0643 \u0641\u062a\u0631\u0627\u0636\u064a\u0647 \u060c \u064a\u063a\u064a\u0628 \u0641\u062a\u0633\u062a\u0646\u0627\u0647 \u064a\u0631\u062c\u0639 \u060c \u064a\u0642\u0648\u0644\u0643 \u062d\u062c\u062c \u0645\u0634 \u0645\u0642\u0646\u0639\u0647 \u0641 \u062a\u0639\u062f\u064a\u0647\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154132970762117125,
+        "user": "hasnaa2hossa",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 20:55:17 +0000 2019",
+        "text": "RT @alazab98: \u0645\u0628\u062d\u0628\u0634 \u062d\u062f \u064a\u0643\u0644\u0645\u0646\u064a \u0641\u0631\u0627\u0646\u0643\u0648 . https://t.co/qUoWf8taz5",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/qUoWf8taz5",
+                "expanded_url": "https://twitter.com/hamdy86474686/status/1153512351079030784",
+                "display_url": "twitter.com/hamdy86474686/\u2026",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "alazab98",
+                "name": "\u0639\u064e\u0640\u0640\u0632\u064e\u0628\u064e\u0640/\u0639\u064f \u265a..",
+                "id": 2872055591,
+                "id_str": "2872055591",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154131240532021248,
+        "user": "iAhmedSharaF",
+        "user_location": "Gotham,alexandria",
+        "date": "Wed Jul 24 20:48:25 +0000 2019",
+        "text": "RT @AliiCFC: \u0635\u062f\u0642\u062a https://t.co/YWpQegQmsU",
+        "geo": null,
+        "lang": "ar",
+        "urls": [
+            {
+                "url": "https://t.co/YWpQegQmsU",
+                "expanded_url": "https://twitter.com/AmirMortada/status/1113539061569019904",
+                "display_url": "twitter.com/AmirMortada/st\u2026",
+                "indices": [
+                    18,
+                    41
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "AliiCFC",
+                "name": "Ali.",
+                "id": 382728820,
+                "id_str": "382728820",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154131041994588169,
+        "user": "MOHAMMEDADEL774",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:47:37 +0000 2019",
+        "text": "RT @MOHAMMEDADEL774: \u062d\u0642\u064a\u0642\u064a \u0634\u0643\u0631\u0627 \u0644 \u0646\u0627\u062f\u064a \u0627\u0644\u0632\u0645\u0627\u0644\u0643 \u0627\u0646\u0647 \u0642\u0627\u062f\u0631 \u064a\u0633\u062a\u062d\u0645\u0644 \u0627\u0646\u0647 \u064a\u062a\u062d\u0637 \u0641 \u0636\u063a\u0637 \u0645\u0646\u0627\u0641\u0633\u0647 \u0647\u0648 \u0645\u0634 \u0642\u062f\u0647\u0627  \u0645\u0639 \u0627\u0644\u0627\u0647\u0644\u064a\ud83e\udd85\ud83d\udc4c\ud83c\udffb\n#\u0627\u0644\u062f\u0648\u0631\u064a_\u064a\u0627_\u0627\u0647\u0644\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MOHAMMEDADEL774",
+                "name": "MA",
+                "id": 3039401387,
+                "id_str": "3039401387",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154130924595892224,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:47:09 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0648\u0627\u062d\u062f \u0635\u0627\u062d\u0628\u064a \u0643\u0627\u062a\u0628 \"\u0648\u0627\u0644\u062f\u062a\u064a \u062f\u0627\u062e\u0644\u0647 \u063a\u0631\u0641\u0629 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u062f\u0644\u0648\u0642\u062a\u064a \u0648\u0645\u062d\u062a\u0627\u062c\u0647 \u0643\u0644 \u062f\u0639\u0648\u0647\"\u060c \u0643\u062a\u0628\u062a\u0644\u0647 \u0643\u0648\u0645\u0646\u062a \u0642\u0648\u0644\u062a\u0644\u0647 \u0641\u064a\u0647 \"\u0627\u0644\u0628\u0642\u0627\u0621 \u0648\u0627\u0644\u062f\u0648\u0627\u0645 \u0644\u0644\u0647\"\u060c \u0627\u0644\u062d\u0646\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154130861056544768,
+        "user": "MOHAMMEDADEL774",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:46:54 +0000 2019",
+        "text": "\u062d\u0642\u064a\u0642\u064a \u0634\u0643\u0631\u0627 \u0644 \u0646\u0627\u062f\u064a \u0627\u0644\u0632\u0645\u0627\u0644\u0643 \u0627\u0646\u0647 \u0642\u0627\u062f\u0631 \u064a\u0633\u062a\u062d\u0645\u0644 \u0627\u0646\u0647 \u064a\u062a\u062d\u0637 \u0641 \u0636\u063a\u0637 \u0645\u0646\u0627\u0641\u0633\u0647 \u0647\u0648 \u0645\u0634 \u0642\u062f\u0647\u0627  \u0645\u0639 \u0627\u0644\u0627\u0647\u0644\u064a\ud83e\udd85\ud83d\udc4c\ud83c\udffb\n#\u0627\u0644\u062f\u0648\u0631\u064a_\u064a\u0627_\u0627\u0647\u0644\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154130697025740803,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:46:15 +0000 2019",
+        "text": "@Marwa_Mhammed92 \u064a\u0627\u0631\u064a\u062a\u0646\u064a \u0643\u0627\u0644\u062a\u0647\ud83d\ude02\ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Marwa_Mhammed92",
+                "name": "\u264d\u043c\u03b1\u044f\u03c9\u03b1\ud83d\udd49",
+                "id": 962113742229180416,
+                "id_str": "962113742229180416",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154130140143730690,
+        "user": "TWILCGtLuyf03th",
+        "user_location": "",
+        "date": "Wed Jul 24 20:44:02 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0627\u064a\u0647 \u064a\u0627 \u062d\u0638 \u0627\u064a\u0647 \u064a\u0627 \u0641\u0644\u0648\u0633 \u0627\u064a\u0647 \u064a\u0627 \u0632\u0645\u0627\u0644\u0643 \u0647\u0648 \u0643\u0644\u0643\u0645 \u0639\u0644\u064a\u0627 \u0648\u0644\u0627 \u0627\u064a\u0647!!",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154129613930541056,
+        "user": "omarabdulwahhab",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 20:41:57 +0000 2019",
+        "text": "RT @shehabirl: \u0627\u0644\u0627\u0647\u0644\u064a \u062d\u062f\u064a\u062f \u064a\u0627 \u0642\u062d\u0627\u0628\u064a",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "shehabirl",
+                "name": "shehab.",
+                "id": 549218237,
+                "id_str": "549218237",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154129548419710978,
+        "user": "RomisaaMousta2",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:41:41 +0000 2019",
+        "text": "\u0643\u0646\u062a \u0627\u063a\u0645\u0636 \u0639\u064a\u0646\u064a \u0641\u0627\u0631\u0627\u0643 \u0643\u0645\u0627 \u0643\u0646\u062a \u0647\u0646\u0627 \u0627\u062e\u0631 \u0645\u0631\u0629...!\n\u0648\u0643\u0646\u062a \u0627\u062d\u0641\u0638 \u0645\u0641\u0631\u062f\u0627\u062a\u0643 \u0648\u0636\u062d\u0643\u0627\u062a\u0643\u2764\ufe0f",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154128867889680385,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Wed Jul 24 20:38:59 +0000 2019",
+        "text": "@ahmedlam3y \u064a\u0628\u0642\u0649 \u0641\u064a\u0647 \u062d\u0627\u062c\u0629 \u063a\u0644\u0637 \u0641\u064a \u0628\u0627\u0642\u064a \u0627\u0644\u0641\u0631\u0642* \ud83d\ude02",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ahmedlam3y",
+                "name": "\u0644\u0645\u0639\u064a",
+                "id": 514332178,
+                "id_str": "514332178",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154128542919266305,
+        "user": "KarimMohsen98",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 20:37:41 +0000 2019",
+        "text": "\u0639\u062f\u064a 10 \u0633\u0646\u064a\u0646\u061f\n\u0644\u0623 \n\u0627\u0645\u0627\u0644 \u0639\u0627\u064a\u0632\u064a\u0646 \u062a\u0627\u062e\u062f\u0648\u0627 \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0646\u0629 \u062f\u064a \u0644\u064a\u0629 !!",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154128358722146309,
+        "user": "__FO2SH___",
+        "user_location": "Nasr City ",
+        "date": "Wed Jul 24 20:36:58 +0000 2019",
+        "text": "@mohamedderaz1 \u064a\u0639\u0646\u064a \u0643\u0644\u0647 \u064a\u0639\u064a\u0634 \u0627\u0644\u0648\u0647\u0645 ....",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "mohamedderaz1",
+                "name": "\u062f\u0631\u0627\u0632",
+                "id": 366210829,
+                "id_str": "366210829",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154128227130060801,
+        "user": "koko001456",
+        "user_location": "El Arish",
+        "date": "Wed Jul 24 20:36:26 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0627\u0646\u0627 \u0639\u0646\u062f\u064a \u0641\u0643\u0631\u0647 \u062d\u0644\u0648\u0647 \u0627\u062d\u0646\u0627 \u0646\u062c\u064a\u0628 \u0645\u0631\u062a\u0636\u064a \u0645\u0646\u0635\u0648\u0631 \u0646\u0642\u0644\u0639\u0647 \u0645\u0644\u0637 \u0648 \u0646\u0646\u0632\u0644\u0648\u0627 \u0639\u0644\u064a \u062c\u0628\u0644 \u0643\u0644\u0647 \u0627\u0645\u0648\u0627\u0633 \u0648 \u0628\u0639\u062f \u0645\u0627 \u064a\u0642\u0639 \u064a\u0628\u0642\u064a \u0641\u064a\u0647 \u0628\u062d\u064a\u0631\u0647 \u062a\u062d\u062a \u0643\u0644\u0647\u0627 \u0643\u0644\u0648\u0646\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154128176060260352,
+        "user": "KarimMohsen98",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 20:36:14 +0000 2019",
+        "text": "\u0645\u0646 \u064a\u0636\u062d\u0643 \u0627\u062e\u064a\u0631\u0627 \u064a\u0636\u062d\u0643 \u0643\u062b\u064a\u0631\u0627",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [],
+        "region": "Abbaseya"
+    },
+    {
+        "id": 1154127965552295936,
+        "user": "alaamahran21",
+        "user_location": "Alexandria, Egypt",
+        "date": "Wed Jul 24 20:35:24 +0000 2019",
+        "text": "RT @Hassaan_Hossam: \u0627\u0646\u0627 \u0639\u0646\u062f\u064a \u0641\u0643\u0631\u0647 \u062d\u0644\u0648\u0647 \u0627\u062d\u0646\u0627 \u0646\u062c\u064a\u0628 \u0645\u0631\u062a\u0636\u064a \u0645\u0646\u0635\u0648\u0631 \u0646\u0642\u0644\u0639\u0647 \u0645\u0644\u0637 \u0648 \u0646\u0646\u0632\u0644\u0648\u0627 \u0639\u0644\u064a \u062c\u0628\u0644 \u0643\u0644\u0647 \u0627\u0645\u0648\u0627\u0633 \u0648 \u0628\u0639\u062f \u0645\u0627 \u064a\u0642\u0639 \u064a\u0628\u0642\u064a \u0641\u064a\u0647 \u0628\u062d\u064a\u0631\u0647 \u062a\u062d\u062a \u0643\u0644\u0647\u0627 \u0643\u0644\u0648\u0646\u2026",
+        "geo": null,
+        "lang": "ar",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Hassaan_Hossam",
+                "name": "\u062d\u064e\u0633\u0651\u0627\u064e\u0646\u064c\u0648\u06a4\u064a\u0650\u062a\u0634 \u2206\u2122",
+                "id": 207257612,
+                "id_str": "207257612",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "region": "Abbaseya"
+    }
+]

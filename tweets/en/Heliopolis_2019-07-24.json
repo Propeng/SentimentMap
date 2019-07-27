@@ -1,0 +1,1090 @@
+[
+    {
+        "id": 1154179005391810560,
+        "user": "summeroraby",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:58:13 +0000 2019",
+        "text": "I hate you as much as i love and miss every single detail of you!",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154171639325757440,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Wed Jul 24 23:28:56 +0000 2019",
+        "text": "Not going to lie ana etbadant",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154169769270153216,
+        "user": "moostafaelsa3ed",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 23:21:31 +0000 2019",
+        "text": "Just posted a photo https://t.co/YZmCEe2Slw",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/YZmCEe2Slw",
+                "expanded_url": "https://www.instagram.com/p/B0UT7UKhq_M/?igshid=bdvt0aubictx",
+                "display_url": "instagram.com/p/B0UT7UKhq_M/\u2026",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154164434425778181,
+        "user": "nirmenmohamed",
+        "user_location": "nasr city",
+        "date": "Wed Jul 24 23:00:19 +0000 2019",
+        "text": "what ever u feel ..\n           dance it ...",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154151654113107968,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Wed Jul 24 22:09:32 +0000 2019",
+        "text": "@farahamr4 Old idea thought about it 2 years ago",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "farahamr4",
+                "name": "Farah Amr",
+                "id": 248306541,
+                "id_str": "248306541",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154147926492549122,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:54:43 +0000 2019",
+        "text": "@gooeyhere thank you gooey more fanart of clubette please",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "gooeyhere",
+                "name": "pocket medic gf",
+                "id": 932633567045222401,
+                "id_str": "932633567045222401",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154147482080821248,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:52:57 +0000 2019",
+        "text": "@kurisurlin who is this https://t.co/mISbpgI4tE",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "kurisurlin",
+                "name": "Akira Kurisu",
+                "id": 816080489849257984,
+                "id_str": "816080489849257984",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154140645340123138,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:25:47 +0000 2019",
+        "text": "@Prototype_6197 @where_win shut the fuck up",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Prototype_6197",
+                "name": "I| Prototype |I",
+                "id": 740760222642409473,
+                "id_str": "740760222642409473",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "where_win",
+                "name": "WHErwin",
+                "id": 972799928840880128,
+                "id_str": "972799928840880128",
+                "indices": [
+                    16,
+                    26
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154139394548404226,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 21:20:49 +0000 2019",
+        "text": "@WaifuAlert @_Juixe @Lucarinon wtf youre good at drawing",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "WaifuAlert",
+                "name": "Waifu Alert",
+                "id": 793942473341079554,
+                "id_str": "793942473341079554",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "_Juixe",
+                "name": "Juixe",
+                "id": 3279223964,
+                "id_str": "3279223964",
+                "indices": [
+                    12,
+                    19
+                ]
+            },
+            {
+                "screen_name": "Lucarinon",
+                "name": "Rin",
+                "id": 949552674822852608,
+                "id_str": "949552674822852608",
+                "indices": [
+                    20,
+                    30
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154126629561651201,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 20:30:05 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/PeODt59NLn",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/PeODt59NLn",
+                "expanded_url": "https://www.swarmapp.com/c/1XifbO3NteO",
+                "display_url": "swarmapp.com/c/1XifbO3NteO",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154119453262700544,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 20:01:34 +0000 2019",
+        "text": "@01Jacobward Jacob and Ward",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "01Jacobward",
+                "name": "jacob \u2604\ufe0f",
+                "id": 996431879724257280,
+                "id_str": "996431879724257280",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154099647683559426,
+        "user": "FlyingChink_",
+        "user_location": "i entered my birthday wrong ",
+        "date": "Wed Jul 24 18:42:52 +0000 2019",
+        "text": "RT @MindCap: i am going to wear this at school everyday until i die https://t.co/2TPs1sPGaM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2TPs1sPGaM",
+                "expanded_url": "https://twitter.com/JuniperGD/status/1153637836316430341",
+                "display_url": "twitter.com/JuniperGD/stat\u2026",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154095913670991872,
+        "user": "AliiCFC",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 18:28:02 +0000 2019",
+        "text": "Gooooaaaallll",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154074138409099265,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 17:01:30 +0000 2019",
+        "text": "@_zolga_ i fucking love you",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_zolga_",
+                "name": "zolga",
+                "id": 821490157232726016,
+                "id_str": "821490157232726016",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154071455006638080,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 16:50:51 +0000 2019",
+        "text": "@_sunaisx ok sunix",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "_sunaisx",
+                "name": "\ud83c\udf46",
+                "id": 927423870117621760,
+                "id_str": "927423870117621760",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154071246436540418,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 16:50:01 +0000 2019",
+        "text": "i am going to wear this at school everyday until i die https://t.co/2TPs1sPGaM",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/2TPs1sPGaM",
+                "expanded_url": "https://twitter.com/JuniperGD/status/1153637836316430341",
+                "display_url": "twitter.com/JuniperGD/stat\u2026",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154056025269506051,
+        "user": "Amrr_Essam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 15:49:32 +0000 2019",
+        "text": "Summer \ud83c\udfd6 https://t.co/2ZWI6uBOJl",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154050503451561985,
+        "user": "_Reaamj",
+        "user_location": "Jeddah",
+        "date": "Wed Jul 24 15:27:35 +0000 2019",
+        "text": "I'm at @CityStarsMall in Heliopolis, Heliopolis, Cairo - Egypt w/ @wehadj https://t.co/X6wmK0w2Ak",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07386553,
+                31.34607421
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/X6wmK0w2Ak",
+                "expanded_url": "https://www.swarmapp.com/c/8ibDoKyrjdA",
+                "display_url": "swarmapp.com/c/8ibDoKyrjdA",
+                "indices": [
+                    74,
+                    97
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CitystarsMall",
+                "name": "Citystars",
+                "id": 2960087559,
+                "id_str": "2960087559",
+                "indices": [
+                    7,
+                    21
+                ]
+            },
+            {
+                "screen_name": "Wehadj",
+                "name": "\u0648\u0650\u0647\u0627\u062f\ud83c\udf88",
+                "id": 955259365,
+                "id_str": "955259365",
+                "indices": [
+                    66,
+                    73
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154048835473170433,
+        "user": "Wehadj",
+        "user_location": "Jeddah, Kingdom of Saudi Arabia",
+        "date": "Wed Jul 24 15:20:58 +0000 2019",
+        "text": "I'm at @CityStarsMall in Heliopolis, Heliopolis, Cairo - Egypt w/ @_reaamj https://t.co/FJrMpA6d3f",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.07386553,
+                31.34607421
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/FJrMpA6d3f",
+                "expanded_url": "https://www.swarmapp.com/c/6e5ujAfpnxy",
+                "display_url": "swarmapp.com/c/6e5ujAfpnxy",
+                "indices": [
+                    75,
+                    98
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CitystarsMall",
+                "name": "Citystars",
+                "id": 2960087559,
+                "id_str": "2960087559",
+                "indices": [
+                    7,
+                    21
+                ]
+            },
+            {
+                "screen_name": "_Reaamj",
+                "name": "Reaam",
+                "id": 1367312779,
+                "id_str": "1367312779",
+                "indices": [
+                    66,
+                    74
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154044825471090688,
+        "user": "rafatbalashi",
+        "user_location": "Cairo, Egypt",
+        "date": "Wed Jul 24 15:05:02 +0000 2019",
+        "text": "I'm at Home \u2665 https://t.co/tPzXAtzLrl",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06383133,
+                31.33700736
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/tPzXAtzLrl",
+                "expanded_url": "https://www.swarmapp.com/c/jGZ0K3Hvm2g",
+                "display_url": "swarmapp.com/c/jGZ0K3Hvm2g",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154041901810458624,
+        "user": "_TheHammer",
+        "user_location": "testing",
+        "date": "Wed Jul 24 14:53:25 +0000 2019",
+        "text": "80811719 :Battle ID\nI need backup!\nLvl 60 Grendel\nhttps://t.co/Epk1imLuk6",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154037680784773120,
+        "user": "halrashidd",
+        "user_location": "Coventry, England",
+        "date": "Wed Jul 24 14:36:38 +0000 2019",
+        "text": "I'm at Snow City in Masaken Al Mohandesin, Cairo Governorate https://t.co/ZEngg5eTlb",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.073565,
+                31.346653
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ZEngg5eTlb",
+                "expanded_url": "https://www.swarmapp.com/c/lFCyL0oSYoe",
+                "display_url": "swarmapp.com/c/lFCyL0oSYoe",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154034558418837504,
+        "user": "Omar_Abdelhamid",
+        "user_location": "Nasr City, Egypt",
+        "date": "Wed Jul 24 14:24:14 +0000 2019",
+        "text": "Perhaps it is good to have a beautiful mind, but an even greater gift is to discover a beautiful heart\u2665\ufe0f https://t.co/9mgczwgbMa",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154032873990549504,
+        "user": "_xKusa98UM",
+        "user_location": "Former Yugoslav Republic of Ma",
+        "date": "Wed Jul 24 14:17:32 +0000 2019",
+        "text": "RT @MindCap: i have finally found the funny https://t.co/oTzepORvzM",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1154013045053485056,
+        "user": "HossamLHossainy",
+        "user_location": "Egypt - United Kingdom",
+        "date": "Wed Jul 24 12:58:45 +0000 2019",
+        "text": "\u201cOnce your life is an expression of blissfulness, you will not be in conflict with anyone\u201d #sadhguru \nShot by: ibra\u2026 https://t.co/0QPeKvSoZ3",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.12389369,
+                31.34822857
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0QPeKvSoZ3",
+                "expanded_url": "https://twitter.com/i/web/status/1154013045053485056",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153999096648048641,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Wed Jul 24 12:03:19 +0000 2019",
+        "text": "@KenziTarek Go bus more safe y kenzo",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "KenziTarek",
+                "name": "KONOZ ..",
+                "id": 870609973,
+                "id_str": "870609973",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153987862192435200,
+        "user": "Yarareda121",
+        "user_location": " nasr city",
+        "date": "Wed Jul 24 11:18:41 +0000 2019",
+        "text": "Birthdays are getting sadder every year \ud83d\ude42 https://t.co/ZB4Myn4DPq",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/ZB4Myn4DPq",
+                "expanded_url": "https://twitter.com/hollyangeel/status/1153471441238671360",
+                "display_url": "twitter.com/hollyangeel/st\u2026",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153979360187211776,
+        "user": "abdallaabdelba2",
+        "user_location": "nasr city   ",
+        "date": "Wed Jul 24 10:44:54 +0000 2019",
+        "text": "Today is another chance to get better..",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153974525677232128,
+        "user": "MohanadElSawy",
+        "user_location": "Heliopolis, Egypt",
+        "date": "Wed Jul 24 10:25:41 +0000 2019",
+        "text": "@Turquoisedust_ Very relatable",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Turquoisedust_",
+                "name": "yara",
+                "id": 27234664,
+                "id_str": "27234664",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153972511304036353,
+        "user": "MennaElHoshy",
+        "user_location": "Nasr city - Egypt",
+        "date": "Wed Jul 24 10:17:41 +0000 2019",
+        "text": "6 years* ago \ud83d\ude05 https://t.co/0FR1J2EL1n",
+        "geo": null,
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/0FR1J2EL1n",
+                "expanded_url": "https://twitter.com/dead_inside_bot/status/1153877483558756352",
+                "display_url": "twitter.com/dead_inside_bo\u2026",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153947146284089344,
+        "user": "hhazzeem",
+        "user_location": "Heliopolis ,Egypt",
+        "date": "Wed Jul 24 08:36:53 +0000 2019",
+        "text": "I'm at a payphone trying to call home\nAll of my change I spent on you",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153944714812563457,
+        "user": "hhazzeem",
+        "user_location": "Heliopolis ,Egypt",
+        "date": "Wed Jul 24 08:27:13 +0000 2019",
+        "text": "@faouziaofficial Yea you do",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "faouziaofficial",
+                "name": "Faouzia",
+                "id": 2479152487,
+                "id_str": "2479152487",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153941463006420992,
+        "user": "abdo_teda",
+        "user_location": "ain shams",
+        "date": "Wed Jul 24 08:14:18 +0000 2019",
+        "text": "@ihascakes Someday i will visit norway",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "ihascakes",
+                "name": "Sunny\u2600\ufe0f",
+                "id": 1126205575,
+                "id_str": "1126205575",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153915621601632256,
+        "user": "Aliwael26",
+        "user_location": "Nasr city ",
+        "date": "Wed Jul 24 06:31:37 +0000 2019",
+        "text": "Any free invitations for yanni\u2019s concert? \ud83d\ude44",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153915283167256576,
+        "user": "deejay_amedeo",
+        "user_location": "egypt",
+        "date": "Wed Jul 24 06:30:16 +0000 2019",
+        "text": "congratulations my bro \u2764\ufe0f\ud83d\ude0d\ud83e\udd47\ud83d\udc4d\ud83c\udfbb(Middle East Music Awards) best violinist in Middle East #memadewardrobe\u2026 https://t.co/WK3dOumF89",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.12389369,
+                31.34822857
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/WK3dOumF89",
+                "expanded_url": "https://twitter.com/i/web/status/1153915283167256576",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    103,
+                    126
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153910700265398272,
+        "user": "Alagabany",
+        "user_location": "Cairo, Egypt.",
+        "date": "Wed Jul 24 06:12:04 +0000 2019",
+        "text": "My smile when I go to sachibythesea \nI N C R E D I B L E   M U S I C \ud83d\udd7a\ud83c\udffd\ud83d\udd7a\ud83c\udffd\ud83d\udd7a\ud83c\udffd\nA whole new internal decor and setup\nRe\u2026 https://t.co/CRNnvXs89T",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.06885255,
+                31.34497046
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/CRNnvXs89T",
+                "expanded_url": "https://twitter.com/i/web/status/1153910700265398272",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153884391371943937,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 04:27:31 +0000 2019",
+        "text": "@Griim06 @ramoalt @RoiMousti it's something you need to stop",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Griim06",
+                "name": "GriimYT",
+                "id": 745414370923003904,
+                "id_str": "745414370923003904",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "ramoalt",
+                "name": "Ramo",
+                "id": 844204011653947397,
+                "id_str": "844204011653947397",
+                "indices": [
+                    9,
+                    17
+                ]
+            },
+            {
+                "screen_name": "RoiMousti",
+                "name": "RoiMousti \ud83d\udd1c Dream Nation Festival",
+                "id": 889965419125231616,
+                "id_str": "889965419125231616",
+                "indices": [
+                    18,
+                    28
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153884251252756480,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 04:26:58 +0000 2019",
+        "text": "@SEA_yt_ @gooeyhere i wanna know more about the SCP",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "SEA_yt_",
+                "name": "Sam\ud83d\udc80",
+                "id": 1117474932622077953,
+                "id_str": "1117474932622077953",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "gooeyhere",
+                "name": "pocket medic gf",
+                "id": 932633567045222401,
+                "id_str": "932633567045222401",
+                "indices": [
+                    9,
+                    19
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153884202233995264,
+        "user": "EnderGD_Plays",
+        "user_location": "Florida, USA",
+        "date": "Wed Jul 24 04:26:46 +0000 2019",
+        "text": "RT @MindCap: Can't wait to enter the screamroom at Area51",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153883591358763009,
+        "user": "MindCap",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 04:24:20 +0000 2019",
+        "text": "i have finally found the funny https://t.co/oTzepORvzM",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153876837996617730,
+        "user": "eslam_m_lotfy",
+        "user_location": "Nasr city",
+        "date": "Wed Jul 24 03:57:30 +0000 2019",
+        "text": "@asmaaelmallah Whatever I said it won\u2019t be enough \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\ud83d\ude2d",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "asmaaelmallah",
+                "name": "Asmaa",
+                "id": 783639318,
+                "id_str": "783639318",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153830551742058496,
+        "user": "Hassaan_Hossam",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 00:53:35 +0000 2019",
+        "text": "@EbraHim_SamYa Samya feels like: \ud83d\ude02 https://t.co/F1dVeErjYA",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "EbraHim_SamYa",
+                "name": "\u0160 \u00eb K \u00f8 \u00d8 \ud83c\udfa7\ud83e\udd89\ud83d\ude08",
+                "id": 928331396803854336,
+                "id_str": "928331396803854336",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153827434921439232,
+        "user": "teo_b0",
+        "user_location": "Colombia",
+        "date": "Wed Jul 24 00:41:12 +0000 2019",
+        "text": "RT @MindCap: @PokeChatt i mean",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "MindCap",
+                "name": "and more",
+                "id": 906592874594291712,
+                "id_str": "906592874594291712",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "PokeChatt",
+                "name": "Useless God \ud83c\udff5\ufe0f",
+                "id": 841426770339459072,
+                "id_str": "841426770339459072",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153824543321944066,
+        "user": "shehabirl",
+        "user_location": "Nasr City",
+        "date": "Wed Jul 24 00:29:42 +0000 2019",
+        "text": "@Anas_She3sha3y Context?",
+        "geo": null,
+        "lang": "en",
+        "urls": [],
+        "mentions": [
+            {
+                "screen_name": "Anas_She3sha3y",
+                "name": "Anas She3sha3y",
+                "id": 1862137760,
+                "id_str": "1862137760",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    },
+    {
+        "id": 1153822633005178884,
+        "user": "F6oom2_",
+        "user_location": "ronaldo",
+        "date": "Wed Jul 24 00:22:07 +0000 2019",
+        "text": "I'm at Cairo International Airport - @cairoairport in Heliopolis, Cairo https://t.co/UKG1SsniNV",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                30.11702992,
+                31.3989687
+            ]
+        },
+        "lang": "en",
+        "urls": [
+            {
+                "url": "https://t.co/UKG1SsniNV",
+                "expanded_url": "https://www.swarmapp.com/c/ajZzYQCfc7d",
+                "display_url": "swarmapp.com/c/ajZzYQCfc7d",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "mentions": [
+            {
+                "screen_name": "CairoAirport",
+                "name": "CairoAirport",
+                "id": 260113029,
+                "id_str": "260113029",
+                "indices": [
+                    37,
+                    50
+                ]
+            }
+        ],
+        "region": "Heliopolis"
+    }
+]
