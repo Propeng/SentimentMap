@@ -8,6 +8,8 @@ from getTweets import collect
 from datetime import date, timedelta
 import datetime
 
+regions = ["New Cairo", "Dokki", "Heliopolis", "Abbaseya"]
+
 def filter_and_classify(tweets):
     # preprocess tweets
     filterTweets.filter(tweets)
@@ -51,7 +53,6 @@ def run_specific_dates_from_json(dates):
     filter_and_classify(new_tweets)
     
     # plot data
-    regions = ["New Cairo", "Dokki", "Heliopolis", "Abbasseya"]
     plot(new_tweets, regions)
 
     return new_tweets
@@ -104,6 +105,6 @@ df_old_plus_new = pd.read_pickle('./tweets.pkl')
 
 # load classified data from the day 10/07/19 in new Cairo and plot it
 dates = ["2019-07-10"]
-regions = ['New Cairo']
-specific = filterTweets.load_data(dates, regions )
-plot(specific, regions)
+specificRegions = ['New Cairo']
+specific = filterTweets.load_data(dates, specificRegions )
+plot(specific, specificRegions)
